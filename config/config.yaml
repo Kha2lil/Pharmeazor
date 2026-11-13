@@ -1,0 +1,20 @@
+# Configuration SANS secrets
+llm:
+  model: openai/gpt-oss-120b
+  max_tokens_per_call: 4000
+  min_interval_s: 2.5        # 30 req/min max
+  max_retries: 3
+  cache_dir: data/cache
+paths:
+  raw: data/raw
+  processed: data/processed
+  metadata: data/metadata
+  index: data/index
+  api_log: reports/appels_api_log.csv
+autorite:                    # niveau d'autorité (1 = plus fiable)
+  anpp: 1
+  nomenclature: 2
+  ansm: 3
+  dailymed: 3
+  ema: 3
+  sites_pro: 4

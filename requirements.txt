@@ -1,0 +1,24 @@
+# Appels API / config
+requests
+python-dotenv
+pyyaml
+# Collecte
+beautifulsoup4
+lxml
+# PDF / OCR
+pymupdf
+pdfplumber
+pytesseract
+# Normalisation
+rapidfuzz
+# Recherche
+rank-bm25
+sentence-transformers
+faiss-cpu
+# Données
+pandas
+openpyxl
+# Interface
+streamlit
+# Tests
+pytest

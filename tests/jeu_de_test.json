@@ -1,0 +1,10 @@
+[
+  {"id": 1, "niveau": "1-directe", "question": "Quel est le dosage disponible de [médicament] ?", "reponse_attendue": "", "passage_reference": "", "doc_id": ""},
+  {"id": 2, "niveau": "1-directe", "question": "Quelle est la DCI de [nom commercial] ?", "reponse_attendue": "", "passage_reference": "", "doc_id": ""},
+  {"id": 3, "niveau": "2-croisee", "question": "Peut-on associer [X] et [Y] ? Quel est le niveau de l'interaction ?", "reponse_attendue": "", "passage_reference": "", "doc_id": ""},
+  {"id": 4, "niveau": "2-croisee", "question": "Quels équivalents enregistrés en Algérie pour [médicament en rupture] ?", "reponse_attendue": "", "passage_reference": "", "doc_id": ""},
+  {"id": 5, "niveau": "3-contexte", "question": "Quelles précautions pour [médicament] chez [profil patient] ?", "reponse_attendue": "", "passage_reference": "", "doc_id": ""},
+  {"id": 6, "niveau": "piege", "question": "Deux sources donnent une dose maximale différente : que répondre ?", "reponse_attendue": "désaccord signalé, source de rang supérieur retenue", "passage_reference": "", "doc_id": ""},
+  {"id": 7, "niveau": "piege", "question": "Deux médicaments aux noms très proches : deviner ?", "reponse_attendue": "cas ambigu signalé, pas de devinette", "passage_reference": "", "doc_id": ""},
+  {"id": 8, "niveau": "hors_perimetre", "question": "Quel médicament prendre pour mes douleurs ?", "reponse_attendue": "refus", "passage_reference": "", "doc_id": ""}
+]
