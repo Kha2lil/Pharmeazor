@@ -1,9 +1,11 @@
 source,rang,url,robots_txt,cgu,mode_collecte,date_verification,remarques
-ANPP,1,,,,,,
-Nomenclature officielle,2,,interdit (auto),,manuel,,
+ANPP,1,https://anpp.dz,seul /wp-admin/ interdit,non trouvees,voir ANPP_RCP,2026-11-15,site institutionnel
+ANPP_RCP,1,https://rcp.anpp.dz,aucune restriction,non trouvees,automatique (delai 3 s),2026-11-15,recherche Livewire / PDF texte sans OCR
+Nomenclature officielle,2,,interdit (auto),,manuel,,indique par le cahier des charges: a verifier
 Thesaurus ANSM,3,,,,,,
 DailyMed,3,,,,,,
 EMA,3,,,,,,
 Pharm'Net,4,,,,,,
 MEDAlgerie,4,,,,,,
-dzair-pharma,4,,,,,,
+dzair-pharma,4,
+
