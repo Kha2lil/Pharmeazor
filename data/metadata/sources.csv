@@ -1,11 +1,41 @@
 source,rang,url,robots_txt,cgu,mode_collecte,date_verification,remarques
 ANPP,1,https://anpp.dz,seul /wp-admin/ interdit,non trouvees,voir ANPP_RCP,2026-11-15,site institutionnel
 ANPP_RCP,1,https://rcp.anpp.dz,aucune restriction,non trouvees,automatique (delai 3 s),2026-11-15,recherche Livewire / PDF texte sans OCR
-Nomenclature officielle,2,,interdit (auto),,manuel,,indique par le cahier des charges: a verifier
-Thesaurus ANSM,3,,,,,,
-DailyMed,3,,,,,,
-EMA,3,,,,,,
-Pharm'Net,4,,,,,,
-MEDAlgerie,4,,,,,,
-dzair-pharma,4,
+Nomenclature officielle,2,https://www.miph.gov.dz/fr/nomenclature-nationale-des-produits-pharmaceutiques/,interdit (auto),,manuel,2026-11-15,indique par le cahier des charges: a verifier
+Thesaurus ANSM,3,https://ansm.sante.fr/documents/reference/thesaurus-des-interactions-medicamenteuses-1,aucune restriction,"non trouvees",,2026-11-15,CGU non vérifiées a faire manuellement,
+DailyMed,3,https://dailymed.nlm.nih.gov/dailymed/,introuvable,non trouvees,,2026-11-15,Pas de robots.txt valide
+EMA,3,https://www.ema.europa.eu/fr/homepage,"seul /core/, /profiles/, /admin/, /search/, /user/ et chemins de connexion interdits",non trouvees,,2026-11-15,Drupal. Sitemap : sitemap.xml. Éviter /search/ et /user/.
+Pharm'Net,4,https://pharmnet-dz.com/,"Allow: / ; interdit : /administration, /admin-*, /mon-profil, /notifications, /tableau-de-bord, /connexion",non trouvees,,2026-11-15,Sitemap : sitemap.xml. Éviter les espaces privés et admin.
+MEDAlgerie,4,https://medal-dz.com/,introuvable,non trouvees,,2026-11-15,Pas de robots.txt. CGU à vérifier manuellement avant collecte
+dzair-pharma,4,https://www.dzair-pharma.net/,"Allow: / sauf /admin, /api/, /diff. Bloque tous les crawlers IA (GPTBot, ClaudeBot,CCBot, etc.)",non trouvees,non (crawlers IA bloqués),2026-11-15,Sitemap : sitemap-index.xml. Crawlers IA bloqués : ne pas collecter pour IA
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
