@@ -8,3 +8,4 @@
 - Particularités : recherche via une requête Livewire (POST /livewire/update) ; PDF avec vrai texte, pas d'OCR nécessaire
 - Décision : collecte automatique, délai de 3 s entre requêtes, uniquement les RCP des 40 médicaments de la liste
 - À signaler à l'enseignant : absence de CGU explicite
+- Précision : pour retrouver les 40 médicaments (la recherche par DCI étant peu fiable), on lit la liste des résultats (marque, DCI, laboratoire, lien) pour des lettres isolées ; seuls les PDF des 40 médicaments sont téléchargés.
