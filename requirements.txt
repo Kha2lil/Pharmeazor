@@ -13,8 +13,8 @@ pytesseract
 rapidfuzz
 # Recherche
 rank-bm25
-sentence-transformers
-faiss-cpu
+# sentence-transformers   (à activer en F4, ou exécuter dans Colab)
+# faiss-cpu               (à activer en F4)
 # Données
 pandas
 openpyxl
