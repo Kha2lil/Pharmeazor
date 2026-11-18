@@ -1,0 +1,15 @@
+User-agent: *
+Allow: /
+
+# Pas d'indexation des espaces privÃ©s / admin
+Disallow: /administration
+Disallow: /admin-utilisateurs
+Disallow: /admin-comptes
+Disallow: /admin-publicites
+Disallow: /admin-devis-labo
+Disallow: /mon-profil
+Disallow: /notifications
+Disallow: /tableau-de-bord
+Disallow: /connexion
+
+Sitemap: https://pharmnet-dz.com/sitemap.xml

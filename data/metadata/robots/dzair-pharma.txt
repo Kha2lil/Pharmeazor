@@ -1,0 +1,77 @@
+User-Agent: *
+Allow: /
+Disallow: /admin
+Disallow: /api/
+Disallow: /diff
+
+User-Agent: GPTBot
+Disallow: /
+
+User-Agent: ChatGPT-User
+Disallow: /
+
+User-Agent: OAI-SearchBot
+Disallow: /
+
+User-Agent: CCBot
+Disallow: /
+
+User-Agent: ClaudeBot
+Disallow: /
+
+User-Agent: Claude-Web
+Disallow: /
+
+User-Agent: anthropic-ai
+Disallow: /
+
+User-Agent: Google-Extended
+Disallow: /
+
+User-Agent: Applebot-Extended
+Disallow: /
+
+User-Agent: Meta-ExternalAgent
+Disallow: /
+
+User-Agent: Bytespider
+Disallow: /
+
+User-Agent: PerplexityBot
+Disallow: /
+
+User-Agent: YouBot
+Disallow: /
+
+User-Agent: cohere-ai
+Disallow: /
+
+User-Agent: Diffbot
+Disallow: /
+
+User-Agent: omgilibot
+Disallow: /
+
+User-Agent: Amazonbot
+Disallow: /
+
+User-Agent: PetalBot
+Disallow: /
+
+User-Agent: SemrushBot
+Disallow: /
+
+User-Agent: AhrefsBot
+Disallow: /
+
+User-Agent: MJ12bot
+Disallow: /
+
+User-Agent: DotBot
+Disallow: /
+
+User-Agent: DataForSeoBot
+Disallow: /
+
+Host: https://www.dzair-pharma.net
+Sitemap: https://www.dzair-pharma.net/sitemap-index.xml
