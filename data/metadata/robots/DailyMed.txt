@@ -403,7 +403,7 @@
             <div id="skip-main-content" tabindex="-1"></div>
             <div class="info">
                 <p>
-                    The DailyMed database contains <strong>158955</strong> labeling submitted to
+                    The DailyMed database contains <strong>158947</strong> labeling submitted to
                     the <strong>Food and Drug Administration (FDA)</strong> by companies.
                     DailyMed does not contain a complete listing of labeling for FDA-regulated products
                     (e.g., labeling that is not submitted to the FDA).
