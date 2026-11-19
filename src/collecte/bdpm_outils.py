@@ -94,3 +94,29 @@ def cis_correspondants(dci, catalogue):
     mot = norm(dci)
     return [m for m in catalogue
             if len(set(m["substances_norm"])) == 1 and mot in m["substances_norm"][0]]
+
+NOTICES = ROOT / "data" / "raw" / "notices_ansm"
+INDEX_NOTICES = NOTICES / "_index.csv"
+
+
+def extraire_notice(html):
+    """Retourne {'titre', 'texte', 'sections'} de la notice patient, ou None si absente."""
+    soup = BeautifulSoup(html, "lxml")
+    panel = soup.find(id="tabpanel-notice-panel")
+    if panel is None:
+        return None
+    texte = panel.get_text("\n", strip=True)
+    if len(texte) < 200:
+        return None
+    h = soup.find("h3")
+    sections, cle, buf = {}, "intro", []
+    for ligne in texte.splitlines():
+        m = re.match(r"^(\d{1,2})\.\s+(.{5,})$", ligne)
+        if m:
+            sections[cle] = "\n".join(buf).strip()
+            cle, buf = m.group(1), [ligne]
+        else:
+            buf.append(ligne)
+    sections[cle] = "\n".join(buf).strip()
+    return {"titre": h.get_text(" ", strip=True) if h else "",
+            "texte": texte, "sections": sections}
