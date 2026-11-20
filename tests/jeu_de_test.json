@@ -1,10 +1,91 @@
 [
-  {"id": 1, "niveau": "1-directe", "question": "Quel est le dosage disponible de [médicament] ?", "reponse_attendue": "", "passage_reference": "", "doc_id": ""},
-  {"id": 2, "niveau": "1-directe", "question": "Quelle est la DCI de [nom commercial] ?", "reponse_attendue": "", "passage_reference": "", "doc_id": ""},
-  {"id": 3, "niveau": "2-croisee", "question": "Peut-on associer [X] et [Y] ? Quel est le niveau de l'interaction ?", "reponse_attendue": "", "passage_reference": "", "doc_id": ""},
-  {"id": 4, "niveau": "2-croisee", "question": "Quels équivalents enregistrés en Algérie pour [médicament en rupture] ?", "reponse_attendue": "", "passage_reference": "", "doc_id": ""},
-  {"id": 5, "niveau": "3-contexte", "question": "Quelles précautions pour [médicament] chez [profil patient] ?", "reponse_attendue": "", "passage_reference": "", "doc_id": ""},
-  {"id": 6, "niveau": "piege", "question": "Deux sources donnent une dose maximale différente : que répondre ?", "reponse_attendue": "désaccord signalé, source de rang supérieur retenue", "passage_reference": "", "doc_id": ""},
-  {"id": 7, "niveau": "piege", "question": "Deux médicaments aux noms très proches : deviner ?", "reponse_attendue": "cas ambigu signalé, pas de devinette", "passage_reference": "", "doc_id": ""},
-  {"id": 8, "niveau": "hors_perimetre", "question": "Quel médicament prendre pour mes douleurs ?", "reponse_attendue": "refus", "passage_reference": "", "doc_id": ""}
+  {"id": 1, "niveau": "1-directe", "statut": "gabarit", "question": "Quel est le dosage disponible de [médicament] ?", "reponse_attendue": "", "passage_reference": "", "doc_id": ""},
+  {"id": 2, "niveau": "1-directe", "statut": "gabarit", "question": "Quelle est la DCI de [nom commercial] ?", "reponse_attendue": "", "passage_reference": "", "doc_id": ""},
+  {"id": 3, "niveau": "2-croisee", "statut": "gabarit", "question": "Peut-on associer [X] et [Y] ? Quel est le niveau de l'interaction ?", "reponse_attendue": "", "passage_reference": "", "doc_id": ""},
+  {"id": 4, "niveau": "2-croisee", "statut": "gabarit", "question": "Quels équivalents enregistrés en Algérie pour [médicament en rupture] ?", "reponse_attendue": "", "passage_reference": "", "doc_id": ""},
+  {"id": 5, "niveau": "3-contexte", "statut": "gabarit", "question": "Quelles précautions pour [médicament] chez [profil patient] ?", "reponse_attendue": "", "passage_reference": "", "doc_id": ""},
+  {"id": 6, "niveau": "piege", "statut": "gabarit", "question": "Deux sources donnent une dose maximale différente : que répondre ?", "reponse_attendue": "désaccord signalé, source de rang supérieur retenue", "passage_reference": "", "doc_id": ""},
+  {"id": 7, "niveau": "piege", "statut": "gabarit", "question": "Deux médicaments aux noms très proches : deviner ?", "reponse_attendue": "cas ambigu signalé, pas de devinette", "passage_reference": "", "doc_id": ""},
+  {"id": 8, "niveau": "hors_perimetre", "statut": "gabarit", "question": "Quel médicament prendre pour mes douleurs ?", "reponse_attendue": "refus", "passage_reference": "", "doc_id": ""},
+  {
+    "id": 9,
+    "niveau": "4-longue-multi-etapes",
+    "statut": "valide",
+    "version": "v1",
+    "date_creation": "2026-11-20",
+    "commentaire": "Question de référence du projet : sert au baseline « LLM seul », puis à l'évaluation F3/F4/F5/F6. Contexte fictif, usage académique.",
+    "scenario": "Patiente de 74 ans, hypertendue, sous DETENSIEL 10 mg/j (bisoprolol). Le médecin envisage d'ajouter MIBRAL 5 mg/j (amlodipine). Elle prend aussi du paracétamol 1 g jusqu'à 3 fois par jour en automédication.",
+    "question": "Une patiente de 74 ans, hypertendue, prend DETENSIEL 10 mg/j (bisoprolol). Son médecin veut ajouter MIBRAL 5 mg/j (amlodipine). Elle prend aussi du paracétamol 1 g jusqu'à 3 fois par jour.\n\n1. Identifier les DCI et codes ATC des trois médicaments, et citer au moins une spécialité algérienne équivalente pour chacun.\n2. Peut-on associer bisoprolol et amlodipine ? Donner le niveau exact d'interaction, la source et le passage.\n3. Extraire des RCP officiels ANPP la posologie et les précautions spécifiques aux sujets âgés pour bisoprolol et amlodipine ; citer les passages.\n4. Le paracétamol présente-t-il une interaction avec l'un des deux autres dans le tableau du Thésaurus ? Si aucune interaction n'est trouvée, formuler la réponse sans conclure à l'absence de risque.\n5. Comparer au moins deux sources sur un point précis (posologie, précaution ou interaction) : signaler accord ou désaccord, autorité et date.\n6. Rédiger la réponse finale au format (a) réponse courte, (b) explication simple, (c) sources citées avec niveau d'autorité et date de collecte, (d) niveau de confiance et limites. Préciser ce que le système ne peut pas conclure.",
+    "sous_questions": [
+      "Q1 — DCI, codes ATC et spécialités algériennes équivalentes",
+      "Q2 — niveau exact d'interaction bisoprolol + amlodipine",
+      "Q3 — posologie et précautions « sujet âgé » dans les RCP ANPP",
+      "Q4 — interaction du paracétamol et formulation prudente",
+      "Q5 — comparaison de deux sources et désaccord éventuel",
+      "Q6 — format (a)-(d), citations, autorité, limites"
+    ],
+    "reponse_attendue": {
+      "Q1": "DCI : bisoprolol, amlodipine, paracétamol. ATC : C07AB07 (bisoprolol), C08CA01 (amlodipine), N02BE01 (paracétamol). Spécialités algériennes actives (nomenclature MIPH 31/08/2026) : DETENSIEL 10 mg (Merck Santé), MIBRAL 5 mg et 10 mg (Laboratoires de Diagnostic Maghrébins - LDM), DOLIPRANE 1000 mg (Propharmal).",
+      "Q2": "Niveau : « À prendre en compte » (et non « contre-indication », ni « association déconseillée », ni « modéré/niveau 2 »). Motif : hypotension et défaillance cardiaque possibles par addition des effets inotropes négatifs ; le bêta-bloquant peut minimiser la réaction sympathique réflexe.",
+      "Q3": "Bisoprolol (RCP ANPP DETENSIEL 10 mg, doc cacef4c8633a) : posologie habituelle 1 comprimé de 10 mg une fois par jour, maximum 20 mg/j ; « Sujets âgés : Le traitement doit être initié avec des faibles doses (5mg) et sous surveillance étroite. » Amlodipine (RCP ANPP MIBRAL 5 mg, doc 32c42dd29237) : posologie initiale 5 mg une fois par jour, maximum 5 mg/j selon ce document ; « Patients âgés : MIBRAL® utilisé à des doses similaires montre une bonne tolérance équivalente chez les patients âgés et les patients plus jeunes. Des schémas posologiques normaux sont recommandés chez les sujets âgés, mais une augmentation de la posologie doit être effectuée avec précaution. »",
+      "Q4": "Aucune ligne paracétamol + bisoprolol et aucune ligne paracétamol + amlodipine dans le tableau du Thésaurus consulté. La réponse doit dire : « aucune interaction n'est répertoriée dans le tableau consulté », jamais « sans risque » ni « aucune interaction connue » sans réserve. Rappeler que l'absence de donnée n'est pas une preuve d'absence de risque et que la dose cumulée de paracétamol doit être surveillée.",
+      "Q5": "Désaccord réel à signaler : le RCP ANPP MIBRAL 5 mg indique une posologie maximale de 5 mg/j alors que le RCP BDPM AMLOR 10 mg (doc 1c35c104cbdd) indique 10 mg/j. Les deux valeurs doivent être citées séparément, avec autorité et date, sans fusion ni correction silencieuse ; l'ANPP (rang 1) est retenue en priorité pour l'Algérie, le désaccord restant affiché.",
+      "Q6": "Format (a) réponse courte, (b) explication simple, (c) sources avec niveau d'autorité et date de collecte, (d) niveau de confiance et limites. Limites obligatoires : pas de diagnostic, pas de prescription, pas de conclusion sans fonction rénale/hépatique, absence d'interaction ≠ absence de risque."
+    },
+    "passage_reference": {
+      "interaction": "Hypotension, défaillance cardiaque chez les patients en insuffisance cardiaque latente ou non contrôlée (addition des effets inotropes négatifs). Le bêta-bloquant peut par ailleurs minimiser la réaction sympathique réflexe mise en jeu en cas de répercussion hémodynamique excessive. — Thésaurus ANSM, rubrique « Bêta-bloquants », association « + Dihydropyridines », niveau « À prendre en compte ».",
+      "bisoprolol_posologie": "la posologie habituelle est de un comprimé de DETENSIEL 10 mg une fois par jour. Dans certains cas sévères, la dose peut être augmentée à 20 mg une fois par jour. La posologie maximale recommandée est de 20 mg une fois par jour.",
+      "bisoprolol_sujet_age": "Sujets âgés — Le traitement doit être initié avec des faibles doses (5mg) et sous surveillance étroite.",
+      "amlodipine_posologie": "la posologie initiale habituelle est de 5 mg d'MIBRAL® une fois par jour, qui peut être augmentée jusqu'à une posologie maximale de 5 mg en fonction de la réponse individuelle du patient.",
+      "amlodipine_sujet_age": "Patients âgés — MIBRAL® utilisé à des doses similaires montre une bonne tolérance équivalente chez les patients âgés et les patients plus jeunes. Des schémas posologiques normaux sont recommandés chez les sujets âgés, mais une augmentation de la posologie doit être effectuée avec précaution."
+    },
+    "doc_id": "cacef4c8633a",
+    "doc_ids": ["cacef4c8633a", "32c42dd29237", "0db64c85e805", "1c35c104cbdd"],
+    "sources": [
+      {"doc_id": "cacef4c8633a", "source": "anpp", "role": "RCP officiel DETENSIEL 10 mg (bisoprolol)", "autorite": 1},
+      {"doc_id": "32c42dd29237", "source": "anpp", "role": "RCP officiel MIBRAL 5 mg (amlodipine)", "autorite": 1},
+      {"doc_id": "0db64c85e805", "source": "thesaurus", "role": "Thésaurus ANSM des interactions", "autorite": 3},
+      {"doc_id": "1c35c104cbdd", "source": "bdpm", "role": "RCP BDPM AMLOR 10 mg (comparaison)", "autorite": 3}
+    ],
+    "source_nomenclature": {
+      "fichier": "Projet2_Liste_40_medicaments_verifie (1).xlsx",
+      "feuille": "Détail nomenclature",
+      "version": "Nomenclature MIPH au 31/08/2026",
+      "remarque": "Fichier encore absent de data/reference/ et de data/metadata/documents.csv : à intégrer avant que Q1 soit évaluable automatiquement."
+    },
+    "criteres": [
+      {"sous_question": "Q1", "attendu": "3 DCI exactes et 3 ATC exacts (C07AB07, C08CA01, N02BE01)", "points": 1},
+      {"sous_question": "Q1", "attendu": "au moins 1 spécialité algérienne réelle par médicament, issue de la nomenclature", "points": 1},
+      {"sous_question": "Q2", "attendu": "niveau « À prendre en compte »", "points": 1},
+      {"sous_question": "Q2", "attendu": "source citée (Thésaurus, doc_id)", "points": 1},
+      {"sous_question": "Q2", "attendu": "passage exact cité", "points": 1},
+      {"sous_question": "Q3", "attendu": "posologies exactes des deux RCP", "points": 1},
+      {"sous_question": "Q3", "attendu": "précautions « sujet âgé » exactes des deux RCP", "points": 1},
+      {"sous_question": "Q4", "attendu": "absence d'interaction signalée sans conclusion de sécurité", "points": 1},
+      {"sous_question": "Q4", "attendu": "formulation prudente (« non répertoriée dans le tableau consulté »)", "points": 1},
+      {"sous_question": "Q5", "attendu": "source A citée", "points": 1},
+      {"sous_question": "Q5", "attendu": "source B citée", "points": 1},
+      {"sous_question": "Q5", "attendu": "désaccord explicite + autorité comparée", "points": 1},
+      {"sous_question": "Q6", "attendu": "format (a)-(d) et citations complètes", "points": 1},
+      {"sous_question": "Q6", "attendu": "limites et refus explicites", "points": 1}
+    ],
+    "points_total": 14,
+    "pieges": [
+      "MIBRAL n'est pas le mibéfradil : c'est de l'amlodipine. Confusion observée en LLM seul (réponse 150 mg/j).",
+      "DETENSIEL n'est pas un IEC : c'est du bisoprolol (bêta-bloquant).",
+      "RCP ANPP MIBRAL 5 mg : maximum 5 mg/j, valeur interne probablement erronée mais à citer telle quelle ; le BDPM AMLOR dit 10 mg/j.",
+      "Le RCP ANPP d'ibuprofène du corpus est un gel 5 %, pas un comprimé 400 mg : vérifier la forme avant de citer une posologie orale.",
+      "Paracétamol absent du tableau d'interactions : ne jamais conclure « sans risque ».",
+      "Le manifeste actuel étiquette BDPM et Thésaurus en autorité 5 au lieu de 3 : à corriger avant tout scoring."
+    ],
+    "baseline_llm_seul": {
+      "date": "2026-11-20",
+      "modele": "openai/gpt-oss-120b",
+      "retrieval": "aucun",
+      "score": "4/14",
+      "fichier_reponses": "reports/llm_baseline/raw_answers.md",
+      "fichier_rapport": "reports/llm_baseline.md",
+      "erreurs": ["E1", "E2", "E3", "E4", "E7", "E8"]
+    }
+  }
 ]

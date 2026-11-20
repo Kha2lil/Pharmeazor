@@ -1,4 +1,5 @@
 date,membre,appels,objet
-2026-11-15T01:46:04,,1,test_groq
-2026-11-15T01:46:26,,1,test_groq
-2026-11-15T01:46:30,,1,test_groq
+2026-11-20T06:17:45,,1,llm_baseline_L1
+2026-11-20T06:17:48,,1,llm_baseline_P1
+2026-11-20T06:17:52,,1,llm_baseline_P2
+2026-11-20T06:17:55,,1,llm_baseline_P3
