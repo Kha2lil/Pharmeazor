@@ -1,1 +1,1036 @@
-alias,dci,atc,type
+alias,dci,atc,type,classe,classe_thesaurus,statut,forme,dosage,marque
+paracétamol,paracétamol,N02BE01,dci,Antalgiques et anti-inflammatoires,,oui,,,
+ibuprofène,ibuprofène,M01AE01,dci,Antalgiques et anti-inflammatoires,ANTI-INFLAMMATOIRES NON STEROIDIENS,oui,,,
+diclofénac,diclofénac,M01AB05,dci,Antalgiques et anti-inflammatoires,ANTI-INFLAMMATOIRES NON STEROIDIENS,oui,,,
+kétoprofène,kétoprofène,M01AE03,dci,Antalgiques et anti-inflammatoires,ANTI-INFLAMMATOIRES NON STEROIDIENS,oui,,,
+naproxène,naproxène,M01AE02,dci,Antalgiques et anti-inflammatoires,ANTI-INFLAMMATOIRES NON STEROIDIENS,oui,,,
+acide acétylsalicylique,acide acétylsalicylique,N02BA01,dci,Antalgiques et anti-inflammatoires,,oui,,,
+méloxicam,méloxicam,M01AC06,dci,Antalgiques et anti-inflammatoires,ANTI-INFLAMMATOIRES NON STEROIDIENS,oui,,,
+piroxicam,piroxicam,M01AC01,dci,Antalgiques et anti-inflammatoires,ANTI-INFLAMMATOIRES NON STEROIDIENS,oui,,,
+célécoxib,célécoxib,M01AH01,dci,Antalgiques et anti-inflammatoires,ANTI-INFLAMMATOIRES NON STEROIDIENS,oui,,,
+tramadol,tramadol,N02AX02,dci,Antalgiques et anti-inflammatoires,ANALGESIQUES MORPHINIQUES AGONISTES,oui,,,
+paracétamol + codéine,paracétamol + codéine,N02AA59,dci,Antalgiques et anti-inflammatoires,,oui,,,
+néfopam,néfopam,N02BG06,dci,Antalgiques et anti-inflammatoires,,oui,,,
+amoxicilline,amoxicilline,J01CA04,dci,Antibiotiques,,oui,,,
+amoxicilline + acide clavulanique,amoxicilline + acide clavulanique,J01CR02,dci,Antibiotiques,,oui,,,
+céfixime,céfixime,J01DD08,dci,Antibiotiques,,oui,,,
+céfuroxime,céfuroxime,J01DC02,dci,Antibiotiques,,oui,,,
+ceftriaxone,ceftriaxone,J01DD04,dci,Antibiotiques,,oui,,,
+azithromycine,azithromycine,J01FA10,dci,Antibiotiques,,oui,,,
+clarithromycine,clarithromycine,J01FA09,dci,Antibiotiques,,oui,,,
+ciprofloxacine,ciprofloxacine,J01MA02,dci,Antibiotiques,,oui,,,
+lévofloxacine,lévofloxacine,J01MA12,dci,Antibiotiques,,oui,,,
+doxycycline,doxycycline,J01AA02,dci,Antibiotiques,,oui,,,
+cotrimoxazole (sulfaméthoxazole + triméthoprime),cotrimoxazole (sulfaméthoxazole + triméthoprime),J01EE01,dci,Antibiotiques,,oui,,,
+métronidazole,métronidazole,J01XD01,dci,Antibiotiques,,oui,,,
+gentamicine,gentamicine,J01GB03,dci,Antibiotiques,,oui,,,
+clindamycine,clindamycine,J01FF01,dci,Antibiotiques,,oui,,,
+amlodipine,amlodipine,C08CA01,dci,Antihypertenseurs,DIHYDROPYRIDINES; MEDICAMENTS ABAISSANT LA PRESSION ARTERIELLE,oui,,,
+nifédipine,nifédipine,C08CA05,dci,Antihypertenseurs,DIHYDROPYRIDINES; MEDICAMENTS ABAISSANT LA PRESSION ARTERIELLE,non,,,
+périndopril,périndopril,C09AA04,dci,Antihypertenseurs,MEDICAMENTS A L'ORIGINE D'UNE HYPOTENSION ORTHOSTATIQUE,oui,,,
+ramipril,ramipril,C09AA05,dci,Antihypertenseurs,MEDICAMENTS ABAISSANT LA PRESSION ARTERIELLE,oui,,,
+énalapril,énalapril,C09AA02,dci,Antihypertenseurs,MEDICAMENTS ABAISSANT LA PRESSION ARTERIELLE,oui,,,
+losartan,losartan,C09CA01,dci,Antihypertenseurs,MEDICAMENTS ABAISSANT LA PRESSION ARTERIELLE,oui,,,
+valsartan,valsartan,C09CA03,dci,Antihypertenseurs,MEDICAMENTS ABAISSANT LA PRESSION ARTERIELLE,oui,,,
+bisoprolol,bisoprolol,C07AB07,dci,Antihypertenseurs,BETA-BLOQUANTS DANS L'INSUFFISANCE CARDIAQUE; MEDICAMENTS ABAISSANT LA PRESSION ARTERIELLE,oui,,,
+aténolol,aténolol,C07AB03,dci,Antihypertenseurs,MEDICAMENTS ABAISSANT LA PRESSION ARTERIELLE,oui,,,
+nébivolol,nébivolol,C07AB12,dci,Antihypertenseurs,BETA-BLOQUANTS DANS L'INSUFFISANCE CARDIAQUE; MEDICAMENTS ABAISSANT LA PRESSION ARTERIELLE,oui,,,
+hydrochlorothiazide,hydrochlorothiazide,C03AA03,dci,Antihypertenseurs,DIURETIQUES; DIURETIQUES HYPOKALIEMIANTS; MEDICAMENTS ABAISSANT LA PRESSION ARTERIELLE,non,,,
+indapamide,indapamide,C03BA11,dci,Antihypertenseurs,DIURETIQUES; DIURETIQUES HYPOKALIEMIANTS; MEDICAMENTS ABAISSANT LA PRESSION ARTERIELLE,oui,,,
+spironolactone,spironolactone,C03DA01,dci,Antihypertenseurs,DIURETIQUES; DIURETIQUES EPARGNEURS DE POTASSIUM (SEULS OU ASSOCIES); MEDICAMENTS ABAISSANT LA PRESSION ARTERIELLE,oui,,,
+méthyldopa,méthyldopa,C02AB01,dci,Antihypertenseurs,MEDICAMENTS ABAISSANT LA PRESSION ARTERIELLE,oui,,,
+DOLI-BIEN,paracétamol,N02BE01,marque,Antalgiques et anti-inflammatoires,,active,COMPRIME,500MG,DOLI-BIEN
+DOLYC,paracétamol,N02BE01,marque,Antalgiques et anti-inflammatoires,,active,COMPRIME,500MG,DOLYC
+EFFERALGAN,paracétamol,N02BE01,marque,Antalgiques et anti-inflammatoires,,active,COMPRIME SECABLE,500MG,EFFERALGAN
+EXPANDOL,paracétamol,N02BE01,marque,Antalgiques et anti-inflammatoires,,active,COMPRIME SECABLE,500MG,EXPANDOL
+MIGRAMOL,paracétamol,N02BE01,marque,Antalgiques et anti-inflammatoires,,active,COMPRIME SECABLE,500MG,MIGRAMOL
+PARACETAL,paracétamol,N02BE01,marque,Antalgiques et anti-inflammatoires,,active,COMPRIME,500MG,PARACETAL
+PARACETAMOL PHYSIOPHARM,paracétamol,N02BE01,marque,Antalgiques et anti-inflammatoires,,active,COMPRIME,500MG,PARACETAMOL PHYSIOPHARM
+ROSADOL,paracétamol,N02BE01,marque,Antalgiques et anti-inflammatoires,,active,COMPRIME,500MG,ROSADOL
+ANTALGAN,paracétamol,N02BE01,marque,Antalgiques et anti-inflammatoires,,active,COMPRIME,500MG,ANTALGAN
+PARALGAN,paracétamol,N02BE01,marque,Antalgiques et anti-inflammatoires,,active,COMPRIME,500MG,PARALGAN
+ISOMOL,paracétamol,N02BE01,marque,Antalgiques et anti-inflammatoires,,active,SOLUTION BUVABLE,100MG/5ML,ISOMOL
+SAPRAMOL,paracétamol,N02BE01,marque,Antalgiques et anti-inflammatoires,,active,POUDRE POUR SOLUTION BUVABLE EN SACHET DOSE,100MG,SAPRAMOL
+DOLIPRANE,paracétamol,N02BE01,marque,Antalgiques et anti-inflammatoires,,active,SUPPOSITOIRE,100MG,DOLIPRANE
+DOLYMEX,paracétamol,N02BE01,marque,Antalgiques et anti-inflammatoires,,active,SUPPOSITOIRE,100MG,DOLYMEX
+PARACETAMOL DBF,paracétamol,N02BE01,marque,Antalgiques et anti-inflammatoires,,active,SUPPOSITOIRE,100MG,PARACETAMOL DBF
+PAROL,paracétamol,N02BE01,marque,Antalgiques et anti-inflammatoires,,active,SUPPOSITOIRE,100MG,PAROL
+SUPPFADOL 100,paracétamol,N02BE01,marque,Antalgiques et anti-inflammatoires,,active,SUPPOSITOIRE,100MG,SUPPFADOL 100
+SUPPFADOL 150,paracétamol,N02BE01,marque,Antalgiques et anti-inflammatoires,,active,SUPPOSITOIRE,150MG,SUPPFADOL 150
+SUPPFADOL 200,paracétamol,N02BE01,marque,Antalgiques et anti-inflammatoires,,active,SUPPOSITOIRE,200MG,SUPPFADOL 200
+SUPPFADOL 300,paracétamol,N02BE01,marque,Antalgiques et anti-inflammatoires,,active,SUPPOSITOIRE,300MG,SUPPFADOL 300
+PARACETAMOL BIOCARE,paracétamol,N02BE01,marque,Antalgiques et anti-inflammatoires,,active,POUDRE POUR SOLUTION BUVABLE EN SACHET DOSE,150MG,PARACETAMOL BIOCARE
+PLANADIX,paracétamol,N02BE01,marque,Antalgiques et anti-inflammatoires,,active,POUDRE POUR SOLUTION BUVABLE EN SACHET DOSE,300 MG,PLANADIX
+ACETADOL,paracétamol,N02BE01,marque,Antalgiques et anti-inflammatoires,,active,SOLUTION BUVABLE,"0,03",ACETADOL
+DOLPRIV,paracétamol,N02BE01,marque,Antalgiques et anti-inflammatoires,,active,SOLUTION BUVABLE,"0,03",DOLPRIV
+EFFERALGAN PEDIATRIQUE,paracétamol,N02BE01,marque,Antalgiques et anti-inflammatoires,,active,SOLUTION BUVABLE,"0,03",EFFERALGAN PEDIATRIQUE
+PEDIAMOL,paracétamol,N02BE01,marque,Antalgiques et anti-inflammatoires,,active,SOLUTION BUVABLE,"0,03",PEDIAMOL
+PARACETAMOL PHARMAGHREB,paracétamol,N02BE01,marque,Antalgiques et anti-inflammatoires,,active,SOLUTION INJECTABLE. P. PERF. IV.,10MG/ML (500MG/50ML) (1000MG/100ML),PARACETAMOL PHARMAGHREB
+PERMIDOL,paracétamol,N02BE01,marque,Antalgiques et anti-inflammatoires,,active,SOLUTION INJECTABLE. P. PERF. IV.,10MG/ML,PERMIDOL
+DOLIDOL FLASH,paracétamol,N02BE01,marque,Antalgiques et anti-inflammatoires,,active,COMPRIME EFFERVESSANT,1G,DOLIDOL FLASH
+PANADOL 1G,paracétamol,N02BE01,marque,Antalgiques et anti-inflammatoires,,active,COMPRIME PELLICULE SECABLE,1000MG,PANADOL 1G
+PARACETOL,paracétamol,N02BE01,marque,Antalgiques et anti-inflammatoires,,active,COMPRIME SECABLE,1000MG,PARACETOL
+PARAMOL,paracétamol,N02BE01,marque,Antalgiques et anti-inflammatoires,,active,COMPRIME SECABLE,1000MG,PARAMOL
+SUPPFADOL 170,paracétamol,N02BE01,marque,Antalgiques et anti-inflammatoires,,active,SUPPOSITOIRE,170MG,SUPPFADOL 170
+DOLIBON,paracétamol,N02BE01,marque,Antalgiques et anti-inflammatoires,,active,SUSPENSION BUVABLE,"120MG/5ML (2,4G/100ML)",DOLIBON
+"DOLIPRANE 2,4%",paracétamol,N02BE01,marque,Antalgiques et anti-inflammatoires,,active,SUSPENSION BUVABLE,"120MG/5ML (2,4G/100ML)","DOLIPRANE 2,4%"
+MIGRAMOL PEDIATRIQUE,paracétamol,N02BE01,marque,Antalgiques et anti-inflammatoires,,active,SUSPENSION BUVABLE,"120MG/5ML (2,4G/100ML)",MIGRAMOL PEDIATRIQUE
+PLANADIX LIQUIZ,paracétamol,N02BE01,marque,Antalgiques et anti-inflammatoires,,active,SUS BUV EN STICK UNIDOSE,200MG/STICK,PLANADIX LIQUIZ
+DOLICRANE,paracétamol,N02BE01,marque,Antalgiques et anti-inflammatoires,,non_renouvele,COMPRIME,500MG,DOLICRANE
+GEMAL,paracétamol,N02BE01,marque,Antalgiques et anti-inflammatoires,,non_renouvele,COMPRIME,500MG,GEMAL
+PACET,paracétamol,N02BE01,marque,Antalgiques et anti-inflammatoires,,non_renouvele,COMPRIME,500MG,PACET
+TYLENOL,paracétamol,N02BE01,marque,Antalgiques et anti-inflammatoires,,non_renouvele,COMPRIME SECABLE,500MG,TYLENOL
+DOFEBRIL,paracétamol,N02BE01,marque,Antalgiques et anti-inflammatoires,,non_renouvele,COMPRIME SECABLE,500MG,DOFEBRIL
+PARACETAMOL IVAL,paracétamol,N02BE01,marque,Antalgiques et anti-inflammatoires,,non_renouvele,COMPRIME,500MG,PARACETAMOL IVAL
+CETALGINE,paracétamol,N02BE01,marque,Antalgiques et anti-inflammatoires,,non_renouvele,SUPPO.,100MG,CETALGINE
+PANADOL,paracétamol,N02BE01,marque,Antalgiques et anti-inflammatoires,,non_renouvele,COMP.EFFER.,500MG,PANADOL
+DIALAMOL,paracétamol,N02BE01,marque,Antalgiques et anti-inflammatoires,,non_renouvele,GLES.,500MG,DIALAMOL
+ALGIMOL ENFANT,paracétamol,N02BE01,marque,Antalgiques et anti-inflammatoires,,non_renouvele,SUPPO.,200MG,ALGIMOL ENFANT
+ALGIMOL-PEDIATRIQUE,paracétamol,N02BE01,marque,Antalgiques et anti-inflammatoires,,non_renouvele,SOL. BUV.,0.03,ALGIMOL-PEDIATRIQUE
+DOLOMOL,paracétamol,N02BE01,marque,Antalgiques et anti-inflammatoires,,non_renouvele,SUSP. BUV.,250MG/5ML,DOLOMOL
+ALGIMOL,paracétamol,N02BE01,marque,Antalgiques et anti-inflammatoires,,non_renouvele,SUPPO.,170MG,ALGIMOL
+SUPPFADOL,paracétamol,N02BE01,marque,Antalgiques et anti-inflammatoires,,non_renouvele,SUPPO.,80MG,SUPPFADOL
+ANTIDOL,paracétamol,N02BE01,marque,Antalgiques et anti-inflammatoires,,retire,COMP.,500MG,ANTIDOL
+CETAMYL,paracétamol,N02BE01,marque,Antalgiques et anti-inflammatoires,,retire,COMP.,500MG,CETAMYL
+DANIPROL,paracétamol,N02BE01,marque,Antalgiques et anti-inflammatoires,,retire,COMP.,500MG,DANIPROL
+DOLOROL,paracétamol,N02BE01,marque,Antalgiques et anti-inflammatoires,,retire,COMP.,500MG,DOLOROL
+JOPAMOL,paracétamol,N02BE01,marque,Antalgiques et anti-inflammatoires,,retire,COMP.,500MG,JOPAMOL
+PARACETAMOL,paracétamol,N02BE01,marque,Antalgiques et anti-inflammatoires,,retire,COMP.,500MG,PARACETAMOL
+PRALGIR,paracétamol,N02BE01,marque,Antalgiques et anti-inflammatoires,,retire,COMP.,500MG,PRALGIR
+POLIDOL,paracétamol,N02BE01,marque,Antalgiques et anti-inflammatoires,,retire,COMP. SEC.,500MG,POLIDOL
+DOLIGEN,paracétamol,N02BE01,marque,Antalgiques et anti-inflammatoires,,retire,COMP,500MG,DOLIGEN
+ALPHAMOL,paracétamol,N02BE01,marque,Antalgiques et anti-inflammatoires,,retire,COMP.,500MG,ALPHAMOL
+ANTAMOL,paracétamol,N02BE01,marque,Antalgiques et anti-inflammatoires,,retire,COMP.,500MG,ANTAMOL
+CETAPRANE,paracétamol,N02BE01,marque,Antalgiques et anti-inflammatoires,,retire,COMP.,500MG,CETAPRANE
+PYRATOL,paracétamol,N02BE01,marque,Antalgiques et anti-inflammatoires,,retire,COMP.,500MG,PYRATOL
+FEVADOL,paracétamol,N02BE01,marque,Antalgiques et anti-inflammatoires,,retire,COMP.,500MG,FEVADOL
+REVANIN,paracétamol,N02BE01,marque,Antalgiques et anti-inflammatoires,,retire,COMP.,500MG,REVANIN
+ASITAMOL,paracétamol,N02BE01,marque,Antalgiques et anti-inflammatoires,,retire,COMP.,500MG,ASITAMOL
+SEDAMOL,paracétamol,N02BE01,marque,Antalgiques et anti-inflammatoires,,retire,COMP. SEC.,500MG,SEDAMOL
+PARACETAMOL ELEXIR SAD,paracétamol,N02BE01,marque,Antalgiques et anti-inflammatoires,,retire,SIROP,120MG,PARACETAMOL ELEXIR SAD
+PARACETAMOL PEDIATRIQUE,paracétamol,N02BE01,marque,Antalgiques et anti-inflammatoires,,retire,SOL .BUV.,120MG/5ML,PARACETAMOL PEDIATRIQUE
+PYREMOL,paracétamol,N02BE01,marque,Antalgiques et anti-inflammatoires,,retire,SOL. BUV.,150MG,PYREMOL
+TYLENOL JEUNE ENFANT GOÛT BANANE,paracétamol,N02BE01,marque,Antalgiques et anti-inflammatoires,,retire,SUSP. BUV.,125MG/5ML,TYLENOL JEUNE ENFANT GOÛT BANANE
+DOLIPRANE JEUNE ENFANT,paracétamol,N02BE01,marque,Antalgiques et anti-inflammatoires,,retire,SUPPO.,170MG,DOLIPRANE JEUNE ENFANT
+PAMOL,paracétamol,N02BE01,marque,Antalgiques et anti-inflammatoires,,retire,SUPPO.,120MG,PAMOL
+ULTRAMOL,paracétamol,N02BE01,marque,Antalgiques et anti-inflammatoires,,retire,SUPPO.,125MG,ULTRAMOL
+FIRALGINE,paracétamol,N02BE01,marque,Antalgiques et anti-inflammatoires,,retire,SUPPO.,170MG,FIRALGINE
+FIRALGINE NOURRISSON,paracétamol,N02BE01,marque,Antalgiques et anti-inflammatoires,,retire,SUPPO.,100MG,FIRALGINE NOURRISSON
+PARAVERSAL,paracétamol,N02BE01,marque,Antalgiques et anti-inflammatoires,,retire,COMP. EFFER.,500MG,PARAVERSAL
+PARALYOC,paracétamol,N02BE01,marque,Antalgiques et anti-inflammatoires,,retire,LYOPH. ORALE SACHET,250MG,PARALYOC
+DAFALGAN,paracétamol,N02BE01,marque,Antalgiques et anti-inflammatoires,,retire,GLES.,500MG,DAFALGAN
+FIRALGINE ENFANTS,paracétamol,N02BE01,marque,Antalgiques et anti-inflammatoires,,retire,SUPP0.,300MG,FIRALGINE ENFANTS
+SIPHAMOL,paracétamol,N02BE01,marque,Antalgiques et anti-inflammatoires,,retire,SOL. INJ. P. PERF. IV,10MG/ML (1000MG/100ML),SIPHAMOL
+PERFALGAN ADULTES,paracétamol,N02BE01,marque,Antalgiques et anti-inflammatoires,,retire,SOL. INJ. P. PERF.,10MG/ML (1000MG/100ML),PERFALGAN ADULTES
+PERFALGAN ENFANTS / NOURRISSONS,paracétamol,N02BE01,marque,Antalgiques et anti-inflammatoires,,retire,SOL. INJ. P. PERF.,10MG/ML (500MG/50ML),PERFALGAN ENFANTS / NOURRISSONS
+ADFEN,ibuprofène,M01AE01,marque,Antalgiques et anti-inflammatoires,ANTI-INFLAMMATOIRES NON STEROIDIENS,active,COMPRIME PELLICULE,400MG,ADFEN
+CALMOFEN,ibuprofène,M01AE01,marque,Antalgiques et anti-inflammatoires,ANTI-INFLAMMATOIRES NON STEROIDIENS,active,COMPRIME PELLICULE,400MG,CALMOFEN
+HUBIFEN,ibuprofène,M01AE01,marque,Antalgiques et anti-inflammatoires,ANTI-INFLAMMATOIRES NON STEROIDIENS,active,COMPRIME PELLICULE,400MG,HUBIFEN
+IBUPROFAL,ibuprofène,M01AE01,marque,Antalgiques et anti-inflammatoires,ANTI-INFLAMMATOIRES NON STEROIDIENS,active,COMPRIME PELLICULE,400MG,IBUPROFAL
+IBUPROFENE BEKER,ibuprofène,M01AE01,marque,Antalgiques et anti-inflammatoires,ANTI-INFLAMMATOIRES NON STEROIDIENS,active,COMPRIME PELLICULE,400MG,IBUPROFENE BEKER
+NARUFENE,ibuprofène,M01AE01,marque,Antalgiques et anti-inflammatoires,ANTI-INFLAMMATOIRES NON STEROIDIENS,active,COMPRIME PELLICULE,400MG,NARUFENE
+NEOFEN,ibuprofène,M01AE01,marque,Antalgiques et anti-inflammatoires,ANTI-INFLAMMATOIRES NON STEROIDIENS,active,COMPRIME PELLICULE,400MG,NEOFEN
+PROF,ibuprofène,M01AE01,marque,Antalgiques et anti-inflammatoires,ANTI-INFLAMMATOIRES NON STEROIDIENS,active,COMPRIME PELLICULE,400 MG,PROF
+SAPOFEN,ibuprofène,M01AE01,marque,Antalgiques et anti-inflammatoires,ANTI-INFLAMMATOIRES NON STEROIDIENS,active,COMPRIME,400MG,SAPOFEN
+UBACTIVE 400MG,ibuprofène,M01AE01,marque,Antalgiques et anti-inflammatoires,ANTI-INFLAMMATOIRES NON STEROIDIENS,active,COMPRIME PELLICULE,400MG,UBACTIVE 400MG
+XYDOL 400,ibuprofène,M01AE01,marque,Antalgiques et anti-inflammatoires,ANTI-INFLAMMATOIRES NON STEROIDIENS,active,COMPRIME PELLICULE,400MG,XYDOL 400
+BUTAFEN,ibuprofène,M01AE01,marque,Antalgiques et anti-inflammatoires,ANTI-INFLAMMATOIRES NON STEROIDIENS,active,GELULE A MICRO-GRANULES,200MG,BUTAFEN
+IBUMAL,ibuprofène,M01AE01,marque,Antalgiques et anti-inflammatoires,ANTI-INFLAMMATOIRES NON STEROIDIENS,active,GELULE,200MG,IBUMAL
+IBUPROFENE PHYSIOPHARM,ibuprofène,M01AE01,marque,Antalgiques et anti-inflammatoires,ANTI-INFLAMMATOIRES NON STEROIDIENS,active,COMPRIME PELLICULE,200MG,IBUPROFENE PHYSIOPHARM
+IBUPROFNE BEKER,ibuprofène,M01AE01,marque,Antalgiques et anti-inflammatoires,ANTI-INFLAMMATOIRES NON STEROIDIENS,active,COMPRIME PELLICULE,200MG,IBUPROFNE BEKER
+NEUPREN,ibuprofène,M01AE01,marque,Antalgiques et anti-inflammatoires,ANTI-INFLAMMATOIRES NON STEROIDIENS,active,COMPRIME PELLICULE,200MG,NEUPREN
+SAPOMEX,ibuprofène,M01AE01,marque,Antalgiques et anti-inflammatoires,ANTI-INFLAMMATOIRES NON STEROIDIENS,active,COMPRIME PELLICULE,200MG,SAPOMEX
+UBACTIVE 200MG,ibuprofène,M01AE01,marque,Antalgiques et anti-inflammatoires,ANTI-INFLAMMATOIRES NON STEROIDIENS,active,COMPRIME PELLICULE SECABLE,200MG,UBACTIVE 200MG
+UPFEN,ibuprofène,M01AE01,marque,Antalgiques et anti-inflammatoires,ANTI-INFLAMMATOIRES NON STEROIDIENS,active,COMPRIME PELLICULE,200MG,UPFEN
+XYDOL 200,ibuprofène,M01AE01,marque,Antalgiques et anti-inflammatoires,ANTI-INFLAMMATOIRES NON STEROIDIENS,active,COMPRIME PELLICULE,200MG,XYDOL 200
+ADVIFEN,ibuprofène,M01AE01,marque,Antalgiques et anti-inflammatoires,ANTI-INFLAMMATOIRES NON STEROIDIENS,active,SUSPENSION BUVABLE,20MG/ML,ADVIFEN
+ALGIFEN,ibuprofène,M01AE01,marque,Antalgiques et anti-inflammatoires,ANTI-INFLAMMATOIRES NON STEROIDIENS,active,SUSPENSION BUVABLE,20MG/ML,ALGIFEN
+ANTALFEN,ibuprofène,M01AE01,marque,Antalgiques et anti-inflammatoires,ANTI-INFLAMMATOIRES NON STEROIDIENS,active,SUSPENSION BUVABLE,20MG/ML,ANTALFEN
+ARDIL,ibuprofène,M01AE01,marque,Antalgiques et anti-inflammatoires,ANTI-INFLAMMATOIRES NON STEROIDIENS,active,SUSPENSION BUVABLE,20MG/ML,ARDIL
+IBUFEN,ibuprofène,M01AE01,marque,Antalgiques et anti-inflammatoires,ANTI-INFLAMMATOIRES NON STEROIDIENS,active,SUSPENSION BUVABLE,20MG/ML,IBUFEN
+LAMIFENE,ibuprofène,M01AE01,marque,Antalgiques et anti-inflammatoires,ANTI-INFLAMMATOIRES NON STEROIDIENS,active,SUSPENSION BUVABLE,20MG/ML,LAMIFENE
+NARUFENE 2%,ibuprofène,M01AE01,marque,Antalgiques et anti-inflammatoires,ANTI-INFLAMMATOIRES NON STEROIDIENS,active,SUSPENSION BUVABLE,20MG/ML,NARUFENE 2%
+PACIFENE,ibuprofène,M01AE01,marque,Antalgiques et anti-inflammatoires,ANTI-INFLAMMATOIRES NON STEROIDIENS,active,SUSPENSION BUVABLE,20MG/ML,PACIFENE
+POLYPHENE,ibuprofène,M01AE01,marque,Antalgiques et anti-inflammatoires,ANTI-INFLAMMATOIRES NON STEROIDIENS,active,SUSPENSION BUVABLE,20MG/ML,POLYPHENE
+RUMIFEN,ibuprofène,M01AE01,marque,Antalgiques et anti-inflammatoires,ANTI-INFLAMMATOIRES NON STEROIDIENS,active,SUSPENSION BUVABLE,20MG/ML,RUMIFEN
+XYDOL ENFANTS ET NOURRISSONS,ibuprofène,M01AE01,marque,Antalgiques et anti-inflammatoires,ANTI-INFLAMMATOIRES NON STEROIDIENS,active,SUSPENSION BUVABLE,20MG/ML,XYDOL ENFANTS ET NOURRISSONS
+IBUPRANE,ibuprofène,M01AE01,marque,Antalgiques et anti-inflammatoires,ANTI-INFLAMMATOIRES NON STEROIDIENS,active,COMPRIME PELLICULE,600MG,IBUPRANE
+SAPOFEN 600,ibuprofène,M01AE01,marque,Antalgiques et anti-inflammatoires,ANTI-INFLAMMATOIRES NON STEROIDIENS,active,COMPRIME PELLICULE,600MG,SAPOFEN 600
+UBACTIVE 600MG,ibuprofène,M01AE01,marque,Antalgiques et anti-inflammatoires,ANTI-INFLAMMATOIRES NON STEROIDIENS,active,COMPRIME PELLICULE,600MG,UBACTIVE 600MG
+XYDOL 600,ibuprofène,M01AE01,marque,Antalgiques et anti-inflammatoires,ANTI-INFLAMMATOIRES NON STEROIDIENS,active,COMPRIME PELLICULE,600MG,XYDOL 600
+BUTAFEN LP,ibuprofène,M01AE01,marque,Antalgiques et anti-inflammatoires,ANTI-INFLAMMATOIRES NON STEROIDIENS,active,MICROGRANULE EN GELLULE LIBERATION PROLONGEE,400MG,BUTAFEN LP
+SAPBUFEN,ibuprofène,M01AE01,marque,Antalgiques et anti-inflammatoires,ANTI-INFLAMMATOIRES NON STEROIDIENS,active,GRANULES P/SOL. BUV. EN SACHET ADULTE,600MG,SAPBUFEN
+ROVIL CAPS,ibuprofène,M01AE01,marque,Antalgiques et anti-inflammatoires,ANTI-INFLAMMATOIRES NON STEROIDIENS,active,CAPSULE MOLLE,400MG,ROVIL CAPS
+GELFEN 5%,ibuprofène,M01AE01,marque,Antalgiques et anti-inflammatoires,ANTI-INFLAMMATOIRES NON STEROIDIENS,active,GEL,5% ( 5G/100 G ),GELFEN 5%
+APIFEN,ibuprofène,M01AE01,marque,Antalgiques et anti-inflammatoires,ANTI-INFLAMMATOIRES NON STEROIDIENS,non_renouvele,COMPRIME,400MG,APIFEN
+CROMIVAL,ibuprofène,M01AE01,marque,Antalgiques et anti-inflammatoires,ANTI-INFLAMMATOIRES NON STEROIDIENS,non_renouvele,SUPPO.,500MG,CROMIVAL
+IBUPROFENE IVAL,ibuprofène,M01AE01,marque,Antalgiques et anti-inflammatoires,ANTI-INFLAMMATOIRES NON STEROIDIENS,non_renouvele,COMPRIME PELLICULE,200MG,IBUPROFENE IVAL
+REMOFEN,ibuprofène,M01AE01,marque,Antalgiques et anti-inflammatoires,ANTI-INFLAMMATOIRES NON STEROIDIENS,non_renouvele,COMPRIME PELLICULE,200MG,REMOFEN
+BRUFEN,ibuprofène,M01AE01,marque,Antalgiques et anti-inflammatoires,ANTI-INFLAMMATOIRES NON STEROIDIENS,non_renouvele,SUSP. BUV.,20MG/ML (100MG/5ML),BRUFEN
+BUFEN,ibuprofène,M01AE01,marque,Antalgiques et anti-inflammatoires,ANTI-INFLAMMATOIRES NON STEROIDIENS,non_renouvele,SUSP. BUV.,20MG/ML (100MG/5ML),BUFEN
+GEFENE,ibuprofène,M01AE01,marque,Antalgiques et anti-inflammatoires,ANTI-INFLAMMATOIRES NON STEROIDIENS,non_renouvele,SUSP. BUV.,20MG/ML (100MG/5ML),GEFENE
+ALVIL,ibuprofène,M01AE01,marque,Antalgiques et anti-inflammatoires,ANTI-INFLAMMATOIRES NON STEROIDIENS,non_renouvele,SUSP. BUV.,20MG/ML (100MG/5ML),ALVIL
+IBUGESIC,ibuprofène,M01AE01,marque,Antalgiques et anti-inflammatoires,ANTI-INFLAMMATOIRES NON STEROIDIENS,non_renouvele,SUSP. BUV.,20MG/ML (100MG/5ML),IBUGESIC
+RUPAN,ibuprofène,M01AE01,marque,Antalgiques et anti-inflammatoires,ANTI-INFLAMMATOIRES NON STEROIDIENS,retire,COMP.,400MG,RUPAN
+BALKAPROFEN,ibuprofène,M01AE01,marque,Antalgiques et anti-inflammatoires,ANTI-INFLAMMATOIRES NON STEROIDIENS,retire,COMP.,400MG,BALKAPROFEN
+NOVAMAL,ibuprofène,M01AE01,marque,Antalgiques et anti-inflammatoires,ANTI-INFLAMMATOIRES NON STEROIDIENS,retire,COMP.,400MG,NOVAMAL
+JAZOFEN,ibuprofène,M01AE01,marque,Antalgiques et anti-inflammatoires,ANTI-INFLAMMATOIRES NON STEROIDIENS,retire,COMP.,400MG,JAZOFEN
+SPIFEN,ibuprofène,M01AE01,marque,Antalgiques et anti-inflammatoires,ANTI-INFLAMMATOIRES NON STEROIDIENS,retire,COMP. PELLI.,400MG,SPIFEN
+ANTARENE Gé,ibuprofène,M01AE01,marque,Antalgiques et anti-inflammatoires,ANTI-INFLAMMATOIRES NON STEROIDIENS,retire,COMP.PELLI.,400MG,ANTARENE Gé
+SUPERGIFEN,ibuprofène,M01AE01,marque,Antalgiques et anti-inflammatoires,ANTI-INFLAMMATOIRES NON STEROIDIENS,retire,COMP. PELLI. SEC.,400MG,SUPERGIFEN
+BIOFENE,ibuprofène,M01AE01,marque,Antalgiques et anti-inflammatoires,ANTI-INFLAMMATOIRES NON STEROIDIENS,retire,COMP,400MG,BIOFENE
+DOLORAZ 400,ibuprofène,M01AE01,marque,Antalgiques et anti-inflammatoires,ANTI-INFLAMMATOIRES NON STEROIDIENS,retire,CAPS. MOLLES,400MG,DOLORAZ 400
+IBU 400,ibuprofène,M01AE01,marque,Antalgiques et anti-inflammatoires,ANTI-INFLAMMATOIRES NON STEROIDIENS,retire,COMP. PELLI.,400MG,IBU 400
+ULTRAFEN,ibuprofène,M01AE01,marque,Antalgiques et anti-inflammatoires,ANTI-INFLAMMATOIRES NON STEROIDIENS,retire,COMP.,200MG,ULTRAFEN
+IBUPROFENE UPC,ibuprofène,M01AE01,marque,Antalgiques et anti-inflammatoires,ANTI-INFLAMMATOIRES NON STEROIDIENS,retire,COMP. ENRO.,200MG,IBUPROFENE UPC
+ANTAFENE,ibuprofène,M01AE01,marque,Antalgiques et anti-inflammatoires,ANTI-INFLAMMATOIRES NON STEROIDIENS,retire,COMP. PELLI.,200MG,ANTAFENE
+INTRALGIS,ibuprofène,M01AE01,marque,Antalgiques et anti-inflammatoires,ANTI-INFLAMMATOIRES NON STEROIDIENS,retire,COMP.PELLI.,200MG,INTRALGIS
+AMADVIL,ibuprofène,M01AE01,marque,Antalgiques et anti-inflammatoires,ANTI-INFLAMMATOIRES NON STEROIDIENS,retire,COMP ENRO.,200MG,AMADVIL
+IBUPROFENE BIOGARAN,ibuprofène,M01AE01,marque,Antalgiques et anti-inflammatoires,ANTI-INFLAMMATOIRES NON STEROIDIENS,retire,COMP. PELLI.,200MG,IBUPROFENE BIOGARAN
+IBU 200,ibuprofène,M01AE01,marque,Antalgiques et anti-inflammatoires,ANTI-INFLAMMATOIRES NON STEROIDIENS,retire,COMP. PELLI.,200MG,IBU 200
+SAPOFEN JUNIOR,ibuprofène,M01AE01,marque,Antalgiques et anti-inflammatoires,ANTI-INFLAMMATOIRES NON STEROIDIENS,retire,SIROP,100MG/5ML,SAPOFEN JUNIOR
+DOLORAZ,ibuprofène,M01AE01,marque,Antalgiques et anti-inflammatoires,ANTI-INFLAMMATOIRES NON STEROIDIENS,retire,SUSP. BUV.,100MG/5ML,DOLORAZ
+ADVIL,ibuprofène,M01AE01,marque,Antalgiques et anti-inflammatoires,ANTI-INFLAMMATOIRES NON STEROIDIENS,retire,SUSP.BUV.,20MG/ML,ADVIL
+CLOFENAL,diclofénac,M01AB05,marque,Antalgiques et anti-inflammatoires,ANTI-INFLAMMATOIRES NON STEROIDIENS,active,SOLUTION INJECTABLE IM,25MG/ML (75MG/3ML),CLOFENAL
+DICLAMID,diclofénac,M01AB05,marque,Antalgiques et anti-inflammatoires,ANTI-INFLAMMATOIRES NON STEROIDIENS,active,SOLUTION INJECTABLE,25MG/ML (75MG/3ML),DICLAMID
+DICLOTHERA,diclofénac,M01AB05,marque,Antalgiques et anti-inflammatoires,ANTI-INFLAMMATOIRES NON STEROIDIENS,active,SOLUTION INJECTABLE IM,25MG/ML (75MG/3ML),DICLOTHERA
+GEOFENAC,diclofénac,M01AB05,marque,Antalgiques et anti-inflammatoires,ANTI-INFLAMMATOIRES NON STEROIDIENS,active,SOLUTION INJECTABLE,25MG/ML (75MG/3ML),GEOFENAC
+VOLTAFENE,diclofénac,M01AB05,marque,Antalgiques et anti-inflammatoires,ANTI-INFLAMMATOIRES NON STEROIDIENS,active,SOLUTION INJECTABLE IM,25MG/ML (75MG/3ML),VOLTAFENE
+VOLTUM,diclofénac,M01AB05,marque,Antalgiques et anti-inflammatoires,ANTI-INFLAMMATOIRES NON STEROIDIENS,active,COMP.GASTRORESIST.,25MG,VOLTUM
+BIOFENAC,diclofénac,M01AB05,marque,Antalgiques et anti-inflammatoires,ANTI-INFLAMMATOIRES NON STEROIDIENS,active,COMPRIME PELLICULE GASTRO-RESISTANT,50MG,BIOFENAC
+CLOFEN,diclofénac,M01AB05,marque,Antalgiques et anti-inflammatoires,ANTI-INFLAMMATOIRES NON STEROIDIENS,active,COMPRIME PELLICULE GASTRO-RESISTANT,50MG,CLOFEN
+DICLOFAL,diclofénac,M01AB05,marque,Antalgiques et anti-inflammatoires,ANTI-INFLAMMATOIRES NON STEROIDIENS,active,COMPRIME PELLICULE GASTRO-RESISTANT,50MG,DICLOFAL
+XINAC-50,diclofénac,M01AB05,marque,Antalgiques et anti-inflammatoires,ANTI-INFLAMMATOIRES NON STEROIDIENS,active,COMPRIME PELLICULE GASTRO-RESISTANT,50MG,XINAC-50
+CLOFENAL LP,diclofénac,M01AB05,marque,Antalgiques et anti-inflammatoires,ANTI-INFLAMMATOIRES NON STEROIDIENS,active,GELULE GASTRO-RESISTANTES LIBERATION PROLONGE,100MG,CLOFENAL LP
+DICLOGESIC RETARD,diclofénac,M01AB05,marque,Antalgiques et anti-inflammatoires,ANTI-INFLAMMATOIRES NON STEROIDIENS,active,COMPRIME PELLICULE A LIBERATION PROLONGEE,100MG,DICLOGESIC RETARD
+FLOVENAC LP,diclofénac,M01AB05,marque,Antalgiques et anti-inflammatoires,ANTI-INFLAMMATOIRES NON STEROIDIENS,active,MICROGRANULE EN GELLULE LIBERATION PROLONGEE,100MG,FLOVENAC LP
+ROFENAC LP,diclofénac,M01AB05,marque,Antalgiques et anti-inflammatoires,ANTI-INFLAMMATOIRES NON STEROIDIENS,active,COMPRIME PELLICULE A LIBERATION PROLONGEE,100MG,ROFENAC LP
+CLOFENAL ENFANT,diclofénac,M01AB05,marque,Antalgiques et anti-inflammatoires,ANTI-INFLAMMATOIRES NON STEROIDIENS,active,SUPPOSITOIRE,25MG,CLOFENAL ENFANT
+DICLOFAR,diclofénac,M01AB05,marque,Antalgiques et anti-inflammatoires,ANTI-INFLAMMATOIRES NON STEROIDIENS,active,SUPPOSITOIRE,25MG,DICLOFAR
+DICLOFENAC,diclofénac,M01AB05,marque,Antalgiques et anti-inflammatoires,ANTI-INFLAMMATOIRES NON STEROIDIENS,active,SUPPOSITOIRE,100MG,DICLOFENAC
+DICLOFENAC DBF,diclofénac,M01AB05,marque,Antalgiques et anti-inflammatoires,ANTI-INFLAMMATOIRES NON STEROIDIENS,active,SUPPOSITOIRE,100MG,DICLOFENAC DBF
+VOLTAMEX,diclofénac,M01AB05,marque,Antalgiques et anti-inflammatoires,ANTI-INFLAMMATOIRES NON STEROIDIENS,active,SUPPOSITOIRE,100MG,VOLTAMEX
+BIOFENAC LP,diclofénac,M01AB05,marque,Antalgiques et anti-inflammatoires,ANTI-INFLAMMATOIRES NON STEROIDIENS,active,COMPRIME PELLICULE A LIBERATION PROLONGEE,75MG,BIOFENAC LP
+DICLOFAL LP,diclofénac,M01AB05,marque,Antalgiques et anti-inflammatoires,ANTI-INFLAMMATOIRES NON STEROIDIENS,active,COMPRIME PELLICULE A LIBERATION PROLONGEE,75MG,DICLOFAL LP
+DICLOFLEX LP 75 MG,diclofénac,M01AB05,marque,Antalgiques et anti-inflammatoires,ANTI-INFLAMMATOIRES NON STEROIDIENS,active,COMPRIME PELLICULE A LIBERATION PROLONGEE,75MG,DICLOFLEX LP 75 MG
+DICLORENE LP 75,diclofénac,M01AB05,marque,Antalgiques et anti-inflammatoires,ANTI-INFLAMMATOIRES NON STEROIDIENS,active,COMPRIME PELLICULE A LIBERATION PROLONGEE,75MG,DICLORENE LP 75
+DOLAN LP 75,diclofénac,M01AB05,marque,Antalgiques et anti-inflammatoires,ANTI-INFLAMMATOIRES NON STEROIDIENS,active,GELULE A LIBERATION PROLONGE,75MG,DOLAN LP 75
+VOLTARENE DOLO,diclofénac,M01AB05,marque,Antalgiques et anti-inflammatoires,ANTI-INFLAMMATOIRES NON STEROIDIENS,active,COMPRIME PELLICULE,"12,5MG",VOLTARENE DOLO
+DIVIDO,diclofénac,M01AB05,marque,Antalgiques et anti-inflammatoires,ANTI-INFLAMMATOIRES NON STEROIDIENS,active,GELULE A DOUBLE LIBERATION,75MG,DIVIDO
+DICLOFAST,diclofénac,M01AB05,marque,Antalgiques et anti-inflammatoires,ANTI-INFLAMMATOIRES NON STEROIDIENS,active,COMPRIME PELLICULE,50MG,DICLOFAST
+EFIRAP,diclofénac,M01AB05,marque,Antalgiques et anti-inflammatoires,ANTI-INFLAMMATOIRES NON STEROIDIENS,active,COMPRIME PELLICULE,50MG,EFIRAP
+CATAFENAC,diclofénac,M01AB05,marque,Antalgiques et anti-inflammatoires,ANTI-INFLAMMATOIRES NON STEROIDIENS,active,COMPRIME PELLICULE,50MG,CATAFENAC
+RAPIDUS,diclofénac,M01AB05,marque,Antalgiques et anti-inflammatoires,ANTI-INFLAMMATOIRES NON STEROIDIENS,active,COMPRIME PELLICULE,50MG,RAPIDUS
+BIOFENAC FAST,diclofénac,M01AB05,marque,Antalgiques et anti-inflammatoires,ANTI-INFLAMMATOIRES NON STEROIDIENS,active,COMPRIME PELLICULE,50MG,BIOFENAC FAST
+VOTREX RAPID,diclofénac,M01AB05,marque,Antalgiques et anti-inflammatoires,ANTI-INFLAMMATOIRES NON STEROIDIENS,active,COMPRIME ENROBE,50MG,VOTREX RAPID
+DICLOCED,diclofénac,M01AB05,marque,Antalgiques et anti-inflammatoires,ANTI-INFLAMMATOIRES NON STEROIDIENS,active,COLLYRE EN SOLUTION,1MG/ML,DICLOCED
+DICLOGESIC,diclofénac,M01AB05,marque,Antalgiques et anti-inflammatoires,ANTI-INFLAMMATOIRES NON STEROIDIENS,active,COLLYRE EN SOLUTION,0.1%,DICLOGESIC
+VOLTARENE,diclofénac,M01AB05,marque,Antalgiques et anti-inflammatoires,ANTI-INFLAMMATOIRES NON STEROIDIENS,active,COLLYRE EN SOLUTION,"0,001",VOLTARENE
+XINAC,diclofénac,M01AB05,marque,Antalgiques et anti-inflammatoires,ANTI-INFLAMMATOIRES NON STEROIDIENS,active,COLLYRE EN SOLUTION,"0,001",XINAC
+CLOGEL,diclofénac,M01AB05,marque,Antalgiques et anti-inflammatoires,ANTI-INFLAMMATOIRES NON STEROIDIENS,active,GEL DERMIQUE,"0,01",CLOGEL
+DEFLAMAC,diclofénac,M01AB05,marque,Antalgiques et anti-inflammatoires,ANTI-INFLAMMATOIRES NON STEROIDIENS,active,GEL DERMIQUE,"0,01",DEFLAMAC
+OXYFENAC,diclofénac,M01AB05,marque,Antalgiques et anti-inflammatoires,ANTI-INFLAMMATOIRES NON STEROIDIENS,active,GEL DERMIQUE,"0,01",OXYFENAC
+PHLOGOREN,diclofénac,M01AB05,marque,Antalgiques et anti-inflammatoires,ANTI-INFLAMMATOIRES NON STEROIDIENS,active,GEL DERMIQUE,"0,01",PHLOGOREN
+TABIFLEX COOL,diclofénac,M01AB05,marque,Antalgiques et anti-inflammatoires,ANTI-INFLAMMATOIRES NON STEROIDIENS,active,EMULSION GEL,"0,01",TABIFLEX COOL
+VOLTARENE EMULGEL,diclofénac,M01AB05,marque,Antalgiques et anti-inflammatoires,ANTI-INFLAMMATOIRES NON STEROIDIENS,active,GEL DERMIQUE,"0,01",VOLTARENE EMULGEL
+VOLTENAC,diclofénac,M01AB05,marque,Antalgiques et anti-inflammatoires,ANTI-INFLAMMATOIRES NON STEROIDIENS,active,GEL DERMIQUE,"0,01",VOLTENAC
+FLOVENAC,diclofénac,M01AB05,marque,Antalgiques et anti-inflammatoires,ANTI-INFLAMMATOIRES NON STEROIDIENS,non_renouvele,GLES. A µGRLES. GASTRORESIST.,50MG,FLOVENAC
+VOTREX,diclofénac,M01AB05,marque,Antalgiques et anti-inflammatoires,ANTI-INFLAMMATOIRES NON STEROIDIENS,non_renouvele,COMP. GASTRORESIST.,50MG,VOTREX
+VOTREX RETARD,diclofénac,M01AB05,marque,Antalgiques et anti-inflammatoires,ANTI-INFLAMMATOIRES NON STEROIDIENS,non_renouvele,COMP. PELLI. LP,100MG,VOTREX RETARD
+DICLOFENIL-ENFANT,diclofénac,M01AB05,marque,Antalgiques et anti-inflammatoires,ANTI-INFLAMMATOIRES NON STEROIDIENS,non_renouvele,SUPPO.,25MG,DICLOFENIL-ENFANT
+PHLOGOREN ENFANT,diclofénac,M01AB05,marque,Antalgiques et anti-inflammatoires,ANTI-INFLAMMATOIRES NON STEROIDIENS,non_renouvele,SUPPO.,25MG,PHLOGOREN ENFANT
+DICLOFENIL,diclofénac,M01AB05,marque,Antalgiques et anti-inflammatoires,ANTI-INFLAMMATOIRES NON STEROIDIENS,non_renouvele,SUPPO.,100MG,DICLOFENIL
+FENAQUENE,diclofénac,M01AB05,marque,Antalgiques et anti-inflammatoires,ANTI-INFLAMMATOIRES NON STEROIDIENS,non_renouvele,SUPPO,100MG,FENAQUENE
+"VOLTARENE 12,5MG",diclofénac,M01AB05,marque,Antalgiques et anti-inflammatoires,ANTI-INFLAMMATOIRES NON STEROIDIENS,non_renouvele,SUPPO.,"12,5MG","VOLTARENE 12,5MG"
+CATAFLAM,diclofénac,M01AB05,marque,Antalgiques et anti-inflammatoires,ANTI-INFLAMMATOIRES NON STEROIDIENS,non_renouvele,COMPRIME PELLICULE,50MG,CATAFLAM
+DICLOREUM,diclofénac,M01AB05,marque,Antalgiques et anti-inflammatoires,ANTI-INFLAMMATOIRES NON STEROIDIENS,retire,SOL.INJ.,75MG/3ML,DICLOREUM
+EPIFENAC,diclofénac,M01AB05,marque,Antalgiques et anti-inflammatoires,ANTI-INFLAMMATOIRES NON STEROIDIENS,retire,SOL.INJ.,75MG/3ML,EPIFENAC
+FLOGOFENAC,diclofénac,M01AB05,marque,Antalgiques et anti-inflammatoires,ANTI-INFLAMMATOIRES NON STEROIDIENS,retire,SOL.INJ.,75MG/3ML,FLOGOFENAC
+INFLA-BAN,diclofénac,M01AB05,marque,Antalgiques et anti-inflammatoires,ANTI-INFLAMMATOIRES NON STEROIDIENS,retire,SOL.INJ.,75MG/3ML,INFLA-BAN
+REFEN,diclofénac,M01AB05,marque,Antalgiques et anti-inflammatoires,ANTI-INFLAMMATOIRES NON STEROIDIENS,retire,SOL.INJ.,75MG/3ML,REFEN
+ROFENAC,diclofénac,M01AB05,marque,Antalgiques et anti-inflammatoires,ANTI-INFLAMMATOIRES NON STEROIDIENS,retire,SOL.INJ.,75 MG/3ML,ROFENAC
+VOLTAGESIC,diclofénac,M01AB05,marque,Antalgiques et anti-inflammatoires,ANTI-INFLAMMATOIRES NON STEROIDIENS,retire,SOL.INJ.,75MG/3ML,VOLTAGESIC
+WERAFENAC 75,diclofénac,M01AB05,marque,Antalgiques et anti-inflammatoires,ANTI-INFLAMMATOIRES NON STEROIDIENS,retire,SOL.INJ.,75MG/3ML,WERAFENAC 75
+XENID,diclofénac,M01AB05,marque,Antalgiques et anti-inflammatoires,ANTI-INFLAMMATOIRES NON STEROIDIENS,retire,SOL.INJ.,75MG/3ML,XENID
+DYCLOMAX,diclofénac,M01AB05,marque,Antalgiques et anti-inflammatoires,ANTI-INFLAMMATOIRES NON STEROIDIENS,retire,SOL.INJ.,75MG/3ML,DYCLOMAX
+PANAMOR,diclofénac,M01AB05,marque,Antalgiques et anti-inflammatoires,ANTI-INFLAMMATOIRES NON STEROIDIENS,retire,SOL.INJ.,75MG/3ML**,PANAMOR
+ALMIRAL,diclofénac,M01AB05,marque,Antalgiques et anti-inflammatoires,ANTI-INFLAMMATOIRES NON STEROIDIENS,retire,SOL.INJ.IM,75MG/3ML**,ALMIRAL
+DICLOMEC,diclofénac,M01AB05,marque,Antalgiques et anti-inflammatoires,ANTI-INFLAMMATOIRES NON STEROIDIENS,retire,SOL .INJ.,75MG/3ML,DICLOMEC
+NAKLOFEN,diclofénac,M01AB05,marque,Antalgiques et anti-inflammatoires,ANTI-INFLAMMATOIRES NON STEROIDIENS,retire,SOL .INJ.,75MG/3ML,NAKLOFEN
+COMAX,diclofénac,M01AB05,marque,Antalgiques et anti-inflammatoires,ANTI-INFLAMMATOIRES NON STEROIDIENS,retire,COMP,25MG,COMAX
+DIFEN,diclofénac,M01AB05,marque,Antalgiques et anti-inflammatoires,ANTI-INFLAMMATOIRES NON STEROIDIENS,retire,COMP.,25MG,DIFEN
+EPIFENAC 25,diclofénac,M01AB05,marque,Antalgiques et anti-inflammatoires,ANTI-INFLAMMATOIRES NON STEROIDIENS,retire,COMP.,25MG,EPIFENAC 25
+RUFENAL,diclofénac,M01AB05,marque,Antalgiques et anti-inflammatoires,ANTI-INFLAMMATOIRES NON STEROIDIENS,retire,COMP.,25MG,RUFENAL
+DIFAL,diclofénac,M01AB05,marque,Antalgiques et anti-inflammatoires,ANTI-INFLAMMATOIRES NON STEROIDIENS,retire,COMP.,25MG,DIFAL
+WERAFENAC,diclofénac,M01AB05,marque,Antalgiques et anti-inflammatoires,ANTI-INFLAMMATOIRES NON STEROIDIENS,retire,COMP.,25MG,WERAFENAC
+DICLOFENAC 25,diclofénac,M01AB05,marque,Antalgiques et anti-inflammatoires,ANTI-INFLAMMATOIRES NON STEROIDIENS,retire,COMP.,25MG,DICLOFENAC 25
+DICLOFENACO RATIOPHARM,diclofénac,M01AB05,marque,Antalgiques et anti-inflammatoires,ANTI-INFLAMMATOIRES NON STEROIDIENS,retire,COMP.,50MG,DICLOFENACO RATIOPHARM
+OPTIFEN,diclofénac,M01AB05,marque,Antalgiques et anti-inflammatoires,ANTI-INFLAMMATOIRES NON STEROIDIENS,retire,COMP,50MG,OPTIFEN
+DICLOFEN,diclofénac,M01AB05,marque,Antalgiques et anti-inflammatoires,ANTI-INFLAMMATOIRES NON STEROIDIENS,retire,COMP.,50MG,DICLOFEN
+EPIFENAC 50,diclofénac,M01AB05,marque,Antalgiques et anti-inflammatoires,ANTI-INFLAMMATOIRES NON STEROIDIENS,retire,COMP.,50MG,EPIFENAC 50
+LADOFENAC,diclofénac,M01AB05,marque,Antalgiques et anti-inflammatoires,ANTI-INFLAMMATOIRES NON STEROIDIENS,retire,COMP.,50MG,LADOFENAC
+DQA DICLO 50,diclofénac,M01AB05,marque,Antalgiques et anti-inflammatoires,ANTI-INFLAMMATOIRES NON STEROIDIENS,retire,COMP ENRO. GASTRORESIST.,50MG,DQA DICLO 50
+DICLOFENAC LLORENS,diclofénac,M01AB05,marque,Antalgiques et anti-inflammatoires,ANTI-INFLAMMATOIRES NON STEROIDIENS,retire,COMP.,50MG,DICLOFENAC LLORENS
+DIFLORENE,diclofénac,M01AB05,marque,Antalgiques et anti-inflammatoires,ANTI-INFLAMMATOIRES NON STEROIDIENS,retire,COMP.,50MG,DIFLORENE
+GROFENAC,diclofénac,M01AB05,marque,Antalgiques et anti-inflammatoires,ANTI-INFLAMMATOIRES NON STEROIDIENS,retire,COMP.,50MG,GROFENAC
+PANAMOR AT 50,diclofénac,M01AB05,marque,Antalgiques et anti-inflammatoires,ANTI-INFLAMMATOIRES NON STEROIDIENS,retire,COMP.,50MG,PANAMOR AT 50
+WERAFENAC 50,diclofénac,M01AB05,marque,Antalgiques et anti-inflammatoires,ANTI-INFLAMMATOIRES NON STEROIDIENS,retire,COMP.,50MG,WERAFENAC 50
+DICLOFENAC 50,diclofénac,M01AB05,marque,Antalgiques et anti-inflammatoires,ANTI-INFLAMMATOIRES NON STEROIDIENS,retire,COMP.,50MG,DICLOFENAC 50
+VOLTARILE L.P. 100,diclofénac,M01AB05,marque,Antalgiques et anti-inflammatoires,ANTI-INFLAMMATOIRES NON STEROIDIENS,retire,COMP. ENRO. LP,100MG,VOLTARILE L.P. 100
+VOLDAC LP,diclofénac,M01AB05,marque,Antalgiques et anti-inflammatoires,ANTI-INFLAMMATOIRES NON STEROIDIENS,retire,COMP. PELLI. LP,100MG,VOLDAC LP
+VOLTARENE LP,diclofénac,M01AB05,marque,Antalgiques et anti-inflammatoires,ANTI-INFLAMMATOIRES NON STEROIDIENS,retire,COMP.ENRO.LP,100MG,VOLTARENE LP
+DICLOFENAC 100 STADA RETARD,diclofénac,M01AB05,marque,Antalgiques et anti-inflammatoires,ANTI-INFLAMMATOIRES NON STEROIDIENS,retire,COMP. LP,100MG,DICLOFENAC 100 STADA RETARD
+DQA DICLO LP 100,diclofénac,M01AB05,marque,Antalgiques et anti-inflammatoires,ANTI-INFLAMMATOIRES NON STEROIDIENS,retire,COMP.LP,100MG,DQA DICLO LP 100
+DEDOLOR,diclofénac,M01AB05,marque,Antalgiques et anti-inflammatoires,ANTI-INFLAMMATOIRES NON STEROIDIENS,retire,GLES. LP,100MG,DEDOLOR
+OLFEN - 100 SR,diclofénac,M01AB05,marque,Antalgiques et anti-inflammatoires,ANTI-INFLAMMATOIRES NON STEROIDIENS,retire,GLES.LP.,100MG,OLFEN - 100 SR
+DICLOFENAC NOVAGENERICS LP,diclofénac,M01AB05,marque,Antalgiques et anti-inflammatoires,ANTI-INFLAMMATOIRES NON STEROIDIENS,retire,GLES.LP.,100MG,DICLOFENAC NOVAGENERICS LP
+CROFENAC,diclofénac,M01AB05,marque,Antalgiques et anti-inflammatoires,ANTI-INFLAMMATOIRES NON STEROIDIENS,retire,SUPPO.,25MG,CROFENAC
+DICLOFENAC TEDEC,diclofénac,M01AB05,marque,Antalgiques et anti-inflammatoires,ANTI-INFLAMMATOIRES NON STEROIDIENS,retire,SUPPO.,25MG,DICLOFENAC TEDEC
+VOLTAMED,diclofénac,M01AB05,marque,Antalgiques et anti-inflammatoires,ANTI-INFLAMMATOIRES NON STEROIDIENS,retire,SUPPO.,25MG,VOLTAMED
+DICLO 25,diclofénac,M01AB05,marque,Antalgiques et anti-inflammatoires,ANTI-INFLAMMATOIRES NON STEROIDIENS,retire,SUPPO.,25MG,DICLO 25
+WERAFENAC 100,diclofénac,M01AB05,marque,Antalgiques et anti-inflammatoires,ANTI-INFLAMMATOIRES NON STEROIDIENS,retire,SUPPO.,100MG,WERAFENAC 100
+OLFEN - 75 RETARD,diclofénac,M01AB05,marque,Antalgiques et anti-inflammatoires,ANTI-INFLAMMATOIRES NON STEROIDIENS,retire,COMP ENRO. LP,75MG,OLFEN - 75 RETARD
+BIDICLO LP,diclofénac,M01AB05,marque,Antalgiques et anti-inflammatoires,ANTI-INFLAMMATOIRES NON STEROIDIENS,retire,GLES.LP.,75mg,BIDICLO LP
+ROFENAC D,diclofénac,M01AB05,marque,Antalgiques et anti-inflammatoires,ANTI-INFLAMMATOIRES NON STEROIDIENS,retire,COMP. DISPERS.,50MG,ROFENAC D
+DICLOFEN CREMOGEL,diclofénac,M01AB05,marque,Antalgiques et anti-inflammatoires,ANTI-INFLAMMATOIRES NON STEROIDIENS,retire,GEL,0.01,DICLOFEN CREMOGEL
+LOCAGEL,diclofénac,M01AB05,marque,Antalgiques et anti-inflammatoires,ANTI-INFLAMMATOIRES NON STEROIDIENS,retire,GEL,0.01,LOCAGEL
+DICLOFENAC NOVA GENERICS,diclofénac,M01AB05,marque,Antalgiques et anti-inflammatoires,ANTI-INFLAMMATOIRES NON STEROIDIENS,retire,GEL.DERM.,0.01,DICLOFENAC NOVA GENERICS
+VOTREX TISSUGE 1%,diclofénac,M01AB05,marque,Antalgiques et anti-inflammatoires,ANTI-INFLAMMATOIRES NON STEROIDIENS,retire,EMPLATRE MEDICAMENTEUX,146MG/EMPLATRE (180MG DE DICLOFENAC EPOLAMINE/EMPLATRE),VOTREX TISSUGE 1%
+KETOMEX,kétoprofène,M01AE03,marque,Antalgiques et anti-inflammatoires,ANTI-INFLAMMATOIRES NON STEROIDIENS,active,SUPPOSITOIRE,100MG,KETOMEX
+PROFENID,kétoprofène,M01AE03,marque,Antalgiques et anti-inflammatoires,ANTI-INFLAMMATOIRES NON STEROIDIENS,active,SUPPOSITOIRE,100MG,PROFENID
+BIOPROFEN,kétoprofène,M01AE03,marque,Antalgiques et anti-inflammatoires,ANTI-INFLAMMATOIRES NON STEROIDIENS,active,SOLUTION INJECTABLE IM,100MG/2ML,BIOPROFEN
+KETOFLEX,kétoprofène,M01AE03,marque,Antalgiques et anti-inflammatoires,ANTI-INFLAMMATOIRES NON STEROIDIENS,active,SOLUTION INJECTABLE IM,100MG/2ML,KETOFLEX
+KETONAL,kétoprofène,M01AE03,marque,Antalgiques et anti-inflammatoires,ANTI-INFLAMMATOIRES NON STEROIDIENS,active,SOLUTION INJECTABLE IM,100MG/2ML,KETONAL
+KETONEED,kétoprofène,M01AE03,marque,Antalgiques et anti-inflammatoires,ANTI-INFLAMMATOIRES NON STEROIDIENS,active,SOLUTION INJECTABLE IM,100MG/2ML,KETONEED
+PROHEFEN,kétoprofène,M01AE03,marque,Antalgiques et anti-inflammatoires,ANTI-INFLAMMATOIRES NON STEROIDIENS,active,SOLUTION INJECTABLE IM,100MG/2ML,PROHEFEN
+PROFENID LP,kétoprofène,M01AE03,marque,Antalgiques et anti-inflammatoires,ANTI-INFLAMMATOIRES NON STEROIDIENS,active,COMPRIME . ENRO. LP,200MG,PROFENID LP
+EVOFENID,kétoprofène,M01AE03,marque,Antalgiques et anti-inflammatoires,ANTI-INFLAMMATOIRES NON STEROIDIENS,active,COMPRIME PELLICULE,100MG,EVOFENID
+PROFEK,kétoprofène,M01AE03,marque,Antalgiques et anti-inflammatoires,ANTI-INFLAMMATOIRES NON STEROIDIENS,active,COMPRIME PELLICULE,100MG,PROFEK
+KETOTOP,kétoprofène,M01AE03,marque,Antalgiques et anti-inflammatoires,ANTI-INFLAMMATOIRES NON STEROIDIENS,active,PATCH,30MG,KETOTOP
+HARUFEN,kétoprofène,M01AE03,marque,Antalgiques et anti-inflammatoires,ANTI-INFLAMMATOIRES NON STEROIDIENS,active,PATCH,30MG,HARUFEN
+FLEXEN,kétoprofène,M01AE03,marque,Antalgiques et anti-inflammatoires,ANTI-INFLAMMATOIRES NON STEROIDIENS,active,PDRE. ET SOLV. P. SOL. INJ.,100MG/FL. DE PDRE.,FLEXEN
+GEPROFEN,kétoprofène,M01AE03,marque,Antalgiques et anti-inflammatoires,ANTI-INFLAMMATOIRES NON STEROIDIENS,active,GEL DERMIQUE,"0,025",GEPROFEN
+KETOFEN,kétoprofène,M01AE03,marque,Antalgiques et anti-inflammatoires,ANTI-INFLAMMATOIRES NON STEROIDIENS,active,GEL DERMIQUE,"0,025",KETOFEN
+KETONYX,kétoprofène,M01AE03,marque,Antalgiques et anti-inflammatoires,ANTI-INFLAMMATOIRES NON STEROIDIENS,active,GEL DERMIQUE,"0,025",KETONYX
+KETUM,kétoprofène,M01AE03,marque,Antalgiques et anti-inflammatoires,ANTI-INFLAMMATOIRES NON STEROIDIENS,active,GEL DERMIQUE,"0,025",KETUM
+KOPROFEN,kétoprofène,M01AE03,marque,Antalgiques et anti-inflammatoires,ANTI-INFLAMMATOIRES NON STEROIDIENS,active,GEL DERMIQUE,"0,025",KOPROFEN
+K-PROFEN,kétoprofène,M01AE03,marque,Antalgiques et anti-inflammatoires,ANTI-INFLAMMATOIRES NON STEROIDIENS,active,GEL DERMIQUE,"0,025",K-PROFEN
+SAIFEN,kétoprofène,M01AE03,marque,Antalgiques et anti-inflammatoires,ANTI-INFLAMMATOIRES NON STEROIDIENS,active,GEL DERMIQUE,0.025,SAIFEN
+PROFEN,kétoprofène,M01AE03,marque,Antalgiques et anti-inflammatoires,ANTI-INFLAMMATOIRES NON STEROIDIENS,active,GEL DERMIQUE,"0,025",PROFEN
+ALPROFEN,kétoprofène,M01AE03,marque,Antalgiques et anti-inflammatoires,ANTI-INFLAMMATOIRES NON STEROIDIENS,non_renouvele,SUPPO.,100MG,ALPROFEN
+GEPROFENE,kétoprofène,M01AE03,marque,Antalgiques et anti-inflammatoires,ANTI-INFLAMMATOIRES NON STEROIDIENS,non_renouvele,SUPPO.,100MG,GEPROFENE
+KETOPROFENE LPA,kétoprofène,M01AE03,marque,Antalgiques et anti-inflammatoires,ANTI-INFLAMMATOIRES NON STEROIDIENS,non_renouvele,SUPPO.,100MG,KETOPROFENE LPA
+KETOFEN LP,kétoprofène,M01AE03,marque,Antalgiques et anti-inflammatoires,ANTI-INFLAMMATOIRES NON STEROIDIENS,non_renouvele,GLES. LP,200MG,KETOFEN LP
+PROFEN LP,kétoprofène,M01AE03,marque,Antalgiques et anti-inflammatoires,ANTI-INFLAMMATOIRES NON STEROIDIENS,non_renouvele,GLES. A MICROGRLES. LP,200MG,PROFEN LP
+KEFENTECH,kétoprofène,M01AE03,marque,Antalgiques et anti-inflammatoires,ANTI-INFLAMMATOIRES NON STEROIDIENS,non_renouvele,PATCH,30MG,KEFENTECH
+KETOPROFENO RATIOPHARM,kétoprofène,M01AE03,marque,Antalgiques et anti-inflammatoires,ANTI-INFLAMMATOIRES NON STEROIDIENS,retire,SUPPO.,100MG,KETOPROFENO RATIOPHARM
+KETOFENID,kétoprofène,M01AE03,marque,Antalgiques et anti-inflammatoires,ANTI-INFLAMMATOIRES NON STEROIDIENS,retire,SUPPO.,100MG,KETOFENID
+PROFELADJ,kétoprofène,M01AE03,marque,Antalgiques et anti-inflammatoires,ANTI-INFLAMMATOIRES NON STEROIDIENS,retire,SOL. INJ. IM,100MG/2ML,PROFELADJ
+KETOFAN,kétoprofène,M01AE03,marque,Antalgiques et anti-inflammatoires,ANTI-INFLAMMATOIRES NON STEROIDIENS,retire,SOL.INJ.,100MG/2ML,KETOFAN
+PROFEMIGR,kétoprofène,M01AE03,marque,Antalgiques et anti-inflammatoires,ANTI-INFLAMMATOIRES NON STEROIDIENS,retire,COMPRIME SECABLE,150MG,PROFEMIGR
+PROFENID ENFANT ET NOURRISON,kétoprofène,M01AE03,marque,Antalgiques et anti-inflammatoires,ANTI-INFLAMMATOIRES NON STEROIDIENS,retire,SIROP,1MG/ML,PROFENID ENFANT ET NOURRISON
+NAPROLGIC,naproxène,M01AE02,marque,Antalgiques et anti-inflammatoires,ANTI-INFLAMMATOIRES NON STEROIDIENS,active,COMPRIME PELLICULE,275MG,NAPROLGIC
+NAPROX,naproxène,M01AE02,marque,Antalgiques et anti-inflammatoires,ANTI-INFLAMMATOIRES NON STEROIDIENS,active,COMPRIME PELLICULE,275MG,NAPROX
+NAPROXENE PHYSIOPHARM,naproxène,M01AE02,marque,Antalgiques et anti-inflammatoires,ANTI-INFLAMMATOIRES NON STEROIDIENS,active,COMPRIME PELLICULE,275MG,NAPROXENE PHYSIOPHARM
+NEXOPAIN,naproxène,M01AE02,marque,Antalgiques et anti-inflammatoires,ANTI-INFLAMMATOIRES NON STEROIDIENS,active,COMPRIME PELLICULE,275MG,NEXOPAIN
+NEXORPAN,naproxène,M01AE02,marque,Antalgiques et anti-inflammatoires,ANTI-INFLAMMATOIRES NON STEROIDIENS,active,COMPRIME,275MG,NEXORPAN
+NHUPAIN,naproxène,M01AE02,marque,Antalgiques et anti-inflammatoires,ANTI-INFLAMMATOIRES NON STEROIDIENS,active,COMPRIME PELLICULE,275MG,NHUPAIN
+NAREX,naproxène,M01AE02,marque,Antalgiques et anti-inflammatoires,ANTI-INFLAMMATOIRES NON STEROIDIENS,non_renouvele,COMPRIME PELLICULE,275MG,NAREX
+NOPAIN,naproxène,M01AE02,marque,Antalgiques et anti-inflammatoires,ANTI-INFLAMMATOIRES NON STEROIDIENS,non_renouvele,COMPRIME,275MG,NOPAIN
+PROXIDOL,naproxène,M01AE02,marque,Antalgiques et anti-inflammatoires,ANTI-INFLAMMATOIRES NON STEROIDIENS,non_renouvele,COMPRIME,275MG,PROXIDOL
+NOPAIN DS,naproxène,M01AE02,marque,Antalgiques et anti-inflammatoires,ANTI-INFLAMMATOIRES NON STEROIDIENS,non_renouvele,COMPRIME,550MG,NOPAIN DS
+PROXIDOL DS,naproxène,M01AE02,marque,Antalgiques et anti-inflammatoires,ANTI-INFLAMMATOIRES NON STEROIDIENS,non_renouvele,COMPRIME,550MG,PROXIDOL DS
+NOXEN,naproxène,M01AE02,marque,Antalgiques et anti-inflammatoires,ANTI-INFLAMMATOIRES NON STEROIDIENS,non_renouvele,COMPRIME PELLICULE,250MG,NOXEN
+NAPROXENE SOLUPHARM,naproxène,M01AE02,marque,Antalgiques et anti-inflammatoires,ANTI-INFLAMMATOIRES NON STEROIDIENS,retire,COMP.,275MG,NAPROXENE SOLUPHARM
+APRANAX,naproxène,M01AE02,marque,Antalgiques et anti-inflammatoires,ANTI-INFLAMMATOIRES NON STEROIDIENS,retire,COMP.PELLI.,275MG,APRANAX
+ACEPRAL,acide acétylsalicylique,N02BA01,marque,Antalgiques et anti-inflammatoires,,active,COMPRIME,500MG,ACEPRAL
+ACEPRAL CARDIO,acide acétylsalicylique,N02BA01,marque,Antalgiques et anti-inflammatoires,,active,COMPRIME,100MG,ACEPRAL CARDIO
+ASPEC,acide acétylsalicylique,N02BA01,marque,Antalgiques et anti-inflammatoires,,active,COMPRIME SECABLE,100MG,ASPEC
+ASPICARD,acide acétylsalicylique,N02BA01,marque,Antalgiques et anti-inflammatoires,,active,COMPRIME SECABLE,100MG,ASPICARD
+ASPINOVA,acide acétylsalicylique,N02BA01,marque,Antalgiques et anti-inflammatoires,,active,COMPRIME,100MG,ASPINOVA
+ASPIRINE CARDIO,acide acétylsalicylique,N02BA01,marque,Antalgiques et anti-inflammatoires,,active,GELULE,100MG,ASPIRINE CARDIO
+KARDEGIC,acide acétylsalicylique,N02BA01,marque,Antalgiques et anti-inflammatoires,,active,POUDRE POUR SOLUTION BUVABLE,75 MG,KARDEGIC
+ASPIRINE BEKER,acide acétylsalicylique,N02BA01,marque,Antalgiques et anti-inflammatoires,,non_renouvele,COMPRIME,500MG,ASPIRINE BEKER
+GEASPIRIQUE,acide acétylsalicylique,N02BA01,marque,Antalgiques et anti-inflammatoires,,non_renouvele,COMPRIME SECABLE,500MG,GEASPIRIQUE
+ASPIRINE BIOTIC,acide acétylsalicylique,N02BA01,marque,Antalgiques et anti-inflammatoires,,non_renouvele,COMPRIME,100MG,ASPIRINE BIOTIC
+ASIAPIRINE 81,acide acétylsalicylique,N02BA01,marque,Antalgiques et anti-inflammatoires,,non_renouvele,COMP. PELLI. GASTRO-RESIST.,81MG,ASIAPIRINE 81
+ASPALGINE,acide acétylsalicylique,N02BA01,marque,Antalgiques et anti-inflammatoires,,non_renouvele,COMPRIME SECABLE,81MG,ASPALGINE
+ASPROCARD,acide acétylsalicylique,N02BA01,marque,Antalgiques et anti-inflammatoires,,non_renouvele,COMP. ENRO. GASTRO-RESIST.,81MG,ASPROCARD
+GEASPERIQUE,acide acétylsalicylique,N02BA01,marque,Antalgiques et anti-inflammatoires,,non_renouvele,COMPRIME,100MG,GEASPERIQUE
+ACTOCYL,acide acétylsalicylique,N02BA01,marque,Antalgiques et anti-inflammatoires,,non_renouvele,COMPRIME SECABLE,80MG,ACTOCYL
+ASPIRINE PH8,acide acétylsalicylique,N02BA01,marque,Antalgiques et anti-inflammatoires,,retire,COMP.GASTRORESIST.,500MG,ASPIRINE PH8
+ATASPIN,acide acétylsalicylique,N02BA01,marque,Antalgiques et anti-inflammatoires,,retire,COMP.,500MG,ATASPIN
+ECOPIRIN,acide acétylsalicylique,N02BA01,marque,Antalgiques et anti-inflammatoires,,retire,COMP.,500MG,ECOPIRIN
+ASPRIL 500,acide acétylsalicylique,N02BA01,marque,Antalgiques et anti-inflammatoires,,retire,COMP.,500MG,ASPRIL 500
+CATALGINE ENF et NOUR,acide acétylsalicylique,N02BA01,marque,Antalgiques et anti-inflammatoires,,retire,PDRE. ORALE SACHET,100MG,CATALGINE ENF et NOUR
+CATALGINE ADULT,acide acétylsalicylique,N02BA01,marque,Antalgiques et anti-inflammatoires,,retire,PDRE ORALE SACHET,500MG,CATALGINE ADULT
+ASPIRINE UPSA 500,acide acétylsalicylique,N02BA01,marque,Antalgiques et anti-inflammatoires,,retire,COMP. EFFER.,500MG,ASPIRINE UPSA 500
+ASPIREFF-500,acide acétylsalicylique,N02BA01,marque,Antalgiques et anti-inflammatoires,,retire,COMP. EFFERV.,500MG,ASPIREFF-500
+ASPEVASC 100,acide acétylsalicylique,N02BA01,marque,Antalgiques et anti-inflammatoires,,retire,COMPRIME,100MG,ASPEVASC 100
+MELOX,méloxicam,M01AC06,marque,Antalgiques et anti-inflammatoires,ANTI-INFLAMMATOIRES NON STEROIDIENS,active,COMPRIME,15MG,MELOX
+MOVEN,méloxicam,M01AC06,marque,Antalgiques et anti-inflammatoires,ANTI-INFLAMMATOIRES NON STEROIDIENS,non_renouvele,GLES.,15MG,MOVEN
+MOTION 15,méloxicam,M01AC06,marque,Antalgiques et anti-inflammatoires,ANTI-INFLAMMATOIRES NON STEROIDIENS,non_renouvele,COMPRIME,15MG,MOTION 15
+OXIMAL,méloxicam,M01AC06,marque,Antalgiques et anti-inflammatoires,ANTI-INFLAMMATOIRES NON STEROIDIENS,non_renouvele,COMPRIME,15MG,OXIMAL
+EVOXICAM,méloxicam,M01AC06,marque,Antalgiques et anti-inflammatoires,ANTI-INFLAMMATOIRES NON STEROIDIENS,retire,COMPRIME,15MG,EVOXICAM
+FELCAM FAST,piroxicam,M01AC01,marque,Antalgiques et anti-inflammatoires,ANTI-INFLAMMATOIRES NON STEROIDIENS,active,COMPRIME DISPERSIBLE SECABLE,20MG,FELCAM FAST
+FENOXAM,piroxicam,M01AC01,marque,Antalgiques et anti-inflammatoires,ANTI-INFLAMMATOIRES NON STEROIDIENS,active,COMPRIME DISPERSIBLE SECABLE,20MG,FENOXAM
+FRADENE,piroxicam,M01AC01,marque,Antalgiques et anti-inflammatoires,ANTI-INFLAMMATOIRES NON STEROIDIENS,active,GELULE,20MG,FRADENE
+ORTHOCAM,piroxicam,M01AC01,marque,Antalgiques et anti-inflammatoires,ANTI-INFLAMMATOIRES NON STEROIDIENS,active,COMPRIME DISPERSIBLE SECABLE,20MG,ORTHOCAM
+PIROXICAM NOVAGENERICS,piroxicam,M01AC01,marque,Antalgiques et anti-inflammatoires,ANTI-INFLAMMATOIRES NON STEROIDIENS,active,GELULE,20MG,PIROXICAM NOVAGENERICS
+PIROXICAM PHYSIOPHARM,piroxicam,M01AC01,marque,Antalgiques et anti-inflammatoires,ANTI-INFLAMMATOIRES NON STEROIDIENS,active,GELULE,20MG,PIROXICAM PHYSIOPHARM
+PRELDENE,piroxicam,M01AC01,marque,Antalgiques et anti-inflammatoires,ANTI-INFLAMMATOIRES NON STEROIDIENS,active,GELULE,20MG,PRELDENE
+ROXICAM,piroxicam,M01AC01,marque,Antalgiques et anti-inflammatoires,ANTI-INFLAMMATOIRES NON STEROIDIENS,active,GELULE,20MG,ROXICAM
+PAINOXAM,piroxicam,M01AC01,marque,Antalgiques et anti-inflammatoires,ANTI-INFLAMMATOIRES NON STEROIDIENS,active,SUPPOSITOIRE,20MG,PAINOXAM
+PIROMEX,piroxicam,M01AC01,marque,Antalgiques et anti-inflammatoires,ANTI-INFLAMMATOIRES NON STEROIDIENS,active,SUPPOSITOIRE,20MG,PIROMEX
+PRIXAM,piroxicam,M01AC01,marque,Antalgiques et anti-inflammatoires,ANTI-INFLAMMATOIRES NON STEROIDIENS,active,SOL. INJ. IM,20MG/ML,PRIXAM
+PIROXEN,piroxicam,M01AC01,marque,Antalgiques et anti-inflammatoires,ANTI-INFLAMMATOIRES NON STEROIDIENS,active,SOLUTION INJECTABLE IM,20MG/ML,PIROXEN
+PIROXIDEN,piroxicam,M01AC01,marque,Antalgiques et anti-inflammatoires,ANTI-INFLAMMATOIRES NON STEROIDIENS,active,SOLUTION INJECTABLE IM,20MG/ML,PIROXIDEN
+FELCAM,piroxicam,M01AC01,marque,Antalgiques et anti-inflammatoires,ANTI-INFLAMMATOIRES NON STEROIDIENS,active,GEL,"0,005",FELCAM
+PIROXENE,piroxicam,M01AC01,marque,Antalgiques et anti-inflammatoires,ANTI-INFLAMMATOIRES NON STEROIDIENS,active,GEL DERMIQUE,"0,005",PIROXENE
+PIROCAM,piroxicam,M01AC01,marque,Antalgiques et anti-inflammatoires,ANTI-INFLAMMATOIRES NON STEROIDIENS,non_renouvele,COMPRIME,10MG,PIROCAM
+FELDENE,piroxicam,M01AC01,marque,Antalgiques et anti-inflammatoires,ANTI-INFLAMMATOIRES NON STEROIDIENS,non_renouvele,COMP.DISPER.SEC.,20MG,FELDENE
+PIROXICAM SANDOZ,piroxicam,M01AC01,marque,Antalgiques et anti-inflammatoires,ANTI-INFLAMMATOIRES NON STEROIDIENS,non_renouvele,COMPRIME SECABLE,20MG,PIROXICAM SANDOZ
+PIROXAL,piroxicam,M01AC01,marque,Antalgiques et anti-inflammatoires,ANTI-INFLAMMATOIRES NON STEROIDIENS,non_renouvele,SUPPO,20MG,PIROXAL
+POLIPIROX,piroxicam,M01AC01,marque,Antalgiques et anti-inflammatoires,ANTI-INFLAMMATOIRES NON STEROIDIENS,non_renouvele,SUPPO.,20MG,POLIPIROX
+PIROXICAM LPA,piroxicam,M01AC01,marque,Antalgiques et anti-inflammatoires,ANTI-INFLAMMATOIRES NON STEROIDIENS,non_renouvele,GEL DERM.,0.005,PIROXICAM LPA
+PIROXICAM - BAYER,piroxicam,M01AC01,marque,Antalgiques et anti-inflammatoires,ANTI-INFLAMMATOIRES NON STEROIDIENS,retire,GLES.,10MG,PIROXICAM - BAYER
+UNICAM,piroxicam,M01AC01,marque,Antalgiques et anti-inflammatoires,ANTI-INFLAMMATOIRES NON STEROIDIENS,retire,GLES.,10MG,UNICAM
+PIROXICAM BIOGARAN,piroxicam,M01AC01,marque,Antalgiques et anti-inflammatoires,ANTI-INFLAMMATOIRES NON STEROIDIENS,retire,GLES,10MG,PIROXICAM BIOGARAN
+HOTEMIN,piroxicam,M01AC01,marque,Antalgiques et anti-inflammatoires,ANTI-INFLAMMATOIRES NON STEROIDIENS,retire,GLES.,10MG,HOTEMIN
+INFLACED,piroxicam,M01AC01,marque,Antalgiques et anti-inflammatoires,ANTI-INFLAMMATOIRES NON STEROIDIENS,retire,GLES.,10MG,INFLACED
+OLCAM,piroxicam,M01AC01,marque,Antalgiques et anti-inflammatoires,ANTI-INFLAMMATOIRES NON STEROIDIENS,retire,GLES.,10MG,OLCAM
+PIROXICAM 10 REIG JOFRE,piroxicam,M01AC01,marque,Antalgiques et anti-inflammatoires,ANTI-INFLAMMATOIRES NON STEROIDIENS,retire,GLES.,10MG,PIROXICAM 10 REIG JOFRE
+ERAZON,piroxicam,M01AC01,marque,Antalgiques et anti-inflammatoires,ANTI-INFLAMMATOIRES NON STEROIDIENS,retire,GLES.,10MG,ERAZON
+SOTILEN,piroxicam,M01AC01,marque,Antalgiques et anti-inflammatoires,ANTI-INFLAMMATOIRES NON STEROIDIENS,retire,GLES.,20MG,SOTILEN
+PIROXICAM RATIOPHARM,piroxicam,M01AC01,marque,Antalgiques et anti-inflammatoires,ANTI-INFLAMMATOIRES NON STEROIDIENS,retire,GLES.,20MG,PIROXICAM RATIOPHARM
+PIROXICAM 20 STADA,piroxicam,M01AC01,marque,Antalgiques et anti-inflammatoires,ANTI-INFLAMMATOIRES NON STEROIDIENS,retire,COMP,20MG,PIROXICAM 20 STADA
+BLEDURAN,piroxicam,M01AC01,marque,Antalgiques et anti-inflammatoires,ANTI-INFLAMMATOIRES NON STEROIDIENS,retire,GLES,20MG,BLEDURAN
+PIROXICAM 20 REIG JOFRE,piroxicam,M01AC01,marque,Antalgiques et anti-inflammatoires,ANTI-INFLAMMATOIRES NON STEROIDIENS,retire,GLES.,20MG,PIROXICAM 20 REIG JOFRE
+XYCAM,piroxicam,M01AC01,marque,Antalgiques et anti-inflammatoires,ANTI-INFLAMMATOIRES NON STEROIDIENS,retire,GLES.,20MG,XYCAM
+RIACEN,piroxicam,M01AC01,marque,Antalgiques et anti-inflammatoires,ANTI-INFLAMMATOIRES NON STEROIDIENS,retire,GLES.,20MG,RIACEN
+TRISULAM,piroxicam,M01AC01,marque,Antalgiques et anti-inflammatoires,ANTI-INFLAMMATOIRES NON STEROIDIENS,retire,GLES.,20MG,TRISULAM
+ROXAM,piroxicam,M01AC01,marque,Antalgiques et anti-inflammatoires,ANTI-INFLAMMATOIRES NON STEROIDIENS,retire,SUPPO.,20MG,ROXAM
+FORTICAM,piroxicam,M01AC01,marque,Antalgiques et anti-inflammatoires,ANTI-INFLAMMATOIRES NON STEROIDIENS,retire,SUPPO,20MG,FORTICAM
+OXIJEX,piroxicam,M01AC01,marque,Antalgiques et anti-inflammatoires,ANTI-INFLAMMATOIRES NON STEROIDIENS,retire,SOL. INJ. IM,20MG/ML,OXIJEX
+FENOXAM 20,piroxicam,M01AC01,marque,Antalgiques et anti-inflammatoires,ANTI-INFLAMMATOIRES NON STEROIDIENS,retire,SOL. INJ. IM,20MG/ML,FENOXAM 20
+PROXALYOC,piroxicam,M01AC01,marque,Antalgiques et anti-inflammatoires,ANTI-INFLAMMATOIRES NON STEROIDIENS,retire,LYOPHILISAT ORAL,20MG,PROXALYOC
+PIROX,piroxicam,M01AC01,marque,Antalgiques et anti-inflammatoires,ANTI-INFLAMMATOIRES NON STEROIDIENS,retire,GEL,0.005,PIROX
+GELDENE,piroxicam,M01AC01,marque,Antalgiques et anti-inflammatoires,ANTI-INFLAMMATOIRES NON STEROIDIENS,retire,GEL P. APPLI. LOCALE,0.005,GELDENE
+ARBREX,célécoxib,M01AH01,marque,Antalgiques et anti-inflammatoires,ANTI-INFLAMMATOIRES NON STEROIDIENS,active,GELULE,100MG,ARBREX
+CEBREX 100,célécoxib,M01AH01,marque,Antalgiques et anti-inflammatoires,ANTI-INFLAMMATOIRES NON STEROIDIENS,active,GELULE,100MG,CEBREX 100
+CELEBREX,célécoxib,M01AH01,marque,Antalgiques et anti-inflammatoires,ANTI-INFLAMMATOIRES NON STEROIDIENS,active,GELULE,100MG,CELEBREX
+CELECOBREX HUP,célécoxib,M01AH01,marque,Antalgiques et anti-inflammatoires,ANTI-INFLAMMATOIRES NON STEROIDIENS,active,GELULE,100MG,CELECOBREX HUP
+CELECOMEX,célécoxib,M01AH01,marque,Antalgiques et anti-inflammatoires,ANTI-INFLAMMATOIRES NON STEROIDIENS,active,GELULE,100MG,CELECOMEX
+CELECOX,célécoxib,M01AH01,marque,Antalgiques et anti-inflammatoires,ANTI-INFLAMMATOIRES NON STEROIDIENS,active,GELULE,100MG,CELECOX
+CELECOXIB BEKER,célécoxib,M01AH01,marque,Antalgiques et anti-inflammatoires,ANTI-INFLAMMATOIRES NON STEROIDIENS,active,GELULE,100MG,CELECOXIB BEKER
+CELVEX,célécoxib,M01AH01,marque,Antalgiques et anti-inflammatoires,ANTI-INFLAMMATOIRES NON STEROIDIENS,active,GELULE,100MG,CELVEX
+CIREXA,célécoxib,M01AH01,marque,Antalgiques et anti-inflammatoires,ANTI-INFLAMMATOIRES NON STEROIDIENS,active,GELULE,100MG,CIREXA
+COXIBREX,célécoxib,M01AH01,marque,Antalgiques et anti-inflammatoires,ANTI-INFLAMMATOIRES NON STEROIDIENS,active,GELULE,100MG,COXIBREX
+COXITAB,célécoxib,M01AH01,marque,Antalgiques et anti-inflammatoires,ANTI-INFLAMMATOIRES NON STEROIDIENS,active,GELULE,100MG,COXITAB
+INICOX 100,célécoxib,M01AH01,marque,Antalgiques et anti-inflammatoires,ANTI-INFLAMMATOIRES NON STEROIDIENS,active,GELULE,100MG,INICOX 100
+MEDIBREX,célécoxib,M01AH01,marque,Antalgiques et anti-inflammatoires,ANTI-INFLAMMATOIRES NON STEROIDIENS,active,GELULE,100MG,MEDIBREX
+NOVABREX,célécoxib,M01AH01,marque,Antalgiques et anti-inflammatoires,ANTI-INFLAMMATOIRES NON STEROIDIENS,active,GELULE,100MG,NOVABREX
+RUMABREX,célécoxib,M01AH01,marque,Antalgiques et anti-inflammatoires,ANTI-INFLAMMATOIRES NON STEROIDIENS,active,GELULE,100MG,RUMABREX
+CEBREX 200,célécoxib,M01AH01,marque,Antalgiques et anti-inflammatoires,ANTI-INFLAMMATOIRES NON STEROIDIENS,active,GELULE,200MG,CEBREX 200
+CELECOXIB PHYSIOPHARM,célécoxib,M01AH01,marque,Antalgiques et anti-inflammatoires,ANTI-INFLAMMATOIRES NON STEROIDIENS,active,GELULE,200MG,CELECOXIB PHYSIOPHARM
+CELEXAL,célécoxib,M01AH01,marque,Antalgiques et anti-inflammatoires,ANTI-INFLAMMATOIRES NON STEROIDIENS,active,GELULE,200MG,CELEXAL
+INICOX 200,célécoxib,M01AH01,marque,Antalgiques et anti-inflammatoires,ANTI-INFLAMMATOIRES NON STEROIDIENS,active,GELULE,200MG,INICOX 200
+NOTOREX,célécoxib,M01AH01,marque,Antalgiques et anti-inflammatoires,ANTI-INFLAMMATOIRES NON STEROIDIENS,active,GELULE,200MG,NOTOREX
+CELOXIB,célécoxib,M01AH01,marque,Antalgiques et anti-inflammatoires,ANTI-INFLAMMATOIRES NON STEROIDIENS,retire,GLES.,100MG,CELOXIB
+CELECOXIB ZENTIVA,célécoxib,M01AH01,marque,Antalgiques et anti-inflammatoires,ANTI-INFLAMMATOIRES NON STEROIDIENS,retire,GLES.,100MG,CELECOXIB ZENTIVA
+DOLEX,tramadol,N02AX02,marque,Antalgiques et anti-inflammatoires,ANALGESIQUES MORPHINIQUES AGONISTES,active,GELULE,50MG,DOLEX
+SUPRAMADOL,tramadol,N02AX02,marque,Antalgiques et anti-inflammatoires,ANALGESIQUES MORPHINIQUES AGONISTES,active,GELULE,50MG,SUPRAMADOL
+TRAMADIS,tramadol,N02AX02,marque,Antalgiques et anti-inflammatoires,ANALGESIQUES MORPHINIQUES AGONISTES,active,GELULE,50MG,TRAMADIS
+TRAMADOL BEKER,tramadol,N02AX02,marque,Antalgiques et anti-inflammatoires,ANALGESIQUES MORPHINIQUES AGONISTES,active,GELULE,50MG,TRAMADOL BEKER
+TRAMADOL LS,tramadol,N02AX02,marque,Antalgiques et anti-inflammatoires,ANALGESIQUES MORPHINIQUES AGONISTES,active,GELULE,50MG,TRAMADOL LS
+TRAMADOL NOVAGENERICS,tramadol,N02AX02,marque,Antalgiques et anti-inflammatoires,ANALGESIQUES MORPHINIQUES AGONISTES,active,GELULE,50MG,TRAMADOL NOVAGENERICS
+TRAMAL,tramadol,N02AX02,marque,Antalgiques et anti-inflammatoires,ANALGESIQUES MORPHINIQUES AGONISTES,active,GELULE,50MG,TRAMAL
+TRAMEX,tramadol,N02AX02,marque,Antalgiques et anti-inflammatoires,ANALGESIQUES MORPHINIQUES AGONISTES,active,GELULE,50MG,TRAMEX
+DOLTRAM,tramadol,N02AX02,marque,Antalgiques et anti-inflammatoires,ANALGESIQUES MORPHINIQUES AGONISTES,active,GELULE,50MG,DOLTRAM
+ZODID,tramadol,N02AX02,marque,Antalgiques et anti-inflammatoires,ANALGESIQUES MORPHINIQUES AGONISTES,active,GELULE,50MG,ZODID
+TRAMADINE,tramadol,N02AX02,marque,Antalgiques et anti-inflammatoires,ANALGESIQUES MORPHINIQUES AGONISTES,active,SUPPOSITOIRE,100MG,TRAMADINE
+TRAMADOL BEKER LP,tramadol,N02AX02,marque,Antalgiques et anti-inflammatoires,ANALGESIQUES MORPHINIQUES AGONISTES,active,COMPRIME PELLICULE A LIBERATION PROLONGEE,100MG,TRAMADOL BEKER LP
+TRAMCETA LP,tramadol,N02AX02,marque,Antalgiques et anti-inflammatoires,ANALGESIQUES MORPHINIQUES AGONISTES,active,COMPRIME PELLICULE A LIBERATION PROLONGEE,300 MG,TRAMCETA LP
+DUOFEM,tramadol,N02AX02,marque,Antalgiques et anti-inflammatoires,ANALGESIQUES MORPHINIQUES AGONISTES,non_renouvele,GLES.,50MG,DUOFEM
+TRAMGESIC,tramadol,N02AX02,marque,Antalgiques et anti-inflammatoires,ANALGESIQUES MORPHINIQUES AGONISTES,non_renouvele,SOL. INJ.,50MG/ML (100MG/2ML),TRAMGESIC
+TRAMADOL-BIOGARAN,tramadol,N02AX02,marque,Antalgiques et anti-inflammatoires,ANALGESIQUES MORPHINIQUES AGONISTES,retire,GLES,50MG**,TRAMADOL-BIOGARAN
+ALGIDEX,tramadol,N02AX02,marque,Antalgiques et anti-inflammatoires,ANALGESIQUES MORPHINIQUES AGONISTES,retire,GLES.,50MG,ALGIDEX
+TREMADOL,tramadol,N02AX02,marque,Antalgiques et anti-inflammatoires,ANALGESIQUES MORPHINIQUES AGONISTES,retire,COMP.,50MG,TREMADOL
+TRAMADOL IBERAL,tramadol,N02AX02,marque,Antalgiques et anti-inflammatoires,ANALGESIQUES MORPHINIQUES AGONISTES,retire,GLES.,50MG,TRAMADOL IBERAL
+TRAMADOL SANDOZ,tramadol,N02AX02,marque,Antalgiques et anti-inflammatoires,ANALGESIQUES MORPHINIQUES AGONISTES,retire,GLES.,50MG,TRAMADOL SANDOZ
+CODOL,paracétamol + codéine,N02AA59,marque,Antalgiques et anti-inflammatoires,,active,COMPRIME,400MG/20MG,CODOL
+COEXPANDOL,paracétamol + codéine,N02AA59,marque,Antalgiques et anti-inflammatoires,,active,COMPRIME,400MG/20MG,COEXPANDOL
+COPARALGAN,paracétamol + codéine,N02AA59,marque,Antalgiques et anti-inflammatoires,,active,COMPRIME SECABLE,400MG/20MG,COPARALGAN
+PARAC-CO,paracétamol + codéine,N02AA59,marque,Antalgiques et anti-inflammatoires,,active,COMPRIME,400MG/20MG,PARAC-CO
+PARACETAMOL CODEINE PHYSIOPHARM,paracétamol + codéine,N02AA59,marque,Antalgiques et anti-inflammatoires,,active,COMPRIME,400MG/20MG,PARACETAMOL CODEINE PHYSIOPHARM
+CODOFEBRIL,paracétamol + codéine,N02AA59,marque,Antalgiques et anti-inflammatoires,,active,COMPRIME EFFERVESCENT SECABLE,500 MG/30 MG,CODOFEBRIL
+CO-DOLYC,paracétamol + codéine,N02AA59,marque,Antalgiques et anti-inflammatoires,,active,COMPRIME,500MG/30MG,CO-DOLYC
+COPARAMOL FORT,paracétamol + codéine,N02AA59,marque,Antalgiques et anti-inflammatoires,,active,COMPRIME,500MG/30MG,COPARAMOL FORT
+DAFALGAN CODEINE,paracétamol + codéine,N02AA59,marque,Antalgiques et anti-inflammatoires,,active,COMPRIME PELLICULE,500MG/30MG,DAFALGAN CODEINE
+EFFERALGAN CODEINE,paracétamol + codéine,N02AA59,marque,Antalgiques et anti-inflammatoires,,active,COMPRIME PELLICULE,500MG/30MG,EFFERALGAN CODEINE
+PARACETAMOL CODEINE PHYSIOIPHARM,paracétamol + codéine,N02AA59,marque,Antalgiques et anti-inflammatoires,,active,COMPRIME,500MG/30MG,PARACETAMOL CODEINE PHYSIOIPHARM
+PLANADIX CONFORT +,paracétamol + codéine,N02AA59,marque,Antalgiques et anti-inflammatoires,,active,COMPRIME,500MG/30MG,PLANADIX CONFORT +
+COPARAMOL,paracétamol + codéine,N02AA59,marque,Antalgiques et anti-inflammatoires,,non_renouvele,COMPRIME,400MG/20MG,COPARAMOL
+COPRALGIR,paracétamol + codéine,N02AA59,marque,Antalgiques et anti-inflammatoires,,non_renouvele,COMPRIME SECABLE,400MG/20MG,COPRALGIR
+CODOLIPRANE,paracétamol + codéine,N02AA59,marque,Antalgiques et anti-inflammatoires,,retire,COMPRIME SECABLE,400MG/20MG,CODOLIPRANE
+KLIPAL CODEINE,paracétamol + codéine,N02AA59,marque,Antalgiques et anti-inflammatoires,,retire,COMP.,300MG/25MG,KLIPAL CODEINE
+ANTAPAM,néfopam,N02BG06,marque,Antalgiques et anti-inflammatoires,,active,SOLUTION INJECTABLE IV /IM,20MG/2ML,ANTAPAM
+ACUPAN,néfopam,N02BG06,marque,Antalgiques et anti-inflammatoires,,non_renouvele,SOL. INJ. IM/IV,10MG/ML (OU 20MG/2ML),ACUPAN
+AMOXYPEN,amoxicilline,J01CA04,marque,Antibiotiques,,active,POUDRE EN SOLUTION INJECTABLE,500MG/FL. DE PDRE.,AMOXYPEN
+BIOPAMOX,amoxicilline,J01CA04,marque,Antibiotiques,,active,POUDRE POUR SOLUTION INJECTABLE,1G/FL,BIOPAMOX
+AMOXICILLINE EG,amoxicilline,J01CA04,marque,Antibiotiques,,active,POUDRE POUR SOLUTION BUVABLE,125MG/5ML,AMOXICILLINE EG
+AMOXIMEX,amoxicilline,J01CA04,marque,Antibiotiques,,active,POUDRE POUR SOLUTION BUVABLE,250MG/5ML,AMOXIMEX
+CLAMOXYL,amoxicilline,J01CA04,marque,Antibiotiques,,active,POUDRE POUR SOLUTION BUVABLE,250MG/5ML,CLAMOXYL
+HIMOXYL,amoxicilline,J01CA04,marque,Antibiotiques,,active,POUDRE POUR SOLUTION BUVABLE,250MG/5ML,HIMOXYL
+AMODEX-Gé,amoxicilline,J01CA04,marque,Antibiotiques,,active,POUDRE POUR SOLUTION BUVABLE,250MG/5ML,AMODEX-Gé
+LAMOXYL,amoxicilline,J01CA04,marque,Antibiotiques,,active,POUDRE POUR SUSPENSION BUVABLE,500MG/5ML,LAMOXYL
+PENAMOX,amoxicilline,J01CA04,marque,Antibiotiques,,active,POUDRE POUR SUSPENSION BUVABLE,500MG/5ML,PENAMOX
+PENAMOX D,amoxicilline,J01CA04,marque,Antibiotiques,,active,COMPRIME DISPERSIBLE,1G,PENAMOX D
+FAMOXYL,amoxicilline,J01CA04,marque,Antibiotiques,,non_renouvele,GLES,500MG,FAMOXYL
+GRAMOX,amoxicilline,J01CA04,marque,Antibiotiques,,non_renouvele,GLES.,500MG,GRAMOX
+PENAMOX 500,amoxicilline,J01CA04,marque,Antibiotiques,,non_renouvele,GLES.,500MG,PENAMOX 500
+AMODEX Gé,amoxicilline,J01CA04,marque,Antibiotiques,,non_renouvele,PDRE. SUSP. BUV.,500MG/5ML,AMODEX Gé
+SAIFOXYL,amoxicilline,J01CA04,marque,Antibiotiques,,non_renouvele,COMP. SEC. DISPERS.,500MG,SAIFOXYL
+AMOXICILLINE FLAVELAB,amoxicilline,J01CA04,marque,Antibiotiques,,retire,PDRE.SOL.INJ.,500MG,AMOXICILLINE FLAVELAB
+AMOXICILLINE PANPHARMA,amoxicilline,J01CA04,marque,Antibiotiques,,retire,PDRE.SOL.INJ.,500MG,AMOXICILLINE PANPHARMA
+AMOXICILLINE - SOLVAY,amoxicilline,J01CA04,marque,Antibiotiques,,retire,PDRE.SOL.INJ.,500MG,AMOXICILLINE - SOLVAY
+LISAMOX,amoxicilline,J01CA04,marque,Antibiotiques,,retire,PDRE.SOL.INJ.,500MG,LISAMOX
+BIAMOX,amoxicilline,J01CA04,marque,Antibiotiques,,retire,PDRE. ET SOLV.SOL. INJ.,100MG/ML (OU 500MG/5ML),BIAMOX
+AMOXAL,amoxicilline,J01CA04,marque,Antibiotiques,,retire,PDRE.SOL. INJ,200MG/ML (OU 1G/5ML),AMOXAL
+MOXILEN,amoxicilline,J01CA04,marque,Antibiotiques,,retire,PDRE.SOL.INJ.,1G,MOXILEN
+NEOMOX,amoxicilline,J01CA04,marque,Antibiotiques,,retire,GLES,250MG,NEOMOX
+AMOXYDAR,amoxicilline,J01CA04,marque,Antibiotiques,,retire,GLES.,250MG,AMOXYDAR
+HYMOX,amoxicilline,J01CA04,marque,Antibiotiques,,retire,GLES.,250MG,HYMOX
+OSPAMOX,amoxicilline,J01CA04,marque,Antibiotiques,,retire,GLES.,250MG,OSPAMOX
+PENACIN,amoxicilline,J01CA04,marque,Antibiotiques,,retire,GLES.,250MG,PENACIN
+ARDINE,amoxicilline,J01CA04,marque,Antibiotiques,,retire,GLES.,250MG,ARDINE
+AMOXI-GOBENS,amoxicilline,J01CA04,marque,Antibiotiques,,retire,GLES.,500MG,AMOXI-GOBENS
+AMODEX,amoxicilline,J01CA04,marque,Antibiotiques,,retire,GLES,500MG,AMODEX
+BRISTAMOX - HICONCIL,amoxicilline,J01CA04,marque,Antibiotiques,,retire,GLES,500MG,BRISTAMOX - HICONCIL
+LAMBERIN,amoxicilline,J01CA04,marque,Antibiotiques,,retire,GLES,500MG,LAMBERIN
+ULTRAMOX,amoxicilline,J01CA04,marque,Antibiotiques,,retire,GLES,500MG,ULTRAMOX
+ZAMOCILLINE,amoxicilline,J01CA04,marque,Antibiotiques,,retire,GLES,500MG,ZAMOCILLINE
+AMOXICILLINE KELA,amoxicilline,J01CA04,marque,Antibiotiques,,retire,GLES.,500MG,AMOXICILLINE KELA
+AMOXYDAR FORTE,amoxicilline,J01CA04,marque,Antibiotiques,,retire,GLES.,500MG,AMOXYDAR FORTE
+PHAMOX,amoxicilline,J01CA04,marque,Antibiotiques,,retire,GLES.,500MG,PHAMOX
+AGRAM,amoxicilline,J01CA04,marque,Antibiotiques,,retire,GLES.,500MG,AGRAM
+ALPHAMOX,amoxicilline,J01CA04,marque,Antibiotiques,,retire,GLES,500MG,ALPHAMOX
+AMOXICILLINE BIOGARAN,amoxicilline,J01CA04,marque,Antibiotiques,,retire,GLES,500MG,AMOXICILLINE BIOGARAN
+GRAMIDIL,amoxicilline,J01CA04,marque,Antibiotiques,,retire,GLES,500MG,GRAMIDIL
+PAN-AMOXICILLINE,amoxicilline,J01CA04,marque,Antibiotiques,,retire,GLES,500MG,PAN-AMOXICILLINE
+CLAMOX,amoxicilline,J01CA04,marque,Antibiotiques,,retire,GLES.,500MG,CLAMOX
+AMOXICILLINE-RATIOPHARM,amoxicilline,J01CA04,marque,Antibiotiques,,retire,GLES.,500MG,AMOXICILLINE-RATIOPHARM
+FARCONCIL,amoxicilline,J01CA04,marque,Antibiotiques,,retire,PDRE. P. SUSP.BUV.,125MG/5ML,FARCONCIL
+AMOXICILLINE - BAYER,amoxicilline,J01CA04,marque,Antibiotiques,,retire,PDRE P. SUSP BUV,250MG/5ML,AMOXICILLINE - BAYER
+SUPRAMOXYL,amoxicilline,J01CA04,marque,Antibiotiques,,retire,PDRE. P. SUSP. BUV,250MG/5ML,SUPRAMOXYL
+EMOX,amoxicilline,J01CA04,marque,Antibiotiques,,retire,PDRE. P. SUSP. BUV.,250MG/5ML,EMOX
+INPHAMOX,amoxicilline,J01CA04,marque,Antibiotiques,,retire,COMP.,1G,INPHAMOX
+AMMOXYL,amoxicilline,J01CA04,marque,Antibiotiques,,retire,COMP. DISPERS.,1G,AMMOXYL
+NOVOXYL,amoxicilline,J01CA04,marque,Antibiotiques,,retire,COMP. DISPERS.,250MG,NOVOXYL
+CLAVODA R 625,amoxicilline + acide clavulanique,J01CR02,marque,Antibiotiques,,active,COMPRIME PELLICULE,500MG/125MG,CLAVODA R 625
+CLAVODEX,amoxicilline + acide clavulanique,J01CR02,marque,Antibiotiques,,active,COMPRIME PELLICULE,500MG/125MG,CLAVODEX
+KLAVOX,amoxicilline + acide clavulanique,J01CR02,marque,Antibiotiques,,active,COMPRIME ENROBE,500MG/125MG,KLAVOX
+AMOCLAN 8:1,amoxicilline + acide clavulanique,J01CR02,marque,Antibiotiques,,active,POUDRE POUR SUSPENSION BUVABLE ENFANT ET NOURRISSON,"100MG/12,5MG/ML",AMOCLAN 8:1
+AUGMENTIN ENFANT ET AUGMENTIN NOURRISSON,amoxicilline + acide clavulanique,J01CR02,marque,Antibiotiques,,active,POUDRE POUR SUSPENSION BUVABLE ENFANT ET NOURRISSON,"100MG/12,5MG/ML",AUGMENTIN ENFANT ET AUGMENTIN NOURRISSON
+BIOCLAV,amoxicilline + acide clavulanique,J01CR02,marque,Antibiotiques,,active,POUDRE POUR SUSPENSION BUVABLE ENFANT ET NOURRISSON,"100MG/12,5MG/ML",BIOCLAV
+CLAMOCLAV ENFANT ET NOURRISSON,amoxicilline + acide clavulanique,J01CR02,marque,Antibiotiques,,active,POUDRE POUR SUSPENSION BUVABLE ENFANT ET NOURRISSON,"100MG/12,5MG/ML",CLAMOCLAV ENFANT ET NOURRISSON
+CLAMOXYPEN ENFANTS,amoxicilline + acide clavulanique,J01CR02,marque,Antibiotiques,,active,POUDRE POUR SUSPENSION BUVABLE ENFANT ET NOURRISSON,"100MG/12,5MG/ML",CLAMOXYPEN ENFANTS
+CLAMOXYPEN NOURISSONS,amoxicilline + acide clavulanique,J01CR02,marque,Antibiotiques,,active,POUDRE POUR SUSPENSION BUVABLE ENFANT ET NOURRISSON,"100MG/12,5MG/ML",CLAMOXYPEN NOURISSONS
+CLAMOXYPEN,amoxicilline + acide clavulanique,J01CR02,marque,Antibiotiques,,active,POUDRE POUR SOLUTION INJECTABLE IV,1G/200MG,CLAMOXYPEN
+AUGMENTIN ENFANT,amoxicilline + acide clavulanique,J01CR02,marque,Antibiotiques,,active,POUDRE POUR SUSPENSSION BUVABLE EN SACHET DOSE,500MG/62.5MG,AUGMENTIN ENFANT
+BIOCLAV 8:1,amoxicilline + acide clavulanique,J01CR02,marque,Antibiotiques,,active,POUDRE POUR SUSPENSSION BUVABLE EN SACHET DOSE,"500MG/62,5MG",BIOCLAV 8:1
+ECOCLAV,amoxicilline + acide clavulanique,J01CR02,marque,Antibiotiques,,active,POUDRE POUR SUSPENSSION BUVABLE EN SACHET DOSE,"500MG/62,5MG",ECOCLAV
+AMOCLAN BID,amoxicilline + acide clavulanique,J01CR02,marque,Antibiotiques,,active,POUDRE POUR SUSPENSSION BUVABLE,400MG/57MG/5ML,AMOCLAN BID
+CLAVODAR FORTE 400/57,amoxicilline + acide clavulanique,J01CR02,marque,Antibiotiques,,active,POUDRE POUR SOLUTION BUVABLE,400MG/57MG/5ML,CLAVODAR FORTE 400/57
+CLAVODEX DUO,amoxicilline + acide clavulanique,J01CR02,marque,Antibiotiques,,active,POUDRE POUR SUSPENSSION BUVABLE,400MG/57MG/5ML,CLAVODEX DUO
+CLAVODAR 1G,amoxicilline + acide clavulanique,J01CR02,marque,Antibiotiques,,active,COMPRIME PELLICULE,875MG*/125MG*,CLAVODAR 1G
+AUGMENTIN,amoxicilline + acide clavulanique,J01CR02,marque,Antibiotiques,,active,POUDRE POUR SUSPENSSION BUVABLE EN SACHET DOSE,1G/125MG,AUGMENTIN
+CLAMOCLAV,amoxicilline + acide clavulanique,J01CR02,marque,Antibiotiques,,active,POUDRE POUR SUSPENSSION BUVABLE EN SACHET DOSE,1G/125MG,CLAMOCLAV
+TABUKLAV,amoxicilline + acide clavulanique,J01CR02,marque,Antibiotiques,,active,PDRE. ET SOLV. SOL. INJ.,500MG/100MG,TABUKLAV
+AMOCLON ES,amoxicilline + acide clavulanique,J01CR02,marque,Antibiotiques,,active,POUDRE POUR SUSPENSSION BUVABLE,600MG/42.9MG/5ML,AMOCLON ES
+VAAMOX ENFANT ET NOURRISSON,amoxicilline + acide clavulanique,J01CR02,marque,Antibiotiques,,non_renouvele,PDRE. SOL. INJ. I.V. OU PERF.,500MG/50MG,VAAMOX ENFANT ET NOURRISSON
+ULTIMOX,amoxicilline + acide clavulanique,J01CR02,marque,Antibiotiques,,non_renouvele,COMP. PELLI. SEC.,500MG/125MG,ULTIMOX
+AMOCLAN FORTE,amoxicilline + acide clavulanique,J01CR02,marque,Antibiotiques,,non_renouvele,COMPRIME,500MG/125MG,AMOCLAN FORTE
+CLAMENTIN 625,amoxicilline + acide clavulanique,J01CR02,marque,Antibiotiques,,non_renouvele,COMPRIME,500MG/125 MG,CLAMENTIN 625
+CURAM,amoxicilline + acide clavulanique,J01CR02,marque,Antibiotiques,,non_renouvele,COMPRIME PELLICULE,500MG/125MG,CURAM
+MEGAMOX,amoxicilline + acide clavulanique,J01CR02,marque,Antibiotiques,,non_renouvele,COMPRIME,500MG/125MG,MEGAMOX
+CLAVUCILLINE,amoxicilline + acide clavulanique,J01CR02,marque,Antibiotiques,,non_renouvele,COMPRIME PELLICULE,500MG/125MG,CLAVUCILLINE
+AMOCLAV ENFANT,amoxicilline + acide clavulanique,J01CR02,marque,Antibiotiques,,non_renouvele,PDRE. P. SUSP. BUV.,"100MG/12,5MG/ML",AMOCLAV ENFANT
+VAAMOX ADULTE,amoxicilline + acide clavulanique,J01CR02,marque,Antibiotiques,,non_renouvele,PDRE. SOL. INJ. I.V. OU PERF.,1G/200MG,VAAMOX ADULTE
+AMOXICILLINE/ACIDE CLAVULANIQUE SANDOZ ADULTE,amoxicilline + acide clavulanique,J01CR02,marque,Antibiotiques,,non_renouvele,COMPRIME PELLICULE,"500MG/62,5MG",AMOXICILLINE/ACIDE CLAVULANIQUE SANDOZ ADULTE
+AUGMENTIN ADULTES,amoxicilline + acide clavulanique,J01CR02,marque,Antibiotiques,,non_renouvele,COMPRIME PELLICULE,"500MG/62,5MG",AUGMENTIN ADULTES
+CLAVOR,amoxicilline + acide clavulanique,J01CR02,marque,Antibiotiques,,non_renouvele,COMPRIME,"500MG/62,5MG",CLAVOR
+AUGMENTIMEX ADULTES,amoxicilline + acide clavulanique,J01CR02,marque,Antibiotiques,,non_renouvele,COMPRIME PELLICULE,"500MG/62,5MG",AUGMENTIMEX ADULTES
+"CLAVODAR 200/28,5",amoxicilline + acide clavulanique,J01CR02,marque,Antibiotiques,,non_renouvele,PDRE. P. SUSP. BUV.,"200MG**/28,5MG**","CLAVODAR 200/28,5"
+AMOCLAN,amoxicilline + acide clavulanique,J01CR02,marque,Antibiotiques,,non_renouvele,PDRE. P. SOL. INJ. IV,500MG/100MG/FL. DE PDRE.,AMOCLAN
+CLAVAMOX,amoxicilline + acide clavulanique,J01CR02,marque,Antibiotiques,,retire,COMPRIME PELLICULE,500MG/125MG,CLAVAMOX
+BIOTIC PLUS,amoxicilline + acide clavulanique,J01CR02,marque,Antibiotiques,,retire,PDRE.SUSP.BUV.,"250MG/62,5MG/5ML",BIOTIC PLUS
+AMOKSIKLAV,amoxicilline + acide clavulanique,J01CR02,marque,Antibiotiques,,retire,PDRE.SOL..BUV,"250MG/62,5MG/5ML",AMOKSIKLAV
+AMOXICILLINE / ACIDE CLAVULANIQUE SANDOZ (ENFANT ET NOURRISSON),amoxicilline + acide clavulanique,J01CR02,marque,Antibiotiques,,retire,PDRE. SUSP. BUV.,"100MG**/12,5MG**/ ML DE SOL. RECONSTITUEE",AMOXICILLINE / ACIDE CLAVULANIQUE SANDOZ (ENFANT ET NOURRISSON)
+AUGMENTIMEX ENFANTS,amoxicilline + acide clavulanique,J01CR02,marque,Antibiotiques,,retire,PDRE. SUSP. BUV.,"100MG/12,5MG/ML**",AUGMENTIMEX ENFANTS
+OROKAL,céfixime,J01DD08,marque,Antibiotiques,,active,POUDRE POUR SUSPENSION BUVABLE,40MG/5ML,OROKAL
+CEFIMAX,céfixime,J01DD08,marque,Antibiotiques,,active,POUDRE POUR SUSPENSION BUVABLE,40MG/5ML,CEFIMAX
+OROKEN ENF,céfixime,J01DD08,marque,Antibiotiques,,active,POUDRE POUR SUSPENSION BUVABLE,100MG/5ML,OROKEN ENF
+CEFIKEN,céfixime,J01DD08,marque,Antibiotiques,,active,COMPRIME PELLICULE,200MG,CEFIKEN
+OROKEN,céfixime,J01DD08,marque,Antibiotiques,,active,COMPRIME PELLICULE,200MG,OROKEN
+WINEX,céfixime,J01DD08,marque,Antibiotiques,,active,GELULE,200MG,WINEX
+BETIXIM,céfixime,J01DD08,marque,Antibiotiques,,active,GELULE,400MG,BETIXIM
+MEGACEF,céfixime,J01DD08,marque,Antibiotiques,,active,POUDRE POUR SUSPENSSION BUVABLE,200 MG,MEGACEF
+CEFIX,céfixime,J01DD08,marque,Antibiotiques,,non_renouvele,PDRE. SUSP. BUV.,100MG/5ML,CEFIX
+SUPRAXIME,céfixime,J01DD08,marque,Antibiotiques,,non_renouvele,PDRE. SUSP. BUV.,100MG/5ML** APRES RECONSTITUTION,SUPRAXIME
+ISIOCEF,céfixime,J01DD08,marque,Antibiotiques,,non_renouvele,COMPRIME,200MG,ISIOCEF
+BETIXIM 200,céfixime,J01DD08,marque,Antibiotiques,,non_renouvele,GLES.,200MG,BETIXIM 200
+OROKEN NOUR,céfixime,J01DD08,marque,Antibiotiques,,retire,PDRE.SUSP.BUV.,40MG/5ML,OROKEN NOUR
+XIMACEF,céfixime,J01DD08,marque,Antibiotiques,,retire,PDRE. SUSP. BUV.,100MG/5ML** DE SUSP. BUV. RECONSTITUEE,XIMACEF
+CEFROZINE,céfuroxime,J01DC02,marque,Antibiotiques,,active,COMPRIME PELLICULE,250MG,CEFROZINE
+CEFUCARE,céfuroxime,J01DC02,marque,Antibiotiques,,active,COMPRIME,250MG,CEFUCARE
+DAROXIME,céfuroxime,J01DC02,marque,Antibiotiques,,active,COMPRIME,250MG,DAROXIME
+U-CEF,céfuroxime,J01DC02,marque,Antibiotiques,,active,COMPRIME PELLICULE,250MG,U-CEF
+ZINETAL,céfuroxime,J01DC02,marque,Antibiotiques,,active,COMPRIME PELLICULE,250MG,ZINETAL
+ZINNAT,céfuroxime,J01DC02,marque,Antibiotiques,,active,COMPRIME,250MG,ZINNAT
+ZINOXIMOR,céfuroxime,J01DC02,marque,Antibiotiques,,active,COMPRIME PELLICULE,250MG,ZINOXIMOR
+ZYNAX,céfuroxime,J01DC02,marque,Antibiotiques,,active,COMPRIME PELLICULE,250MG,ZYNAX
+ZINOXIMOR 500,céfuroxime,J01DC02,marque,Antibiotiques,,active,COMPRIME PELLICULE,500MG,ZINOXIMOR 500
+CEFUTIL,céfuroxime,J01DC02,marque,Antibiotiques,,non_renouvele,COMPRIME,250MG,CEFUTIL
+CEFOFIX,céfuroxime,J01DC02,marque,Antibiotiques,,non_renouvele,PDRE. P. SOL. INJ. IM ET IV,750MG/FL. DE PDRE. 3ML(IM)** et 750MG/6ML(IV)**,CEFOFIX
+ZINOXIME,céfuroxime,J01DC02,marque,Antibiotiques,,non_renouvele,PDRE.SOL.INJ.IM/IV,750MG/FL. DE PDRE.**,ZINOXIME
+VEKFAZOLIN,céfuroxime,J01DC02,marque,Antibiotiques,,retire,PDRE. SOL. INJ,750MG/FL. DE PDRE.**,VEKFAZOLIN
+ZINACEF,céfuroxime,J01DC02,marque,Antibiotiques,,retire,PDRE .SOL.INJ. IM/I.V,750MG**,ZINACEF
+CETRIAL,ceftriaxone,J01DD04,marque,Antibiotiques,,active,PDRE P.PREPARATION INJ IV,1G/FL,CETRIAL
+CETRIAXONE HUP,ceftriaxone,J01DD04,marque,Antibiotiques,,active,PDRE. ET SOLV. P. SOL. INJ. IV,1G/FL. DE PDRE.,CETRIAXONE HUP
+ZAFOTRIAXONE,ceftriaxone,J01DD04,marque,Antibiotiques,,active,POUDRE POUR SOLUTION INJECTABLE IV/IM,1G/FL. DE PDRE.,ZAFOTRIAXONE
+OFRAMAX,ceftriaxone,J01DD04,marque,Antibiotiques,,non_renouvele,PDRE. ET SOLV. SOL INJ IM/IV,1G,OFRAMAX
+TRIAXONE,ceftriaxone,J01DD04,marque,Antibiotiques,,non_renouvele,PDRE. ET SOLVT. SOL. INJ . IV,1G/FL. DE PDRE.**,TRIAXONE
+CEFAXONE,ceftriaxone,J01DD04,marque,Antibiotiques,,non_renouvele,PDRE.ET SOLV. SOL. IV,100MG/ML (1000MG/10ML),CEFAXONE
+CEFTRIAXONA HIKMA,ceftriaxone,J01DD04,marque,Antibiotiques,,non_renouvele,PDRE. ET SOL. P. SOL. INJ. IV,500MG/FL. DE PDRE.,CEFTRIAXONA HIKMA
+"TRIAXONE 0,5",ceftriaxone,J01DD04,marque,Antibiotiques,,non_renouvele,PDRE. ET SOLV. INJ. IM,100MG/ML** (OU 500MG/5ML),"TRIAXONE 0,5"
+ROCEPHIN,ceftriaxone,J01DD04,marque,Antibiotiques,,retire,PDRE. ET SOLV. P. SOL.INJ.IV,1G/10ML,ROCEPHIN
+NOVOSEF,ceftriaxone,J01DD04,marque,Antibiotiques,,retire,PDRE SOL INJ IV,1G/ML,NOVOSEF
+FARCEF,ceftriaxone,J01DD04,marque,Antibiotiques,,retire,PDRE. SOL. INJ. IV,1G/FL. DE PDRE.**,FARCEF
+MESPORIN-1000,ceftriaxone,J01DD04,marque,Antibiotiques,,retire,PDRE.SOL.INJ.IV,1G,MESPORIN-1000
+MESPORIN-500,ceftriaxone,J01DD04,marque,Antibiotiques,,retire,PDRE.SOL.INJ.IV,500MG,MESPORIN-500
+FARCEF IM,ceftriaxone,J01DD04,marque,Antibiotiques,,retire,PDRE. ET SOLV. SOL. INJ. IM,1000MG/FL. DE PDRE.**,FARCEF IM
+AZIMYCINE,azithromycine,J01FA10,marque,Antibiotiques,,active,GELULE,250MG,AZIMYCINE
+BINOZYT,azithromycine,J01FA10,marque,Antibiotiques,,active,GELULE,250MG,BINOZYT
+MYCINAD,azithromycine,J01FA10,marque,Antibiotiques,,active,COMPRIME PELLICULE,250MG,MYCINAD
+ZETRON,azithromycine,J01FA10,marque,Antibiotiques,,active,GELULE,250MG,ZETRON
+ZITROMICINE,azithromycine,J01FA10,marque,Antibiotiques,,active,COMPRIME PELLICULE,250MG,ZITROMICINE
+ZOTRIX,azithromycine,J01FA10,marque,Antibiotiques,,active,COMPRIME PELLICULE,250MG,ZOTRIX
+ZOMAX,azithromycine,J01FA10,marque,Antibiotiques,,active,POUDRE POUR SOLUTION BUVABLE,200MG/5ML(40MG/ML),ZOMAX
+AZIMAC,azithromycine,J01FA10,marque,Antibiotiques,,active,COMPRIME PELLICULE SECABLE,500MG,AZIMAC
+AZITHRAL,azithromycine,J01FA10,marque,Antibiotiques,,active,COMPRIME PELLICULE SECABLE,500MG,AZITHRAL
+AZITHROM HUP,azithromycine,J01FA10,marque,Antibiotiques,,active,COMPRIME PELLICULE SECABLE,500MG,AZITHROM HUP
+AZITHROMYCINE BEKER,azithromycine,J01FA10,marque,Antibiotiques,,active,COMPRIME PELLICULE SECABLE,500MG,AZITHROMYCINE BEKER
+AZITHROMYCINE NS,azithromycine,J01FA10,marque,Antibiotiques,,active,COMPRIME PELLICULE SECABLE,500MG,AZITHROMYCINE NS
+ZITHROMAX,azithromycine,J01FA10,marque,Antibiotiques,,active,COMPRIME PELLICULE SECABLE,500MG,ZITHROMAX
+ZITHROMYCINE BGL,azithromycine,J01FA10,marque,Antibiotiques,,active,COMPRIME PELLICULE SECABLE,500MG,ZITHROMYCINE BGL
+AZYTER,azithromycine,J01FA10,marque,Antibiotiques,,active,COLLYRE EN SOLUTION EN RECIPIENT UNIDOSE,15 MG/G,AZYTER
+ZITHRON,azithromycine,J01FA10,marque,Antibiotiques,,non_renouvele,COMPRIME PELLICULE,600MG**,ZITHRON
+AZED,azithromycine,J01FA10,marque,Antibiotiques,,retire,COMP.,250MG,AZED
+ZITROCIN,azithromycine,J01FA10,marque,Antibiotiques,,retire,GLES.,250MG,ZITROCIN
+AZITHROMYCINE IBERAL,azithromycine,J01FA10,marque,Antibiotiques,,retire,COMP. PELLI,500MG,AZITHROMYCINE IBERAL
+AZROLID,azithromycine,J01FA10,marque,Antibiotiques,,retire,COMP. PELLI.,500MG**,AZROLID
+ORADRO,clarithromycine,J01FA09,marque,Antibiotiques,,active,COMPRIME PELLICULE,500MG,ORADRO
+ARICLARE,clarithromycine,J01FA09,marque,Antibiotiques,,active,COMPRIME PELLICULE,500MG,ARICLARE
+CLARIDAR 500,clarithromycine,J01FA09,marque,Antibiotiques,,active,COMPRIME PELLICULE,500MG,CLARIDAR 500
+CLARITAL,clarithromycine,J01FA09,marque,Antibiotiques,,active,COMPRIME PELLICULE,500MG,CLARITAL
+CLARITHRO,clarithromycine,J01FA09,marque,Antibiotiques,,active,COMPRIME PELLICULE,500MG,CLARITHRO
+CLARITHROMYCINE NS,clarithromycine,J01FA09,marque,Antibiotiques,,active,COMPRIME PELLICULE,500MG,CLARITHROMYCINE NS
+MEDOCLAR,clarithromycine,J01FA09,marque,Antibiotiques,,active,COMPRIME,500MG,MEDOCLAR
+RITOCINE,clarithromycine,J01FA09,marque,Antibiotiques,,active,COMPRIME PELLICULE,500MG,RITOCINE
+ZECLAR,clarithromycine,J01FA09,marque,Antibiotiques,,active,COMPRIME,500MG,ZECLAR
+CLARIDAR 250,clarithromycine,J01FA09,marque,Antibiotiques,,active,COMPRIME PELLICULE,250MG,CLARIDAR 250
+HUCLAR,clarithromycine,J01FA09,marque,Antibiotiques,,active,POUDRECPOUR SUSPENSION BUVABLE EN FLACON,250MG/5ML,HUCLAR
+CLARIDAR 125,clarithromycine,J01FA09,marque,Antibiotiques,,active,POUDRECPOUR SUSPENSION BUVABLE EN FLACON,125MG/5ML,CLARIDAR 125
+ZECLAR 25,clarithromycine,J01FA09,marque,Antibiotiques,,active,GRANULE POUR SUSPENSION BUVABLE,125MG/5ML,ZECLAR 25
+RITHRODAL,clarithromycine,J01FA09,marque,Antibiotiques,,non_renouvele,COMPRIME PELLICULE,500MG,RITHRODAL
+CLARITHROMYCINE GEO,clarithromycine,J01FA09,marque,Antibiotiques,,non_renouvele,COMPRIME PELLICULE,500MG,CLARITHROMYCINE GEO
+ERACID 500,clarithromycine,J01FA09,marque,Antibiotiques,,non_renouvele,COMPRIME PELLICULE,500MG,ERACID 500
+ERACID,clarithromycine,J01FA09,marque,Antibiotiques,,non_renouvele,COMPRIME,250MG,ERACID
+KLAXIN,clarithromycine,J01FA09,marque,Antibiotiques,,non_renouvele,COMPRIME PELLICULE,250MG,KLAXIN
+CLARITT,clarithromycine,J01FA09,marque,Antibiotiques,,non_renouvele,SUSP. ORALE,250MG/5ML,CLARITT
+ZECLAR 50,clarithromycine,J01FA09,marque,Antibiotiques,,non_renouvele,GRLES. SUSP. BUV.,250MG/5ML,ZECLAR 50
+KLARIMIX 500,clarithromycine,J01FA09,marque,Antibiotiques,,retire,COMP.,500MG,KLARIMIX 500
+CIFLOXACINE,ciprofloxacine,J01MA02,marque,Antibiotiques,,active,SOLUTION INJECTABLE P.PERF IV,2MG/ML,CIFLOXACINE
+CIPROFLOXACINE RAZES,ciprofloxacine,J01MA02,marque,Antibiotiques,,active,SOLUTION INJECTABLE P.PERF IV,2MG/ML,CIPROFLOXACINE RAZES
+CIPROFLOXAL,ciprofloxacine,J01MA02,marque,Antibiotiques,,active,SOLUTION INJECTABLE P.PERF IV,2MG/ML,CIPROFLOXAL
+INDPRO,ciprofloxacine,J01MA02,marque,Antibiotiques,,active,SOLUTION INJECTABLE P.PERF IV,2MG/ML,INDPRO
+CIPROTEK,ciprofloxacine,J01MA02,marque,Antibiotiques,,active,COMPRIME PELLICULE,250MG,CIPROTEK
+FLOCINE250,ciprofloxacine,J01MA02,marque,Antibiotiques,,active,COMPRIME PELLICULE,250MG,FLOCINE250
+LOXANAD,ciprofloxacine,J01MA02,marque,Antibiotiques,,active,COMPRIME PELLICULE,250MG,LOXANAD
+CIPRO 500,ciprofloxacine,J01MA02,marque,Antibiotiques,,active,COMPRIME PELLICULE,500MG,CIPRO 500
+CIPRODAR,ciprofloxacine,J01MA02,marque,Antibiotiques,,active,COMPRIME PELLICULE,500MG,CIPRODAR
+CIPROFLOXACINE BEKER,ciprofloxacine,J01MA02,marque,Antibiotiques,,active,COMPRIME PELLICULE SECABLE,500MG,CIPROFLOXACINE BEKER
+FLOCINE500,ciprofloxacine,J01MA02,marque,Antibiotiques,,active,COMPRIME PELLICULE SECABLE,500MG,FLOCINE500
+MEFLOX,ciprofloxacine,J01MA02,marque,Antibiotiques,,active,COMPRIME PELLICULE,500MG,MEFLOX
+OZAFLOX,ciprofloxacine,J01MA02,marque,Antibiotiques,,active,COMPRIME ENROBE SECABLE,500MG,OZAFLOX
+QUINOX,ciprofloxacine,J01MA02,marque,Antibiotiques,,active,COMPRIME PELLICULE,500MG,QUINOX
+QUINOX LP,ciprofloxacine,J01MA02,marque,Antibiotiques,,active,COMPRIME A LIBERATION PROLONGEE,1G,QUINOX LP
+CIPRO,ciprofloxacine,J01MA02,marque,Antibiotiques,,active,COLLYRE EN SOLUTION,0.3%,CIPRO
+CILOXAN,ciprofloxacine,J01MA02,marque,Antibiotiques,,active,POMMADE OPHTALMIQUE,"0,003",CILOXAN
+OTOCINE,ciprofloxacine,J01MA02,marque,Antibiotiques,,active,SOL AURICULAIRE STERILE,"2MG/ML (1MG/0,5ML)",OTOCINE
+OTOFLOX,ciprofloxacine,J01MA02,marque,Antibiotiques,,active,SOL AURICULAIRE STERILE,"2MG/ML (1MG/0,5ML)",OTOFLOX
+CIPROLON,ciprofloxacine,J01MA02,marque,Antibiotiques,,non_renouvele,SOL INJ PERF.IV,2MG/ML (200MG/100ML) (400MG/200ML),CIPROLON
+PROFLOX,ciprofloxacine,J01MA02,marque,Antibiotiques,,non_renouvele,COMPRIME PELLICULE,250MG,PROFLOX
+CIPRO 750,ciprofloxacine,J01MA02,marque,Antibiotiques,,non_renouvele,COMPRIME PELLICULE,750MG,CIPRO 750
+CIPROCINE,ciprofloxacine,J01MA02,marque,Antibiotiques,,non_renouvele,PELLETS P. SUSP. BUV.,250MG/5ML,CIPROCINE
+CIPROMAX,ciprofloxacine,J01MA02,marque,Antibiotiques,,retire,COMP. PELLI.,250MG,CIPROMAX
+CIPROFLOXACINE IBERAL,ciprofloxacine,J01MA02,marque,Antibiotiques,,retire,COMP. PELLI.,250MG**,CIPROFLOXACINE IBERAL
+CIPROMID 250,ciprofloxacine,J01MA02,marque,Antibiotiques,,retire,COMP. PELLI.,250MG,CIPROMID 250
+CIPROVAL,ciprofloxacine,J01MA02,marque,Antibiotiques,,retire,COMP. PELLI. SEC.,250MG,CIPROVAL
+CIPROFLOXACINE ZENTIVA,ciprofloxacine,J01MA02,marque,Antibiotiques,,retire,COMPRIME PELLICULE,500MG,CIPROFLOXACINE ZENTIVA
+CIPROMID 500,ciprofloxacine,J01MA02,marque,Antibiotiques,,retire,COMP. PELLI.,500MG,CIPROMID 500
+BACTALL,ciprofloxacine,J01MA02,marque,Antibiotiques,,retire,COMP. ENRO. SEC.,750MG**,BACTALL
+BIOFLOX,ciprofloxacine,J01MA02,marque,Antibiotiques,,retire,COMP. PELLI.,750MG**,BIOFLOX
+MATADOR 250,lévofloxacine,J01MA12,marque,Antibiotiques,,active,COMPRIME PELLICULE,250MG,MATADOR 250
+LEVOFLOX,lévofloxacine,J01MA12,marque,Antibiotiques,,active,COMPRIME PELLICULE SECABLE,500MG,LEVOFLOX
+LEVOQUIN,lévofloxacine,J01MA12,marque,Antibiotiques,,active,COMPRIME PELLICULE SECABLE,500MG,LEVOQUIN
+LOXAMOX,lévofloxacine,J01MA12,marque,Antibiotiques,,active,COMPRIME PELLICULE SECABLE,500MG,LOXAMOX
+MATADOR 500,lévofloxacine,J01MA12,marque,Antibiotiques,,active,COMPRIME PELLICULE,500MG,MATADOR 500
+LEVOFLOXACINE RAZES,lévofloxacine,J01MA12,marque,Antibiotiques,,active,SOLUTION POUR PERFUSION,5MG/ML,LEVOFLOXACINE RAZES
+LEVOWORLD,lévofloxacine,J01MA12,marque,Antibiotiques,,active,GOUTTES OCULAIRES ET AURICULAIRES EN SOLUTION,5MG/ML,LEVOWORLD
+MATADOR 750,lévofloxacine,J01MA12,marque,Antibiotiques,,active,COMPRIME PELLICULE,750MG,MATADOR 750
+VIVAXIN,lévofloxacine,J01MA12,marque,Antibiotiques,,active,COLLYRE,5MG/ML,VIVAXIN
+TAVANIC,lévofloxacine,J01MA12,marque,Antibiotiques,,non_renouvele,COMP.PELLI. SEC.,250MG,TAVANIC
+LEVOFLOXACINE PHARMAGHREB 500,lévofloxacine,J01MA12,marque,Antibiotiques,,retire,SOL. INJ. P. PERF. IV,5MG/ML**,LEVOFLOXACINE PHARMAGHREB 500
+XYLINE,doxycycline,J01AA02,marque,Antibiotiques,,active,COMPRIME SECABLE,100 MG,XYLINE
+DOTUR,doxycycline,J01AA02,marque,Antibiotiques,,active,COMPRIME SECABLE,100 MG,DOTUR
+DOXYNUP,doxycycline,J01AA02,marque,Antibiotiques,,active,COMPRIME ORODISPERSIBLE,100MG,DOXYNUP
+BIOMYCINE,doxycycline,J01AA02,marque,Antibiotiques,,non_renouvele,COMPRIME,100MG,BIOMYCINE
+DOXYLINE,doxycycline,J01AA02,marque,Antibiotiques,,non_renouvele,GLES.,100MG,DOXYLINE
+DOXYTEC,doxycycline,J01AA02,marque,Antibiotiques,,retire,COMP.,100MG,DOXYTEC
+NOVIMAX,doxycycline,J01AA02,marque,Antibiotiques,,retire,COMP.,100MG,NOVIMAX
+DOXYDAR,doxycycline,J01AA02,marque,Antibiotiques,,retire,GLES,100MG,DOXYDAR
+DOXINATE,doxycycline,J01AA02,marque,Antibiotiques,,retire,GLES.,100MG,DOXINATE
+DOXYL,doxycycline,J01AA02,marque,Antibiotiques,,retire,GLES.,100MG,DOXYL
+TABOCINE 100,doxycycline,J01AA02,marque,Antibiotiques,,retire,GLES.,100MG,TABOCINE 100
+DOXYCYCLINE-RATIOPHARM,doxycycline,J01AA02,marque,Antibiotiques,,retire,CAPS.,100MG,DOXYCYCLINE-RATIOPHARM
+MONOCLINE,doxycycline,J01AA02,marque,Antibiotiques,,retire,COMP.,100MG,MONOCLINE
+ZADORIN-100,doxycycline,J01AA02,marque,Antibiotiques,,retire,GLES,100MG,ZADORIN-100
+SIGADOXIN,doxycycline,J01AA02,marque,Antibiotiques,,retire,GLES.,100MG,SIGADOXIN
+VIBRAMYCINE,doxycycline,J01AA02,marque,Antibiotiques,,retire,COMPRIME SECABLE,100MG,VIBRAMYCINE
+DOXYCYCLINE KELA,doxycycline,J01AA02,marque,Antibiotiques,,retire,COMP. DISPERS. SEC.,100MG,DOXYCYCLINE KELA
+BACTISOL,cotrimoxazole (sulfaméthoxazole + triméthoprime),J01EE01,marque,Antibiotiques,,active,SUSPENSION BUVABLE,200MG/40MG/5ML,BACTISOL
+COTRIM,cotrimoxazole (sulfaméthoxazole + triméthoprime),J01EE01,marque,Antibiotiques,,active,SUSPENSION BUVABLE,200MG/40MG/5ML,COTRIM
+COTRIMAZOLE,cotrimoxazole (sulfaméthoxazole + triméthoprime),J01EE01,marque,Antibiotiques,,active,SUSPENSION BUVABLE,200MG/40MG/5Ml,COTRIMAZOLE
+DIPRIM,cotrimoxazole (sulfaméthoxazole + triméthoprime),J01EE01,marque,Antibiotiques,,active,SUSPENSION BUVABLE,200MG/40MG/5Ml,DIPRIM
+C-ZOLE,cotrimoxazole (sulfaméthoxazole + triméthoprime),J01EE01,marque,Antibiotiques,,active,SOLUTION INJECTABLE POUR PER IV,80 MG/400MG ( 16MG/ML/80 MG/ML),C-ZOLE
+COTRIMOXAL,cotrimoxazole (sulfaméthoxazole + triméthoprime),J01EE01,marque,Antibiotiques,,active,COMPRIME,400MG/80MG,COTRIMOXAL
+PRIMAZOL,cotrimoxazole (sulfaméthoxazole + triméthoprime),J01EE01,marque,Antibiotiques,,active,COMPRIME,400MG/80MG,PRIMAZOL
+COTRIMOXAL FORTE,cotrimoxazole (sulfaméthoxazole + triméthoprime),J01EE01,marque,Antibiotiques,,active,COMPRIME AVEC BARRE DE CASSEURE,800MG/160MG,COTRIMOXAL FORTE
+SULPRIM,cotrimoxazole (sulfaméthoxazole + triméthoprime),J01EE01,marque,Antibiotiques,,non_renouvele,SUSP.BUV.,200MG/40MG/5ML,SULPRIM
+GETRIM,cotrimoxazole (sulfaméthoxazole + triméthoprime),J01EE01,marque,Antibiotiques,,non_renouvele,COMPRIME,400MG/80MG,GETRIM
+GETRIM FORT,cotrimoxazole (sulfaméthoxazole + triméthoprime),J01EE01,marque,Antibiotiques,,non_renouvele,COMPRIME,800MG/160MG,GETRIM FORT
+SULTRIM,cotrimoxazole (sulfaméthoxazole + triméthoprime),J01EE01,marque,Antibiotiques,,retire,SUSP BUV,200MG/40MG/5ML,SULTRIM
+CO - TRIMOXAZOLE,cotrimoxazole (sulfaméthoxazole + triméthoprime),J01EE01,marque,Antibiotiques,,retire,SUSP. BUV.,200MG/40MG/5ML,CO - TRIMOXAZOLE
+ALPHATRIM,cotrimoxazole (sulfaméthoxazole + triméthoprime),J01EE01,marque,Antibiotiques,,retire,SUSP.BUV.,200MG/40MG/5ML,ALPHATRIM
+BACTEKOD,cotrimoxazole (sulfaméthoxazole + triméthoprime),J01EE01,marque,Antibiotiques,,retire,SUSP.BUV.,200MG/40MG/5ML,BACTEKOD
+BACTRIM,cotrimoxazole (sulfaméthoxazole + triméthoprime),J01EE01,marque,Antibiotiques,,retire,SUSP.BUV.,200MG/40MG/5ML,BACTRIM
+BALKATRINE,cotrimoxazole (sulfaméthoxazole + triméthoprime),J01EE01,marque,Antibiotiques,,retire,SUSP.BUV.,200MG/40MG/5ML,BALKATRINE
+CIPLIN,cotrimoxazole (sulfaméthoxazole + triméthoprime),J01EE01,marque,Antibiotiques,,retire,SUSP.BUV.,200MG/40MG/5ML,CIPLIN
+NORTRIME,cotrimoxazole (sulfaméthoxazole + triméthoprime),J01EE01,marque,Antibiotiques,,retire,SUSP.BUV.,200MG/40MG/5ML,NORTRIME
+PRIMOTREN,cotrimoxazole (sulfaméthoxazole + triméthoprime),J01EE01,marque,Antibiotiques,,retire,SUSP.BUV.,200MG/40MG/5ML,PRIMOTREN
+PURBAC PEDIATRIC,cotrimoxazole (sulfaméthoxazole + triméthoprime),J01EE01,marque,Antibiotiques,,retire,SUSP.BUV.,200MG/40MG/5ML,PURBAC PEDIATRIC
+TRIMIDAR - M,cotrimoxazole (sulfaméthoxazole + triméthoprime),J01EE01,marque,Antibiotiques,,retire,SUSP.BUV.,200MG/40MG/5ML,TRIMIDAR - M
+CO -TRIMOXAZOLE,cotrimoxazole (sulfaméthoxazole + triméthoprime),J01EE01,marque,Antibiotiques,,retire,COMP.,400MG/80MG,CO -TRIMOXAZOLE
+COTRIM ADULTE,cotrimoxazole (sulfaméthoxazole + triméthoprime),J01EE01,marque,Antibiotiques,,retire,COMP.,400MG/80MG,COTRIM ADULTE
+GROPRIM,cotrimoxazole (sulfaméthoxazole + triméthoprime),J01EE01,marque,Antibiotiques,,retire,COMP.,400MG/80MG,GROPRIM
+TRIMOSUL,cotrimoxazole (sulfaméthoxazole + triméthoprime),J01EE01,marque,Antibiotiques,,retire,COMP.,400MG/80MG,TRIMOSUL
+TRIZOL,cotrimoxazole (sulfaméthoxazole + triméthoprime),J01EE01,marque,Antibiotiques,,retire,COMP.,400MG/80MG,TRIZOL
+BACTRIM FORTE,cotrimoxazole (sulfaméthoxazole + triméthoprime),J01EE01,marque,Antibiotiques,,retire,COMP.,800MG/160MG,BACTRIM FORTE
+TRIMIDAR M,cotrimoxazole (sulfaméthoxazole + triméthoprime),J01EE01,marque,Antibiotiques,,retire,COMP.,800MG/160MG,TRIMIDAR M
+TRIMOX,cotrimoxazole (sulfaméthoxazole + triméthoprime),J01EE01,marque,Antibiotiques,,retire,COMP,800MG/160MG,TRIMOX
+BACTEKOD FORT,cotrimoxazole (sulfaméthoxazole + triméthoprime),J01EE01,marque,Antibiotiques,,retire,COMP.,800MG/160MG,BACTEKOD FORT
+PRIMAZOL FORT,cotrimoxazole (sulfaméthoxazole + triméthoprime),J01EE01,marque,Antibiotiques,,retire,COMP.,800MG/160MG,PRIMAZOL FORT
+PURBAC,cotrimoxazole (sulfaméthoxazole + triméthoprime),J01EE01,marque,Antibiotiques,,retire,COMP.,800MG/160MG,PURBAC
+CORTIMAZOL FORT-RATIOPHARM,cotrimoxazole (sulfaméthoxazole + triméthoprime),J01EE01,marque,Antibiotiques,,retire,COMP.,800MG/160MG,CORTIMAZOL FORT-RATIOPHARM
+METROZEX,métronidazole,J01XD01,marque,Antibiotiques,,active,GEL DERMIQUE,"0,0075",METROZEX
+ROSADOZE,métronidazole,J01XD01,marque,Antibiotiques,,active,GEL DERMIQUE,"0,0075",ROSADOZE
+ROZEX,métronidazole,J01XD01,marque,Antibiotiques,,active,GEL DERMIQUE,"0,0075",ROZEX
+FLAGYL,métronidazole,J01XD01,marque,Antibiotiques,,active,OVULE VAGINALE,500MG,FLAGYL
+FONGYMEX,métronidazole,J01XD01,marque,Antibiotiques,,active,OVULE,500MG,FONGYMEX
+IMUZOLE,métronidazole,J01XD01,marque,Antibiotiques,,active,OVULE VAGINALE,500MG,IMUZOLE
+METROFAGYL,métronidazole,J01XD01,marque,Antibiotiques,,active,OVULE,500MG,METROFAGYL
+BIODAZOLE,métronidazole,J01XD01,marque,Antibiotiques,,active,SOLUTION INJECTABLE,5MG/ML (500MG/100ML),BIODAZOLE
+MEDROGYL,métronidazole,J01XD01,marque,Antibiotiques,,active,SOLUTION INJECTABLE IV,5MG/ML (500MG/100ML),MEDROGYL
+METRONIDAZOLE BIEFFE MEDITAL,métronidazole,J01XD01,marque,Antibiotiques,,active,SOLUTION INJECTABLE,5MG/ML (500MG/100ML),METRONIDAZOLE BIEFFE MEDITAL
+"METRONIDAZOLE RAZES 0,5%",métronidazole,J01XD01,marque,Antibiotiques,,active,SOLUTION INJECTABLE POUR PERFUSION,5MG/ML (500MG/100ML),"METRONIDAZOLE RAZES 0,5%"
+MEDAZOL,métronidazole,J01XD01,marque,Antibiotiques,,active,COMPRIME,250MG,MEDAZOL
+METROGYL,métronidazole,J01XD01,marque,Antibiotiques,,active,COMPRIME,250MG,METROGYL
+METRONIDAL,métronidazole,J01XD01,marque,Antibiotiques,,active,COMPRIME PELLICULE,250MG,METRONIDAL
+METRONIDAZOLE BEKER,métronidazole,J01XD01,marque,Antibiotiques,,active,GELULE,250MG,METRONIDAZOLE BEKER
+METRONIDQZAZOLE MM,métronidazole,J01XD01,marque,Antibiotiques,,active,COPRIME PELLICULE,250MG,METRONIDQZAZOLE MM
+RONIDAZ 250,métronidazole,J01XD01,marque,Antibiotiques,,active,COMPRIME SECABLE,250MG,RONIDAZ 250
+FLAZOL,métronidazole,J01XD01,marque,Antibiotiques,,active,SUSPENSION BUVABLE,125MG/5ML,FLAZOL
+METAGYL,métronidazole,J01XD01,marque,Antibiotiques,,active,SUSPENSION BUVABLE,125MG/5ML,METAGYL
+FLAGYNEX,métronidazole,J01XD01,marque,Antibiotiques,,active,COMPRIME PELLICULE,500MG,FLAGYNEX
+METAZOLE,métronidazole,J01XD01,marque,Antibiotiques,,active,COMPRIME PELLICULE,500MG,METAZOLE
+MEDOGYL,métronidazole,J01XD01,marque,Antibiotiques,,active,COMPRIME PELLICULE,500MG,MEDOGYL
+METRONIDAZOLE HUP,métronidazole,J01XD01,marque,Antibiotiques,,active,COMPRIME SECABLE,500MG,METRONIDAZOLE HUP
+METRONIDAZOLE MM,métronidazole,J01XD01,marque,Antibiotiques,,active,COMPRIME PELLICULE,500MG,METRONIDAZOLE MM
+RONIDAZ 500,métronidazole,J01XD01,marque,Antibiotiques,,active,COMPRIME,500MG,RONIDAZ 500
+FLANIZOL,métronidazole,J01XD01,marque,Antibiotiques,,non_renouvele,GEL DERM.,0.0075,FLANIZOL
+FONGYNE,métronidazole,J01XD01,marque,Antibiotiques,,non_renouvele,OVULES GYNECO.,500MG,FONGYNE
+METRIS,métronidazole,J01XD01,marque,Antibiotiques,,non_renouvele,SOL. INJ.,500MG,METRIS
+SUPPLIN,métronidazole,J01XD01,marque,Antibiotiques,,non_renouvele,SOL.INJ.IV.,500MG,SUPPLIN
+NIDAZOLE,métronidazole,J01XD01,marque,Antibiotiques,,non_renouvele,SUSP.BUV.,125MG/5ML,NIDAZOLE
+METZOL,métronidazole,J01XD01,marque,Antibiotiques,,non_renouvele,SIROP,125MG/5ML,METZOL
+METROZA,métronidazole,J01XD01,marque,Antibiotiques,,retire,GEL DERM.,0.0075,METROZA
+ENTIZOL,métronidazole,J01XD01,marque,Antibiotiques,,retire,COMP.GYNECO.,500MG,ENTIZOL
+GYNOPLIX,métronidazole,J01XD01,marque,Antibiotiques,,retire,OVULE,500MG,GYNOPLIX
+AMRIZOLE,métronidazole,J01XD01,marque,Antibiotiques,,retire,OVULES GYNECO.,500MG,AMRIZOLE
+METRAZIN,métronidazole,J01XD01,marque,Antibiotiques,,retire,OVULES,500MG,METRAZIN
+METRONIDAZOLE BIOSEDRA,métronidazole,J01XD01,marque,Antibiotiques,,retire,SOL. INJ. PERF.IV,"500MG/100ML ( OU 0,5%)",METRONIDAZOLE BIOSEDRA
+MERAZINE,métronidazole,J01XD01,marque,Antibiotiques,,retire,COMP,250MG,MERAZINE
+METRONIDAZOLE,métronidazole,J01XD01,marque,Antibiotiques,,retire,COMP,250MG,METRONIDAZOLE
+MITAZOL,métronidazole,J01XD01,marque,Antibiotiques,,retire,COMP,250MG,MITAZOL
+KLONT,métronidazole,J01XD01,marque,Antibiotiques,,retire,COMP,250MG,KLONT
+METROZOLE,métronidazole,J01XD01,marque,Antibiotiques,,retire,COMP.,250MG,METROZOLE
+MODAZOLE,métronidazole,J01XD01,marque,Antibiotiques,,retire,COMP.,250MG,MODAZOLE
+PROTOZOL,métronidazole,J01XD01,marque,Antibiotiques,,retire,COMP.,250MG,PROTOZOL
+FLAGISOL,métronidazole,J01XD01,marque,Antibiotiques,,retire,COMP. PELLI.,250MG,FLAGISOL
+METROZAL,métronidazole,J01XD01,marque,Antibiotiques,,retire,SUSP.BUV.,125MG/5ML,METROZAL
+GRINAZOLE,métronidazole,J01XD01,marque,Antibiotiques,,retire,PATE,0.1,GRINAZOLE
+GENTA 10,gentamicine,J01GB03,marque,Antibiotiques,,active,SOLUTION INJECTABLE IM/IV,10MG/ML,GENTA 10
+S-GENTA,gentamicine,J01GB03,marque,Antibiotiques,,active,SOLUTION INJECTABLE IM/IV,10MG/ML,S-GENTA
+GENTA 40,gentamicine,J01GB03,marque,Antibiotiques,,active,SOLUTION INJECTABLE IM/IV,20MG/ML (40MG/2ML),GENTA 40
+GENTAXYN,gentamicine,J01GB03,marque,Antibiotiques,,active,SOLUTION INJECTABLE IM/IV,20MG/ML (40MG/2ML),GENTAXYN
+GENTHERAXINE,gentamicine,J01GB03,marque,Antibiotiques,,active,SOLUTION INJECTABLE IM/IV,20MG/ML (40MG/2ML),GENTHERAXINE
+EPIGENT,gentamicine,J01GB03,marque,Antibiotiques,,active,SOLUTION INJECTABLE IM/IV,40MG/ML (80MG/2ML),EPIGENT
+GENTA 80,gentamicine,J01GB03,marque,Antibiotiques,,active,SOLUTION INJECTABLE IM/IV,40MG/ML (80MG/2ML),GENTA 80
+GENTACINE,gentamicine,J01GB03,marque,Antibiotiques,,active,SOLUTION INJECTABLE IM/IV,40MG/ML (80MG/2ML),GENTACINE
+GENTAMYCINE GEO,gentamicine,J01GB03,marque,Antibiotiques,,active,SOLUTION INJECTABLE IM/IV,40MG/ML (80MG/2ML),GENTAMYCINE GEO
+GENTA 160,gentamicine,J01GB03,marque,Antibiotiques,,active,SOLUTION INJECTABLE IM/IV,160 MG/2 ML,GENTA 160
+APIGEN,gentamicine,J01GB03,marque,Antibiotiques,,active,COLLYRE EN SOLUTION,3MG/ML,APIGEN
+GENTADAR,gentamicine,J01GB03,marque,Antibiotiques,,active,COLLYRE EN SOLUTION,3MG/ML**,GENTADAR
+GENTALEX,gentamicine,J01GB03,marque,Antibiotiques,,active,COLLYRE EN SOLUTION,3MG/ML,GENTALEX
+GENTAMYCINE,gentamicine,J01GB03,marque,Antibiotiques,,active,COLLYRE EN SOLUTION,3MG/ML,GENTAMYCINE
+GENTOCIL,gentamicine,J01GB03,marque,Antibiotiques,,active,COLLYRE EN SOLUTION,"3MG/ML (0,3%)",GENTOCIL
+"GENTAMICINE CHAUVIN O,3%",gentamicine,J01GB03,marque,Antibiotiques,,active,POMMADE OPHTALMIQUE,"0,003","GENTAMICINE CHAUVIN O,3%"
+EPIGENT 40,gentamicine,J01GB03,marque,Antibiotiques,,non_renouvele,SOL.INJ.,40MG,EPIGENT 40
+GENTALLINE,gentamicine,J01GB03,marque,Antibiotiques,,non_renouvele,SOL.INJ.,40MG/ML,GENTALLINE
+GENTOMIL,gentamicine,J01GB03,marque,Antibiotiques,,non_renouvele,SOL.INJ IM - IV,40MG/ML,GENTOMIL
+GENTATIC,gentamicine,J01GB03,marque,Antibiotiques,,non_renouvele,SOL.INJ. IM/IV,20MG/ML** (OU 40MG/2ML),GENTATIC
+GENTALEK,gentamicine,J01GB03,marque,Antibiotiques,,non_renouvele,SOL.INJ.,80MG/2ML,GENTALEK
+GENTAMICINE BIOCHEMIE,gentamicine,J01GB03,marque,Antibiotiques,,non_renouvele,SOL.INJ.,80MG/2ML,GENTAMICINE BIOCHEMIE
+ULTRAGENT,gentamicine,J01GB03,marque,Antibiotiques,,non_renouvele,SOL.INJ.,80MG/2ML,ULTRAGENT
+GENTAMICINE,gentamicine,J01GB03,marque,Antibiotiques,,non_renouvele,SOL.INJ.,80MG/2ML,GENTAMICINE
+GENTAMINE,gentamicine,J01GB03,marque,Antibiotiques,,non_renouvele,SOL. INJ. IM/IV,40MG/ML (80MG/2ML),GENTAMINE
+GENTICOL,gentamicine,J01GB03,marque,Antibiotiques,,non_renouvele,COLLYRE,3MG/ML,GENTICOL
+UNIGENTA,gentamicine,J01GB03,marque,Antibiotiques,,non_renouvele,COLLYRE,3MG/ML,UNIGENTA
+FERMENTMYCIN,gentamicine,J01GB03,marque,Antibiotiques,,retire,SOL.INJ.,40MG/ML,FERMENTMYCIN
+GENTAMYCIN SULFATE,gentamicine,J01GB03,marque,Antibiotiques,,retire,SOL.INJ.,40MG/2ML,GENTAMYCIN SULFATE
+GENTA-GOBENS,gentamicine,J01GB03,marque,Antibiotiques,,retire,SOL.INJ.,40MG/2ML,GENTA-GOBENS
+CORTOLEXAN,gentamicine,J01GB03,marque,Antibiotiques,,retire,SOL.INJ.,80MG/2ML,CORTOLEXAN
+GENTAMICINE LEURQUIN,gentamicine,J01GB03,marque,Antibiotiques,,retire,SOL.INJ.,80MG/2ML,GENTAMICINE LEURQUIN
+GENTOCIL 80,gentamicine,J01GB03,marque,Antibiotiques,,retire,SOL.INJ.,80MG/2ML,GENTOCIL 80
+GENTAMED,gentamicine,J01GB03,marque,Antibiotiques,,retire,SOL.INJ.,80MG/2ML,GENTAMED
+GENTAL,gentamicine,J01GB03,marque,Antibiotiques,,retire,SOL.INJ.,40MG/ML (OU 80MG/2ML),GENTAL
+ALCOMICIN,gentamicine,J01GB03,marque,Antibiotiques,,retire,COLLY.,3MG/ML,ALCOMICIN
+GENTAM,gentamicine,J01GB03,marque,Antibiotiques,,retire,COLLY.,3MG/ML,GENTAM
+"COLIRCUSI GENTAMICINE 0,3%",gentamicine,J01GB03,marque,Antibiotiques,,retire,COLLY.,3MG/ML,"COLIRCUSI GENTAMICINE 0,3%"
+GENTAMICIN,gentamicine,J01GB03,marque,Antibiotiques,,retire,COLLY.,3MG/ML,GENTAMICIN
+CLEAN-ACNE,clindamycine,J01FF01,marque,Antibiotiques,,active,SOLUTION POUR APPLICATION LOCALE,1% (10MG/ML),CLEAN-ACNE
+DENACINE,clindamycine,J01FF01,marque,Antibiotiques,,active,SOLUTION POUR APPLICATION LOCALE,1% (10MG/ML),DENACINE
+DERMA-T,clindamycine,J01FF01,marque,Antibiotiques,,active,SOLUTION DERMIQUE,1% (10MG/ML),DERMA-T
+ACNESTOP,clindamycine,J01FF01,marque,Antibiotiques,,active,GEL DERMIQUE,1% (10MG/ML),ACNESTOP
+DENACINE EMULGEL,clindamycine,J01FF01,marque,Antibiotiques,,active,GEL DERMIQUE,1% (10MG/ML),DENACINE EMULGEL
+CLINARAM,clindamycine,J01FF01,marque,Antibiotiques,,active,GELULE,150MG,CLINARAM
+LISACLIN,clindamycine,J01FF01,marque,Antibiotiques,,non_renouvele,SOL.INJ.,600MG,LISACLIN
+CLINDACIN,clindamycine,J01FF01,marque,Antibiotiques,,non_renouvele,GLES.,150MG,CLINDACIN
+CLINIMYCIN,clindamycine,J01FF01,marque,Antibiotiques,,non_renouvele,GLES.,150MG,CLINIMYCIN
+DALACINE,clindamycine,J01FF01,marque,Antibiotiques,,retire,SOL.INJ.,600MG/4ML,DALACINE
+CLINDAMYL,clindamycine,J01FF01,marque,Antibiotiques,,retire,GLES.,150MG,CLINDAMYL
+AMLIBON,amlodipine,C08CA01,marque,Antihypertenseurs,DIHYDROPYRIDINES; MEDICAMENTS ABAISSANT LA PRESSION ARTERIELLE,active,COMPRIME,5MG,AMLIBON
+AMLODAL,amlodipine,C08CA01,marque,Antihypertenseurs,DIHYDROPYRIDINES; MEDICAMENTS ABAISSANT LA PRESSION ARTERIELLE,active,COMPRIME,5MG,AMLODAL
+AMLODIPAL,amlodipine,C08CA01,marque,Antihypertenseurs,DIHYDROPYRIDINES; MEDICAMENTS ABAISSANT LA PRESSION ARTERIELLE,active,GELULE,5MG,AMLODIPAL
+AMLODIPINE BEKER,amlodipine,C08CA01,marque,Antihypertenseurs,DIHYDROPYRIDINES; MEDICAMENTS ABAISSANT LA PRESSION ARTERIELLE,active,GELULE,5MG,AMLODIPINE BEKER
+AMLODIPINE MM,amlodipine,C08CA01,marque,Antihypertenseurs,DIHYDROPYRIDINES; MEDICAMENTS ABAISSANT LA PRESSION ARTERIELLE,active,COMPRIME PELLICULE,5MG,AMLODIPINE MM
+AMLOMED,amlodipine,C08CA01,marque,Antihypertenseurs,DIHYDROPYRIDINES; MEDICAMENTS ABAISSANT LA PRESSION ARTERIELLE,active,COMPRIME PELLICULE,5MG,AMLOMED
+AMLOR,amlodipine,C08CA01,marque,Antihypertenseurs,DIHYDROPYRIDINES; MEDICAMENTS ABAISSANT LA PRESSION ARTERIELLE,active,GELULE,5MG,AMLOR
+DIMLOR,amlodipine,C08CA01,marque,Antihypertenseurs,DIHYDROPYRIDINES; MEDICAMENTS ABAISSANT LA PRESSION ARTERIELLE,active,GELULE,5MG,DIMLOR
+DIPICARD,amlodipine,C08CA01,marque,Antihypertenseurs,DIHYDROPYRIDINES; MEDICAMENTS ABAISSANT LA PRESSION ARTERIELLE,active,GELULE,5MG,DIPICARD
+HUMLOR,amlodipine,C08CA01,marque,Antihypertenseurs,DIHYDROPYRIDINES; MEDICAMENTS ABAISSANT LA PRESSION ARTERIELLE,active,GELULE,5MG,HUMLOR
+LOTENSE,amlodipine,C08CA01,marque,Antihypertenseurs,DIHYDROPYRIDINES; MEDICAMENTS ABAISSANT LA PRESSION ARTERIELLE,active,GELULE,5MG,LOTENSE
+LOWVASC,amlodipine,C08CA01,marque,Antihypertenseurs,DIHYDROPYRIDINES; MEDICAMENTS ABAISSANT LA PRESSION ARTERIELLE,active,GELULE,5MG,LOWVASC
+MIBRAL,amlodipine,C08CA01,marque,Antihypertenseurs,DIHYDROPYRIDINES; MEDICAMENTS ABAISSANT LA PRESSION ARTERIELLE,active,GELULE,5MG,MIBRAL
+AMLOPINE,amlodipine,C08CA01,marque,Antihypertenseurs,DIHYDROPYRIDINES; MEDICAMENTS ABAISSANT LA PRESSION ARTERIELLE,active,GELULE,5MG,AMLOPINE
+TENSODIPINE,amlodipine,C08CA01,marque,Antihypertenseurs,DIHYDROPYRIDINES; MEDICAMENTS ABAISSANT LA PRESSION ARTERIELLE,active,GELULE,5MG,TENSODIPINE
+AMLOCARDINE,amlodipine,C08CA01,marque,Antihypertenseurs,DIHYDROPYRIDINES; MEDICAMENTS ABAISSANT LA PRESSION ARTERIELLE,active,GELULE,10MG,AMLOCARDINE
+AMLORIDAL,amlodipine,C08CA01,marque,Antihypertenseurs,DIHYDROPYRIDINES; MEDICAMENTS ABAISSANT LA PRESSION ARTERIELLE,non_renouvele,GLES.,5MG,AMLORIDAL
+ALODIPINE,amlodipine,C08CA01,marque,Antihypertenseurs,DIHYDROPYRIDINES; MEDICAMENTS ABAISSANT LA PRESSION ARTERIELLE,non_renouvele,GLES.,5MG,ALODIPINE
+AMLOCAL,amlodipine,C08CA01,marque,Antihypertenseurs,DIHYDROPYRIDINES; MEDICAMENTS ABAISSANT LA PRESSION ARTERIELLE,retire,COMP.,5MG,AMLOCAL
+AMLODIPINE,amlodipine,C08CA01,marque,Antihypertenseurs,DIHYDROPYRIDINES; MEDICAMENTS ABAISSANT LA PRESSION ARTERIELLE,retire,COMP.,5MG,AMLODIPINE
+AMLOMEX,amlodipine,C08CA01,marque,Antihypertenseurs,DIHYDROPYRIDINES; MEDICAMENTS ABAISSANT LA PRESSION ARTERIELLE,retire,COMP.,5MG,AMLOMEX
+AMLOPRESS,amlodipine,C08CA01,marque,Antihypertenseurs,DIHYDROPYRIDINES; MEDICAMENTS ABAISSANT LA PRESSION ARTERIELLE,retire,COMP. SEC.,5MG,AMLOPRESS
+LORAX,amlodipine,C08CA01,marque,Antihypertenseurs,DIHYDROPYRIDINES; MEDICAMENTS ABAISSANT LA PRESSION ARTERIELLE,retire,COMP.SEC.,5MG,LORAX
+AMILO,amlodipine,C08CA01,marque,Antihypertenseurs,DIHYDROPYRIDINES; MEDICAMENTS ABAISSANT LA PRESSION ARTERIELLE,retire,COMP.,5MG,AMILO
+AMLOTENSINE,amlodipine,C08CA01,marque,Antihypertenseurs,DIHYDROPYRIDINES; MEDICAMENTS ABAISSANT LA PRESSION ARTERIELLE,retire,COMP.,5MG,AMLOTENSINE
+AMLODIPINE ZENTIVA,amlodipine,C08CA01,marque,Antihypertenseurs,DIHYDROPYRIDINES; MEDICAMENTS ABAISSANT LA PRESSION ARTERIELLE,retire,COMP.,5MG,AMLODIPINE ZENTIVA
+VASCOPIN,amlodipine,C08CA01,marque,Antihypertenseurs,DIHYDROPYRIDINES; MEDICAMENTS ABAISSANT LA PRESSION ARTERIELLE,retire,COMP.,5MG,VASCOPIN
+AMLODAR,amlodipine,C08CA01,marque,Antihypertenseurs,DIHYDROPYRIDINES; MEDICAMENTS ABAISSANT LA PRESSION ARTERIELLE,retire,GLES.,5MG,AMLODAR
+AMEP,amlodipine,C08CA01,marque,Antihypertenseurs,DIHYDROPYRIDINES; MEDICAMENTS ABAISSANT LA PRESSION ARTERIELLE,retire,COMP.,5MG,AMEP
+AMLOCOR-5,amlodipine,C08CA01,marque,Antihypertenseurs,DIHYDROPYRIDINES; MEDICAMENTS ABAISSANT LA PRESSION ARTERIELLE,retire,COMP.,5MG,AMLOCOR-5
+AMLODEX,amlodipine,C08CA01,marque,Antihypertenseurs,DIHYDROPYRIDINES; MEDICAMENTS ABAISSANT LA PRESSION ARTERIELLE,retire,GLES.,5MG,AMLODEX
+ADIPINE,nifédipine,C08CA05,marque,Antihypertenseurs,DIHYDROPYRIDINES; MEDICAMENTS ABAISSANT LA PRESSION ARTERIELLE,non_renouvele,COMPRIME,10MG,ADIPINE
+EPILAT 10,nifédipine,C08CA05,marque,Antihypertenseurs,DIHYDROPYRIDINES; MEDICAMENTS ABAISSANT LA PRESSION ARTERIELLE,non_renouvele,GLES,10MG,EPILAT 10
+MYOGARD,nifédipine,C08CA05,marque,Antihypertenseurs,DIHYDROPYRIDINES; MEDICAMENTS ABAISSANT LA PRESSION ARTERIELLE,non_renouvele,CAPSULE ORALE,10MG,MYOGARD
+NIDILAT,nifédipine,C08CA05,marque,Antihypertenseurs,DIHYDROPYRIDINES; MEDICAMENTS ABAISSANT LA PRESSION ARTERIELLE,non_renouvele,CAPSULE ORALE,10MG,NIDILAT
+NIFEDAR,nifédipine,C08CA05,marque,Antihypertenseurs,DIHYDROPYRIDINES; MEDICAMENTS ABAISSANT LA PRESSION ARTERIELLE,retire,GLES.,10MG,NIFEDAR
+NIFAR,nifédipine,C08CA05,marque,Antihypertenseurs,DIHYDROPYRIDINES; MEDICAMENTS ABAISSANT LA PRESSION ARTERIELLE,retire,GLES,10MG,NIFAR
+NIFEDICOR,nifédipine,C08CA05,marque,Antihypertenseurs,DIHYDROPYRIDINES; MEDICAMENTS ABAISSANT LA PRESSION ARTERIELLE,retire,CAPS.,10MG,NIFEDICOR
+NIFELATE,nifédipine,C08CA05,marque,Antihypertenseurs,DIHYDROPYRIDINES; MEDICAMENTS ABAISSANT LA PRESSION ARTERIELLE,retire,CAPS.,10MG,NIFELATE
+ZENUSIN-10,nifédipine,C08CA05,marque,Antihypertenseurs,DIHYDROPYRIDINES; MEDICAMENTS ABAISSANT LA PRESSION ARTERIELLE,retire,CAPS,10MG,ZENUSIN-10
+ADALAT,nifédipine,C08CA05,marque,Antihypertenseurs,DIHYDROPYRIDINES; MEDICAMENTS ABAISSANT LA PRESSION ARTERIELLE,retire,CAPS.,10MG,ADALAT
+NIFEDIPINE-RATIOPHARM,nifédipine,C08CA05,marque,Antihypertenseurs,DIHYDROPYRIDINES; MEDICAMENTS ABAISSANT LA PRESSION ARTERIELLE,retire,CAPS.,10MG,NIFEDIPINE-RATIOPHARM
+COROTREND 10,nifédipine,C08CA05,marque,Antihypertenseurs,DIHYDROPYRIDINES; MEDICAMENTS ABAISSANT LA PRESSION ARTERIELLE,retire,GLES.,10MG,COROTREND 10
+FENAMON SR,nifédipine,C08CA05,marque,Antihypertenseurs,DIHYDROPYRIDINES; MEDICAMENTS ABAISSANT LA PRESSION ARTERIELLE,retire,COMP.LP,20MG,FENAMON SR
+ADALAT RETARD,nifédipine,C08CA05,marque,Antihypertenseurs,DIHYDROPYRIDINES; MEDICAMENTS ABAISSANT LA PRESSION ARTERIELLE,retire,COMP. LP,20MG,ADALAT RETARD
+EPILAT,nifédipine,C08CA05,marque,Antihypertenseurs,DIHYDROPYRIDINES; MEDICAMENTS ABAISSANT LA PRESSION ARTERIELLE,retire,COMP. LP,20MG,EPILAT
+MYOGARD RETARD,nifédipine,C08CA05,marque,Antihypertenseurs,DIHYDROPYRIDINES; MEDICAMENTS ABAISSANT LA PRESSION ARTERIELLE,retire,COMP. LP,20MG,MYOGARD RETARD
+NIFECARD,nifédipine,C08CA05,marque,Antihypertenseurs,DIHYDROPYRIDINES; MEDICAMENTS ABAISSANT LA PRESSION ARTERIELLE,retire,COMP. LP,20MG,NIFECARD
+NIFEDIPAL,nifédipine,C08CA05,marque,Antihypertenseurs,DIHYDROPYRIDINES; MEDICAMENTS ABAISSANT LA PRESSION ARTERIELLE,retire,COMP. LP,20MG,NIFEDIPAL
+NIFELAT RETARD,nifédipine,C08CA05,marque,Antihypertenseurs,DIHYDROPYRIDINES; MEDICAMENTS ABAISSANT LA PRESSION ARTERIELLE,retire,COMP. LP,20MG,NIFELAT RETARD
+NIFEDIPINE T20 STADA RETARD,nifédipine,C08CA05,marque,Antihypertenseurs,DIHYDROPYRIDINES; MEDICAMENTS ABAISSANT LA PRESSION ARTERIELLE,retire,COMP. LP,20MG,NIFEDIPINE T20 STADA RETARD
+CORACTEN,nifédipine,C08CA05,marque,Antihypertenseurs,DIHYDROPYRIDINES; MEDICAMENTS ABAISSANT LA PRESSION ARTERIELLE,retire,GLES . LP,20MG,CORACTEN
+CORDIPIN RETARD,nifédipine,C08CA05,marque,Antihypertenseurs,DIHYDROPYRIDINES; MEDICAMENTS ABAISSANT LA PRESSION ARTERIELLE,retire,COMP. LP,20MG,CORDIPIN RETARD
+NIFEDIPINE-RATIOPHARM LP,nifédipine,C08CA05,marque,Antihypertenseurs,DIHYDROPYRIDINES; MEDICAMENTS ABAISSANT LA PRESSION ARTERIELLE,retire,COMP. LP,20MG,NIFEDIPINE-RATIOPHARM LP
+ZENUSIN-20 SR,nifédipine,C08CA05,marque,Antihypertenseurs,DIHYDROPYRIDINES; MEDICAMENTS ABAISSANT LA PRESSION ARTERIELLE,retire,COMP. LP ENRO.,20MG,ZENUSIN-20 SR
+ANGILAT,nifédipine,C08CA05,marque,Antihypertenseurs,DIHYDROPYRIDINES; MEDICAMENTS ABAISSANT LA PRESSION ARTERIELLE,retire,COMP.LP,20MG,ANGILAT
+PERINDOPRIL BEKER,périndopril,C09AA04,marque,Antihypertenseurs,MEDICAMENTS A L'ORIGINE D'UNE HYPOTENSION ORTHOSTATIQUE,active,COMPRIME SECABLE,4MG,PERINDOPRIL BEKER
+PERINDOSYL,périndopril,C09AA04,marque,Antihypertenseurs,MEDICAMENTS A L'ORIGINE D'UNE HYPOTENSION ORTHOSTATIQUE,active,COMPRIME,4MG,PERINDOSYL
+COVERSYL,périndopril,C09AA04,marque,Antihypertenseurs,MEDICAMENTS A L'ORIGINE D'UNE HYPOTENSION ORTHOSTATIQUE,active,COMPRIME PELLICULE SECABLE,5MG,COVERSYL
+RAMIPRIL BEKER,ramipril,C09AA05,marque,Antihypertenseurs,MEDICAMENTS ABAISSANT LA PRESSION ARTERIELLE,active,COMPRIME SECABLE,2.5MG,RAMIPRIL BEKER
+RAMITRIM,ramipril,C09AA05,marque,Antihypertenseurs,MEDICAMENTS ABAISSANT LA PRESSION ARTERIELLE,active,COMPRIME SECABLE,2.5MG,RAMITRIM
+TANATRIL,ramipril,C09AA05,marque,Antihypertenseurs,MEDICAMENTS ABAISSANT LA PRESSION ARTERIELLE,active,COMPRIME SECABLE,2.5MG,TANATRIL
+TRIAMPEX,ramipril,C09AA05,marque,Antihypertenseurs,MEDICAMENTS ABAISSANT LA PRESSION ARTERIELLE,active,GELULE,2.5MG,TRIAMPEX
+TRIATEC,ramipril,C09AA05,marque,Antihypertenseurs,MEDICAMENTS ABAISSANT LA PRESSION ARTERIELLE,active,COMPRIME SECABLE,2.5MG,TRIATEC
+RAMINORM,ramipril,C09AA05,marque,Antihypertenseurs,MEDICAMENTS ABAISSANT LA PRESSION ARTERIELLE,active,COMPRIME,5MG,RAMINORM
+RAMIPRIL PHYSIOPHARM,ramipril,C09AA05,marque,Antihypertenseurs,MEDICAMENTS ABAISSANT LA PRESSION ARTERIELLE,active,COMPRIME SECABLE,5MG,RAMIPRIL PHYSIOPHARM
+RAMIPRIL IVAL,ramipril,C09AA05,marque,Antihypertenseurs,MEDICAMENTS ABAISSANT LA PRESSION ARTERIELLE,non_renouvele,COMPRIME SECABLE,"2,5MG",RAMIPRIL IVAL
+RENIPRIL,ramipril,C09AA05,marque,Antihypertenseurs,MEDICAMENTS ABAISSANT LA PRESSION ARTERIELLE,non_renouvele,COMPRIME SECABLE,"2,5MG",RENIPRIL
+RAMITEC,ramipril,C09AA05,marque,Antihypertenseurs,MEDICAMENTS ABAISSANT LA PRESSION ARTERIELLE,non_renouvele,COMP. QUADRISEC.,10MG,RAMITEC
+RAMI,ramipril,C09AA05,marque,Antihypertenseurs,MEDICAMENTS ABAISSANT LA PRESSION ARTERIELLE,retire,GLES,"2,5MG",RAMI
+RAMIPRIL WINTHROP,ramipril,C09AA05,marque,Antihypertenseurs,MEDICAMENTS ABAISSANT LA PRESSION ARTERIELLE,retire,COMP. SEC.,"2,5MG",RAMIPRIL WINTHROP
+RAMIPREX,ramipril,C09AA05,marque,Antihypertenseurs,MEDICAMENTS ABAISSANT LA PRESSION ARTERIELLE,retire,COMP.,"2,5MG",RAMIPREX
+CURATEC,ramipril,C09AA05,marque,Antihypertenseurs,MEDICAMENTS ABAISSANT LA PRESSION ARTERIELLE,retire,COMP.,5MG,CURATEC
+ENALAPRIL MYLAN,énalapril,C09AA02,marque,Antihypertenseurs,MEDICAMENTS ABAISSANT LA PRESSION ARTERIELLE,active,COMPRIME SECABLE,5MG,ENALAPRIL MYLAN
+ANGIOPRIL,énalapril,C09AA02,marque,Antihypertenseurs,MEDICAMENTS ABAISSANT LA PRESSION ARTERIELLE,non_renouvele,COMPRIME,5MG,ANGIOPRIL
+ANGIOTEC,énalapril,C09AA02,marque,Antihypertenseurs,MEDICAMENTS ABAISSANT LA PRESSION ARTERIELLE,non_renouvele,COMPRIME,5MG,ANGIOTEC
+CORPRILOR,énalapril,C09AA02,marque,Antihypertenseurs,MEDICAMENTS ABAISSANT LA PRESSION ARTERIELLE,non_renouvele,COMPRIME SECABLE,5MG,CORPRILOR
+PRILENAP,énalapril,C09AA02,marque,Antihypertenseurs,MEDICAMENTS ABAISSANT LA PRESSION ARTERIELLE,non_renouvele,COMPRIME,5MG,PRILENAP
+RENITEC,énalapril,C09AA02,marque,Antihypertenseurs,MEDICAMENTS ABAISSANT LA PRESSION ARTERIELLE,non_renouvele,COMPRIME SECABLE,5MG,RENITEC
+ENALAPRIL,énalapril,C09AA02,marque,Antihypertenseurs,MEDICAMENTS ABAISSANT LA PRESSION ARTERIELLE,non_renouvele,COMPRIME SECABLE,20MG,ENALAPRIL
+ENALAPRIL WINTHROP,énalapril,C09AA02,marque,Antihypertenseurs,MEDICAMENTS ABAISSANT LA PRESSION ARTERIELLE,non_renouvele,COMPRIME SECABLE,20MG,ENALAPRIL WINTHROP
+LASYTEQ,énalapril,C09AA02,marque,Antihypertenseurs,MEDICAMENTS ABAISSANT LA PRESSION ARTERIELLE,non_renouvele,COMPRIME,20MG,LASYTEQ
+CONVERTASE,énalapril,C09AA02,marque,Antihypertenseurs,MEDICAMENTS ABAISSANT LA PRESSION ARTERIELLE,retire,COMP.,5MG**,CONVERTASE
+ENALAPRIL IBERAL,énalapril,C09AA02,marque,Antihypertenseurs,MEDICAMENTS ABAISSANT LA PRESSION ARTERIELLE,retire,COMP. SEC.,5MG,ENALAPRIL IBERAL
+ENALAPRIL RATIOPHARM,énalapril,C09AA02,marque,Antihypertenseurs,MEDICAMENTS ABAISSANT LA PRESSION ARTERIELLE,retire,COMP.,5MG**,ENALAPRIL RATIOPHARM
+ENATEC-5,énalapril,C09AA02,marque,Antihypertenseurs,MEDICAMENTS ABAISSANT LA PRESSION ARTERIELLE,retire,COMP.SEC.,5MG**,ENATEC-5
+ENATEC-20,énalapril,C09AA02,marque,Antihypertenseurs,MEDICAMENTS ABAISSANT LA PRESSION ARTERIELLE,retire,COMP.SEC.,20MG**,ENATEC-20
+ANGIZAR,losartan,C09CA01,marque,Antihypertenseurs,MEDICAMENTS ABAISSANT LA PRESSION ARTERIELLE,active,COMPRIME PELLICULE SECABLE,50MG,ANGIZAR
+BEKTAL,losartan,C09CA01,marque,Antihypertenseurs,MEDICAMENTS ABAISSANT LA PRESSION ARTERIELLE,active,COMPRIME PELLICULE SECABLE,50MG,BEKTAL
+COZZAR,losartan,C09CA01,marque,Antihypertenseurs,MEDICAMENTS ABAISSANT LA PRESSION ARTERIELLE,active,COMPRIME PELLICULE,50MG,COZZAR
+HYSARTAN,losartan,C09CA01,marque,Antihypertenseurs,MEDICAMENTS ABAISSANT LA PRESSION ARTERIELLE,active,COMPRIME PELLICULE SECABLE,50MG,HYSARTAN
+LAZARTAN,losartan,C09CA01,marque,Antihypertenseurs,MEDICAMENTS ABAISSANT LA PRESSION ARTERIELLE,active,COMPRIME PELLICULE SECABLE,50MG,LAZARTAN
+LOZARTAN GEO,losartan,C09CA01,marque,Antihypertenseurs,MEDICAMENTS ABAISSANT LA PRESSION ARTERIELLE,active,COMPRIME PELLICULE,50MG,LOZARTAN GEO
+NORTA,losartan,C09CA01,marque,Antihypertenseurs,MEDICAMENTS ABAISSANT LA PRESSION ARTERIELLE,active,COMPRIME PELLICULE SECABLE,50MG,NORTA
+NORTA FORT,losartan,C09CA01,marque,Antihypertenseurs,MEDICAMENTS ABAISSANT LA PRESSION ARTERIELLE,active,COMPRIME PELLICULE SECABLE,100MG,NORTA FORT
+STATIX,losartan,C09CA01,marque,Antihypertenseurs,MEDICAMENTS ABAISSANT LA PRESSION ARTERIELLE,retire,COMP. PELLI.,50MG,STATIX
+COSARTAN - 50,losartan,C09CA01,marque,Antihypertenseurs,MEDICAMENTS ABAISSANT LA PRESSION ARTERIELLE,retire,COMP. ENR. SEC.,50MG,COSARTAN - 50
+LOZAR 50,losartan,C09CA01,marque,Antihypertenseurs,MEDICAMENTS ABAISSANT LA PRESSION ARTERIELLE,retire,COMP. SEC.,50MG,LOZAR 50
+ZARTENS,losartan,C09CA01,marque,Antihypertenseurs,MEDICAMENTS ABAISSANT LA PRESSION ARTERIELLE,retire,COMP.,50MG,ZARTENS
+LOSARTAN HEMOFARM,losartan,C09CA01,marque,Antihypertenseurs,MEDICAMENTS ABAISSANT LA PRESSION ARTERIELLE,retire,COMP. PELLI.,100MG,LOSARTAN HEMOFARM
+VALACLOR 40,valsartan,C09CA03,marque,Antihypertenseurs,MEDICAMENTS ABAISSANT LA PRESSION ARTERIELLE,active,COMPRIME PELLICULE,40MG,VALACLOR 40
+ARBITAN,valsartan,C09CA03,marque,Antihypertenseurs,MEDICAMENTS ABAISSANT LA PRESSION ARTERIELLE,active,COMPRIME PELLICULE,80MG,ARBITAN
+DIVALAN,valsartan,C09CA03,marque,Antihypertenseurs,MEDICAMENTS ABAISSANT LA PRESSION ARTERIELLE,active,COMPRIME PELLICULE,80MG,DIVALAN
+HUREG HUP,valsartan,C09CA03,marque,Antihypertenseurs,MEDICAMENTS ABAISSANT LA PRESSION ARTERIELLE,active,COMPRIME PELLICULE,80MG,HUREG HUP
+RETA,valsartan,C09CA03,marque,Antihypertenseurs,MEDICAMENTS ABAISSANT LA PRESSION ARTERIELLE,active,COMPRIME PELLICULE SECABLE,80MG,RETA
+SARTEG,valsartan,C09CA03,marque,Antihypertenseurs,MEDICAMENTS ABAISSANT LA PRESSION ARTERIELLE,active,COMPRIME PELLICULE,80MG,SARTEG
+TABUVAN,valsartan,C09CA03,marque,Antihypertenseurs,MEDICAMENTS ABAISSANT LA PRESSION ARTERIELLE,active,COMPRIME PELLICULE,80MG,TABUVAN
+TAREG,valsartan,C09CA03,marque,Antihypertenseurs,MEDICAMENTS ABAISSANT LA PRESSION ARTERIELLE,active,COMPRIME PELLICULE,80MG,TAREG
+TAROVAL,valsartan,C09CA03,marque,Antihypertenseurs,MEDICAMENTS ABAISSANT LA PRESSION ARTERIELLE,active,COMPRIME PELLICULE,80MG,TAROVAL
+VALACLOR,valsartan,C09CA03,marque,Antihypertenseurs,MEDICAMENTS ABAISSANT LA PRESSION ARTERIELLE,active,COMPRIME PELLICULE,80MG,VALACLOR
+VALASTAN,valsartan,C09CA03,marque,Antihypertenseurs,MEDICAMENTS ABAISSANT LA PRESSION ARTERIELLE,active,COMPRIME PELLICULE,80MG,VALASTAN
+VALEX 80,valsartan,C09CA03,marque,Antihypertenseurs,MEDICAMENTS ABAISSANT LA PRESSION ARTERIELLE,active,COMPRIME PELLICULE SECABLE,80MG,VALEX 80
+VALSAN,valsartan,C09CA03,marque,Antihypertenseurs,MEDICAMENTS ABAISSANT LA PRESSION ARTERIELLE,active,COMPRIME PELLICULE,80MG,VALSAN
+VAREG,valsartan,C09CA03,marque,Antihypertenseurs,MEDICAMENTS ABAISSANT LA PRESSION ARTERIELLE,active,COMPRIME PELLICULE SECABLE,80MG,VAREG
+VESTAG,valsartan,C09CA03,marque,Antihypertenseurs,MEDICAMENTS ABAISSANT LA PRESSION ARTERIELLE,active,COMPRIME PELLICULE,80MG,VESTAG
+VALSIS,valsartan,C09CA03,marque,Antihypertenseurs,MEDICAMENTS ABAISSANT LA PRESSION ARTERIELLE,active,COMPRIME PELLICULE SECABLE,80MG,VALSIS
+VIASART,valsartan,C09CA03,marque,Antihypertenseurs,MEDICAMENTS ABAISSANT LA PRESSION ARTERIELLE,active,COMPRIME PELLICULE,80MG,VIASART
+HUREG,valsartan,C09CA03,marque,Antihypertenseurs,MEDICAMENTS ABAISSANT LA PRESSION ARTERIELLE,active,COMPRIME PELLICULE,160MG,HUREG
+RETA 160,valsartan,C09CA03,marque,Antihypertenseurs,MEDICAMENTS ABAISSANT LA PRESSION ARTERIELLE,active,COMPRIME PELLICULE,160MG,RETA 160
+VALACLOR 160,valsartan,C09CA03,marque,Antihypertenseurs,MEDICAMENTS ABAISSANT LA PRESSION ARTERIELLE,active,COMPRIME PELLICULE,160MG,VALACLOR 160
+VALEX 160,valsartan,C09CA03,marque,Antihypertenseurs,MEDICAMENTS ABAISSANT LA PRESSION ARTERIELLE,active,COMPRIME PELLICULE,160MG,VALEX 160
+VALCARD ALEMBIC MAMI,valsartan,C09CA03,marque,Antihypertenseurs,MEDICAMENTS ABAISSANT LA PRESSION ARTERIELLE,active,COMPRIME PELLICULE,320MG,VALCARD ALEMBIC MAMI
+RIVALTAN,valsartan,C09CA03,marque,Antihypertenseurs,MEDICAMENTS ABAISSANT LA PRESSION ARTERIELLE,retire,COMP.,80MG,RIVALTAN
+VALSARTAL,valsartan,C09CA03,marque,Antihypertenseurs,MEDICAMENTS ABAISSANT LA PRESSION ARTERIELLE,retire,COMP. PELLI. SEC.,80MG,VALSARTAL
+BIPROTENS,bisoprolol,C07AB07,marque,Antihypertenseurs,BETA-BLOQUANTS DANS L'INSUFFISANCE CARDIAQUE; MEDICAMENTS ABAISSANT LA PRESSION ARTERIELLE,active,COMPRIME PELLICULE SECABLE,10MG,BIPROTENS
+BISOPROLOL BEKER,bisoprolol,C07AB07,marque,Antihypertenseurs,BETA-BLOQUANTS DANS L'INSUFFISANCE CARDIAQUE; MEDICAMENTS ABAISSANT LA PRESSION ARTERIELLE,active,COMPRIME PELLICULE SECABLE,10MG,BISOPROLOL BEKER
+BISOPROLOL MM,bisoprolol,C07AB07,marque,Antihypertenseurs,BETA-BLOQUANTS DANS L'INSUFFISANCE CARDIAQUE; MEDICAMENTS ABAISSANT LA PRESSION ARTERIELLE,active,COMPRIME PELLICULE SECABLE,10MG,BISOPROLOL MM
+BISOSEL,bisoprolol,C07AB07,marque,Antihypertenseurs,BETA-BLOQUANTS DANS L'INSUFFISANCE CARDIAQUE; MEDICAMENTS ABAISSANT LA PRESSION ARTERIELLE,active,COMPRIME PELLICULE SECABLE,10MG,BISOSEL
+BISOTAB,bisoprolol,C07AB07,marque,Antihypertenseurs,BETA-BLOQUANTS DANS L'INSUFFISANCE CARDIAQUE; MEDICAMENTS ABAISSANT LA PRESSION ARTERIELLE,active,COMPRIME PELLICULE SECABLE,10MG,BISOTAB
+BONACOR,bisoprolol,C07AB07,marque,Antihypertenseurs,BETA-BLOQUANTS DANS L'INSUFFISANCE CARDIAQUE; MEDICAMENTS ABAISSANT LA PRESSION ARTERIELLE,active,COMPRIME PELLICULE SECABLE,10MG,BONACOR
+BYZOLEX,bisoprolol,C07AB07,marque,Antihypertenseurs,BETA-BLOQUANTS DANS L'INSUFFISANCE CARDIAQUE; MEDICAMENTS ABAISSANT LA PRESSION ARTERIELLE,active,COMPRIME PELLICULE SECABLE,10MG,BYZOLEX
+CIRBESA,bisoprolol,C07AB07,marque,Antihypertenseurs,BETA-BLOQUANTS DANS L'INSUFFISANCE CARDIAQUE; MEDICAMENTS ABAISSANT LA PRESSION ARTERIELLE,active,COMPRIME PELLICULE SECABLE,10MG,CIRBESA
+DETENPRESS,bisoprolol,C07AB07,marque,Antihypertenseurs,BETA-BLOQUANTS DANS L'INSUFFISANCE CARDIAQUE; MEDICAMENTS ABAISSANT LA PRESSION ARTERIELLE,active,COMPRIME PELLICULE SECABLE,10MG,DETENPRESS
+DETENSIEL,bisoprolol,C07AB07,marque,Antihypertenseurs,BETA-BLOQUANTS DANS L'INSUFFISANCE CARDIAQUE; MEDICAMENTS ABAISSANT LA PRESSION ARTERIELLE,active,COMPRIME PELLICULE SECABLE,10MG,DETENSIEL
+PRODOL,bisoprolol,C07AB07,marque,Antihypertenseurs,BETA-BLOQUANTS DANS L'INSUFFISANCE CARDIAQUE; MEDICAMENTS ABAISSANT LA PRESSION ARTERIELLE,active,COMPRIME PELLICULE SECABLE,10MG,PRODOL
+PROMIVOL,bisoprolol,C07AB07,marque,Antihypertenseurs,BETA-BLOQUANTS DANS L'INSUFFISANCE CARDIAQUE; MEDICAMENTS ABAISSANT LA PRESSION ARTERIELLE,active,COMPRIME PELLICULE SECABLE,10MG,PROMIVOL
+RIZOPROL,bisoprolol,C07AB07,marque,Antihypertenseurs,BETA-BLOQUANTS DANS L'INSUFFISANCE CARDIAQUE; MEDICAMENTS ABAISSANT LA PRESSION ARTERIELLE,active,COMPRIME PELLICULE SECABLE,10MG,RIZOPROL
+BISOPROLOL HUP,bisoprolol,C07AB07,marque,Antihypertenseurs,BETA-BLOQUANTS DANS L'INSUFFISANCE CARDIAQUE; MEDICAMENTS ABAISSANT LA PRESSION ARTERIELLE,active,COMPRIME,5MG,BISOPROLOL HUP
+BYZOLEX 5,bisoprolol,C07AB07,marque,Antihypertenseurs,BETA-BLOQUANTS DANS L'INSUFFISANCE CARDIAQUE; MEDICAMENTS ABAISSANT LA PRESSION ARTERIELLE,active,COMPRIME QUADRI-SECABLE,5MG,BYZOLEX 5
+DIPROLOL,bisoprolol,C07AB07,marque,Antihypertenseurs,BETA-BLOQUANTS DANS L'INSUFFISANCE CARDIAQUE; MEDICAMENTS ABAISSANT LA PRESSION ARTERIELLE,active,COMPRIME PELLICULE SECABLE,5MG,DIPROLOL
+CARDENSIEL,bisoprolol,C07AB07,marque,Antihypertenseurs,BETA-BLOQUANTS DANS L'INSUFFISANCE CARDIAQUE; MEDICAMENTS ABAISSANT LA PRESSION ARTERIELLE,active,COMPRIME PELLICULE SECABLE,"2,5MG",CARDENSIEL
+CARDIOSAFE,bisoprolol,C07AB07,marque,Antihypertenseurs,BETA-BLOQUANTS DANS L'INSUFFISANCE CARDIAQUE; MEDICAMENTS ABAISSANT LA PRESSION ARTERIELLE,retire,COMP. ENRO. SEC.,10MG,CARDIOSAFE
+CARDINOL BGL,aténolol,C07AB03,marque,Antihypertenseurs,MEDICAMENTS ABAISSANT LA PRESSION ARTERIELLE,active,COMPRIME PELLICULE SECABLE,100MG,CARDINOL BGL
+DAGHTAN 100,aténolol,C07AB03,marque,Antihypertenseurs,MEDICAMENTS ABAISSANT LA PRESSION ARTERIELLE,active,COMPRIME PELLICULE SECABLE,100MG,DAGHTAN 100
+TENORMED,aténolol,C07AB03,marque,Antihypertenseurs,MEDICAMENTS ABAISSANT LA PRESSION ARTERIELLE,active,COMPRIME SECABLE,100MG,TENORMED
+DAGHTAN 50,aténolol,C07AB03,marque,Antihypertenseurs,MEDICAMENTS ABAISSANT LA PRESSION ARTERIELLE,active,COMPRIME PELLICULE,50MG,DAGHTAN 50
+ATENOR,aténolol,C07AB03,marque,Antihypertenseurs,MEDICAMENTS ABAISSANT LA PRESSION ARTERIELLE,non_renouvele,COMPRIME SECABLE,100MG,ATENOR
+ATINAL,aténolol,C07AB03,marque,Antihypertenseurs,MEDICAMENTS ABAISSANT LA PRESSION ARTERIELLE,non_renouvele,COMPRIME SECABLE,100MG,ATINAL
+PRECYL,aténolol,C07AB03,marque,Antihypertenseurs,MEDICAMENTS ABAISSANT LA PRESSION ARTERIELLE,retire,COM.PELLI.SEC.,100MG,PRECYL
+ATELOL,aténolol,C07AB03,marque,Antihypertenseurs,MEDICAMENTS ABAISSANT LA PRESSION ARTERIELLE,retire,COMP.,100MG,ATELOL
+ATENOL,aténolol,C07AB03,marque,Antihypertenseurs,MEDICAMENTS ABAISSANT LA PRESSION ARTERIELLE,retire,COMP.,100MG,ATENOL
+CANAR,aténolol,C07AB03,marque,Antihypertenseurs,MEDICAMENTS ABAISSANT LA PRESSION ARTERIELLE,retire,COMP.,100MG,CANAR
+CARDOL,aténolol,C07AB03,marque,Antihypertenseurs,MEDICAMENTS ABAISSANT LA PRESSION ARTERIELLE,retire,COMP.,100MG,CARDOL
+GENOLOL,aténolol,C07AB03,marque,Antihypertenseurs,MEDICAMENTS ABAISSANT LA PRESSION ARTERIELLE,retire,COMP.,100MG,GENOLOL
+LOTEN,aténolol,C07AB03,marque,Antihypertenseurs,MEDICAMENTS ABAISSANT LA PRESSION ARTERIELLE,retire,COMP.,100MG,LOTEN
+NORMOTEN,aténolol,C07AB03,marque,Antihypertenseurs,MEDICAMENTS ABAISSANT LA PRESSION ARTERIELLE,retire,COMP.,100MG,NORMOTEN
+NOTENSE,aténolol,C07AB03,marque,Antihypertenseurs,MEDICAMENTS ABAISSANT LA PRESSION ARTERIELLE,retire,COMP.,100MG,NOTENSE
+TEN-BLOKA,aténolol,C07AB03,marque,Antihypertenseurs,MEDICAMENTS ABAISSANT LA PRESSION ARTERIELLE,retire,COMP.,100MG,TEN-BLOKA
+TENOLIN,aténolol,C07AB03,marque,Antihypertenseurs,MEDICAMENTS ABAISSANT LA PRESSION ARTERIELLE,retire,COMP.,100MG,TENOLIN
+TENOLOL,aténolol,C07AB03,marque,Antihypertenseurs,MEDICAMENTS ABAISSANT LA PRESSION ARTERIELLE,retire,COMP.,100MG,TENOLOL
+VASCOTEN,aténolol,C07AB03,marque,Antihypertenseurs,MEDICAMENTS ABAISSANT LA PRESSION ARTERIELLE,retire,COMP.,100MG,VASCOTEN
+ATENOLOL MERCK,aténolol,C07AB03,marque,Antihypertenseurs,MEDICAMENTS ABAISSANT LA PRESSION ARTERIELLE,retire,COMP. PELLI. SEC.,100MG,ATENOLOL MERCK
+NORMINE 100,aténolol,C07AB03,marque,Antihypertenseurs,MEDICAMENTS ABAISSANT LA PRESSION ARTERIELLE,retire,COMP. SEC.,100MG,NORMINE 100
+TENORMINE,aténolol,C07AB03,marque,Antihypertenseurs,MEDICAMENTS ABAISSANT LA PRESSION ARTERIELLE,retire,COMP.PELLI.SEC,100MG,TENORMINE
+ATENOLOL BIOGARAN,aténolol,C07AB03,marque,Antihypertenseurs,MEDICAMENTS ABAISSANT LA PRESSION ARTERIELLE,retire,COMP. SEC.,100MG,ATENOLOL BIOGARAN
+ATENOLOL-RATIOPHARM,aténolol,C07AB03,marque,Antihypertenseurs,MEDICAMENTS ABAISSANT LA PRESSION ARTERIELLE,retire,COMP.PELLI.,100MG,ATENOLOL-RATIOPHARM
+BETATOP,aténolol,C07AB03,marque,Antihypertenseurs,MEDICAMENTS ABAISSANT LA PRESSION ARTERIELLE,retire,COMP.PELLI.SEC.,100MG,BETATOP
+ARTENOL,aténolol,C07AB03,marque,Antihypertenseurs,MEDICAMENTS ABAISSANT LA PRESSION ARTERIELLE,retire,COMP. SEC.,100MG,ARTENOL
+NEBCAR,nébivolol,C07AB12,marque,Antihypertenseurs,BETA-BLOQUANTS DANS L'INSUFFISANCE CARDIAQUE; MEDICAMENTS ABAISSANT LA PRESSION ARTERIELLE,active,COMPRIME QUADRI-SECABLE,5MG,NEBCAR
+TEMERIT,nébivolol,C07AB12,marque,Antihypertenseurs,BETA-BLOQUANTS DANS L'INSUFFISANCE CARDIAQUE; MEDICAMENTS ABAISSANT LA PRESSION ARTERIELLE,active,COMPRIME QUADRI-SECABLE,5MG,TEMERIT
+TEMERIVOL,nébivolol,C07AB12,marque,Antihypertenseurs,BETA-BLOQUANTS DANS L'INSUFFISANCE CARDIAQUE; MEDICAMENTS ABAISSANT LA PRESSION ARTERIELLE,active,COMPRIME QUADRI-SECABLE,5MG,TEMERIVOL
+HYDREX,hydrochlorothiazide,C03AA03,marque,Antihypertenseurs,DIURETIQUES; DIURETIQUES HYPOKALIEMIANTS; MEDICAMENTS ABAISSANT LA PRESSION ARTERIELLE,non_renouvele,COMPRIME SECABLE,25MG,HYDREX
+ADEX LP,indapamide,C03BA11,marque,Antihypertenseurs,DIURETIQUES; DIURETIQUES HYPOKALIEMIANTS; MEDICAMENTS ABAISSANT LA PRESSION ARTERIELLE,active,COMPRIME PELLICULE A LIBERATION PROLONGEE,"1,5MG",ADEX LP
+FLUDEX LP,indapamide,C03BA11,marque,Antihypertenseurs,DIURETIQUES; DIURETIQUES HYPOKALIEMIANTS; MEDICAMENTS ABAISSANT LA PRESSION ARTERIELLE,active,COMPRIME PELLICULE A LIBERATION PROLONGEE,"1,5MG",FLUDEX LP
+FLUMIDE LP,indapamide,C03BA11,marque,Antihypertenseurs,DIURETIQUES; DIURETIQUES HYPOKALIEMIANTS; MEDICAMENTS ABAISSANT LA PRESSION ARTERIELLE,active,COMPRIME PELLICULE A LIBERATION PROLONGEE,"1,5MG",FLUMIDE LP
+INDAPAMIDE BEKER LP,indapamide,C03BA11,marque,Antihypertenseurs,DIURETIQUES; DIURETIQUES HYPOKALIEMIANTS; MEDICAMENTS ABAISSANT LA PRESSION ARTERIELLE,active,COMPRIME PELLICULE A LIBERATION PROLONGEE,"1,5MG",INDAPAMIDE BEKER LP
+NATRIXAL,indapamide,C03BA11,marque,Antihypertenseurs,DIURETIQUES; DIURETIQUES HYPOKALIEMIANTS; MEDICAMENTS ABAISSANT LA PRESSION ARTERIELLE,non_renouvele,COMP. PELLI. LP,"1,5MG",NATRIXAL
+DIURIMAT,indapamide,C03BA11,marque,Antihypertenseurs,DIURETIQUES; DIURETIQUES HYPOKALIEMIANTS; MEDICAMENTS ABAISSANT LA PRESSION ARTERIELLE,retire,COMP.,"2,5MG",DIURIMAT
+ALDACTONE,spironolactone,C03DA01,marque,Antihypertenseurs,DIURETIQUES; DIURETIQUES EPARGNEURS DE POTASSIUM (SEULS OU ASSOCIES); MEDICAMENTS ABAISSANT LA PRESSION ARTERIELLE,active,COMPRIME PELLICULE SECABLE,75MG,ALDACTONE
+SPIRONOLONE,spironolactone,C03DA01,marque,Antihypertenseurs,DIURETIQUES; DIURETIQUES EPARGNEURS DE POTASSIUM (SEULS OU ASSOCIES); MEDICAMENTS ABAISSANT LA PRESSION ARTERIELLE,active,COMPRIME PELLICULE SECABLE,75MG,SPIRONOLONE
+SPIRONOLONE 75,spironolactone,C03DA01,marque,Antihypertenseurs,DIURETIQUES; DIURETIQUES EPARGNEURS DE POTASSIUM (SEULS OU ASSOCIES); MEDICAMENTS ABAISSANT LA PRESSION ARTERIELLE,retire,COMP. PELL.,75MG,SPIRONOLONE 75
+SPIROCTAN,spironolactone,C03DA01,marque,Antihypertenseurs,DIURETIQUES; DIURETIQUES EPARGNEURS DE POTASSIUM (SEULS OU ASSOCIES); MEDICAMENTS ABAISSANT LA PRESSION ARTERIELLE,retire,GLES.,75MG,SPIROCTAN
+DQA SPIRONO 100,spironolactone,C03DA01,marque,Antihypertenseurs,DIURETIQUES; DIURETIQUES EPARGNEURS DE POTASSIUM (SEULS OU ASSOCIES); MEDICAMENTS ABAISSANT LA PRESSION ARTERIELLE,retire,COMP. PELLI.,100MG,DQA SPIRONO 100
+DQA SPIRONO 50,spironolactone,C03DA01,marque,Antihypertenseurs,DIURETIQUES; DIURETIQUES EPARGNEURS DE POTASSIUM (SEULS OU ASSOCIES); MEDICAMENTS ABAISSANT LA PRESSION ARTERIELLE,retire,COMP. PELLI.,50MG,DQA SPIRONO 50
+ALDOMET,méthyldopa,C02AB01,marque,Antihypertenseurs,MEDICAMENTS ABAISSANT LA PRESSION ARTERIELLE,active,COMPRIME PELLICULE,250MG,ALDOMET
+DOPAMET,méthyldopa,C02AB01,marque,Antihypertenseurs,MEDICAMENTS ABAISSANT LA PRESSION ARTERIELLE,active,COMPRIME PELLICULE,250MG,DOPAMET
+METHYCARE,méthyldopa,C02AB01,marque,Antihypertenseurs,MEDICAMENTS ABAISSANT LA PRESSION ARTERIELLE,active,COMPRIME PELLICULE,250MG,METHYCARE
+METHYL DOPA SOLUPHARM,méthyldopa,C02AB01,marque,Antihypertenseurs,MEDICAMENTS ABAISSANT LA PRESSION ARTERIELLE,retire,COMP PELL SEC,250MG,METHYL DOPA SOLUPHARM
+ALDOMETHYL,méthyldopa,C02AB01,marque,Antihypertenseurs,MEDICAMENTS ABAISSANT LA PRESSION ARTERIELLE,retire,COMP.,250MG,ALDOMETHYL
+DOPANORE,méthyldopa,C02AB01,marque,Antihypertenseurs,MEDICAMENTS ABAISSANT LA PRESSION ARTERIELLE,retire,COMP.,250MG,DOPANORE
+EQUIBAR,méthyldopa,C02AB01,marque,Antihypertenseurs,MEDICAMENTS ABAISSANT LA PRESSION ARTERIELLE,retire,COMP.,250MG,EQUIBAR
+HY-PO-TONE 250,méthyldopa,C02AB01,marque,Antihypertenseurs,MEDICAMENTS ABAISSANT LA PRESSION ARTERIELLE,retire,COMP.,250MG,HY-PO-TONE 250
+DOPEGYT,méthyldopa,C02AB01,marque,Antihypertenseurs,MEDICAMENTS ABAISSANT LA PRESSION ARTERIELLE,retire,COMP.ENRO.,250MG,DOPEGYT

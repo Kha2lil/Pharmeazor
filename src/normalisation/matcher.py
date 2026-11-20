@@ -1,5 +1,6 @@
-"""F3 - Normalisation des noms : nom commercial / DCI / ATC / fautes de frappe.
-Dictionnaire attendu : data/processed/dictionnaire_medicaments.csv (colonnes : alias, dci, atc, type)."""
+"""F3 - Normalisation des noms : nom commercial / DCI / ATC / classe / fautes de frappe.
+Dictionnaire attendu : data/processed/dictionnaire_medicaments.csv
+(colonnes : alias, dci, atc, type, classe, classe_thesaurus, statut, forme, dosage, marque)."""
 import csv
 import unicodedata
 from pathlib import Path
@@ -25,7 +26,9 @@ def resoudre(saisie: str, dico: list[dict]) -> dict:
     res = process.extract(norm(saisie), list(alias), scorer=fuzz.WRatio, limit=3)
     if not res or res[0][1] < 70:
         return {"statut": "inconnu", "candidats": []}
-    cands = [{"alias": a, "dci": alias[a]["dci"], "atc": alias[a]["atc"], "score": s} for a, s, _ in res]
+    cands = [{"alias": a, "dci": alias[a]["dci"], "atc": alias[a]["atc"],
+              "classe": alias[a].get("classe", ""), "classe_thesaurus": alias[a].get("classe_thesaurus", ""),
+              "statut": alias[a].get("statut", ""), "score": s} for a, s, _ in res]
     dcis = {c["dci"] for c in cands if res[0][1] - c["score"] < SEUIL_AMBIGU}
     if len(dcis) > 1 or res[0][1] < SEUIL_OK:
         return {"statut": "ambigu", "candidats": cands}
