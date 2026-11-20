@@ -48,10 +48,10 @@
       {"doc_id": "1c35c104cbdd", "source": "bdpm", "role": "RCP BDPM AMLOR 10 mg (comparaison)", "autorite": 3}
     ],
     "source_nomenclature": {
-      "fichier": "Projet2_Liste_40_medicaments_verifie (1).xlsx",
+      "fichier": "data/reference/liste_40_medicaments_verifie.xlsx",
       "feuille": "Détail nomenclature",
       "version": "Nomenclature MIPH au 31/08/2026",
-      "remarque": "Fichier encore absent de data/reference/ et de data/metadata/documents.csv : à intégrer avant que Q1 soit évaluable automatiquement."
+      "remarque": "Intégré dans le dépôt (commit cleaning). Feuille 'Médicaments' : 38 oui / 2 non. Feuille 'Détail nomenclature' : 1 679 présentations (718 actives, 470 marques actives)."
     },
     "criteres": [
       {"sous_question": "Q1", "attendu": "3 DCI exactes et 3 ATC exacts (C07AB07, C08CA01, N02BE01)", "points": 1},
