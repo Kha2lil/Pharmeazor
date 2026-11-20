@@ -3,13 +3,13 @@ ANPP,1,https://anpp.dz,seul /wp-admin/ interdit,non trouvees,voir ANPP_RCP,2026-
 ANPP_RCP,1,https://rcp.anpp.dz,aucune restriction,non trouvees,automatique (delai 3 s),2026-11-15,recherche Livewire / PDF texte sans OCR
 Nomenclature officielle,2,https://www.miph.gov.dz/fr/nomenclature-nationale-des-produits-pharmaceutiques/,interdit (auto),,manuel,2026-11-15,indique par le cahier des charges: a verifier
 Thesaurus ANSM,3,https://ansm.sante.fr/documents/reference/thesaurus-des-interactions-medicamenteuses-1,aucune restriction,"non trouvees",,2026-11-15,CGU non vérifiées a faire manuellement,
-DailyMed,3,https://dailymed.nlm.nih.gov/dailymed/,introuvable,non trouvees,,2026-11-15,Pas de robots.txt valide
-EMA,3,https://www.ema.europa.eu/fr/homepage,"seul /core/, /profiles/, /admin/, /search/, /user/ et chemins de connexion interdits",non trouvees,,2026-11-15,Drupal. Sitemap : sitemap.xml. Éviter /search/ et /user/.
+DailyMed,3,https://dailymed.nlm.nih.gov/dailymed/,introuvable,"attribution obligatoire de la source, absence de cautionnement par la NLM et respect des droits d'auteur des contenus tiers",,2026-11-15,Pas de robots.txt valide
+EMA,3,https://www.ema.europa.eu/fr/homepage,"seul /core/, /profiles/, /admin/, /search/, /user/ et chemins de connexion interdits","Réutilisation commerciale et non commerciale autorisée, avec mention obligatoire de la source (EMA). Autorisation préalable requise pour les contenus protégés par des droits de tiers.",,2026-11-15,Drupal. Sitemap : sitemap.xml. Éviter /search/ et /user/.
 Pharm'Net,4,https://pharmnet-dz.com/,"Allow: / ; interdit : /administration, /admin-*, /mon-profil, /notifications, /tableau-de-bord, /connexion",non trouvees,,2026-11-15,Sitemap : sitemap.xml. Éviter les espaces privés et admin.
 MEDAlgerie,4,https://medal-dz.com/,introuvable,non trouvees,,2026-11-15,Pas de robots.txt. CGU à vérifier manuellement avant collecte
 dzair-pharma,4,https://www.dzair-pharma.net/,"Allow: / sauf /admin, /api/, /diff. Bloque tous les crawlers IA (GPTBot, ClaudeBot,CCBot, etc.)",non trouvees,non (crawlers IA bloqués),2026-11-15,Sitemap : sitemap-index.xml. Crawlers IA bloqués : ne pas collecter pour IA
 Base de Données Publique des Médicaments,3,https://base-donnees-publique.medicaments.gouv.fr/,User-agent: * / Allow,Licence Etalab 2.0 (vérifier les mentions légales),"Automatique (Python, 1 requête/2 s). Fichier CIS_COMPO téléchargé manuellement.",2026-11-15,RCP en HTML par CIS (extrait)، composition: CIS_COMPO_bdpm.txt
-AFMPS – Agence fédérale des médicaments et des produits de santé,3,https://www.famhp.be/en,Autorisé partiellement (certaines restrictions de crawl)," Usage pédagogique non commercial autorisé, avec mention obligatoire de la source.",automatique,2026-11-19,Usage pédagogique non commercial autorisé. Le robots.txt impose des restrictions sur certains répertoires du site.
+AFMPS – Agence fédérale des médicaments et des produits de santé,3,https://www.famhp.be/en,Autorisé partiellement (certaines restrictions de crawl)," Usage pédagogique non commercial autorisé, avec mention obligatoire de la source.",automatique
 
 
 
@@ -1993,30 +1993,6 @@ AFMPS – Agence fédérale des médicaments et des produits de santé,3,https:/
 
 
 thesaurus,,https://ansm.sante.fr/documents/reference/thesaurus-des-interactions-medicamenteuses-1,,,,,
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
