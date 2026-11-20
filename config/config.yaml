@@ -14,7 +14,9 @@ paths:
 autorite:                    # niveau d'autorité (1 = plus fiable)
   anpp: 1
   nomenclature: 2
-  ansm: 3
+  bdpm: 3                    # BDPM (RCP français) — rang 3, source étrangère
+  ansm: 3                    # conservé pour compatibilité (notices ANSM)
+  thesaurus: 3               # Thésaurus ANSM des interactions — rang 3
   dailymed: 3
   ema: 3
   sites_pro: 4

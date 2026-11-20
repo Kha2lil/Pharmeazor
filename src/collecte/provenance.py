@@ -17,6 +17,11 @@ class Fiche:
     autorite: int
     chemin: str
     sha256: str
+    source_version: str = ""          # version de la source (date de collecte par défaut)
+    marque_brute: str = ""           # marque brute extraite du titre (BDPM) — F2 raffine
+    dci_present_algerie: str = ""    # oui / non / à vérifier (nomenclature MIPH)
+    nb_brands_algerie_actives: int = 0
+    nb_brands_algerie_total: int = 0
 
 
 def sha256_file(path: Path) -> str:
@@ -40,9 +45,15 @@ def register(medicament: str, source: str, url: str, langue: str, path: Path) ->
     digest = sha256_file(path)
     if digest in load_index():
         return None
+    dc = date.today().isoformat()
+    try:
+        chemin_rel = str(path.relative_to(ROOT))
+    except ValueError:
+        chemin_rel = str(path)
     fiche = Fiche(doc_id=digest[:12], medicament=medicament, source=source, url=url,
-                  date_collecte=date.today().isoformat(), langue=langue,
-                  autorite=CFG["autorite"].get(source, 5), chemin=str(path), sha256=digest)
+                  date_collecte=dc, langue=langue,
+                  autorite=CFG["autorite"].get(source, 5), chemin=chemin_rel, sha256=digest,
+                  source_version=dc)
     p = index_path()
     new = not p.exists()
     with open(p, "a", newline="", encoding="utf-8") as f:
