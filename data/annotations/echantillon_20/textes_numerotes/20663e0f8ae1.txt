@@ -1,0 +1,709 @@
+00001 | NOTICE : INFORMATION DE L'UTILISATEUR
+00002 | Page 1 de 12
+00003 |  NL/H/3365/001-003/IB/021
+00004 | Notice : information de l’utilisateur
+00005 | Ciprofloxacine AB 250 mg comprimés pelliculés
+00006 | Ciprofloxacine AB 500 mg comprimés pelliculés
+00007 | Ciprofloxacine AB 750 mg comprimés pelliculés
+00008 | chlorhydrate de ciprofloxacine
+00009 | Veuillez lire attentivement cette notice avant de prendre ce médicament car elle contient des
+00010 | informations importantes pour vous.
+00011 | 
+00012 | Gardez cette notice. Vous pourriez avoir besoin de la relire.
+00013 | 
+00014 | Si vous avez d’autres questions, interrogez votre médecin ou votre pharmacien.
+00015 | 
+00016 | Ce médicament vous a été personnellement prescrit. Ne le donnez pas à d'autres personnes.
+00017 | Il pourrait leur être nocif, même si les signes de leur maladie sont identiques aux vôtres.
+00018 | 
+00019 | Si vous ressentez un quelconque effet indésirable, parlez-en à votre médecin ou votre pharmacien.
+00020 | Ceci s'applique aussi à tout effet indésirable qui ne serait pas mentionné dans cette notice. Voir
+00021 | rubrique 4.
+00022 | Que contient cette notice?
+00023 | 1. Qu'est-ce que Ciprofloxacine AB et dans quel cas est-il utilisé ?
+00024 | 2. Quelles sont les informations à connaître avant de prendre
+00025 | 3. Ciprofloxacine AB
+00026 |  ?
+00027 | 3. Comment prendre Ciprofloxacine AB ?
+00028 | 4. Quels sont les effets indésirables éventuels
+00029 | 5. Comment conserver Ciprofloxacine AB ?
+00030 | 6. Contenu de l'emballage et autres informations
+00031 | 1. QU'EST-CE QUE CIPROFLOXACINE AB ET DANS QUEL CAS EST-IL UTILISÉ ?
+00032 | La ciprofloxacine est un antibiotique qui appartient à la famille des fluoroquinolones. La substance
+00033 | active est la ciprofloxacine. Elle agit en tuant les bactéries responsables des infections. Elle est active
+00034 | uniquement sur certaines souches spécifiques de bactéries.
+00035 | Adultes
+00036 | Ciprofloxacine AB est utilisé chez l’adulte pour traiter les infections bactériennes suivantes :
+00037 | 
+00038 | infections des voies respiratoires
+00039 | 
+00040 | infections persistantes ou récurrentes de l’oreille ou des sinus
+00041 | 
+00042 | infections urinaires
+00043 | 
+00044 | infections des organes génitaux chez l’homme et la femme
+00045 | 
+00046 | infections gastro-intestinales et infections intra-abdominales
+00047 | 
+00048 | infections de la peau et des tissus mous
+00049 | 
+00050 | infections des os et des articulations
+00051 | 
+00052 | prévention des infections dues à la bactérie Neisseria meningitidis
+00053 | 
+00054 | exposition à la maladie du charbon par inhalation
+00055 | Ciprofloxacine peut être utilisé pour le traitement des patients présentant un faible taux de globules
+00056 | blancs (neutropénie), et ayant de la fièvre suspectée d’être due à une infection bactérienne.
+00057 | Si vous présentez une infection sévère ou une infection due à plus d’un type de bactéries, un
+00058 | traitement antibiotique additionnel pourra vous être prescrit en complément de Ciprofloxacine AB.
+00059 | Enfants et adolescents
+00060 | Ciprofloxacine AB est utilisé chez l’enfant et l’adolescent, sous le contrôle d’un spécialiste, pour
+00061 | traiter les infections bactériennes suivantes :
+00062 | 
+00063 | NOTICE : INFORMATION DE L'UTILISATEUR
+00064 | NL/H/5565/001-003/IB/021
+00065 | Page 2 de 12
+00066 | 
+00067 | infections des poumons et des bronches chez l’enfant et l’adolescent atteint de mucoviscidose
+00068 | 
+00069 | infections urinaires compliquées, y compris les infections ayant atteint les reins (pyélonéphrite
+00070 | aiguё)
+00071 | 
+00072 | exposition à la maladie du charbon par inhalation
+00073 | Ciprofloxacine AB peut également être utilisé pour traiter d’autres infections sévères spécifiques chez
+00074 | l’enfant et l’adolescent si votre médecin le juge nécessaire.
+00075 | 2. QUELLES SONT LES INFORMATIONS À CONNAÎTRE AVANT DE PRENDRE
+00076 | CIPROFLOXACINE AB ?
+00077 | Ne prenez jamais Ciprofloxacine AB :
+00078 | 
+00079 | si vous êtes allergique à la ciprofloxacine, à d’autres médicaments de type quinolone ou à l’un des
+00080 | autres composants contenus dans ce médicament (mentionnés dans la rubrique 6).
+00081 | 
+00082 | si vous prenez de la tizanidine (voir rubrique 2 : « Autres médicaments et Ciprofloxacine AB »).
+00083 | Avertissements et précautions
+00084 | Adressez-vous à votre médecin ou pharmacien avant de prendre Ciprofloxacine AB :
+00085 | 
+00086 | Vous ne devez pas prendre de médicaments antibactériens à base de fluoroquinolone / quinolone,
+00087 | y compris Ciprofloxacine AB, si vous avez déjà présenté une réaction indésirable grave lors de la
+00088 | prise de quinolone ou de fluoroquinolone. Dans cette situation, vous devez informer votre
+00089 | médecin dès que possible
+00090 | 
+00091 | si vous avez déjà eu des problèmes de reins, car il pourrait être nécessaire d’adapter votre
+00092 | traitement
+00093 | 
+00094 | si vous souffrez d’épilepsie ou d’une autre affection neurologique
+00095 | 
+00096 | si vous avez déjà eu des problèmes aux tendons lors d’un précédent traitement avec des
+00097 | antibiotiques tels que Ciprofloxacine AB
+00098 | 
+00099 | si vous êtes diabétique, parce que vous pouvez rencontrer un risque d’hypoglycémie avec la
+00100 | ciprofloxacine
+00101 | 
+00102 | si vous souffrez de myasthénie (un type de faiblesse musculaire), parce que les symptômes
+00103 | peuvent être exacerbés
+00104 | 
+00105 |  si vous avez des problèmes cardiaques. La ciprofloxacine doit être utilisée avec précaution si
+00106 | vous êtes né ou si vous avez des antécédents familiaux d’allongement de l’intervalle QT (observé
+00107 | sur un tracé ECG, enregistrement du tracé électrique du coeur), si vous avez un déséquilibre
+00108 | électrolytique (notamment un taux faible de potassium ou de magnésium dans le sang), si vous
+00109 | avez un rythme cardiaque très lent (appelé « bradycardie »), si vous avez une faiblesse cardiaque
+00110 | (insuffisance cardiaque), si vous avez déjà eu une crise cardiaque (infarctus du myocarde), si vous
+00111 | êtes une femme ou une personne âgée ou si vous prenez d’autres médicaments qui provoquent des
+00112 | anomalies de l’ECG (voir rubrique 2: « Autres médicaments et Ciprofloxacine AB »)
+00113 | 
+00114 | si vous ou un membre de votre famille êtes atteint d’un déficit en glucose-6-phosphate
+00115 | déshydrogénase (G6PD), car vous pourriez alors risquer de présenter une anémie avec la
+00116 | ciprofloxacine.
+00117 | 
+00118 | si on vous a diagnostiqué un grossissement ou un "renflement" d'un gros vaisseau sanguin
+00119 | (anévrisme de l'aorte ou anévrisme périphérique du gros vaisseau).
+00120 | 
+00121 | si vous avez déjà eu un épisode de dissection aortique (déchirure de la paroi de l'aorte).
+00122 | 
+00123 | si vous avez reçu un diagnostic de fuite des valves cardiaques (régurgitation des valves
+00124 | cardiaques).
+00125 | 
+00126 | si vous avez des antécédents familiaux d'anévrisme aortique ou de dissection aortique ou de
+00127 | valvulopathie cardiaque congénitale, ou présentez d'autres facteurs de risque ou conditions
+00128 | prédisposantes (par exemple, troubles du tissu conjonctif tels que le syndrome de Marfan, le
+00129 | syndrome vasculaire d'Ehlers-Danlos, syndrome de Turner, syndrome de Sjögren [une maladie
+00130 | auto-immune inflammatoire] ou des troubles vasculaires tels que l'artérite de Takayasu, l'artérite à
+00131 | cellules géantes, hypertension artérielle ou athérosclérose connue, la polyarthrite rhumatoïde [une
+00132 | maladie des articulations] ou l'endocardite [une infection du coeur]).
+00133 | 
+00134 | NOTICE : INFORMATION DE L'UTILISATEUR
+00135 | NL/H/5565/001-003/IB/021
+00136 | Page 3 de 12
+00137 | Si vous ressentez une douleur soudaine et intense à l'abdomen, à la poitrine ou au dos, qui peuvent
+00138 | être des symptômes d'un anévrisme et d'une dissection aortiques, rendez-vous immédiatement à
+00139 | l'urgence. Votre risque peut être augmenté si vous êtes traité avec des corticostéroïdes administrés
+00140 | par voie générale.
+00141 | - Si vous ressentez soudainement un essoufflement, en particulier lorsque vous vous allongez sur
+00142 | votre lit, ou si vous remarquez un gonflement de vos chevilles, de vos pieds ou de votre abdomen,
+00143 | ou une nouvelle apparition de palpitations cardiaques (sensation de battements de coeur rapides ou
+00144 | irréguliers), vous devez en informer un médecin immédiatement.
+00145 | Pour le traitement de certaines infections de l’appareil génital, votre médecin peut vous prescrire un
+00146 | autre antibiotique en association à la ciprofloxacine. Si aucune amélioration des symptômes n’est
+00147 | observée après trois jours de traitement, veuillez consulter votre médecin.
+00148 | Pendant le traitement par Ciprofloxacine AB 
+00149 | Prévenez immédiatement votre médecin si l’une des situations suivantes se produit pendant le
+00150 | traitement par Ciprofloxacine AB. Votre médecin déterminera si le traitement par Ciprofloxacine
+00151 | AB doit être interrompu.
+00152 | 
+00153 | Réaction allergique sévère et soudaine (réaction/choc anaphylactique, œdème de Quincke). Dès
+00154 | la première dose, il existe un faible risque de survenue de réaction allergique sévère, se manifestant
+00155 | par les symptômes suivants : sensation d'oppression dans la poitrine, douleur thoracique,
+00156 | essoufflement, étourdissements, nausées ou évanouissement, ou étourdissements lors du passage à
+00157 | la position debout. Si ces symptômes surviennent, arrêtez de prendre Ciprofloxacine AB et
+00158 | contactez immédiatement votre médecin ou les services d’urgence médicale.
+00159 | 
+00160 | Une douleur et un gonflement des articulations et une inflammation ou une rupture des
+00161 | tendons peuvent survenir rarement. Votre risque est accru si vous êtes une personne âgée (au-
+00162 | dessus de 60 ans), si vous avez subi une greffe d'organe, si vous avez des problèmes rénaux ou si
+00163 | vous êtes traité par des corticostéroïdes. Une inflammation et des ruptures ou des tendons peuvent
+00164 | survenir dans les premières 48 heures du traitement et même plusieurs mois après l'arrêt du
+00165 | traitement par Ciprofloxacine AB. Dès les premiers signes de douleur ou d'inflammation ou d'un
+00166 | tendon (par exemple à la cheville, au poignet, au coude, à l'épaule ou au genou), arrêtez de prendre
+00167 | Ciprofloxacine AB, contactez votre médecin et reposez la région douloureuse. Évitez tout exercice
+00168 | inutile, car cela pourrait augmenter le risque de rupture du tendon.
+00169 | 
+00170 | Si vous souffrez d’épilepsie ou d’une autre maladie neurologique de type ischémie cérébrale ou
+00171 | accident vasculaire cérébral, vous pourriez présenter des effets indésirables associés au système
+00172 | nerveux central. Si ces symptômes surviennent, arrêtez de prendre Ciprofloxacine AB et contactez
+00173 | immédiatement votre médecin.
+00174 | 
+00175 | Des réactions psychiatriques peuvent survenir dès la première utilisation d’antibiotiques
+00176 | appartenant à la famille des quinolones, y compris Ciprofloxacine AB. Si vous souffrez de
+00177 | dépression ou de psychose, vos symptômes pourraient s’aggraver lors du traitement par
+00178 | Ciprofloxacine AB. Dans de rares cas, une dépression ou une psychose peut évoluer vers des
+00179 | pensées suicidaires et des comportements autodestructeurs tels que des tentatives de suicide, ou un
+00180 | suicide (voir Rubrique 4. Quels sont les effets indésirables éventuels ?). Si une dépression, une
+00181 | psychose, des pensées ou comportements suicidaires se manifestent, contactez immédiatement
+00182 | votre médecin.
+00183 | 
+00184 | Vous pouvez présenter des symptômes rares ou des lésions nerveuses (telles que douleur,
+00185 | sensation de brûlure, picotement, engourdissement et / ou faiblesse, en particulier au niveau des
+00186 | pieds et des jambes ou des mains et des bras). Si cela se produit, arrêtez de prendre
+00187 | 
+00188 | NOTICE : INFORMATION DE L'UTILISATEUR
+00189 | NL/H/5565/001-003/IB/021
+00190 | Page 4 de 12
+00191 | Ciprofloxacine AB et informez votre médecin immédiatement afin d'empêcher le développement
+00192 | d'une affection potentiellement irréversible.
+00193 | 
+00194 | Les antibiotiques de la famille des quinolones peuvent provoquer une augmentation de votre taux
+00195 | de sucre dans le sang au-dessus de la valeur normale (hyperglycémie), ou une diminution de votre
+00196 | taux de sucre dans le sang en dessous de la valeur normale, pouvant entraîner une perte de
+00197 | conscience (coma hypoglycémique) dans les cas graves (voir rubrique 4.). Ceci est important à
+00198 | prendre en compte pour les patients diabétiques. Si vous êtes diabétique, votre taux de sucre dans
+00199 | le sang doit être étroitement surveillé.
+00200 | 
+00201 | Si vous notez un changement quelconque dans votre vision ou si vous avez d’autres problèmes au
+00202 | niveau des yeux, contactez immédiatement un ophtalmologiste.
+00203 | 
+00204 | Une diarrhée peut se produire pendant la prise d’antibiotiques, y compris avec Ciprofloxacine
+00205 | AB, même plusieurs semaines après la fin du traitement. Si la diarrhée devient sévère ou persiste,
+00206 | ou si vous remarquez la présence de sang ou de mucus dans vos selles, arrêtez immédiatement de
+00207 | prendre Ciprofloxacine AB, car votre vie pourrait être mise en danger. Ne prenez pas de
+00208 | médicaments destinés à bloquer ou à ralentir le transit intestinal et contactez votre médecin.
+00209 | 
+00210 | Prévenez le médecin ou le personnel du laboratoire d’analyses que vous prenez Ciprofloxacine AB
+00211 | si vous devez subir un prélèvement de sang ou d’urine.
+00212 | 
+00213 | Si vous avez des problèmes rénaux, prévenez votre médecin car votre dose devraéventuellement
+00214 | être adaptée.
+00215 | 
+00216 | Ciprofloxacine AB peut provoquer une atteinte du foie. Si vous remarquez le moindre symptôme
+00217 | de type perte d’appétit, ictère (jaunissement de la peau), urines foncées, démangeaisons ou
+00218 | sensibilité de l’estomac à de la palpation, arrêtez de prendre Ciprofloxacine AB et contactez
+00219 | immédiatement votre médecin.
+00220 | 
+00221 | Ciprofloxacine AB peut diminuer le taux sanguin de vos globules blancs et réduire votre
+00222 | résistance aux infections. Si vous présentez une infection accompagnée de symptômes tels qu’une
+00223 | fièvre et une altération importante de votre état général, ou une fièvre accompagnée de symptômes
+00224 | d’infection locale tels qu’une douleur dans la gorge/le pharynx/la bouche ou des problèmes
+00225 | urinaires, vous devez consulter immédiatement votre médecin. Une analyse de sang sera effectuée
+00226 | afin de rechercher une éventuelle diminution du taux de certains globules blancs (agranulocytose).
+00227 | Il est important d’indiquer à votre médecin que vous prenez ce médicament.
+00228 | 
+00229 | Votre peau devient plus sensible au soleil et aux rayons ultraviolets (UV) lorsque vous prenez
+00230 | Ciprofloxacine AB. Évitez toute exposition intense au soleil ou aux rayons UV artificiels tels que
+00231 | ceux des cabines de bronzage.
+00232 | Effets secondaires graves prolongés, invalidants et potentiellement irréversibles
+00233 | Les médicaments antibactériens à base de fluoroquinolone / quinolone, y compris Ciprofloxacine AB,
+00234 | ont été associés à des effets indésirables très rares mais graves, certains d'entre eux étant persistants
+00235 | (plusieurs mois ou années), invalidants ou potentiellement irréversibles. Cela comprend les douleurs
+00236 | au tendon, aux muscles et aux articulations des membres supérieurs et inférieurs, des difficultés de
+00237 | marche, des sensations anormales telles que picotements, picotements, chatouillement,
+00238 | engourdissement ou sensation de brûlure (paresthésie), des troubles sensoriels, y compris une
+00239 | altération de la vision, du goût et de l'odorat, et l'ouïe, la dépression, les troubles de la mémoire, la
+00240 | fatigue intense et les troubles graves du sommeil.
+00241 | Si vous présentez l'un de ces effets indésirables après la prise de Ciprofloxacine AB, contactez votre
+00242 | médecin immédiatement avant de poursuivre le traitement. Vous et votre médecin déciderez de
+00243 | poursuivre le traitement en tenant également compte d'un antibiotique d'une autre classe.
+00244 | 
+00245 | NOTICE : INFORMATION DE L'UTILISATEUR
+00246 | NL/H/5565/001-003/IB/021
+00247 | Page 5 de 12
+00248 | Autres médicaments et Ciprofloxacine AB
+00249 | Informez votre médecin ou pharmacien si vous prenez, avez récemment pris ou pourriez prendre tout
+00250 | autre médicament.
+00251 | Ne prenez pas Ciprofloxacine AB en association avec la tizanidine, car cela peut provoquer des
+00252 | effets indésirables tels qu'une hypotension artérielle et une somnolence (voir rubrique 2 : « Ne prenez
+00253 | pas Ciprofloxacin AB »).
+00254 | Les médicaments suivants sont connus pour agir sur la Ciprofloxacine AB dans votre corps.
+00255 | L'utilisation de Ciprofloxacine AB avec ces médicaments peut affecter l'effet thérapeutique de ces
+00256 | médicaments. Cela peut également augmenter le risque de subir des effets secondaires.
+00257 | Prévenez votre médecin si vous prenez :
+00258 | 
+00259 | d’antivitamine K (p.ex : warfarine, acénocoumarol, phenprocoumon ou fluindione) ou d’autres
+00260 | anticoagulants oraux (destinés à fluidifier le sang)
+00261 | 
+00262 | de la théophylline (utilisée pour traiter des problèmes respiratoires)
+00263 | 
+00264 | de la phénytoïne (utilisée pour traiter l’épilepsie)
+00265 | 
+00266 | du probénécide (utilisé pour traiter la goutte)
+00267 | 
+00268 | du ropinirole (utilisé pour traiter la maladie de Parkinson)
+00269 | 
+00270 | du méthotrexate (utilisé pour traiter certains types de cancer, le psoriasis, la polyarthrite
+00271 | rhumatoïde)
+00272 | 
+00273 | de la tizanidine (utilisée pour traiter les problèmes de spasticité musculaire liés à la sclérose en
+00274 | plaques)
+00275 | 
+00276 | de l’olanzapine (un antipsychotique)
+00277 | 
+00278 | de la clozapine (un antipsychotique)
+00279 | 
+00280 | de la metoclopramide (utilisé dans le traitement des nausées et des vomissements)
+00281 | 
+00282 | de la ciclosporine (utilisée dans les maladies de peaux, la polyarthrite rhumatoïde et les
+00283 | transplantations d’organe)
+00284 | 
+00285 | d’autres médicaments pouvant modifier votre rythme cardiaque : les médicaments appartenant
+00286 | au groupe des antiarythmiques (p.ex. la quinidine, l’hydroquinidine, le disopyramide,
+00287 | l’amiodarone, le sotalol, le dofétilide, l’ibutilide), les antidépresseurs tricycliques, certains
+00288 | antibiotiques (qui appartiennent à la famille des macrolides), certains antipsychotiques
+00289 | 
+00290 | zolpidem (pour les troubles du sommeil)
+00291 | Ciprofloxacine AB peut augmenter la concentration des médicaments suivants dans votre sang :
+00292 | 
+00293 | pentoxifylline (utilisée pour traiter des troubles de la circulation)
+00294 | 
+00295 | caféine
+00296 | 
+00297 | duloxétine (utilisée dans la dépression, les lésions nerveuses liées au diabète ou l’incontinence)
+00298 | 
+00299 | lidocaïne (utilisée dans les maladies cardiaques ou à usage anesthésique)
+00300 | 
+00301 | sildénafil (par exemple dans les troubles de l’érection)
+00302 | 
+00303 | agomélatine (pour la dépression)
+00304 | Certains médicaments atténuent les effets de Ciprofloxacine AB. Prévenez votre médecin si vous
+00305 | prenez ou envisagez de prendre :
+00306 | 
+00307 | des antiacides
+00308 | 
+00309 | oméprazole
+00310 | 
+00311 | des compléments minéraux
+00312 | 
+00313 | du sucralfate
+00314 | 
+00315 | un chélateur polymérique du phosphate (p. ex. le sévélamer ou carbonate de lanthane)
+00316 | 
+00317 | des médicaments ou compléments contenant du calcium, du magnésium, de l’aluminium ou du fer
+00318 | Si la prise de ces préparations est indispensable, prenez Ciprofloxacine AB environ deux heures avant
+00319 | ces préparations, ou au plus tôt quatre heures après leur prise.
+00320 | 
+00321 | NOTICE : INFORMATION DE L'UTILISATEUR
+00322 | NL/H/5565/001-003/IB/021
+00323 | Page 6 de 12
+00324 | Ciprofloxacine AB avec des aliments et des boissons
+00325 | Le calcium présent dans un repas, incluant les produits laitiers et boissons riches en calcium (de type
+00326 | lait ou yaourt) ou le jus de fruit enrichi (par ex. jus d'orange enrichi en calcium) compris, n’a pas
+00327 | d’incidence grave sur l’effet du médicament.
+00328 | Cependant, les comprimés de ciprofloxacine administrés en même temps que des produits laitiers et
+00329 | boissons riches en calcium lorsque ces produits laitiers ou boissons sont pris seuls en dehors des repas
+00330 | peuvent réduire l’effet de ce médicament.
+00331 | Par conséquent, les comprimés de ciprofloxacine doivent être pris 1 à 2 heures avant ou au moins 4
+00332 | heures après la consommation de produits laitiers ou de boissons riches en calcium lorsqu’ils sont pris
+00333 | seuls en dehors des repas (voir rubrique 3. Comment prendre Ciprofloxacine AB?).
+00334 | Grossesse et allaitement
+00335 | Si vous êtes enceinte ou que vous allaitez, si vous pensez être enceinte ou planifiez une grossesse,
+00336 | demandez conseil à votre médecin ou pharmacien avant de prendre ce médicament.
+00337 | Il est préférable d’éviter l’utilisation de Ciprofloxacine AB pendant la grossesse. Informez votre
+00338 | médecin si vous êtes enceinte ou si vous envisagez une grossesse.
+00339 | Ne prenez pas Ciprofloxacine AB pendant l’allaitement, car la ciprofloxacine est excrétée dans le lait
+00340 | maternel et peut nuire à la santé de votre enfant.
+00341 | Conduite de véhicules et utilisation de machines
+00342 | Ciprofloxacine AB peut diminuer votre niveau de vigilance. Certains effets neurologiques
+00343 | indésirables peuvent se produire. Par conséquent, assurez-vous de savoir comment vous réagissez à
+00344 | Ciprofloxacine AB avant de conduire un véhicule ou d’utiliser des machines. En cas de doute, parlez-
+00345 | en avec votre médecin.
+00346 | Sodium
+00347 | Ce médicament contient moins de 1 mmol (23 mg) de sodium par comprimé, ce qui est
+00348 | essentiellement sans sodium.
+00349 | 3. COMMENT PRENDRE CIPROFLOXACINE AB ?
+00350 | Veillez à toujours prendre ce médicament en suivant exactement les indications de votre médecin ou
+00351 | pharmacien. Vérifiez auprès de votre médecin ou pharmacien en cas de doute.
+00352 | Prévenez votre médecin si vous avez des problèmes rénaux, car il pourrait s’avérer nécessaire
+00353 | d’adapter la dose de médicament à prendre.
+00354 | Le traitement dure généralement entre 5 et 21 jours, mais peut être plus long en cas d’infection sévère.
+00355 | Veillez à toujours prendre les comprimés en suivant exactement les indications de votre médecin.
+00356 | Adressez-vous à votre médecin ou votre pharmacien si vous avez des doutes sur le nombre de
+00357 | comprimés de Ciprofloxacine AB à prendre ou sur la façon de les prendre.
+00358 | a.
+00359 | Avalez les comprimés avec une grande quantité de liquide.
+00360 | b.
+00361 | Ne croquez pas les comprimés car ils ont mauvais goût.
+00362 | c.
+00363 | Essayez de prendre les comprimés plus ou moins à la même heure chaque jour.
+00364 | d.
+00365 | Vous pouvez prendre les comprimés pendant ou en dehors des repas.
+00366 | Vous pouvez prendre les comprimés de ciprofloxacine au cours d’un repas contenant des produits
+00367 | laitiers (de type lait ou yaourt) ou des boissons riches en calcium (par ex. jus d'orange enrichi en
+00368 | calcium). Cependant, ne prenez pas les comprimés de Ciprofloxacine AB en même temps que des
+00369 | produits laitiers (de type lait ou yaourt) ou des boissons riches en calcium (par ex. jus d’orange enrichi
+00370 | 
+00371 | NOTICE : INFORMATION DE L'UTILISATEUR
+00372 | NL/H/5565/001-003/IB/021
+00373 | Page 7 de 12
+00374 | en calcium) lorsque ces produits laitiers ou boissons riches en calcium sont pris seuls en dehors des
+00375 | repas. Les comprimés de ciprofloxacine doivent être pris 1 à 2 heures avant ou au moins 4 heures
+00376 | après la consommation de produits laitiers ou de boissons riches en calcium, lorsqu’ils sont pris seuls
+00377 | en dehors des repas.
+00378 | Pensez à boire abondamment pendant le traitement par Ciprofloxacine AB.
+00379 | Si vous avez pris plus de Ciprofloxacine AB que vous n’auriez dû
+00380 | Si vous avez pris plus que la dose prescrite, consultez immédiatement un médecin. Si possible, prenez
+00381 | avec vous les comprimés restants ou la boîte pour les montrer au médecin. Si vous avez pris trop de
+00382 | Ciprofloxacine AB, prenez immédiatement contact avec votre médecin, votre pharmacien ou le Centre
+00383 | Antipoisons (070/245.245).
+00384 | Si vous oubliez de prendre Ciprofloxacine AB
+00385 | Si vous oubliez de prendre Ciprofloxacine AB et qu’il reste :
+00386 | 
+00387 | 6 heures ou plus avant votre prochaine dose, prenez immédiatement votre dose oubliée.
+00388 | Prenez ensuite la prochaine dose à l’heure habituelle.
+00389 | 
+00390 | moins de 6 heures avant votre prochaine dose, ne prenez pas votre dose oubliée. Prenez la
+00391 | prochaine dose à l’heure habituelle.
+00392 | Ne prenez pas de dose double pour compenser la dose que vous avez oublié de prendre. Veillez à
+00393 | suivre votre traitement jusqu’à la fin.
+00394 | Si vous arrêtez de prendre Ciprofloxacine AB
+00395 | Il est important que vous suiviez le traitement jusqu’à la fin, même si vous commencez à vous
+00396 | sentir mieux après quelques jours. Si vous arrêtez de prendre ce médicament trop tôt, votre infection
+00397 | pourrait ne pas être complètement guérie et les symptômes de l’infection pourraient réapparaître ou
+00398 | s’aggraver. Vous pourriez également développer une résistance à cet antibiotique.
+00399 | Si vous avez d’autres questions sur l’utilisation de ce médicament, demandez plus d’informations à
+00400 | votre médecin ou à votre pharmacien.
+00401 | 4. QUELS SONT LES EFFETS INDÉSIRABLES ÉVENTUELS ?
+00402 | Comme tous les médicaments, ce médicament peut provoquer des effets indésirables, mais ils ne
+00403 | surviennent pas systématiquement chez tout le monde.
+00404 | La section suivante contient les effets secondaires les plus graves que vous puissiez reconnaître:
+00405 | Arrêtez de prendre Ciprofloxacine AB et contactez votre médecin immédiatement pour envisager
+00406 | un autre traitement antibiotique si vous remarquez l'un des effets indésirables graves suivants:
+00407 | Rare (peut affecter jusqu'à 1 personne sur 1000)
+00408 | 
+00409 | Saisie (voir Section 2: Avertissements et précautions)
+00410 | Très rare (peut affecter jusqu'à 1 personne sur 10 000)
+00411 | 
+00412 | Réaction allergique soudaine et grave accompagnée de symptômes tels que sensation d'oppression
+00413 | thoracique, sensation de vertige, de maladie ou d'évanouissement, ou sensation de vertige en se
+00414 | levant (réaction anaphylactique / choc) (voir Section 2: Avertissements et précautions)
+00415 | 
+00416 | Faiblesse musculaire, inflammation des tendons pouvant entraîner une rupture du tendon, touchant
+00417 | en particulier le gros tendon situé à l'arrière de la cheville (tendon d'Achille) (voir Section 2:
+00418 | Avertissements et précautions)
+00419 | 
+00420 | Une éruption cutanée grave menaçant le pronostic vital, se présentant généralement sous la forme
+00421 | de cloques ou d'ulcères dans la bouche, la gorge, le nez, les yeux et d'autres membranes muqueuses
+00422 | 
+00423 | NOTICE : INFORMATION DE L'UTILISATEUR
+00424 | NL/H/5565/001-003/IB/021
+00425 | Page 8 de 12
+00426 | telles que les organes génitaux, pouvant évoluer vers une formation de cloques ou un écaillement
+00427 | de la peau (syndrome de Stevens-Johnson, nécrolyse épidermique toxique).
+00428 | Non connu (la fréquence ne peut pas être estimée à partir des données disponibles)
+00429 | 
+00430 | Sensations inhabituelles de douleur, de brûlure, de picotement, d'engourdissement ou de faiblesse
+00431 | musculaire aux extrémités (neuropathie) (voir Section 2: Avertissements et précautions)
+00432 | 
+00433 | Une réaction au médicament qui provoque des éruptions cutanées, de la fièvre, une inflammation
+00434 | des organes internes, des anomalies hématologiques et une maladie systémique (DRESS - réaction
+00435 | au médicament avec éosinophilie et symptômes systémiques, AGEP, Pustulose exanthémateuse
+00436 | aiguë généralisée).
+00437 | 
+00438 | Douleurs thoraciques, qui peuvent être le signe d'une réaction allergique potentiellement grave
+00439 | appelée syndrome de Kounis.
+00440 | Les autres effets indésirables observés au cours du traitement par Ciprofloxacine AB sont répertoriés
+00441 | ci-dessous, en fonction de leur probabilité:
+00442 | Effets indésirables fréquents (peuvent toucher jusqu'à 1 personne sur 10) :
+00443 | 
+00444 | nausées, diarrhée
+00445 | 
+00446 | douleurs dans les articulations chez l’enfant
+00447 | Effets indésirables peu fréquents (peuvent toucher jusqu’à 1 personne sur 100) :
+00448 | 
+00449 | surinfections fongiques
+00450 | 
+00451 | concentration élevée d’éosinophiles (un type de globules blancs)
+00452 | 
+00453 | diminution d’appétit (anorexie)
+00454 | 
+00455 | hyperactivité ou agitation
+00456 | 
+00457 | maux de tête, étourdissements, troubles du sommeil ou troubles du goût
+00458 | 
+00459 | vomissements, douleurs abdominales, problèmes digestifs tels que des problèmes d’estomac
+00460 | (indigestion/sensation de brûlant) ou flatulence
+00461 | 
+00462 | augmentation de la quantité de certaines substances dans le sang (transaminases et/ou bilirubine)
+00463 | 
+00464 | éruption cutanée, démangeaisons ou urticaire
+00465 | 
+00466 | douleurs dans les articulations chez l’adulte
+00467 | 
+00468 | troubles de la fonction rénale
+00469 | 
+00470 | douleurs dans les muscles et les os, sensation d’être souffrant(e) (asthénie) ou fièvre
+00471 | 
+00472 | élévation du taux sanguin de phosphatase alcaline (une substance présente dans le sang)
+00473 | Effets indésirables rares (peuvent toucher jusqu’à 1 personne sur 1 000) :
+00474 | 
+00475 | douleur musculaire, inflammation des articulations, tension musculaire accrue et crampes
+00476 | 
+00477 | inflammation de l’intestin (colite) liée à l’utilisation d’antibiotiques (pouvant être fatale dans de
+00478 | très rares cas) (voir rubrique 2 : Avertissements et précautions)
+00479 | 
+00480 | modification de la formule sanguine (leucopénie, leucocytose, neutropénie, anémie), augmentation
+00481 | ou diminution de la quantité d’un facteur de coagulation sanguine (plaquettes)
+00482 | 
+00483 | réaction allergique, gonflement (œdème) ou gonflement rapide de la peau et des muqueuses
+00484 | (œdème de Quincke)
+00485 | 
+00486 | augmentation du taux de sucre dans le sang (hyperglycémie)
+00487 | 
+00488 | diminution du taux de sucre dans le sang (hypoglycémie) (voir rubrique 2 : Avertissements et
+00489 | précautions)
+00490 | 
+00491 | confusion, désorientation, réactions d’anxiété, rêves étranges, dépression (pouvant aboutir à des
+00492 | pensées suicidaires, à des tentatives de suicide ou à un suicide) ou hallucinations
+00493 | 
+00494 | fourmillements, sensibilité inhabituelle aux stimuli sensitifs, diminution de sensibilité de la peau,
+00495 | tremblements, crises convulsives (voir rubrique 2 : Avertissements et précautions), ou vertiges
+00496 | 
+00497 | troubles de la vue, incluant une vision double
+00498 | 
+00499 | bourdonnements d’oreilles (acouphènes), perte auditive, troubles auditifs
+00500 | 
+00501 | accélération des battements cardiaques (tachycardie)
+00502 | 
+00503 | dilatation des vaisseaux sanguins (vasodilatation), baisse de la tension artérielle (hypotension) ou
+00504 | perte de connaissance
+00505 | 
+00506 | NOTICE : INFORMATION DE L'UTILISATEUR
+00507 | NL/H/5565/001-003/IB/021
+00508 | Page 9 de 12
+00509 | 
+00510 | essoufflement, y compris symptômes asthmatiques
+00511 | 
+00512 | troubles hépatiques, jaunisse (ictère cholestatique) ou hépatite
+00513 | 
+00514 | sensibilité à la lumière (voir rubrique 2 : Avertissements et précautions)
+00515 | 
+00516 | insuffisance rénale, présence de sang ou de cristaux dans les urines (voir rubrique 2 :
+00517 | Avertissements et précautions), inflammation des voies urinaires
+00518 | 
+00519 | rétention d’eau ou transpiration excessive
+00520 | 
+00521 | augmentation de la concentration dans le sang de l’enzyme amylase (une enzyme issue du
+00522 | pancréas)
+00523 | Effets indésirables très rares (peuvent toucher jusqu’à 1 personne sur 10 000) :
+00524 | 
+00525 | type particulier de diminution du nombre de globules rouges (anémie hémolytique) ; diminution
+00526 | dangereuse d’un type de globules blancs (agranulocytose) ; diminution du nombre de globules
+00527 | rouges, de globules blancs et de plaquettes (pancytopénie), pouvant être fatale ; aplasie médullaire
+00528 | (appauvrissement de la moelle osseuse en cellules sanguines) pouvant également être fatale (voir
+00529 | rubrique 2 : Avertissements et précautions)
+00530 | 
+00531 | réactions allergiques sévères (réaction anaphylactique ou choc anaphylactique, pouvant mettre en
+00532 | danger la vie du patient – maladie sérique) (voir rubrique 2 : Avertissements et précautions)
+00533 | 
+00534 | troubles mentaux (réactions psychotiques pouvant aboutir à des pensées suicidaires, à des
+00535 | tentatives de suicide ou à un suicide) (voir rubrique 2 : Avertissements et précautions)
+00536 | 
+00537 | migraine, troubles de la coordination, démarche instable (troubles de la marche), altération de
+00538 | l’odorat (troubles olfactifs), pression exercée sur le cerveau (hypertension intracrânienne et
+00539 | pseudotumor cerebri)
+00540 | 
+00541 | troubles de la vision des couleurs
+00542 | 
+00543 | inflammation de la paroi des vaisseaux sanguins (vascularite)
+00544 | 
+00545 | pancréatite
+00546 | 
+00547 | destruction des cellules du foie (nécrose hépatique), aboutissant très rarement à une insuffisance
+00548 | hépatique pouvant mettre en danger la vie du patient
+00549 | 
+00550 | petits saignements apparaissant sous la forme de points rouges sous la peau (pétéchies) ; éruptions
+00551 | cutanées diverses (par exemple, syndrome de Stevens-Johnson ou syndrome de Lyell, qui sont
+00552 | potentiellement fatals)
+00553 | 
+00554 | aggravation des symptômes de la myasthénie (voir rubrique 2 : Avertissements et précautions)
+00555 | Fréquence indéterminée (ne peut être estimée sur la base des données disponibles)
+00556 | 
+00557 | rythme cardiaque anormalement rapide, rythme cardiaque irrégulier mettant la vie en danger,
+00558 | rythme cardiaque modifié (appelé « allongement de l’intervalle QT », observé sur un tracé ECG,
+00559 | enregistrement du tracé électrique du coeur), influence sur la coagulation du sang (chez les patients
+00560 | traités par des antivitamines K)
+00561 | 
+00562 | sensation de grande excitation (manie) ou optimisme excessif et hyperactivité (hypomanie),
+00563 | réaction d’hypersensibilité connue sous le nom de syndrome DRESS (Drug Reaction with
+00564 | Eosinophilia and Systemic Symptoms)
+00565 | 
+00566 | syndrome associé à une altération de l'excrétion d'eau et à de faibles taux de sodium (syndrome de
+00567 | sécrétion inappropriée d’hormone antidiurétique - SIADH)
+00568 | 
+00569 | Perte de conscience due à une diminution importante du taux de sucre dans le sang (coma
+00570 | hypoglycémique). Voir rubrique 2.
+00571 | Les autres effets secondaires incluent:
+00572 | Augmentation de votre glycémie (hyperglycémie) ou diminution de votre glycémie menant au coma
+00573 | (coma hypoglycémique). Ceci est important pour les personnes atteintes de diabète.
+00574 | De très rares cas de réactions indésirables persistantes (jusqu’à quelques mois ou quelques années) ou
+00575 | permanentes, telles qu'inflammations du tendon, rupture du tendon, douleurs articulaires, douleurs
+00576 | dans les membres, difficultés à marcher, sensations anormales telles que picotements, fourmillements,
+00577 | chatouillement , brûlures, engourdissements ou douleurs (neuropathie), fatigue, troubles de la
+00578 | mémoire et de la concentration, des effets sur la santé mentale (qui peuvent inclure : troubles du
+00579 | sommeil, anxiété, crises de panique, dépression et idées suicidaires), ainsi que des troubles de
+00580 | 
+00581 | NOTICE : INFORMATION DE L'UTILISATEUR
+00582 | NL/H/5565/001-003/IB/021
+00583 | Page 10 de 12
+00584 | l'audition, de la vue, du goût et de l'odorat ont été associés à l'administration d'antibiotiques quinolone
+00585 | et fluoroquinolone, dans certains cas facteurs de risque existants.
+00586 | Des cas d'élargissement et d'affaiblissement de la paroi aortique ou de déchirure de la paroi aortique
+00587 | (anévrismes et dissections), qui peuvent se rompre et mettre en jeu le pronostic vital, ainsi que de fuite
+00588 | de valves cardiaques ont été signalés chez des patients recevant des fluoroquinolones. Voir également
+00589 | rubrique 2.
+00590 | Déclaration des effets secondaires
+00591 | Si vous ressentez un quelconque effet indésirable, parlez-en à votre médecin ou votre pharmacien.
+00592 | Ceci s’applique aussi à tout effet indésirable qui ne serait pas mentionné dans cette notice.
+00593 | Vous pouvez également déclarer les effets indésirables directement via :
+00594 | BE :
+00595 | Agence fédérale des médicaments et des produits de santé
+00596 | www.afmps.be
+00597 | Division Vigilance :
+00598 | Site internet : www.notifieruneffetindesirable.be
+00599 | E-mail : adr@fagg-afmps.be
+00600 | LU :
+00601 | Centre Régional de Pharmacovigilance de Nancy ou Division de la pharmacie et des médicaments de
+00602 | la Direction de la santé
+00603 | Site internet : www.guichet.lu/pharmacovigilance
+00604 | En signalant les effets indésirables, vous contribuez à fournir davantage d’informations sur la sécurité
+00605 | du médicament.
+00606 | 5. COMMENT CONSERVER CIPROFLOXACINE AB ?
+00607 | Tenir hors de la vue et de la portée des enfants.
+00608 | N’utilisez pas ce médicament après la date de péremption indiquée sur la boîte et la plaquette après
+00609 | « EXP ». La date de péremption fait référence au dernier jour de ce mois.
+00610 | Ce médicament ne nécessite pas de précautions particulières de conservation.
+00611 | Ne jetez aucun médicament au tout-à-l’égout ni avec les ordures ménagères. Demandez à votre
+00612 | pharmacien d'éliminer les médicaments que vous n'utilisez plus. Ces mesures contribueront à protéger
+00613 | l’environnement.
+00614 | 6. CONTENU DE L'EMBALLAGE ET AUTRES INFORMATIONS
+00615 | Ce que contient Ciprofloxacine AB
+00616 | 
+00617 | La substance active est la ciprofloxacine (sous forme de chlorhydrate de ciprofloxacine).
+00618 | Chaque comprimé pelliculé contient 250 mg de ciprofloxacine (sous forme de chlorhydrate de
+00619 | ciprofloxacine).
+00620 | Chaque comprimé pelliculé contient 500 mg de ciprofloxacine (sous forme de chlorhydrate de
+00621 | ciprofloxacine).
+00622 | Chaque comprimé pelliculé contient 750 mg de ciprofloxacine (sous forme de chlorhydrate de
+00623 | ciprofloxacine).
+00624 | 
+00625 | Les autres composants sont :
+00626 | 
+00627 | NOTICE : INFORMATION DE L'UTILISATEUR
+00628 | NL/H/5565/001-003/IB/021
+00629 | Page 11 de 12
+00630 | Noyau du comprimé : Cellulose microcristalline, glycolate d'amidon sodique (type A), povidone
+00631 | (K 30), silice colloïdale anhydre, stéarate de magnésium.
+00632 | Pelliculage : Hypromellose, dioxyde de titane (E 171), macrogol 400.
+00633 | Aspect de Ciprofloxacine AB et contenu de l’emballage extérieur
+00634 | Comprimé pelliculé.
+00635 | Ciprofloxacine AB 250 mg comprimés pelliculés
+00636 | Comprimés pelliculés blancs à blanc cassé, ronds (diamètre de 11,1 mm), avec une barre de cassure
+00637 | sur une face et portant les mentions « F » et « 23 » gravées sur l’autre face, avec une barre de cassure
+00638 | entre ces deux inscriptions. Le comprimé peut être divisé en doses égales.
+00639 | Ciprofloxacine AB 500 mg comprimés pelliculés
+00640 | Comprimés pelliculés blancs à blanc cassé, en forme de capsule, avec une barre de cassure sur une
+00641 | face et portant la mention « F22 » gravée sur l’autre face. Le comprimé peut être divisé en doses
+00642 | égales. Sa dimension est de 18,2 mm x 8,1 mm.
+00643 | Ciprofloxacine AB 750 mg comprimés pelliculés
+00644 | Comprimés pelliculés blancs à blanc cassé, en forme de capsule, portant la mention « C » sur une face
+00645 | et « 93 » sur l’autre face. Leur dimension est de 22,3 mm x 8,2 mm.
+00646 | Les comprimés pelliculés de Ciprofloxacine AB sont disponibles dans des plaquettes en PVC/PVdC-
+00647 | feuille d'aluminium.
+00648 | Présentations : 1, 8, 10, 14, 16, 20, 50 et 100 comprimés pelliculés.
+00649 | Toutes les présentations peuvent ne pas être commercialisées.
+00650 | Mode de délivrance : Médicament soumis à prescription médicale.
+00651 | Numéros de l’autorisation de mise sur le marché :
+00652 | BE:
+00653 | Ciprofloxacine AB 250 mg : BE477253
+00654 | Ciprofloxacine AB 500 mg : BE477262
+00655 | Ciprofloxacine AB 750 mg : BE477271
+00656 | LU :
+00657 | Ciprofloxacine AB 250 mg : 2025020017
+00658 | Ciprofloxacine AB 500 mg : 2025020018
+00659 | Ciprofloxacine AB 750 mg : 2025020019
+00660 | Titulaire de l’autorisation de mise sur le marché et fabricants
+00661 | Titulaire de l’autorisation de mise sur le marché
+00662 | Aurobindo S.A., Av. E. Demunter 5 box 8, 1090 Bruxelles
+00663 | Fabricants
+00664 | APL Swift Services (Malta) Limited, Birzebbugia, BBG 3000 Malte
+00665 | Ce médicament est autorisé dans les États membres de l’Espace économique européen sous les
+00666 | noms suivants:
+00667 | BE
+00668 | Ciprofloxacine AB 250 mg ; 500 mg ; 750 mg filmomhulde tabletten / comprimés pelliculés /
+00669 | Filmtabletten
+00670 | ES 
+00671 | Ciprofloxacino Aurovitas 250 mg/ 500 mg/ 750 mg comprimidos recubiertos con
+00672 | 
+00673 | NOTICE : INFORMATION DE L'UTILISATEUR
+00674 | NL/H/5565/001-003/IB/021
+00675 | Page 12 de 12
+00676 | pelicula EFG
+00677 | LU 
+00678 | Ciprofloxacine AB 250 mg/ 500 mg/ 750 mg, comprimés pelliculés / Filmtabletten
+00679 | LV 
+00680 | Ciprofloxacin Aurobindo 500 mg apvalkotās tabletes
+00681 | NL
+00682 | Ciprofloxacine Aurobindo 250 mg/ 500 mg/ 750 mg, filmomhulde tabletten
+00683 | La dernière approbation de cette notice date de 06/2026.
+00684 | Date d’approbation AFMPS : 06/2026
+00685 | Conseils / éducation sanitaire
+00686 | Les antibiotiques sont utilisés pour combattre les infections dues à des bactéries. Ils ne sont pas
+00687 | efficaces contre les infections dues aux virus.
+00688 | Aussi, votre médecin a choisi de vous prescrire cet antibiotique parce qu’il convient précisément à
+00689 | votre cas et à votre maladie actuelle.
+00690 | Les bactéries ont parfois la capacité de survivre ou de se reproduire malgré l’action d’un antibiotique.
+00691 | Ce phénomène est appelé résistance : il rend certains traitements antibiotiques inactifs.
+00692 | La résistance s’accroît par l’usage abusif et inapproprié des antibiotiques. Vous risquez même de
+00693 | favoriser l’apparition de bactéries résistantes et donc de retarder votre guérison ou de réduire
+00694 | l’efficacité de l’antibiotique si vous ne respectez pas:
+00695 | 
+00696 | la dose à prendre
+00697 | 
+00698 | les moments de prise
+00699 | 
+00700 | et la durée de traitement.
+00701 | En conséquence, pour préserver l’efficacité de ce médicament :
+00702 | 1. N’utilisez un antibiotique que lorsque votre médecin vous l’a prescrit.
+00703 | 2. Respectez strictement votre ordonnance.
+00704 | 3. Ne réutilisez pas un antibiotique sans prescription médicale, même si vous pensez combattre une
+00705 | maladie apparemment semblable.
+00706 | 4. Ne donnez jamais votre antibiotique à une autre personne ; il n’est peut-être pas adapté à sa
+00707 | maladie.
+00708 | 5. Une fois votre traitement terminé, rapportez à votre pharmacien toutes les boîtes entamées pour
+00709 | une destruction correcte et appropriée de ce médicament.

@@ -1,0 +1,469 @@
+00001 | METHYLDOPA- methyldopa tablet, film coated 
+00002 | Rebel Distributors Corp
+00003 | ----------
+00004 | METHYLDOPA TABLETS USP
+00005 | Rx only
+00006 | DESCRIPTION
+00007 | Methyldopa is an antihypertensive drug.
+00008 | Methyldopa is the L-isomer of alpha-methyldopa. Its chemical name is levo-3-(3,4-dihydroxyphenyl)-
+00009 | 2-methylalanine sesquihydrate. Its structural formula is:
+00010 | C
+00011 | H
+00012 | NO • 1 1/2 H O M.W. 238.24
+00013 | Methyldopa is a white to yellowish white, odorless fine powder, and is soluble in water.
+00014 | Each tablet, for oral administration, contains 250 mg or 500 mg of methyldopa. Potency is calculated in
+00015 | the anhydrous basis. Inactive ingredients: citric acid, colloidal silicon dioxide, edetate disodium,
+00016 | ethylcellulose, hypromellose, magnesium stearate, methylcellulose, polyethylene glycol, sodium starch
+00017 | glycolate, and titanium dioxide. In addition, the 250 mg tablet contains calcium sulfate, hydroxypropyl
+00018 | cellulose, and talc, and the 500 mg tablet contains polysorbate 80.
+00019 | CLINICAL PHARMACOLOGY
+00020 | Methyldopa is an aromatic-amino-acid decarboxylase inhibitor in animals and in man. Although the
+00021 | mechanism of action has yet to be conclusively demonstrated, the antihypertensive effect of methyldopa
+00022 | probably is due to its metabolism to alpha-methylnorepinephrine, which then lowers arterial pressure by
+00023 | stimulation of central inhibitory alpha-adrenergic receptors, false neurotransmission, and/or reduction
+00024 | of plasma renin activity. Methyldopa has been shown to cause a net reduction in the tissue concentration
+00025 | of serotonin, dopamine, norepinephrine, and epinephrine.
+00026 | Only methyldopa, the L-isomer of alpha-methyldopa, has the ability to inhibit dopa decarboxylase and to
+00027 | deplete animal tissues of norepinephrine. In man, the antihypertensive activity appears to be due solely
+00028 | to the L-isomer. About twice the dose of the racemate (DL-alpha-methyldopa) is required for equal
+00029 | antihypertensive effect.
+00030 | Methyldopa has no direct effect on cardiac function and usually does not reduce glomerular filtration
+00031 | rate, renal blood flow, or filtration fraction. Cardiac output usually is maintained without cardiac
+00032 | acceleration. In some patients the heart rate is slowed.
+00033 | Normal or elevated plasma renin activity may decrease in the course of methyldopa therapy.
+00034 | Methyldopa reduces both supine and standing blood pressure. Methyldopa usually produces highly
+00035 | 10
+00036 | 13
+00037 | 4
+00038 | 2
+00039 | 
+00040 | effective lowering of the supine pressure with infrequent symptomatic postural hypotension. Exercise
+00041 | hypotension and diurnal blood pressure variations rarely occur.
+00042 | Pharmacokinetics and Metabolism
+00043 | The maximum decrease in blood pressure occurs four to six hours after oral dosage. Once an effective
+00044 | dosage level is attained, a smooth blood pressure response occurs in most patients in 12 to 24 hours.
+00045 | After withdrawal, blood pressure usually returns to pretreatment levels within 24-48 hours.
+00046 | Methyldopa is extensively metabolized. The known urinary metabolites are: α-methyldopa mono-0-
+00047 | sulfate; 3-0-methyl-α-methyldopa; 3,4,-dihydroxyphenylacetone; α-methyldopamine; 3-0-methyl-α-
+00048 | methyldopamine and their conjugates.
+00049 | Approximately 70% of the drug which is absorbed is excreted in the urine as methyldopa and its mono-
+00050 | 0-sulfate conjugate. The renal clearance is about 130 mL/min. in normal subjects and is diminished in
+00051 | renal insufficiency. The plasma half-life of methyldopa is 105 minutes. After oral doses, excretion is
+00052 | essentially complete in 36 hours.
+00053 | Methyldopa crosses the placental barrier, appears in cord blood, and appears in breast milk.
+00054 | INDICATIONS AND USAGE
+00055 | Hypertension.
+00056 | CONTRAINDICATIONS
+00057 | Methyldopa is contraindicated in patients:
+00058 | - with active hepatic disease, such as acute hepatitis and active cirrhosis.
+00059 | - with liver disorders previously associated with methyldopa therapy (see WARNINGS).
+00060 | - with hypersensitivity to any component of this product.
+00061 | - on therapy with monoamine oxidase (MAO) inhibitors.
+00062 | WARNINGS
+00063 | It is important to recognize that a positive Coombs test, hemolytic anemia, and liver disorders
+00064 | may occur with methyldopa therapy. The rare occurrences of hemolytic anemia or liver
+00065 | disorders could lead to potentially fatal complications unless properly recognized and managed.
+00066 | Read this section carefully to understand these reactions.
+00067 | With prolonged methyldopa therapy, 10 to 20 percent of patients develop a positive direct Coombs test
+00068 | which usually occurs between 6 and 12 months of methyldopa therapy. Lowest incidence is at daily
+00069 | dosage of 1 g or less. This on rare occasions may be associated with hemolytic anemia, which could
+00070 | lead to potentially fatal complications. One cannot predict which patients with a positive direct Coombs
+00071 | test may develop hemolytic anemia.
+00072 | Prior existence or development of a positive direct Coombs test is not in itself a contraindication to use
+00073 | of methyldopa. If a positive Coombs test develops during methyldopa therapy, the physician should
+00074 | determine whether hemolytic anemia exists and whether the positive Coombs test may be a problem. For
+00075 | example, in addition to a positive direct Coombs test there is less often a positive indirect Coombs test
+00076 | which may interfere with cross matching of blood.
+00077 | Before treatment is started, it is desirable to do a blood count (hematocrit, hemoglobin, or red cell
+00078 | count) for a baseline or to establish whether there is anemia. Periodic blood counts should be done
+00079 | during therapy to detect hemolytic anemia. It may be useful to do a direct Coombs test before therapy
+00080 | and at 6 and 12 months after the start of therapy.
+00081 | 
+00082 | If Coombs-positive hemolytic anemia occurs, the cause may be methyldopa and the drug should be
+00083 | discontinued. Usually the anemia remits promptly. If not, corticosteroids may be given and other causes
+00084 | of anemia should be considered. If the hemolytic anemia is related to methyldopa, the drug should not
+00085 | be reinstituted.
+00086 | When methyldopa causes Coombs positivity alone or with hemolytic anemia, the red cell is usually
+00087 | coated with gamma globulin of the IgG (gamma G) class only. The positive Coombs test may not revert
+00088 | to normal until weeks to months after methyldopa is stopped.
+00089 | Should the need for transfusion arise in a patient receiving methyldopa, both a direct and an indirect
+00090 | Coombs test should be performed. In the absence of hemolytic anemia, usually only the direct Coombs
+00091 | test will be positive. A positive direct Coombs test alone will not interfere with typing or cross
+00092 | matching. If the indirect Coombs test is also positive, problems may arise in the major cross match and
+00093 | the assistance of a hematologist or transfusion expert will be needed.
+00094 | Occasionally, fever has occurred within the first 3 weeks of methyldopa therapy, associated in some
+00095 | cases with eosinophilia or abnormalities in one or more liver function tests, such as serum alkaline
+00096 | phosphatase, serum transaminases (SGOT, SGPT), bilirubin and prothrombin time. Jaundice, with or
+00097 | without fever, may occur with onset, usually within the first 2 or 3 months of therapy. In some patients
+00098 | the findings are consistent with those of cholestasis. In others the findings are consistent with hepatitis
+00099 | and hepatocellular injury.
+00100 | Rarely, fatal hepatic necrosis has been reported after use of methyldopa. These hepatic changes may
+00101 | represent hypersensitivity reactions. Periodic determinations of hepatic function should be done,
+00102 | particularly during the first 6 to 12 weeks of therapy or whenever an unexplained fever occurs. If fever,
+00103 | abnormalities in liver function tests, or jaundice appear, stop therapy with methyldopa. If caused by
+00104 | methyldopa, the temperature and abnormalities in liver function characteristically have reverted to
+00105 | normal when the drug was discontinued. Methyldopa should not be reinstituted in such patients.
+00106 | Rarely, a reversible reduction of the white blood cell count with a primary effect on the granulocytes
+00107 | has been seen. The granulocyte count returned promptly to normal on discontinuance of the drug. Rare
+00108 | cases of granulocytopenia have been reported. In each instance, upon stopping the drug, the white cell
+00109 | count returned to normal. Reversible thrombocytopenia has occurred rarely.
+00110 | PRECAUTIONS
+00111 | General
+00112 | Methyldopa should be used with caution in patients with a history of previous liver disease or
+00113 | dysfunction (See WARNINGS).
+00114 | Some patients taking methyldopa experience clinical edema or weight gain which may be controlled by
+00115 | use of a diuretic. Methyldopa should not be continued if edema progresses or signs of heart failure
+00116 | appear.
+00117 | Hypertension has recurred occasionally after dialysis in patients given methyldopa because the drug is
+00118 | removed by this procedure.
+00119 | Rarely involuntary choreoathetotic movements have been observed during therapy with methyldopa in
+00120 | patients with severe bilateral cerebrovascular disease. Should these movements occur, stop therapy.
+00121 | Laboratory Tests
+00122 | Blood count, Coombs tests, and liver function tests are recommended before initiating therapy and at
+00123 | periodic intervals (See WARNINGS).
+00124 | Drug Interactions
+00125 | When methyldopa is used with other antihypertensive drugs, potentiation of antihypertensive effect may
+00126 | 
+00127 | occur. Patients should be followed carefully to detect side reactions or unusual manifestations of drug
+00128 | idiosyncrasy.
+00129 | Patients may require reduced doses of anesthetics when on methyldopa. If hypotension does occur
+00130 | during anesthesia, it usually can be controlled by vasopressors. The adrenergic receptors remain
+00131 | sensitive during treatment with methyldopa.
+00132 | When methyldopa and lithium are given concomitantly the patient should be carefully monitored for
+00133 | symptoms of lithium toxicity. Read the circular for lithium preparations.
+00134 | Several studies demonstrate a decrease in the bioavailability of methyldopa when it is ingested with
+00135 | ferrous sulfate or ferrous gluconate. This may adversely affect blood pressure control in patients
+00136 | treated with methyldopa. Coadministration of methyldopa with ferrous sulfate or ferrous gluconate is
+00137 | not recommended.
+00138 | Monoamine oxidase (MAO) inhibitors: see CONTRAINDICATIONS.
+00139 | Drug/Laboratory Test Interactions
+00140 | Methyldopa may interfere with measurement of: urinary uric acid by the phosphotungstate method,
+00141 | serum creatinine by the alkaline picrate method, and SGOT by colorimetric methods. Interference with
+00142 | spectrophotometric methods for SGOT analysis has not been reported.
+00143 | Since methyldopa causes fluorescence in urine samples at the same wavelengths as catecholamines,
+00144 | falsely high levels of urinary catecholamines may be reported. This will interfere with the diagnosis of
+00145 | pheochromocytoma. It is important to recognize this phenomenon before a patient with a possible
+00146 | pheochromocytoma is subjected to surgery. Methyldopa does not interfere with measurement of VMA
+00147 | (vanillylmandelic acid), a test for pheochromocytoma, by those methods which convert VMA to vanillin.
+00148 | Methyldopa is not recommended for the treatment of patients with pheochromocytoma. Rarely, when
+00149 | urine is exposed to air after voiding, it may darken because of breakdown of methyldopa or its
+00150 | metabolites.
+00151 | Carcinogenesis, Mutagenesis, Impairment of Fertility
+00152 | No evidence of a tumorigenic effect was seen when methyldopa was given for two years to mice at
+00153 | doses up to 1800 mg/kg/day or to rats at doses up to 240 mg/kg/day. (30 and 4 times the maximum
+00154 | recommended human dose in mice and rats, respectively, when compared on the basis of body weight;
+00155 | 2.5 and 0.6 times the maximum recommended human dose in mice and rats, respectively, when compared
+00156 | on the basis of body surface area; calculations assume a patient weight of 50 kg).
+00157 | Methyldopa was not mutagenic in the Ames Test and did not increase chromosomal aberration or sister
+00158 | chromatid exchanges in Chinese hamster ovary cells. These in vitro studies were carried out both with
+00159 | and without exogenous metabolic activation.
+00160 | Fertility was unaffected when methyldopa was given to male and female rats at 100 mg/kg/day (1.7 times
+00161 | the maximum daily human dose when compared on the basis of body weight; 0.2 times the maximum
+00162 | daily human dose when compared on the basis of body surface area). Methyldopa decreased sperm
+00163 | count, sperm motility, the number of late spermatids and the male fertility index when given to male rats
+00164 | at 200 and 400 mg/kg/day. (3.3 and 6.7 times the maximum daily human dose when compared on the basis
+00165 | of body weight; 0.5 and 1 times the maximum daily human dose when compared on the basis of body
+00166 | surface area).
+00167 | Pregnancy
+00168 | Pregnancy Category B
+00169 | Reproduction studies performed with methyldopa at oral doses up to 1000 mg/kg in mice, 200 mg/kg in
+00170 | rabbits and 100 mg/kg in rats revealed no evidence of harm to the fetus. These doses are 16.6 times, 3.3
+00171 | times and 1.7 times, respectively, the maximum daily human dose when compared on the basis of body
+00172 | 
+00173 | weight; 1.4 times, 1.1 times and 0.2 times, respectively, when compared on the basis of body surface
+00174 | area; calculations assume a patient weight of 50 kg. There are, however, no adequate and well-
+00175 | controlled studies in pregnant women in the first trimester of pregnancy. Because animal reproduction
+00176 | studies are not always predictive of human response, methyldopa should be used during pregnancy only
+00177 | if clearly needed.
+00178 | Published reports of the use of methyldopa during all trimesters indicate that if this drug is used during
+00179 | pregnancy the possibility of fetal harm appears remote. In five studies, three of which were controlled,
+00180 | involving 332 pregnant hypertensive women, treatment with methyldopa was associated with an
+00181 | improved fetal outcome. The majority of these women were in the third trimester when methyldopa
+00182 | therapy was begun.
+00183 | In one study, women who had begun methyldopa treatment between weeks 16 and 20 of pregnancy gave
+00184 | birth to infants whose average head circumference was reduced by a small amount (34.2 ± 1.7 cm vs.
+00185 | 34.6 ± 1.3 cm [mean ± 1 S.D.]). Long-term follow up of 195 (97.5%) of the children born to
+00186 | methyldopa-treated pregnant women (including those who began treatment between weeks 16 and 20)
+00187 | failed to uncover any significant adverse effect on the children. At four years of age, the developmental
+00188 | delay commonly seen in children born to hypertensive mothers was less evident in those whose mothers
+00189 | were treated with methyldopa during pregnancy than those whose mothers were untreated. The children
+00190 | of the treated group scored consistently higher than the children of the untreated group on five major
+00191 | indices of intellectual and motor development. At age seven and one-half developmental scores and
+00192 | intelligence indices showed no significant differences in children of treated or untreated hypertensive
+00193 | women.
+00194 | Nursing Mothers
+00195 | Methyldopa appears in breast milk. Therefore, caution should be exercised when methyldopa is given
+00196 | to a nursing woman.
+00197 | Pediatric Use
+00198 | There are no well-controlled clinical trials in pediatric patients. Information on dosing in pediatric
+00199 | patients is supported by evidence from published literature regarding the treatment of hypertension in
+00200 | pediatric patients. (See DOSAGE AND ADMINISTRATION.)
+00201 | Geriatric Use
+00202 | Of the total number of subjects (1685) in clinical studies of methyldopa, 223 patients were 65 years of
+00203 | age and over while 33 patients were 75 years of age and over. No overall differences in safety or
+00204 | effectiveness were observed between these subjects and younger subjects, and other reported clinical
+00205 | experience has not identified differences in responses between the elderly and younger patients, but
+00206 | greater sensitivity of some older individuals cannot be ruled out. (See DOSAGE AND
+00207 | ADMINISTRATION.)
+00208 | This drug is known to be substantially excreted by the kidney, and the risk of toxic reactions to this drug
+00209 | may be greater in patients with impaired renal function. Because elderly patients are more likely to have
+00210 | decreased renal function, care should be taken in dose selection and it may be useful to monitor renal
+00211 | function.
+00212 | ADVERSE REACTIONS
+00213 | Sedation, usually transient, may occur during the initial period of therapy or whenever the dose is
+00214 | increased. Headache, asthenia, or weakness may be noted as early and transient symptoms. However,
+00215 | significant adverse effects due to methyldopa have been infrequent and this agent usually is well
+00216 | tolerated.
+00217 | The following adverse reactions have been reported, and within each category, are listed in order of
+00218 | 
+00219 | decreasing severity.
+00220 | Cardiovascular: Aggravation of angina pectoris, congestive heart failure, prolonged carotoid sinus
+00221 | hypersensitivity, orthostatic hypotension (decrease daily dosage), edema or weight gain, bradycardia.
+00222 | Digestive: Pancreatitis, colitis, vomiting, diarrhea, sialadenitis, sore or “black” tongue, nausea,
+00223 | constipation, distention, flatus, dryness of mouth.
+00224 | Endocrine: Hyperprolactinemia.
+00225 | Hematologic: Bone marrow depression, leukopenia, granulocytopenia, thrombocytopenia, hemolytic
+00226 | anemia; positive tests for antinuclear antibody, LE cells, and rheumatoid factor, positive Coombs test.
+00227 | Hepatic: Liver disorders including hepatitis, jaundice, abnormal liver function tests (see WARNINGS).
+00228 | Hypersensitivity: Myocarditis, pericarditis, vasculitis, lupus-like syndrome, drug-related fever,
+00229 | eosinophilia.
+00230 | Nervous System/Psychiatric: Parkinsonism, Bell’s palsy, decreased mental acuity, involuntary
+00231 | choreoathetotic movements, symptoms of cerebrovascular insufficiency, psychic disturbances
+00232 | including nightmares and reversible mild psychoses or depression, headache, sedation, asthenia or
+00233 | weakness, dizziness, lightheadedness, paresthesias.
+00234 | Metabolic: Rise in BUN.
+00235 | Musculoskeletal: Arthralgia, with or without joint swelling; myalgia.
+00236 | Respiratory: Nasal stuffiness.
+00237 | Skin: Toxic epidermal necrolysis, rash.
+00238 | Urogenital: Amenorrhea, breast enlargement, gynecomastia, lactation, impotence, decreased libido.
+00239 | OVERDOSAGE
+00240 | Acute overdosage may produce acute hypotension with other responses attributable to brain and
+00241 | gastrointestinal malfunction (excessive sedation, weakness, bradycardia, dizziness, lightheadedness,
+00242 | constipation, distention, flatus, diarrhea, nausea, vomiting).
+00243 | In the event of overdosage, symptomatic and supportive measures should be employed. When ingestion
+00244 | is recent, gastric lavage or emesis may reduce absorption. When ingestion has been earlier, infusions
+00245 | may be helpful to promote urinary excretion. Otherwise, management includes special attention to
+00246 | cardiac rate and output, blood volume, electrolyte imbalance, paralytic ileus, urinary function and
+00247 | cerebral activity.
+00248 | Sympathomimetic drugs [e.g., levarterenol, epinephrine, metaraminol bitartrate] may be indicated.
+00249 | Methyldopa is dialyzable.
+00250 | The oral LD
+00251 |  of methyldopa is greater than 1.5 g/kg in both the mouse and the rat.
+00252 | DOSAGE AND ADMINISTRATION
+00253 | ADULTS
+00254 | Initiation of Therapy
+00255 | The usual starting dosage of methyldopa is 250 mg two or three times a day in the first 48 hours. The
+00256 | daily dosage then may be increased or decreased, preferably at intervals of not less than two days, until
+00257 | an adequate response is achieved. To minimize the sedation, start dosage increases in the evening. By
+00258 | adjustment of dosage, morning hypotension may be prevented without sacrificing control of afternoon
+00259 | blood pressure.
+00260 | 50
+00261 | 
+00262 | When methyldopa is given to patients on other antihypertensives, the dose of these agents may need to
+00263 | be adjusted to effect a smooth transition. When methyldopa is given with antihypertensives other than
+00264 | thiazides, the initial dosage of methyldopa should be limited to 500 mg daily in divided doses; when
+00265 | methyldopa is added to a thiazide, the dosage of thiazide need not be changed.
+00266 | Maintenance Therapy
+00267 | The usual daily dosage of methyldopa is 500 mg to 2 g in two to four doses. Although occasional
+00268 | patients have responded to higher doses, the maximum recommended daily dosage is 3 g. Once an
+00269 | effective dosage range is attained, a smooth blood pressure response occurs in most patients in 12 to 24
+00270 | hours. Since methyldopa has a relatively short duration of action, withdrawal is followed by return of
+00271 | hypertension usually within 48 hours. This is not complicated by an overshoot of blood pressure.
+00272 | Occasionally tolerance may occur, usually between the second and third month of therapy. Adding a
+00273 | diuretic or increasing the dosage of methyldopa frequently will restore effective control of blood
+00274 | pressure. A thiazide may be added at any time during methyldopa therapy and is recommended if therapy
+00275 | has not been started with a thiazide or if effective control of blood pressure cannot be maintained on 2 g
+00276 | of methyldopa daily.
+00277 | Methyldopa is largely excreted by the kidney and patients with impaired renal function may respond to
+00278 | smaller doses. Syncope in older patients may be related to an increased sensitivity and advanced
+00279 | arteriosclerotic vascular disease. This may be avoided by lower doses. (See PRECAUTIONS,
+00280 | Geriatric Use).
+00281 | PEDIATRIC PATIENTS
+00282 | Initial dosage is based on 10 mg/kg of body weight daily in two to four doses. The daily dosage then is
+00283 | increased or decreased until an adequate response is achieved. The maximum dosage is 65 mg/kg or 3 g
+00284 | daily, whichever is less. (See PRECAUTIONS, Pediatric Use.)
+00285 | HOW SUPPLIED
+00286 | Methyldopa tablets USP are available as round, white, film-coated tablets, debossed Z2931, containing
+00287 | 250 mg of methyldopa USP, packaged in bottles of 60 (NDC 21695-879-60) and 90 tablets (NDC
+00288 | 21695-879-90) and as round, white, film-coated tablets, debossed Z2932, containing 500 mg of
+00289 | methyldopa USP, packaged in bottles of 60 (NDC 21695-880-60).
+00290 | PHARMACIST: Dispense in a well-closed container as defined in the USP. Use child-resistant
+00291 | closure.
+00292 | Store at 20° to 25° C (68° to 77° F) [See USP Controlled Room Temperature].
+00293 | Manufactured by:
+00294 | IVAX PHARMACEUTICALS, INC.
+00295 | Miami, FL 33137
+00296 | Manufactured for:
+00297 | TEVA PHARMACEUTICALS, USA
+00298 | Sellersville, PA 18960
+00299 | 0172
+00300 | 08/06
+00301 | B17
+00302 | Repackaged by:
+00303 | Rebel Distributors Corp
+00304 | 
+00305 | Thousand Oaks, CA 91320
+00306 | Prindipal Display Panel
+00307 | Principal Display Panel
+00308 | METHYLDOPA 
+00309 | methyldopa tablet, film coated
+00310 | Product Information
+00311 | Product T ype
+00312 | HUMAN PRESCRIPTION DRUG
+00313 | Item Code (Source)
+00314 | NDC:21695-879(NDC:0172-2931)
+00315 | Route of Administration
+00316 | ORAL
+00317 | 
+00318 | Active Ingredient/Active Moiety
+00319 | Ingredient Name
+00320 | Basis of Strength
+00321 | Strength
+00322 | Methyldopa (UNII: 56LH93261Y) (Methyldopa - UNII:56LH93261Y)
+00323 | Methyldopa
+00324 | 250 mg
+00325 | Inactive Ingredients
+00326 | Ingredient Name
+00327 | Strength
+00328 | citric acid (UNII: 2968PHW8QP)
+00329 |  
+00330 | SILICON DIOXIDE (UNII: ETJ7Z6XBU4)
+00331 |  
+00332 | edetate disodium (UNII: 7FLD91C86K)
+00333 |  
+00334 | ETHYLCELLULOSE (10 MPA.S) (UNII: 3DYK7UYZ62)
+00335 |  
+00336 | HYPROMELLOSES (UNII: 3NXW29V3WO)
+00337 |  
+00338 | magnesium stearate (UNII: 70097M6I30)
+00339 |  
+00340 | METHYLCELLULOSE (15 CPS) (UNII: NPU9M2E6L8)
+00341 |  
+00342 | POLYETHYLENE GLYCOL (UNII: 3WJQ0SDW1A)
+00343 |  
+00344 | SODIUM STARCH GLYCOLATE TYPE A POTATO (UNII: 5856J3G2A2)
+00345 |  
+00346 | titanium dioxide (UNII: 15FIX9V2JP)
+00347 |  
+00348 | calcium sulfate (UNII: WAT0DDB505)
+00349 |  
+00350 | HYDROXYPROPYL CELLULOSE (UNII: RFW2ET671P)
+00351 |  
+00352 | talc (UNII: 7SEV7J4R1U)
+00353 |  
+00354 | Product Characteristics
+00355 | Color
+00356 | WHITE
+00357 | Score
+00358 | no score
+00359 | Shape
+00360 | ROUND
+00361 | Size
+00362 | 10mm
+00363 | Flavor
+00364 | Imprint Code
+00365 | Z;2931
+00366 | Contains
+00367 |  
+00368 | Packaging
+00369 | #
+00370 | Item Code
+00371 | Package Description
+00372 | Marketing Start Date
+00373 | Marketing End Date
+00374 | 1 NDC:21695-879-60
+00375 | 60 in 1 BOTTLE
+00376 | 2 NDC:21695-879-90
+00377 | 90 in 1 BOTTLE
+00378 | Marketing Information
+00379 | Marketing Category
+00380 | Application Number or Monograph Citation
+00381 | Marketing Start Date
+00382 | Marketing End Date
+00383 | ANDA
+00384 | ANDA070098
+00385 | 02/20/1984
+00386 | METHYLDOPA 
+00387 | methyldopa tablet, film coated
+00388 | Product Information
+00389 | Product T ype
+00390 | HUMAN PRESCRIPTION DRUG
+00391 | Item Code (Source)
+00392 | NDC:21695-880(NDC:0172-2932)
+00393 | Route of Administration
+00394 | ORAL
+00395 | 
+00396 | Rebel Distributors Corp
+00397 | Active Ingredient/Active Moiety
+00398 | Ingredient Name
+00399 | Basis of Strength
+00400 | Strength
+00401 | Methyldopa (UNII: 56LH93261Y) (Methyldopa - UNII:56LH93261Y)
+00402 | Methyldopa
+00403 | 500 mg
+00404 | Inactive Ingredients
+00405 | Ingredient Name
+00406 | Strength
+00407 | citric acid (UNII: 2968PHW8QP)
+00408 |  
+00409 | SILICON DIOXIDE (UNII: ETJ7Z6XBU4)
+00410 |  
+00411 | edetate disodium (UNII: 7FLD91C86K)
+00412 |  
+00413 | ETHYLCELLULOSE (10 MPA.S) (UNII: 3DYK7UYZ62)
+00414 |  
+00415 | HYPROMELLOSES (UNII: 3NXW29V3WO)
+00416 |  
+00417 | magnesium stearate (UNII: 70097M6I30)
+00418 |  
+00419 | METHYLCELLULOSE (15 CPS) (UNII: NPU9M2E6L8)
+00420 |  
+00421 | POLYETHYLENE GLYCOL (UNII: 3WJQ0SDW1A)
+00422 |  
+00423 | SODIUM STARCH GLYCOLATE TYPE A POTATO (UNII: 5856J3G2A2)
+00424 |  
+00425 | titanium dioxide (UNII: 15FIX9V2JP)
+00426 |  
+00427 | POLYSORBATE 80 (UNII: 6OZP39ZG8H)
+00428 |  
+00429 | Product Characteristics
+00430 | Color
+00431 | WHITE
+00432 | Score
+00433 | no score
+00434 | Shape
+00435 | ROUND
+00436 | Size
+00437 | 13mm
+00438 | Flavor
+00439 | Imprint Code
+00440 | Z;2932
+00441 | Contains
+00442 |  
+00443 | Packaging
+00444 | #
+00445 | Item Code
+00446 | Package Description
+00447 | Marketing Start Date
+00448 | Marketing End Date
+00449 | 1 NDC:21695-880-60
+00450 | 60 in 1 BOTTLE
+00451 | Marketing Information
+00452 | Marketing Category
+00453 | Application Number or Monograph Citation
+00454 | Marketing Start Date
+00455 | Marketing End Date
+00456 | ANDA
+00457 | ANDA070343
+00458 | 02/20/1984
+00459 | Labeler - Rebel Distributors Corp (118802834)
+00460 | Establishment
+00461 | Name
+00462 | Address
+00463 | ID/FEI
+00464 | Business Operations
+00465 | Rebel Distributors Corp
+00466 | 118802834
+00467 | RELABEL, REPACK
+00468 |  
+00469 | Revised: 12/2010

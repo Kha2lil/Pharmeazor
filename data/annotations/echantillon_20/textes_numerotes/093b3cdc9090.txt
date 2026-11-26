@@ -1,0 +1,387 @@
+00001 | Notice
+00002 | 1 / 7
+00003 | NOTICE: INFORMATION DE L’UTILISATEUR
+00004 | Naproxen EG 250 mg comprimés
+00005 | Naproxen EG 500 mg comprimés
+00006 | Naproxène
+00007 | Veuillez lire attentivement cette notice avant d’utiliser ce médicament car elle contient des
+00008 | informations importantes pour vous.
+00009 | -
+00010 | Gardez cette notice. Vous pourriez avoir besoin de la relire.
+00011 | -
+00012 | Si vous avez d’autres questions, interrogez votre médecin, votre pharmacien ou votre
+00013 | infirmier/ère.
+00014 | -
+00015 | Ce médicament vous a été personnellement prescrit. Ne le donnez pas à d’autres personnes. Il
+00016 | pourrait leur être nocif, même si les signes de leur maladie sont identiques aux vôtres.
+00017 | -
+00018 | Si vous ressentez un quelconque effet indésirable, parlez-en à votre médecin, votre
+00019 | pharmacien ou votre infirmier/ère. Ceci s’applique aussi à tout effet indésirable qui ne serait pas
+00020 | mentionné dans cette notice. Voir rubrique 4.
+00021 | Que contient cette notice?
+00022 | 1.
+00023 | Qu’est-ce que Naproxen EG et dans quel cas est-il utilisé?
+00024 | 2.
+00025 | Quelles sont les informations à connaître avant d'utiliser Naproxen EG?
+00026 | 3.
+00027 | Comment utiliser Naproxen EG?
+00028 | 4.
+00029 | Quels sont les effets indésirables éventuels?
+00030 | 5.
+00031 | Comment conserver Naproxen EG?
+00032 | 6.
+00033 | Contenu de l’emballage et autres informations
+00034 | 1.
+00035 | Qu’est-ce que Naproxen EG et dans quel cas est ce médicament utilisé?
+00036 | La substance active de ce médicament est le naproxène. Il appartient au groupe des substances anti-
+00037 | inflammatoires non stéroïdiennes (AINS). Le Naproxen EG a un effet anti-inflammatoire, soulage la
+00038 | douleur et réduit la fièvre.
+00039 | Naproxen EG est indiqué dans le traitement des maladies dont les symptômes sont provoqués par
+00040 | l'inflammation. Comme tout anti-inflammatoire, Naproxen EG ne peut que soulager ces symptômes
+00041 | car la cause exacte de ces maladies est en général inconnue.
+00042 | Seul votre médecin peut diagnostiquer ces affections et décider si ce type de médicament vous
+00043 | convient.
+00044 | Grâce à ses propriétés anti-inflammatoires, Naproxen EG est indiqué dans:
+00045 | -
+00046 | les maladies chroniques inflammatoires telles que: la polyarthrite chronique évolutive (ou
+00047 | arthrite rhumatoïde), l’arthrite rhumatoïde juvénile, la spondylarthrite ankylosante (douleur et
+00048 | raideur dans le cou et le dos)
+00049 | -
+00050 | l’arthrose en phase inflammatoire
+00051 | -
+00052 | les crises aigues de goutte
+00053 | -
+00054 | l'inflammation des tendons et des gaines tendineuses qui remplissent une fonction protectrice
+00055 | Naproxen EG aide à soulager la douleur dans les situations douloureuses et inflammatoires après un
+00056 | accident ou une intervention chirurgicale.
+00057 | 
+00058 | Notice
+00059 | 2 / 7
+00060 | 2.
+00061 | Quelles sont les informations à connaître avant d'utiliser Naproxen EG?
+00062 | N'utilisez jamais Naproxen EG:
+00063 | -
+00064 | si vous êtes allergique au naproxène ou au naproxène sodique, ou à l’un des autres composants
+00065 | contenu dans ce médicament mentionnés dans la rubrique 6.
+00066 | -
+00067 | si vous êtes hypersensible aux médicaments contenant de l’acide acétylsalicylique, ou à d’autres
+00068 | médicament appartenant à la famille des anti-inflammatoires non stéroïdiens.
+00069 | -
+00070 | si votre clairance de la créatinine est inférieure à 30 ml/min (une insuffisance rénale grave).
+00071 | -
+00072 | si vous souffrez d’un ulcère gastroduodénal, d’une gastrite aiguë ou de saignements.
+00073 | -
+00074 | si vous souffrez d'une insuffisance cardiaque sévère.
+00075 | -
+00076 | s’il s’agit d’un enfant en dessous de 2 ans. Les médicaments contenant du naproxène ou du
+00077 | naproxène sodique sont contre-indiqués étant donné que l’innocuité de ces substances n’a pas été
+00078 | démontrée pour cette tranche d’âge.
+00079 | Avertissements et précautions
+00080 | Adressez-vous à votre médecin, pharmacien ou infirmier/ère avant d’utiliser Naproxen EG.
+00081 | Les médicaments tels que Naproxen EG peuvent être associés à une légère augmentation du risque de
+00082 | crise cardiaque ("infarctus du myocarde") ou d’accident vasculaire cérébral. Le risque est d’autant plus
+00083 | important que les doses utilisées sont élevées et la durée de traitement est prolongée. Ne pas dépasser
+00084 | les doses et la durée de traitement recommandées. En cas de troubles cardiaques, d’antécédent
+00085 | d’accident vasculaire cérébral ou si vous pensez avoir des facteurs de risques pour ces maladies (par
+00086 | exemple si vous avez une pression artérielle élevée, du diabète, un taux de cholestérol élevé ou si vous
+00087 | fumez), veuillez parler à votre médecin ou votre pharmacien, avant de prendre ce médicament.
+00088 | Des réactions cutanées graves, notamment [syndrome de Stevens-Johnson, nécrolyse épidermique 5
+00089 | toxique, réaction médicamenteuse avec éosinophilie et symptômes systémiques (DRESS)], ont été
+00090 | signalées en association avec Naproxen EG . Arrêtez d’utiliser Naproxen EG et consultez
+00091 | immédiatement un médecin si vous remarquez l’un des symptômes liés à ces réactions cutanées graves
+00092 | décrits dans la rubrique 4.
+00093 | Veuillez consulter votre médecin ou pharmacien si une des mises en garde mentionnées ci-dessous est
+00094 | d’application pour vous, ou si elle l’a été dans le passé:
+00095 | -
+00096 | Si vous avez ou avez eu un ulcère gastro-duodénal.
+00097 | -
+00098 | Si vous souffrez d’une maladie des reins, du cœur ou du foie.
+00099 | -
+00100 | Si vous etes âgé(e).
+00101 | Autres médicaments et Naproxen EG
+00102 | Informez votre médecin ou pharmacien si vous utilisez, avez récemment utilisé ou pourriez utiliser
+00103 | tout autre médicament, y compris un médicament obtenu sans ordonnance. En particulier, si vous
+00104 | prenez l’un des médicaments suivants, dites-le à votre médecin ou pharmacien:
+00105 | -
+00106 | D’autres AINS ou antidouleurs, y compris les salicylés et les dérivés pyrazolés, tels que l’acide
+00107 | acétylsalicylique
+00108 | -
+00109 | Des médicaments qui ralentissent la coagulation telles que la warfarine et la ticlopidine
+00110 | -
+00111 | Du probénécid (médicament utilisé contre la goutte)
+00112 | -
+00113 | Des hypoglycémiants oraux (médicaments qui traitent l’excès de sucre dans le sang
+00114 | (sulfonylurées))
+00115 | -
+00116 | Certains médicaments contre l’épilepsie (hydantoïnes)
+00117 | -
+00118 | Du méthotrexate (utilisé dans les problèmes de peau, l’arthrite et certaines tumeurs cancéreuses)
+00119 | -
+00120 | Des inhibiteurs de l’enzyme de conversion de l’angiotensine (inhibiteurs de l’ECA) ou tout autre
+00121 | médicament qui traite une tension artérielle trop élevée
+00122 | -
+00123 | Certains diurétiques (médicaments favorisant la production d’urine comme le furosémide et la
+00124 | spironolactone)
+00125 | -
+00126 | De la zidovudine (utilisée dans le traitement du SIDA et des infections par le VIH)
+00127 | 
+00128 | Notice
+00129 | 3 / 7
+00130 | -
+00131 | Des médicaments utilisés en cas de problèmes de santé mentale comme le lithium et certains
+00132 | antidépresseurs (inhibiteurs sélectifs de la recapture de la sérotonine)
+00133 | -
+00134 | Des corticostéroïdes (utilisés contre l’inflammation)
+00135 | -
+00136 | De la ciclosporine (utilisé en cas de problèmes de peau ou après une greffe d’organe)
+00137 | -
+00138 | De traitement par acide acétylsalicylique à dose anti agrégante plaquettaire
+00139 | Grossesse et allaitement
+00140 | Si vous êtes enceinte ou que vous allaitez, si vous pensez être enceinte ou planifiez une grossesse,
+00141 | demandez conseil à votre médecin ou pharmacien avant de prendre ce médicament.
+00142 | Ne prenez pas Naproxen EG si vous êtes dans les 3 derniers mois de grossesse car cela pourrait nuire à
+00143 | votre bébé ou causer des problèmes à l’accouchement. Il peut causer des problèmes rénaux et
+00144 | cardiaques chez votre bébé. Cela peut avoir des répercussions sur vous et votre bébé en favorisant les
+00145 | saignements et entraîner un accouchement plus tardif ou plus long que prévu. Vous ne devez pas
+00146 | prendre Naproxen EG pendant les 6 premiers mois de la grossesse à moins que cela ne soit absolument
+00147 | nécessaire et conseillé par votre médecin. Si un traitement est nécessaire au cours de cette période ou
+00148 | lorsque vous planifiez une grossesse, il est recommandé de prendre la dose la plus faible pendant la
+00149 | durée la plus courte possible. À partir de 20 semaines d’aménorrhée, Naproxen EG peut provoquer des
+00150 | problèmes rénaux chez votre bébé, s’il est pris pendant plusieurs jours, ce qui peut entraîner un faible
+00151 | niveau du liquide amniotique dans lequel il se trouve (oligoamnios), ou un rétrécissement d’un
+00152 | vaisseau sanguin (canal artériel) dans le cœur du bébé. Si un traitement de plus de quelques jours est
+00153 | nécessaire, votre médecin peut recommander une surveillance supplémentaire.
+00154 | Naproxen EG peut rendre une grossesse plus difficile. Informez votre médecin si vous planifiez une
+00155 | grossesse ou si vous avez des difficultés pour devenir enceinte.
+00156 | Ne prenez pas Naproxen EG si vous allaitez.
+00157 | Conduite de véhicules et utilisation de machines
+00158 | Naproxen EG peut provoquer de la somnolence, des vertiges, des problèmes de vue ou d’équilibre et
+00159 | des insomnies. Si vous présentez de tels effets, il est déconseillé de conduire et d’utiliser certains outils
+00160 | ou machines.
+00161 | Naproxen EG contient du lactose
+00162 | Si votre médecin vous a informé(e) d'une intolérance à certains sucres, contactez-le avant de prendre
+00163 | ce médicament.
+00164 | Naproxen EG contient du sodium
+00165 | Ce médicament contient moins de 1 mmol (23 mg) de sodium par comprimé, c.-à-d. qu’il est
+00166 | essentiellement « sans sodium ».
+00167 | 3.
+00168 | Comment utiliser Naproxen EG?
+00169 | Veillez à toujours utiliser ce médicament en suivant exactement les indications de votre médecin.
+00170 | Vérifiez auprès de votre médecin ou pharmacien en cas de doute.
+00171 | Si aucune amélioration n’apparaît, veuillez consulter à nouveau votre médecin.
+00172 | -
+00173 | Comprimés: voie orale. Avaler les comprimés entiers avec un peu d’eau, à jeun ou avec un repas.
+00174 | Veillez à boire suffisamment (1 litre à 1,5 litre par jour).
+00175 | Adultes
+00176 | Votre médecin vous prescrira généralement une dose de 500 à 1000 mg par jour. Les schémas ci-après
+00177 | ne sont donnés qu’à titre d’exemple. Nous vous conseillons, toutefois, de suivre les indications de
+00178 | votre médecin.
+00179 | 
+00180 | Notice
+00181 | 4 / 7
+00182 | -
+00183 | Lors d’affections inflammatoires, sauf pour la goutte: la dose de départ usuelle est de 750 à 1000
+00184 | mg par jour ; ensuite, en fonction du résultat, elle pourra être réduite à 500 mg/jour.
+00185 | Ces doses peuvent être données en une seule prise ou réparties en deux ou trois prises.
+00186 | -
+00187 | Crise de goutte: 750 mg comme dose de départ, ensuite 500 mg 8 heures plus tard, puis 250
+00188 | mg toutes les 8 heures jusqu’à ce que la crise soit passée.
+00189 | -
+00190 | Inflammation des tendons et des gaines tendineuses – chirurgie et traumatisme: 500 mg
+00191 | comme dose de départ, ensuite une dose de 250 mg 3 fois par jour suffit.
+00192 | Utilisation chez les enfants à partir de 6 ans
+00193 | Naproxen EG peut être utilisé à partir de l’âge de 6 ans, mais uniquement sur avis médical. Il va de soi
+00194 | que la posologie doit bien évidemment être adaptée. En général, on conseille une dose de 10 mg par
+00195 | kg corporel par jour.
+00196 | Personnes âgées et personnes souffrant d’une insuffisance rénale
+00197 | Ces personnes doivent suivre très attentivement les conseils du médecin. Le médecin limitera autant
+00198 | que possible la dose et la durée du traitement.
+00199 | Votre médecin vous dira combien de temps vous devrez utiliser Naproxen EG.
+00200 | N’arrêtez pas prématurément le traitement.
+00201 | Si vous avez utilisé plus de Naproxen EG que vous n’auriez dû
+00202 | Si vous avez utilisé trop de Naproxen EG, prenez immédiatement contact avec votre médecin, votre
+00203 | pharmacien ou le Centre Antipoison (070/245.245).
+00204 | Si vous oubliez d’utiliser Naproxen EG
+00205 | Ne prenez pas de dose double pour compenser la dose que vous avez oublié de prendre.
+00206 | Si vous avez d’autres questions sur l’utilisation de ce médicament, demandez plus d’informations à
+00207 | votre médecin ou à votre pharmacien.
+00208 | 4.
+00209 | Quels sont les effets indésirables éventuels
+00210 | Comme tous les médicaments, ce médicament peut provoquer des effets indésirables. Ils ne
+00211 | surviennent pas systématiquement chez tout le monde.
+00212 | Effets indésirables importants auxquels il faut prendre garde:
+00213 | Arrêtez de prendre Naproxen EG et prenez directement contact avec votre médecin si vous
+00214 | présentez un des effets indésirables mentionnés ci-après. Vous pourriez avoir besoin d’un
+00215 | traitement médical urgent.
+00216 | Problème grave au niveau de l’estomac ou de l’intestin:
+00217 | -
+00218 | Saignements de l’estomac se manifestant par des vomissements contenant du sang
+00219 | -
+00220 | Saignements de l’intestin se manifestant par la présence de selles noires ou de diarrhée
+00221 | sanguinolente
+00222 | -
+00223 | Ulcères et/ou perforation de l’estomac ou de l’intestin. Les signes consistent en une douleur à
+00224 | l’estomac, fièvre, envie de vomir ou vomissements
+00225 | -
+00226 | Inflammation du pancréas. Les signes consistent en une douleur importante au niveau de l’estomac
+00227 | se propageant vers le dos
+00228 | -
+00229 | Une inflammation de l’œsophage
+00230 | -
+00231 | Une inflammation et une aggravation d'une inflammation du gros intestin et d'une maladie de
+00232 | Crohn, se manifestant par des douleurs, de la diarrhée, des vomissements et une perte de poids
+00233 | Réactions allergiques (hypersensibilité), les signes consistant en:
+00234 | - Gonflement de la gorge, du visage, des mains et des pieds
+00235 | - Difficulté à respirer, oppression au niveau de la poitrine
+00236 | 
+00237 | Notice
+00238 | 5 / 7
+00239 | - Eruption, démangeaisons ou ampoules au niveau de la peau
+00240 | Eruption grave de la peau, les signes consistant en:
+00241 | -
+00242 | Eruption importante se développant rapidement, avec formation d’ampoules ou une peau qui pèle,
+00243 | et parfois formation de cloques au niveau de la bouche, de la gorge et des yeux. De la fièvre, des
+00244 | maux de tête, de la toux et une douleur physique peuvent survenir au même moment.
+00245 | -
+00246 | Formation d’ampoules sur la peau, le plus souvent sur les bras et les mains, en cas d’exposition au
+00247 | soleil
+00248 | Arrêtez d'utiliser ce médicament et contactez immédiatement un médecin si vous remarquez
+00249 | l'un des effets secondaires suivants :
+00250 | Non connu : la fréquence ne peut être déterminée sur la base des données disponibles.
+00251 | -
+00252 | Éruption cutanée généralisée, température corporelle élevée, élévation des enzymes hépatiques,
+00253 | anomalies sanguines (éosinophilie), ganglions lymphatiques hypertrophiés et atteintes d’autres
+00254 | organes (réaction médicamenteuse avec éosinophilie et symptômes systémiques, également connue
+00255 | sous le nom de DRESS). Voir également rubrique 2.
+00256 | -
+00257 | Une réaction allergique cutanée caractéristique, connue sous le nom d’éruption pigmenté fixe, qui
+00258 | récidive généralement au(x) même(s) site(s) lors d’une nouvelle exposition au médicament et qui
+00259 | peut ressembler à des plaques rouges rondes ou ovales et à un gonflement de la peau, des vésicules
+00260 | (éruptions urticariennes) et des démangeaisons.
+00261 | Problèmes du foie, les signes consistant en:
+00262 | - Jaunissement de la peau ou du blanc des yeux (jaunisse)
+00263 | - Sensation de fatigue, perte d’appétit, envie de vomir ou vomissements, selles pâles (hépatite)
+00264 | Problèmes du coeur et des vaisseaux
+00265 | Les médicaments tels que Naproxen EG peuvent être associés à une légère augmentation du risque de
+00266 | crise cardiaque ("infarctus du myocarde") ou d'accident vasculaire cérébral.
+00267 | -
+00268 | Crise cardiaque. Les signes consistent en une douleur dans la poitrine qui peut se propager dans le
+00269 | cou et dans les épaules et descendre dans le bras gauche.
+00270 | - Accident vasculaire cérébral. Les signes consistent en une faiblesse musculaire et une sensation
+00271 | d’engourdissement (ceci ne peut se manifester que sur un côté du corps), en une modification
+00272 | soudaine de l’odorat, du goût, de l’ouïe ou de la vue et/ou une confusion.
+00273 | Méningite, les signes consistant en:
+00274 | - Fièvre, envie de vomir ou vomissements, raideur dans la nuque, maux de tête, sensibilité à la
+00275 | lumière et confusion
+00276 | Autres effets indésirables possibles:
+00277 | Estomac et intestin
+00278 | - Douleur abdominale, constipation, diarrhée, troubles digestifs, brûlures d’estomac, envie de vomir
+00279 | ou vomissements, ballonnement
+00280 | Sang
+00281 | - Diminution ou augmentation du nombre de globules blancs, diminution du nombre de globules
+00282 | rouges et/ou des plaquettes
+00283 | - Excès de potassium dans le sang
+00284 | Problèmes mentaux
+00285 | - Dépression
+00286 | - Rêves anormaux, insomnie
+00287 | Système nerveux
+00288 | - Maux de tête
+00289 | - Convulsions, sensation d’engourdissement, somnolence, évanouissement
+00290 | 
+00291 | Notice
+00292 | 6 / 7
+00293 | - Troubles de la mémoire et de la concentration
+00294 | Yeux et oreilles
+00295 | - Troubles de la vue, douleur des yeux
+00296 | - Troubles de l’ouïe, sensation auditive anormale (acouphène)
+00297 | - Vertiges
+00298 | Coeur et vaisseaux
+00299 | - Gonflement de vos mains, pieds ou jambes (œdème)
+00300 | - Problèmes dans la façon dont votre coeur pompe le sang dans le corps ou problèmes des vaisseaux.
+00301 | Les signes peuvent être fatigue, respiration courte, sensation de faiblesse, douleur générale
+00302 | - Palpitations, tension sanguine élevée
+00303 | Poumons
+00304 | - Pneumonie, accumulation de liquide dans les poumons
+00305 | - Difficultés respiratoires incluant respiration courte, sifflements ou toux
+00306 | Peau et cheveux
+00307 | -
+00308 | Eruption sur la peau incluant rougeurs, urticaire, boutons et cloques sur le corps ou le visage
+00309 | parfois accompagnés de problèmes généraux (lupus érythémateux disséminé)
+00310 | -
+00311 | Bleus, purpura, démangeaisons, sueurs, peau plus sensible à la lumière, perte des cheveux, la
+00312 | nécrose des tissus
+00313 | Muscles
+00314 | - Douleur et/ou faiblesse musculaire
+00315 | Reins et voies urinaires
+00316 | - Sang dans les urines
+00317 | - Problèmes des reins
+00318 | Reproduction
+00319 | - Problèmes chez la femme pour devenir enceinte
+00320 | Divers
+00321 | - Sensation de soif, frissons et fièvre, malaise
+00322 | - Bouche douloureuse et ulcérations dans la bouche
+00323 | Déclaration des effets secondaires
+00324 | Si vous ressentez un quelconque effet indésirable, parlez-en à votre médecin, votre pharmacien ou à
+00325 | votre infirmier/ère. Ceci s’applique aussi à tout effet indésirable qui ne serait pas mentionné dans
+00326 | cette notice. Vous pouvez également déclarer les effets indésirables directement via
+00327 | Belgique Agence fédérale des médicaments et des produits de santé - www.afmps.be - Division
+00328 | Vigilance : 
+00329 | Site 
+00330 | internet : 
+00331 | www.notifieruneffetindesirable.be 
+00332 | - 
+00333 | E-mail : 
+00334 | adr@fagg-
+00335 | afmps.be. Luxembourg: Centre Régional de Pharmacovigilance de Nancy ou Division de la
+00336 | Pharmacie et des Médicaments de la Direction de la Santé : www.guichet.lu/pharmacovigilance.
+00337 | En signalant les effets indésirables, vous contribuez à fournir davantage d’informations sur la sécurité
+00338 | du médicament.
+00339 | 5.
+00340 | Comment conserver Naproxen EG?
+00341 | Tenir hors de la vue et de la portée des enfants.
+00342 | A conserver dans l’emballage extérieur d'origine à l’abri de la lumière.
+00343 | 
+00344 | Notice
+00345 | 7 / 7
+00346 | N’utilisez pas ce médicament après la date de péremption indiquée sur l’étiquette et l’emballage
+00347 | extérieur après «EXP». La date de péremption fait référence au dernier jour de ce mois.
+00348 | Ne jetez aucun médicament au tout-à-l’égout ni avec les ordures ménagères. Demandez à votre
+00349 | pharmacien d’éliminer les médicaments que vous n’utilisez plus. Ces mesures contribueront à protéger
+00350 | l’environnement.
+00351 | 6.
+00352 | Contenu de l’emballage et autres informations
+00353 | Ce que contient Naproxen EG
+00354 | -
+00355 | La substance active est:
+00356 | -
+00357 | Naproxen EG 250 mg comprimés: le naproxène, à raison respectivement de 250 mg par
+00358 | comprimé.
+00359 | -
+00360 | Naproxen EG 500 mg comprimés: le naproxène, à raison respectivement de 500 mg par
+00361 | comprimé.
+00362 | -
+00363 | Les autres composants sont:
+00364 | -
+00365 | Naproxen EG 250 mg comprimés: lactose monohydraté (voir «Naproxen EG contient du
+00366 | lactose» sous la rubrique 2) – amidon de maïs – glycolate d’amidon sodique (type A) (voir
+00367 | «Naproxen EG contient du sodium» sous la rubrique 2) – povidone – stéarate de
+00368 | magnésium
+00369 | -
+00370 | Naproxen EG 500 mg comprimés: lactose monohydraté (voir «Naproxen EG contient du
+00371 | lactose» sous la rubrique 2) – amidon de maïs – glycolate d’amidon sodique (type A) (voir
+00372 | «Naproxen EG contient du sodium» sous la rubrique 2) – povidone – stéarate de
+00373 | magnésium
+00374 | Aspect de Naproxen EG et contenu de l’emballage extérieur
+00375 | Naproxen EG 250 mg comprimés: Comprimés. Boîtes de 20 ou de 50 comprimés.
+00376 | Naproxen EG 500 mg comprimés: Comprimés. Boîtes de 30 comprimés.
+00377 | Toutes les présentations peuvent ne pas être commercialisées.
+00378 | Titulaire de l’autorisation de mise sur le marché et fabricant
+00379 | Titulaire de l’autorisation de mise sur le marché
+00380 | EG (Eurogenerics) SA - Esplanade Heysel b22 - 1020 Bruxelles
+00381 | Fabricant:
+00382 | Sanico NV - Veedijk 59 - 2300 Turnhout
+00383 | Numéros de l’autorisation de mise sur le marché:
+00384 | Naproxen EG 250 mg comprimés: BE145625
+00385 | Naproxen EG 500 mg comprimés: BE145546
+00386 | Mode de délivrance: sur prescription médicale
+00387 | La dernière date à laquelle cette notice a été approuvée/révisée est 03/2025 / 07/2024.

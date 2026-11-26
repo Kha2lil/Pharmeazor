@@ -1,0 +1,612 @@
+00001 | Meloxicam Teva-BSF-afsl-impl-TransferMAH-feb26
+00002 | 1/11
+00003 | NOTICE : INFORMATION DU PATIENT
+00004 | MELOXICAM TEVA 7,5 mg COMPRIMÉS
+00005 | MELOXICAM TEVA 15 mg COMPRIMÉS
+00006 | méloxicam
+00007 | Veuillez lire attentivement cette notice avant de prendre ce médicament car elle contient des
+00008 | informations importantes pour vous.
+00009 | 
+00010 | Gardez cette notice. Vous pourriez avoir besoin de la relire.
+00011 | 
+00012 | Si vous avez d’autres questions, interrogez votre médecin ou votre pharmacien.
+00013 | 
+00014 | Ce médicament vous a été personnellement prescrit. Ne le donnez pas à d’autres personnes. Il
+00015 | pourrait leur être nocif, même si les signes de leur maladie sont identiques aux vôtres.
+00016 | 
+00017 | Si vous ressentez un quelconque effet indésirable, parlez-en à votre médecin ou votre pharmacien.
+00018 | Ceci s’applique aussi à tout effet indésirable qui ne serait pas mentionné dans cette notice. Voir
+00019 | rubrique 4.
+00020 | Que contient cette notice ?
+00021 | 1. Qu'est-ce que Meloxicam Teva et dans quel cas est-il utilisé
+00022 | 2. Quelles sont les informations à connaître avant de prendre Meloxicam Teva
+00023 | 3. Comment prendre Meloxicam Teva
+00024 | 4. Quels sont les effets indésirables éventuels
+00025 | 5. Comment conserver Meloxicam Teva
+00026 | 6. Contenu de l’emballage et autres informations
+00027 | 1. Qu’est-ce que Meloxicam Teva et dans quel cas est-il utilisé ?
+00028 |  Meloxicam Teva appartient à un groupe de médicaments appelé Anti-Inflammatoires Non Stéroïdiens
+00029 | (AINS), utilisés pour diminuer l’inflammation et la douleur au niveau des muscles et articulations.
+00030 | Meloxicam Teva comprimés sont indiqués chez l’adulte et l’adolescent âgé de 16 ans et plus.
+00031 | Meloxicam Teva est indiqué dans le traitement :
+00032 | 
+00033 | de courte durée des poussées aiguës d’arthrose
+00034 | 
+00035 | de longue durée de la polyarthrite rhumatoïde
+00036 | 
+00037 | de longue durée de la spondylarthrite ankylosante (inflammation des articulations entre la colonne
+00038 | vertébrale et le bassin).
+00039 | 2. Quelles sont les informations à connaître avant de prendre Meloxicam Teva?
+00040 | Ne prenez jamais Meloxicam Teva
+00041 | Ne prenez pas Meloxicam Teva dans les cas suivants :
+00042 | 
+00043 | si vous êtes allergique au méloxicam ou à l’un des autres composants contenus dans ce
+00044 | médicament mentionnés dans la rubrique 6.
+00045 | 
+00046 | si vous avez eu les symptômes suivants suite à la prise d’aspirine ou de tout autre AINS :
+00047 | 
+00048 | Meloxicam Teva-BSF-afsl-impl-TransferMAH-feb26
+00049 | 2/11
+00050 | -
+00051 | respiration sifflante, crampe dans la poitrine, essoufflement (asthme),
+00052 | -
+00053 | petits renflements de la muqueuse nasale entraînant une obstruction nasale (polypes nasaux),
+00054 | -
+00055 | éruption cutanée/éruption urticante (urticaire)
+00056 | -
+00057 | brusque gonflement de la peau ou des muqueuses, tel que gonflement autour des yeux, de la
+00058 | face, des lèvres, de la bouche ou de la gorge, pouvant provoquer des difficultés respiratoires
+00059 | (œdème angioneurotique)
+00060 | 
+00061 | si vous avez des antécédents liés à des traitements antérieurs par AINS
+00062 | -
+00063 | d’hémorragies gastro-intestinales
+00064 | -
+00065 | ou d’ulcères (perforations) gastro-intestinaux;
+00066 | 
+00067 | si vous souffrez d’ulcère ou d’hémorragie gastro-intestinale ;
+00068 | 
+00069 | si vous avez récemment eu ou avez des antécédents d’ulcères ou d’hémorragies gastro-intestinaux
+00070 | (ulcération ou hémorragie apparue au moins deux fois)
+00071 | 
+00072 | si vous avez une maladie grave du foie
+00073 | 
+00074 | si vous avez une maladie grave des reins non dialysée
+00075 | 
+00076 | si vous avez récemment eu des saignements dans le cerveau (saignements cérébrovasculaires)
+00077 | 
+00078 | si vous souffrez de troubles hémorragiques de toute sorte
+00079 | 
+00080 | si vous avez une maladie grave du cœur
+00081 | 
+00082 | pendant les trois derniers mois de la grossesse
+00083 | 
+00084 | chez les enfants et adolescents de moins de 16 ans.
+00085 | Avertissements et précautions
+00086 | Adressez-vous à votre médecin ou pharmacien avant de prendre Meloxicam Teva :
+00087 | 
+00088 | Si vous avez déjà présenté un érythème pigmenté fixe (éruption de plaques rouges de forme ronde
+00089 | ou ovale s’accompagnant d’un gonflement de la peau, de cloques, d’urticaire et de démangeaisons,
+00090 | réapparaissant généralement au[x] même[s] endroit[s]) après avoir pris du méloxicam ou d’autres
+00091 | oxicams (par ex. piroxicam).
+00092 | Les médicaments tels que Meloxicam Teva pourraient augmenter le risque de crise cardiaque (« infarctus
+00093 | du myocarde ») ou d’accident vasculaire cérébral (apoplexie). Le risque est d’autant plus important que
+00094 | les doses utilisées sont élevées et la durée de traitement prolongée.
+00095 | Ne pas dépasser la dose recommandée. Ne pas prendre Meloxicam Teva plus longtemps que la durée
+00096 | qui vous a été prescrite (voir rubrique 3. Comment prendre Meloxicam Teva ?).
+00097 | Si vous avez des problèmes cardiaques, si vous avez eu un accident vasculaire cérébral ou si vous
+00098 | pensez avoir des facteurs de risques pour ce type de pathologie, veuillez en parler avec votre médecin
+00099 | ou à votre pharmacien. Par exemple :
+00100 | 
+00101 | en cas de pression artérielle élevée (hypertension),
+00102 | 
+00103 | en cas de taux élevé de sucre dans le sang (diabète mellitus),
+00104 | 
+00105 | en cas de taux de cholestérol élevé (hypercholestérolémie)
+00106 | 
+00107 | si vous fumez
+00108 | Arrêtez immédiatement votre traitement par méloxicam dès que vous remarquez une hémorragie
+00109 | (donnant des selles de couleur noire) ou une ulcération de votre tube digestif (provoquant des douleurs
+00110 | abdominales).
+00111 | Des éruptions cutanées potentiellement fatales (syndrome de Stevens-Johnson, nécrolyse épidermique
+00112 | toxique) ont été rapportées en cas d'utilisation de méloxicam et se présentaient initialement sous la forme
+00113 | de taches rouges en forme de cibles ou de plaques circulaires s'accompagnant souvent de la formation
+00114 | de vésicules centrales sur le tronc.
+00115 | 
+00116 | Meloxicam Teva-BSF-afsl-impl-TransferMAH-feb26
+00117 | 3/11
+00118 | Les autres signes à rechercher incluent des ulcères au niveau de la bouche, de la gorge, du nez, des
+00119 | parties génitales et une conjonctivite (yeux rouges et gonflés).
+00120 | Ces éruptions cutanées potentiellement fatales s'accompagnent souvent de symptômes pseudo-
+00121 | grippaux. L’éruption cutanée peut évoluer vers une extension généralisée de la formation de vésicules
+00122 | ou de la desquamation de la peau.
+00123 | Le risque de survenue de ces réactions cutanées graves est le plus élevé pendant le premier mois du
+00124 | traitement.
+00125 | Si vous avez développé un syndrome de Stevens-Johnson ou une nécrolyse épidermique toxique
+00126 | pendant l’utilisation de méloxicam, ne réinstaurez jamais le traitement par méloxicam.
+00127 | Si vous développez une éruption cutanée ou ces symptômes au niveau de la peau, arrêtez la prise de
+00128 | méloxicam, consultez immédiatement un médecin et dites-lui que vous prenez ce médicament.
+00129 | Le méloxicam ne convient pas si vous nécessitez un soulagement immédiat d’une douleur aiguë.
+00130 | Comme tout AINS, le méloxicam peut masquer les symptômes (par. ex. de la fièvre) d’une infection
+00131 | sous-jacente. Par conséquent, si vous observez des signes d'infection ou une aggravation des
+00132 | symptômes, consultez votre médecin.
+00133 | Précautions d’emploi
+00134 | Comme il pourrait être nécessaire d’adapter votre traitement, il est important d’indiquer à votre médecin
+00135 | avant de prendre Meloxicam Teva si vous êtes atteint de :
+00136 | 
+00137 | antécédent d’inflammation de l’œsophage (œsophagite), inflammation de l’estomac (gastrite) ou
+00138 | antécédents de tout autre affection du tube digestif comme la colite ulcérative, la maladie de Crohn
+00139 | 
+00140 | pression sanguine élevée (hypertension)
+00141 | 
+00142 | âge avancé
+00143 | 
+00144 | problèmes rénaux, hépatiques ou cardiaques
+00145 | 
+00146 | taux de sucre élevé dans le sang (diabète mellitus)
+00147 | 
+00148 | réduction du volume sanguin (hypovolémie) pouvant apparaître en cas de perte de sang ou brûlure
+00149 | importante, d’intervention chirurgicale ou de faible hydratation
+00150 | 
+00151 | taux de potassium élevé dans le sang, préalablement diagnostiqué par votre médecin
+00152 | Votre médecin pourra surveiller votre évolution pendant le traitement.
+00153 | Des doses élevées supérieures à la posologie recommandée peuvent entraîner des effets indésirables.
+00154 | C’est pourquoi vous ne devez pas dépasser la dose maximale recommandée et vous ne devez pas
+00155 | prendre en même temps que ce médicament d’autres médicaments contenant des anti-inflammatoires
+00156 | non stéroïdiens et en particulier chez les sujets âgés, car le risque d'effets indésirables est plus élevé.
+00157 | Autres médicaments et Meloxicam Teva
+00158 | Informez votre médecin ou pharmacien si vous prenez/utilisez, avez récemment pris/utilisé ou pourriez
+00159 | prendre/utiliser tout autre médicament.
+00160 | Vous devez prévenir votre médecin ou votre pharmacien en particulier si vous prenez ou avez pris l'un
+00161 | des médicaments suivants :
+00162 | 
+00163 | autres AINS
+00164 | 
+00165 | sels de potassium – utilisés pour prévenir ou traiter de faibles taux de potassium dans le sang
+00166 | 
+00167 | tacrolimus – utilisé après une greffe d’organe
+00168 | 
+00169 | triméthoprime – utilisé pour le traitement des infections de l’appareil urinaire
+00170 | 
+00171 | médicaments prévenant les caillots de sang
+00172 | 
+00173 | médicaments dissolvant les caillots de sang (thrombolytiques)
+00174 | 
+00175 | Meloxicam Teva-BSF-afsl-impl-TransferMAH-feb26
+00176 | 4/11
+00177 | 
+00178 | médicaments utilisés pour traiter les maladies du cœur et du rein
+00179 | 
+00180 | corticostéroïdes (p. ex. utilisés contre l’inflammation et les réactions allergiques)
+00181 | 
+00182 | ciclosporine – utilisé après transplantation d’organe, ou dans les maladies de peau graves, dans la
+00183 | polyarthrite rhumatoïde ou le syndrome néphrotique
+00184 | 
+00185 | déférasirox – utilisé pour traiter une surcharge en fer due à de fréquentes transfusions sanguines
+00186 | 
+00187 | tout médicament diurétique. Votre médecin pourra surveiller votre fonction rénale si vous prenez
+00188 | des diurétiques
+00189 | 
+00190 | médicaments utilisés pour traiter l’hypertension artérielle (par exemple les bêtabloquants)
+00191 | 
+00192 | lithium – utilisé pour traiter les troubles de l’humeur
+00193 | 
+00194 | inhibiteurs sélectifs de la recapture de la sérotonine (ISRS)– utilisés dans le traitement de la
+00195 | dépression
+00196 | 
+00197 | méthotrexate – utilisé pour traiter les cancers ou les maladies de peau graves non contrôlées et la
+00198 | polyarthrite rhumatoïde active
+00199 | 
+00200 | pémétrexed – utilisé pour traiter le cancer
+00201 | 
+00202 | cholestyramine – utilisé pour diminuer le taux de cholestérol
+00203 | 
+00204 | antidiabétiques oraux (sulfonylurées, natéglinide) – utilisé pour le traitement du diabète. Votre
+00205 | médecin doit suivre avec attention votre taux de sucre dans le sang pour le risque d’hypoglycémie.
+00206 | Grossesse, allaitement et fertilité
+00207 | Si vous êtes enceinte ou que vous allaitez, si vous pensez être enceinte ou planifiez une grossesse,
+00208 | demandez conseil à votre médecin ou pharmacien avant de prendre ce médicament.
+00209 | Grossesse
+00210 | Ne prenez pas du méloxicam si vous êtes dans les 3 derniers mois de grossesse car cela pourrait nuire
+00211 | à votre bébé ou causer des problèmes à l’accouchement. Il peut causer des problèmes rénaux et
+00212 | cardiaques chez votre bébé. Cela peut avoir des répercussions sur vous et votre bébé en favorisant les
+00213 | saignements et entraîner un accouchement plus tardif ou plus long que prévu.
+00214 | Vous ne devez pas prendre du méloxicam pendant les 6 premiers mois de la grossesse à moins que
+00215 | cela ne soit absolument nécessaire et conseillé par votre médecin. Si un traitement est nécessaire au
+00216 | cours de cette période ou lorsque vous planifiez une grossesse, il est recommandé de prendre la dose
+00217 | la plus faible pendant la durée la plus courte possible. À partir de 20 semaines d’aménorrhée, le
+00218 | méloxicam peut provoquer des problèmes rénaux chez votre bébé, s’il est pris pendant plusieurs jours,
+00219 | ce qui peut entraîner un faible niveau du liquide amniotique dans lequel il se trouve (oligoamnios) ou un
+00220 | rétrécissement d’un vaisseau sanguin dans le cœur du bébé, appelé canal artériel. Si un traitement de
+00221 | plusieurs jours est nécessaire, votre médecin peut recommander une surveillance supplémentaire. Si
+00222 | vous avez pris ce médicament pendant votre grossesse, vous devez prévenir immédiatement votre
+00223 | médecin afin qu’une surveillance adaptée soit envisagée.
+00224 | Allaitement
+00225 | La prise de ce médicament n’est pas recommandée pendant l’allaitement.
+00226 | Fertilité
+00227 | Ce médicament peut entraîner des difficultés pour être enceinte. Vous devez informer votre médecin si
+00228 | vous planifiez une grossesse ou si vous avez des difficultés à être enceinte.
+00229 | Conduite de véhicules et utilisation de machines
+00230 | 
+00231 | Meloxicam Teva-BSF-afsl-impl-TransferMAH-feb26
+00232 | 5/11
+00233 | Meloxicam Teva peut légèrement affecter votre capacité à conduire des véhicules ou à utiliser des
+00234 | machines. Des troubles visuels notamment une vision floue, des étourdissements, une somnolence, des
+00235 | vertiges ou d’autres perturbations du système nerveux central peuvent survenir avec ce produit. Si vous
+00236 | remarquez de tels effets, ne conduisez pas et n'utilisez pas de machine jusqu'à ce que les symptômes
+00237 | aient disparu. Demandez conseil à votre médecin ou à votre pharmacien.
+00238 | Meloxicam Teva contient du lactose et du sodium
+00239 | Meloxicam Teva contient du lactose. Si votre médecin vous a informé(e) d’une intolérance à certains
+00240 | sucres, contactez-le avant de prendre ce médicament.
+00241 | Ce médicament contient moins de 1 mmol (23 mg) de sodium par comprimé, c.-à-d. qu’il est
+00242 | essentiellement « sans sodium ».
+00243 | 3. Comment prendre Meloxicam Teva ?
+00244 | Veillez à toujours prendre ce médicament en suivant exactement les indications de votre médecin.
+00245 | Vérifiez auprès de votre médecin ou pharmacien en cas de doute.
+00246 | Ce médicament est exclusivement à usage oral. Les comprimés doivent être pris en une seule prise par
+00247 | jour, avec de l’eau ou une autre boisson, au cours d’un repas.
+00248 | La barre de cassure n’est là que pour faciliter la prise du comprimé si vous éprouvez des difficultés à
+00249 | l’avaler en entier.
+00250 | La dose recommandée est :
+00251 | Poussées aiguës d’ostéoarthrite :
+00252 | 1 comprimé à 7,5 mg par jour, une dose qui peut être augmentée, en accord avec votre médecin, à 15
+00253 | mg par jour (soit 2 comprimés à 7,5 mg ou 1 comprimé à 15 mg).
+00254 | Arthrite rhumatoïde :
+00255 | 1 comprimé à 15 mg par jour (ou 2 comprimés à 7,5 mg). Cette dose peut être réduite à un comprimé
+00256 | de 7,5 mg une fois par jour.
+00257 | Spondylarthrite ankylosante :
+00258 | 1 comprimé à 15 mg par jour (ou 2 comprimés à 7,5 mg). Cette dose peut être réduite à un comprimé
+00259 | de 7,5 mg une fois par jour.
+00260 | Ne pas dépasser la posologie de 15 mg par jour.
+00261 | Ne pas administrer le méloxicam aux enfants et aux adolescents de moins de 16 ans.
+00262 | Veuillez contacter votre médecin ou votre pharmacien si vous ne savez pas exactement comment
+00263 | prendre ce médicament ou si vous trouvez que l'effet de méloxicam est trop fort ou trop faible.
+00264 | Ce médicament existe sous d’autres formes et dosages qui peuvent être plus appropriés à votre
+00265 | traitement.
+00266 | Informations pour les patients âgés
+00267 | Chez les patients âgés, la dose recommandée pour le traitement au long cours de l’arthrite rhumatoïde
+00268 | ou de la spondylarthrite ankylosante est de 7,5 mg par jour.
+00269 | 
+00270 | Meloxicam Teva-BSF-afsl-impl-TransferMAH-feb26
+00271 | 6/11
+00272 | Patients présentant un risque accru d’effets indésirables
+00273 | Aussi, chez les patients présentant un risque accru d’effets indésirables, le traitement devra débuter à la
+00274 | posologie de 7,5 mg de méloxicam par jour.
+00275 | Patients présentant une insuffisance rénale
+00276 | Si vous avez une insuffisance rénale grave et que vous êtes dialysé, la dose maximum de méloxicam
+00277 | devra être de 7,5 mg par jour.
+00278 | Aucune réduction de posologie n’est nécessaire chez les patients présentant une insuffisance rénale
+00279 | légère à modérée.
+00280 | Patients présentant une insuffisance hépatique
+00281 | Aucune réduction de posologie n’est nécessaire chez les patients présentant une insuffisance
+00282 | hépatique légère à modérée.
+00283 | Si vous avez pris plus de Meloxicam Teva que vous n’auriez dû
+00284 | Si vous avez pris trop de Meloxicam Teva, ou si vous suspectez un surdosage, prenez immédiatement
+00285 | contact avec votre médecin, votre pharmacien, le Centre Antipoison (070/245.245) ou allez
+00286 | immédiatement à l’hôpital le plus proche.
+00287 | Les symptômes survenant après un surdosage aigu d’AINS sont habituellement limités à : une perte
+00288 | d’énergie (léthargie), une somnolence, une sensation de malaise (nausée) et des vomissements, des
+00289 | douleurs dans la région de l’estomac (douleur épigastrique). Ces symptômes sont généralement
+00290 | réversibles. Cependant, un surdosage sévère peut entraîner des effets indésirables graves (voir rubrique
+00291 | 4, en dessous). Prenez immédiatement un avis médical si la dose prescrite a été dépassée.
+00292 |  
+00293 | Si vous oubliez de prendre Meloxicam Teva
+00294 | Ne prenez pas de dose double pour compenser la dose simple que vous avez oubliée de prendre. Prenez
+00295 | simplement la dose suivante au moment habituel.
+00296 | Si vous avez d’autres questions sur l’utilisation de ce médicament, demandez plus d’informations à votre
+00297 | médecin ou à votre pharmacien.
+00298 | 4.
+00299 | Quels sont les effets indésirables éventuels ?
+00300 | Comme tous les médicaments, ce médicament peut provoquer des effets indésirables, mais ils ne
+00301 | surviennent pas systématiquement chez tout le monde.
+00302 | Arrêtez la prise de Meloxicam Teva et consultez immédiatement un médecin ou l’hôpital le plus
+00303 | proche si vous remarquez :
+00304 | Toute réaction allergique (hypersensibilité) pouvant apparaître sous la forme de :
+00305 | 
+00306 | réactions de la peau, p. ex. démangeaisons (prurit), formation de vésicules ou desquamation de la
+00307 | peau, qui peuvent être des éruptions cutanées pouvant potentiellement mettre en jeu le pronostic
+00308 | vital (syndrome de Stevens-Johnson et nécrolyse épidermique toxique), lésions des tissus mous
+00309 | (lésions muqueuses) ou érythème polymorphe.
+00310 | L’érythème polymorphe est une réaction allergique grave causant l’apparition de taches, de traces
+00311 | de coups rouges, de zones pourpres ou de zones présentant des vésicules. Cette affection peut
+00312 | également toucher la bouche, les yeux et d’autres surfaces humides du corps.
+00313 | 
+00314 | Meloxicam Teva-BSF-afsl-impl-TransferMAH-feb26
+00315 | 7/11
+00316 | 
+00317 | gonflement de la peau ou des muqueuses, p. ex. gonflement autour des yeux, du visage et des
+00318 | lèvres, de la bouche ou de la gorge, pouvant causer des difficultés respiratoires, gonflement des
+00319 | chevilles ou des jambes (œdème des membres inférieurs)
+00320 | 
+00321 | essoufflement ou crise d’asthme
+00322 | 
+00323 | inflammation du foie (hépatite). Cette affection peut causer des symptômes tels que :
+00324 | -
+00325 | jaunissement de la peau ou des globes oculaires (jaunisse)
+00326 | -
+00327 | douleur dans l’abdomen
+00328 | -
+00329 | perte d’appétit
+00330 | Tout effet indésirable du système digestif, en particulier :
+00331 | 
+00332 | saignement (causant des selles de couleur goudron)
+00333 | 
+00334 | ulcération au niveau de votre tube digestif (causant une douleur abdominale).
+00335 | Les saignements du tube digestif (hémorragie gastro-intestinale), la formation d’ulcères ou la formation
+00336 | d’un trou au niveau du tube digestif (perforation) peuvent parfois être graves et potentiellement fatals,
+00337 | en particulier chez les patients âgés.
+00338 | Si vous avez déjà souffert de l’un de ces symptômes du système digestif après une utilisation à long
+00339 | terme d’AINS, sollicitez immédiatement un avis médical, en particulier si vous êtes âgé(e). Il est
+00340 | possible que votre médecin surveille votre évolution pendant le traitement.
+00341 | Si vous présentez des troubles visuels, ne conduisez aucun véhicule et n’utilisez aucune machine.
+00342 | Effets indésirables généraux des médicaments anti-inflammatoires non stéroïdiens (AINS)
+00343 | L’utilisation de certains médicaments anti-inflammatoires non stéroïdiens (AINS) peut être associée à
+00344 | un risque légèrement plus élevé d’occlusion des vaisseaux artériels (incidents thrombotiques artériels),
+00345 | p. ex. crise cardiaque (infarctus du myocarde) ou accident vasculaire cérébral (apoplexie), en particulier
+00346 | en cas d'administration de doses élevées et de traitement à long terme.
+00347 | Une rétention de liquide (œdème), une tension artérielle élevée (hypertension) et une insuffisance
+00348 | cardiaque ont été rapportées en association avec le traitement par AINS.
+00349 | Les effets indésirables les plus fréquemment observés concernent le système digestif (effets
+00350 | indésirables gastro-intestinaux) :
+00351 | 
+00352 | ulcères de l’estomac et de la partie supérieure de l’intestin grêle (ulcères gastroduodénaux)
+00353 | 
+00354 | trou dans la paroi des intestins (perforation) ou saignement du tube digestif (parfois fatal, en
+00355 | particulier chez les patients âgés).
+00356 | Les effets indésirables suivants ont été rapportés après l’administration d’AINS :
+00357 | 
+00358 | nausées et vomissements
+00359 | 
+00360 | selles molles (diarrhée)
+00361 | 
+00362 | flatulence
+00363 | 
+00364 | constipation
+00365 | 
+00366 | indigestion (dyspepsie)
+00367 | 
+00368 | douleur abdominale
+00369 | 
+00370 | selles de couleur goudron suite à un saignement dans le tube digestif (méléna)
+00371 | 
+00372 | vomissements de sang (hématémèse)
+00373 | 
+00374 | inflammation s'accompagnant de la formation d’ulcères dans la bouche (stomatite ulcérative)
+00375 | 
+00376 | aggravation d’une inflammation du tube digestif (p.ex. exacerbation d’une colite ou d’une maladie
+00377 | de Crohn).
+00378 | 
+00379 | Meloxicam Teva-BSF-afsl-impl-TransferMAH-feb26
+00380 | 8/11
+00381 | Moins fréquemment, une inflammation de l’estomac (gastrite) a été observée.
+00382 | Effets indésirables du méloxicam
+00383 | Très fréquent (pouvant survenir chez plus d’une personne sur 10) :
+00384 | 
+00385 | indigestion (dyspepsie)
+00386 | 
+00387 | nausées ou vomissements
+00388 | 
+00389 | douleur abdominale
+00390 | 
+00391 | constipation,
+00392 | 
+00393 | flatulence
+00394 | 
+00395 | selles molles (diarrhée).
+00396 | Fréquent (pouvant survenir chez maximum 1 personne sur 10) :
+00397 | 
+00398 | maux de tête.
+00399 | Peu fréquent (pouvant survenir chez maximum 1 personne sur 100) :
+00400 | 
+00401 | étourdissements (sensation d’hébétude)
+00402 | 
+00403 | sensation d’étourdissements ou de tournis (vertiges)
+00404 | 
+00405 | somnolence
+00406 | 
+00407 | anémie (réduction de la concentration du pigment rouge du sang appelé « hémoglobine »)
+00408 | 
+00409 | augmentation de la tension artérielle (hypertension)
+00410 | 
+00411 | rougeur (rougeur temporaire du visage et du cou)
+00412 | 
+00413 | rétention de sodium et d’eau
+00414 | 
+00415 | augmentation des taux de potassium (hyperkaliémie), pouvant donner lieu à des symptômes tels
+00416 | que :
+00417 | -
+00418 | modifications de votre rythme cardiaque (arythmies)
+00419 | -
+00420 | palpitations (quand vous percevez les battements de votre cœur plus que la normale)
+00421 | -
+00422 | faiblesse musculaire
+00423 | 
+00424 | éructations
+00425 | 
+00426 | inflammation de l’estomac (gastrite)
+00427 | 
+00428 | saignements du tube digestif
+00429 | 
+00430 | inflammation de la bouche (stomatite)
+00431 | 
+00432 | réactions allergiques (hypersensibilité) immédiates
+00433 | 
+00434 | démangeaisons (prurit)
+00435 | 
+00436 | éruption cutanée
+00437 | 
+00438 | gonflement causé par une rétention de liquide (œdème), y compris un gonflement des
+00439 | chevilles/jambes (œdème des membres inférieurs)
+00440 | 
+00441 | gonflement brutal de la peau ou des muqueuses, p. ex. gonflement autour des yeux, du visage,
+00442 | des lèvres, de la bouche ou de la gorge, pouvant causer des difficultés respiratoires (œdème
+00443 | angioneurotique)
+00444 | 
+00445 | troubles temporaires des tests de fonction du foie (p. ex. élévation des taux d’enzymes telles que
+00446 | les transaminases ou augmentation des taux du pigment de la bile appelé « bilirubine »). Votre
+00447 | médecin peut détecter ces anomalies en utilisant un test sanguin.
+00448 | 
+00449 | anomalies de tests biologiques évaluant la fonction des reins (fonction rénale), p. ex. élévation des
+00450 | taux de créatinine ou d’urée).
+00451 | Rare (pouvant survenir chez maximum 1 personne sur 1 000) :
+00452 | 
+00453 | troubles de l’humeur
+00454 | 
+00455 | cauchemars
+00456 | 
+00457 | anomalies de la formule sanguine, y compris
+00458 | 
+00459 | Meloxicam Teva-BSF-afsl-impl-TransferMAH-feb26
+00460 | 9/11
+00461 | -
+00462 | anomalies de la formule sanguine différentielle
+00463 | -
+00464 | diminution du nombre de globules blancs (leucocytopénie)
+00465 | -
+00466 | diminution du nombre de plaquettes sanguines (thrombocytopénie)
+00467 | Ces effets peuvent donner lieu à un risque plus élevé d’infection et de symptômes tels que des
+00468 | bleus (ecchymoses) ou des saignements de nez
+00469 | 
+00470 | bruit de sonnerie dans les oreilles (acouphènes)
+00471 | 
+00472 | perception des battements de votre cœur (palpitations)
+00473 | 
+00474 | ulcères de l’estomac ou de la partie supérieure de l’intestin grêle (ulcères gastroduodénaux)
+00475 | 
+00476 | inflammation de l’œsophage (œsophagite)
+00477 | 
+00478 | apparition de crises d’asthme (chez les personnes allergiques à l’aspirine ou à d’autres AINS)
+00479 | 
+00480 | des éruptions cutanées potentiellement fatales (syndrome de Stevens-Johnson et nécrolyse
+00481 | épidermique toxique) ont été rapportées (voir rubrique 2)
+00482 | 
+00483 | urticaire
+00484 | 
+00485 | troubles visuels, y compris :
+00486 | -
+00487 | vision floue
+00488 | -
+00489 | conjonctivite (inflammation du globe oculaire ou des paupières)
+00490 | 
+00491 | Inflammation du gros intestin (colite).
+00492 | Très rare (pouvant survenir chez maximum 1 personne sur 10 000) :
+00493 | 
+00494 | réactions de la peau s'accompagnant de la formation de vésicules (réactions bulleuses) et
+00495 | érythème polymorphe.
+00496 | L’érythème polymorphe est une réaction allergique grave de la peau causant l’apparition de
+00497 | taches, de traces de coups rouges, de zones pourpres ou de zones présentant des vésicules.
+00498 | Cette affection peut également toucher la bouche, les yeux et d’autres surfaces humides du corps.
+00499 | 
+00500 | inflammation du foie (hépatite) pouvant causer des symptômes tels que :
+00501 | -
+00502 | jaunissement de la peau ou des globes oculaires (jaunisse)
+00503 | -
+00504 | douleur dans l’abdomen
+00505 | -
+00506 | perte d’appétit
+00507 | 
+00508 | insuffisance aiguë des reins (insuffisance rénale), en particulier chez les patients présentant des
+00509 | facteurs de risque tels qu’une maladie cardiaque, un diabète ou une maladie des reins
+00510 | 
+00511 | trou dans la paroi des intestins (perforation).
+00512 | Fréquence indéterminée (ne peut être estimée sur la base des données disponibles)
+00513 | 
+00514 | confusion
+00515 | 
+00516 | désorientation
+00517 | 
+00518 | essoufflement et réactions de la peau (réactions anaphylactiques/anaphylactoïdes), éruptions
+00519 | cutanées causées par une exposition à la lumière (réactions de photosensibilité)
+00520 | 
+00521 | réaction allergique cutanée caractéristique, appelée érythème pigmenté fixe, qui réapparaît
+00522 | généralement au(x) même(s) endroit(s) en cas de réexposition au médicament, et pouvant se
+00523 | manifester par une éruption de plaques rouges de forme ronde ou ovale s’accompagnant d’un
+00524 | gonflement de la peau, de cloques, d’urticaire et de démangeaisons.
+00525 | 
+00526 | une insuffisance cardiaque a été rapportée en association avec le traitement par AINS
+00527 | 
+00528 | perte complète de types spécifiques de globules blancs (agranulocytose), en particulier chez les
+00529 | patients prenant du méloxicam en association avec d’autres médicaments susceptibles d’inhiber,
+00530 | de déprimer ou de détruire un composant de la moelle osseuse (médicaments myélotoxiques).
+00531 | Cela peut causer :
+00532 | -
+00533 | fièvre brutale
+00534 | -
+00535 | mal de gorge
+00536 | -
+00537 | infections.
+00538 | 
+00539 | inflammation du pancréas (pancréatite)
+00540 | 
+00541 | Meloxicam Teva-BSF-afsl-impl-TransferMAH-feb26
+00542 | 10/11
+00543 | 
+00544 | infertilité de la femme, retard de l’ovulation
+00545 | Effets indésirables causés par des médicaments anti-inflammatoires non stéroïdiens (AINS) mais
+00546 | n’ayant pas encore été observés après la prise de méloxicam
+00547 | 
+00548 | modifications de la structure des reins, donnant lieu à une insuffisance rénale aiguë
+00549 | 
+00550 | très rares cas d’inflammation des reins (néphrite interstitielle)
+00551 | 
+00552 | mort de certaines cellules dans les reins (nécrose tubulaire aiguë ou nécrose papillaire)
+00553 | 
+00554 | présence de protéines dans l’urine (syndrome néphrotique s'accompagnant d’une protéinurie).
+00555 | Déclaration des effets secondaires
+00556 | Si vous ressentez un quelconque effet indésirable, parlez-en à votre médecin ou votre pharmacien.
+00557 | Ceci s’applique aussi à tout effet indésirable qui ne serait pas mentionné dans cette notice.
+00558 | Vous pouvez également déclarer les effets indésirables directement via l’Agence fédérale des
+00559 | médicaments et des produits de santé – www.afmps.be - Division Vigilance – Site internet:
+00560 | www.notifieruneffetindesirable.be - e-mail: adr@fagg-afmps.be. En signalant les effets indésirables,
+00561 | vous contribuez à fournir davantage d’informations sur la sécurité du médicament.
+00562 | 5. Comment conserver Meloxicam Teva ?
+00563 | Tenir hors de la vue et de la portée des enfants.
+00564 | N’utilisez pas ce médicament après la date de péremption indiquée sur la boîte et la plaquette après
+00565 | « EXP ». La date de péremption fait référence au dernier jour de ce mois.
+00566 | A conserver à une température ne dépassant pas 30°C .
+00567 | Ne jetez aucun médicament au tout-à-l’égout ni avec les ordures ménagères. Demandez à votre
+00568 | pharmacien d’éliminer les médicaments que vous n’utilisez plus. Ces mesures contribueront à protéger
+00569 | l’environnement.
+00570 | 6.
+00571 | Contenu de l’emballage et autres informations
+00572 | Ce que contient Meloxicam Teva
+00573 | -
+00574 | La substance active est : Chaque comprimé contient 7,5 mg ou 15 mg de méloxicam.
+00575 | -
+00576 | Les autres composants sont : Citrate de sodium, lactose monohydraté, cellulose microcristalline,
+00577 | povidone K-30, silice colloïdale anhydre, crospovidone, stéarate de magnésium.
+00578 | Aspect de Meloxicam Teva et contenu de l’emballage extérieur
+00579 | Meloxicam Teva 7,5 mg est un comprimé rond et plat, de couleur jaune moucheté, présentant des bords
+00580 | biseautés, portant l'inscription "MLX 7.5” d’un côté et une barre de cassure de l’autre côté. 
+00581 | Meloxicam Teva 15 mg est un comprimé ovale, de couleur jaune moucheté, portant l’inscription "MLX 15”
+00582 | d’un côté et une barre de cassure de l’autre côté.
+00583 | La barre de cassure n’est là que pour faciliter la prise du comprimé, elle ne le divise pas en doses
+00584 | égales.
+00585 | Ce médicament se présente en boîtes de 10, 14, 20, 28, 30, 50, 60, 100 ou 500 (10 x 50) comprimés.
+00586 | 
+00587 | Meloxicam Teva-BSF-afsl-impl-TransferMAH-feb26
+00588 | 11/11
+00589 | Toutes les présentations peuvent ne pas être commercialisées.
+00590 | Titulaire de l’Autorisation de mise sur le marché
+00591 | Teva GmbH, Graf-Arco-Straße 3, 89079 Ulm, Allemagne 
+00592 | Fabricants
+00593 | Pharmachemie BV, Swensweg 5, P.O. Box 552, 2003 RN Haarlem, Pays-Bas
+00594 | TEVA Pharmaceutical Works Private Limited Company, Pallagi Street 13. Debrecen, H-4042, Hongrie
+00595 | Numéro de l’autorisation de mise sur le marché
+00596 | 7,5 mg : BE276823
+00597 | 15 mg : BE276832
+00598 | Mode de délivrance
+00599 | Médicament soumis à prescription médicale.
+00600 | Ce médicament est autorisé dans les Etats membres de l'Espace Economique Européen sous
+00601 | les noms suivants :
+00602 | BE 
+00603 | Meloxicam Teva 7,5 mg & 15 mg Tabletten/comprimés
+00604 | CZ
+00605 | Meloxiam-Teva 15 mg
+00606 | DK 
+00607 | Meloxicam Teva
+00608 | FR 
+00609 | Meloxicam Teva 7.5 mg comprimé & Meloxicam 15 mg comprimé sécable
+00610 | PT 
+00611 | Meloxicam ratiopharm 7.5 mg & 15 mg Comprimido
+00612 | La dernière date à laquelle cette notice a été approuvée est 02/2026.

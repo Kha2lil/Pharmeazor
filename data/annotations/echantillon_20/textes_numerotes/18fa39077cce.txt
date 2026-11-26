@@ -1,0 +1,1034 @@
+00001 | CEFUROXIME AXETIL- cefuroxime axetil tablet, film coated 
+00002 | Redpharm Drug
+00003 | ----------
+00004 | HIGHLIGHTS OF PRESCRIBING INFORMATION
+00005 | These highlights do not include all the information needed to use CEFUROXIME AXETIL
+00006 | TABLETS safely and effectively. See full prescribing information for CEFUROXIME AXETIL
+00007 | TABLETS. 
+00008 | CEFUROXIME AXETIL tablets, for oral use 
+00009 | Initial U.S. Approval: 1987
+00010 | INDICATIONS AND USAGE
+00011 | Cefuroxime axetil tablets are a cephalosporin antibacterial drug indicated for the treatment of the following
+00012 | infections due to susceptible bacteria: ( 1)
+00013 | Pharyngitis/tonsillitis (adults and pediatric patients) ( 1.1)
+00014 | Acute bacterial otitis media (pediatric patients) ( 1.2)
+00015 | Acute bacterial maxillary sinusitis (adults and pediatric patients) ( 1.3)
+00016 | Acute bacterial exacerbations of chronic bronchitis (adults and pediatric patients 13 years and older) (
+00017 | 1.4)
+00018 | Uncomplicated skin and skin-structure infections (adults and pediatric patients 13 years and older) (
+00019 | 1.5)
+00020 | Uncomplicated urinary tract infections (adults and pediatric patients 13 years and older) ( 1.6)
+00021 | Uncomplicated gonorrhea (adults and pediatric patients 13 years and older) ( 1.7)
+00022 | Early Lyme disease (adults and pediatric patients 13 years and older) ( 1.8)
+00023 | To reduce the development of drug-resistant bacteria and maintain the effectiveness of cefuroxime axetil
+00024 | tablets and other antibacterial drugs, cefuroxime axetil tablets should be used only to treat or prevent
+00025 | infections that are proven or strongly suspected to be caused by bacteria.
+00026 | DOSAGE AND ADMINISTRATION
+00027 | Tablets and oral suspension are not bioequivalent and are therefore not substitutable on a milligram-
+00028 | per-milligram basis. ( 2.1)
+00029 | Administer tablets with or without food. ( 2.2)
+00030 | Administer cefuroxime axetil tablets as described in the dosage guidelines. ( 2.2)
+00031 | Dosage adjustment is required for patients with impaired renal function. ( 2.5)
+00032 | AdultPatientsand Pediatric Patients Dosage Guidelines for Cefuroxime Axetil Tablets 
+00033 | Infection 
+00034 | Dosage 
+00035 | Duration (Days) 
+00036 | Adultsand Adolescents (13 years and older) 
+00037 | Pharyngitis/tonsillitis (mild to moderate) 
+00038 | 250 mg every 
+00039 | 12 hours 
+00040 | 10 
+00041 | Acute bacterial maxillary sinusitis (mild to
+00042 | moderate) 
+00043 | 250 mg every 
+00044 | 12 hours 
+00045 | 10 
+00046 | Acute bacterial exacerbations of chronic bronchitis
+00047 | (mild to moderate) 
+00048 | 250 mg or 500 mg every 12 hours 
+00049 | 10 
+00050 | Uncomplicated skin and skin-structure infections 
+00051 | 250 mg or 500 mg every 12 hours 
+00052 | 10 
+00053 | Uncomplicated urinary tract infections 
+00054 | 250 mg every 12 hours 
+00055 | 7 to 10 
+00056 | Uncomplicated gonorrhea 
+00057 | 1,000 mg 
+00058 | single dose 
+00059 | Early Lyme disease 
+00060 | 500 mg every 12 hours 
+00061 | 20 
+00062 | PediatricPatientsyounger than 13 years (who can swallow tablets whole) 
+00063 | Acute bacterial otitis media 
+00064 | 250 mg every 12 hours 
+00065 | 10 
+00066 | Acute bacterial maxillary sinusitis 
+00067 | 250 mg every 12 hours 
+00068 | 10 
+00069 | DOSAGE FORMS AND STRENGTHS
+00070 | 
+00071 | Tablets: 250 mg and 500 mg ( 3)
+00072 | CONTRAINDICATIONS
+00073 | Known hypersensitivity (e.g., anaphylaxis) to cefuroxime axetil tablets or to other β-lactams (e.g.,
+00074 | penicillins and cephalosporins). ( 4)
+00075 | WARNINGS AND PRECAUTIONS
+00076 | Serious hypersensitivity (anaphylactic) reactions: In the event of a serious reaction, discontinue
+00077 | cefuroxime axetil and institute appropriate therapy. ( 5.1)
+00078 | Clostridioidesdifficile- associated diarrhea (CDAD): If diarrhea occurs, evaluate patients for CDAD. ( 5.2)
+00079 | ADVERSE REACTIONS
+00080 | The most common adverse reactions (≥3%) for cefuroxime axetil tablets are diarrhea, nausea/vomiting,
+00081 | Jarisch-Herxheimer reaction, and vaginitis (early Lyme disease). ( 6.1) 
+00082 | To report SUSPECTED ADVERSE REACTIONS, contact Rising Health, LLC at 1-833-395-6928 or
+00083 | FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.
+00084 | DRUG INTERACTIONS
+00085 | Drugs that reduce gastric acidity may lower the bioavailability of cefuroxime axetil. ( 7.1)
+00086 | Coadministration with probenecid increases systemic exposure to cefuroxime axetil and is therefore not
+00087 | recommended. ( 7.2)
+00088 | See 17 for PATIENT COUNSELING INFORMATION.
+00089 | Revised: 4/2021
+00090 | FULL PRESCRIBING INFORMATION: CONTENTS*
+00091 | 1 INDICATIONS AND USAGE
+00092 | 1.1 Pharyngitis/Tonsillitis
+00093 | 1.2 Acute Bacterial Otitis Media
+00094 | 1.3 Acute Bacterial Maxillary Sinusitis
+00095 | 1.4 Acute Bacterial Exacerbations of Chronic Bronchitis
+00096 | 1.5 Uncomplicated Skin and Skin-Structure Infections
+00097 | 1.6 Uncomplicated Urinary Tract Infections
+00098 | 1.7 Uncomplicated Gonorrhea
+00099 | 1.8 Early Lyme Disease (erythema migrans)
+00100 | 1.10 Usage
+00101 | 2 DOSAGE AND ADMINISTRATION
+00102 | 2.1 Important Administration Instructions
+00103 | 2.2 Dosage for Cefuroxime Axetil Tablets
+00104 | 2.5 Dosage in Patients with Impaired Renal Function
+00105 | 3 DOSAGE FORMS AND STRENGTHS
+00106 | 4 CONTRAINDICATIONS
+00107 | 5 WARNINGS AND PRECAUTIONS
+00108 | 5.1 Anaphylactic Reactions
+00109 | 5.2 Clostridioides difficile-Associated Diarrhea
+00110 | 5.3 Potential for Microbial Overgrowth
+00111 | 5.4 Development of Drug-Resistant Bacteria
+00112 | 5.6 Interference with Glucose Tests
+00113 | 6 ADVERSE REACTIONS
+00114 | 6.1 Clinical Trials Experience
+00115 | 6.2 Postmarketing Experience
+00116 | 
+00117 | 7 DRUG INTERACTIONS
+00118 | 7.1 Drugs that Reduce Gastric Acidity
+00119 | 7.2 Probenecid
+00120 | 7.3 Drug/Laboratory Test Interactions
+00121 | 8 USE IN SPECIFIC POPULATIONS
+00122 | 8.1 Pregnancy
+00123 | 8.2 Lactation
+00124 | 8.4 Pediatric Use
+00125 | 8.5 Geriatric Use
+00126 | 8.6 Renal Impairment
+00127 | 10 OVERDOSAGE
+00128 | 11 DESCRIPTION
+00129 | 12 CLINICAL PHARMACOLOGY
+00130 | 12.1 Mechanism of Action
+00131 | 12.3 Pharmacokinetics
+00132 | 12.4 Microbiology
+00133 | 13 NONCLINICAL TOXICOLOGY
+00134 | 13.1 Carcinogenesis, Mutagenesis, Impairment of Fertility
+00135 | 14 CLINICAL STUDIES
+00136 | 14.1 Acute Bacterial Maxillary Sinusitis
+00137 | 14.2 Early Lyme Disease
+00138 | 16 HOW SUPPLIED/STORAGE AND HANDLING
+00139 | 17 PATIENT COUNSELING INFORMATION
+00140 | *
+00141 | FULL PRESCRIBING INFORMATION
+00142 | 1 INDICATIONS AND USAGE
+00143 | 1.1 Pharyngitis/Tonsillitis
+00144 | Cefuroxime axetil tablets are indicated for the treatment of adult patients and pediatric
+00145 | patients (13 years and older) with mild-to-moderate pharyngitis/tonsillitis caused by
+00146 | susceptible strains of Streptococcus pyogenes.
+00147 | Limitations of Use
+00148 | The efficacy of cefuroxime axetil tablets in the prevention of rheumatic fever was not
+00149 | established in clinical trials.
+00150 | The efficacy of cefuroxime axetil tablets in the treatment of penicillin-resistant strains
+00151 | of Streptococcus pyogeneshas not been demonstrated in clinical trials.
+00152 | 1.2 Acute Bacterial Otitis Media
+00153 | Cefuroxime axetil tablets are indicated for the treatment of pediatric patients (who can
+00154 | swallow tablets whole) with acute bacterial otitis media caused by susceptible strains of
+00155 | Streptococcus pneumoniae, Haemophilus influenzae(including β-lactamase–producing
+00156 | Sections or subsections omitted from the full prescribing information are not listed.
+00157 | 
+00158 | strains), Moraxella catarrhalis(including β-lactamase–producing strains), or
+00159 | Streptococcus pyogenes.
+00160 | 1.3 Acute Bacterial Maxillary Sinusitis
+00161 | Cefuroxime axetil tablets are indicated for the treatment of adult and pediatric patients
+00162 | (13 years and older) with mild-to-moderate acute bacterial maxillary sinusitis caused by
+00163 | susceptible strains of Streptococcus pneumoniaeor Haemophilus influenzae(non -β-
+00164 | lactamase–producing strains only).
+00165 | Limitations of Use
+00166 | The effectiveness of cefuroxime axetil tablets for sinus infections caused by β-
+00167 | lactamase–producing Haemophilus influenzaeor Moraxella catarrhalisin patients with
+00168 | acute bacterial maxillary sinusitis was not established due to insufficient numbers of
+00169 | these isolates in the clinical trials [see Clinical Studies (14.1)] .
+00170 | 1.4 Acute Bacterial Exacerbations of Chronic Bronchitis
+00171 | Cefuroxime axetil tablets are indicated for the treatment of adult patients and pediatric
+00172 | patients (aged 13 and older) with mild-to-moderate acute bacterial exacerbations of
+00173 | chronic bronchitis caused by susceptible strains of Streptococcus pneumoniae,
+00174 | Haemophilus influenzae(β-lactamase–negative strains), or Haemophilus parainfluenzae(β-
+00175 | lactamase–negative strains).
+00176 | 1.5 Uncomplicated Skin and Skin-Structure Infections
+00177 | Cefuroxime axetil tablets are indicated for the treatment of adult patients and pediatric
+00178 | patients (aged 13 and older) with uncomplicated skin and skin-structure infections
+00179 | caused by susceptible strains of Staphylococcus aureus(including β -lactamase–
+00180 | producing strains) or Streptococcus pyogenes.
+00181 | 1.6 Uncomplicated Urinary Tract Infections
+00182 | Cefuroxime axetil tablets are indicated for the treatment of adult patients and pediatric
+00183 | patients (aged 13 and older) with uncomplicated urinary tract infections caused by
+00184 | susceptible strains of Escherichia colior Klebsiella pneumoniae.
+00185 | 1.7 Uncomplicated Gonorrhea
+00186 | Cefuroxime axetil tablets are indicated for the treatment of adult patients and pediatric
+00187 | patients (aged 13 and older) with uncomplicated gonorrhea, urethral and endocervical,
+00188 | caused by penicillinase-producing and non-penicillinase–producing susceptible strains of
+00189 | Neisseria gonorrhoeaeand uncomplicated gonorrhea, rectal, in females, caused by non-
+00190 | penicillinase–producing susceptible strains of Neisseria gonorrhoeae.
+00191 | 1.8 Early Lyme Disease (erythema migrans)
+00192 | Cefuroxime axetil tablets are indicated for the treatment of adult patients and pediatric
+00193 | patients (aged 13 and older) with early Lyme disease (erythema migrans) caused by
+00194 | susceptible strains of Borrelia burgdorferi.
+00195 | 
+00196 | 1.10 Usage
+00197 | To reduce the development of drug-resistant bacteria and maintain the effectiveness of
+00198 | cefuroxime axetil tablets and other antibacterial drugs, cefuroxime axetil tablets should
+00199 | be used only to treat or prevent infections that are proven or strongly suspected to be
+00200 | caused by susceptible bacteria. When culture and susceptibility information are available,
+00201 | they should be considered in selecting or modifying antibacterial therapy. In the absence
+00202 | of such data, local epidemiology and susceptibility patterns may contribute to the
+00203 | empiric selection of therapy.
+00204 | 2 DOSAGE AND ADMINISTRATION
+00205 | 2.1 Important Administration Instructions
+00206 | Cefuroxime axetil tablets and cefuroxime axetil for oral suspension are not
+00207 | bioequivalent and are therefore not substitutable on a milligram-per-milligram basis
+00208 | [see Clinical Pharmacology (12.3)] .
+00209 | Administer cefuroxime axetil tablets as described in the appropriate dosage
+00210 | guidelines [see Dosage and Administration (2.2)].
+00211 | Administer cefuroxime axetil tablets with or without food.
+00212 | Pediatric patients (aged 13 years and older) who cannot swallow the cefuroxime
+00213 | axetil tablets whole should receive cefuroxime axetil for oral suspension because the
+00214 | tablet has a strong, persistent bitter taste when crushed [see Dosage and
+00215 | Administration (2.2)].
+00216 | 2.2 Dosage for Cefuroxime Axetil Tablets
+00217 | Administer cefuroxime axetil tablets as described in the dosage guidelines table below
+00218 | with or without food.
+00219 | Table 1. Adult Patients and Pediatric Patients Dosage Guidelines for
+00220 | Cefuroxime Axetil Tablets
+00221 | The safety and eﬀectiveness of cefuroxime axetil tablets administered for less than 10
+00222 | days in patients with acute exacerbations of chronic bronchitis have not been
+00223 | Infection 
+00224 | Dosage 
+00225 | Duration 
+00226 | (Days) 
+00227 | Adults and Adolescents (13 years and older) 
+00228 | Pharyngitis/tonsillitis (mild to moderate) 
+00229 | 250 mg every 12 hours 
+00230 | 10 
+00231 | Acute bacterial maxillary sinusitis (mild to
+00232 | moderate) 
+00233 | 250 mg every 12 hours 
+00234 | 10 
+00235 | Acute bacterial exacerbations ofchronic
+00236 | bronchitis (mild to moderate) 
+00237 | 250 mg or 500 mg every 
+00238 | 12 hours 
+00239 | 10 
+00240 | Uncomplicated skin and skin-structure
+00241 | infections 
+00242 | 250 mg or 500 mg every 
+00243 | 12 hours 
+00244 | 10 
+00245 | Uncomplicated urinary tract infections 
+00246 | 250 mg every 12 hours 
+00247 | 7 to 10 
+00248 | Uncomplicated gonorrhea 
+00249 | 1,000 mg 
+00250 | single dose 
+00251 | Early Lymedisease 
+00252 | 500 mg every 12 hours 
+00253 | 20 
+00254 | Pediatric Patients younger than 13 years (who can swallow tablets whole) 
+00255 | Acute bacterial otitis media 
+00256 | 250 mg every 12 hours 
+00257 | 10 
+00258 | Acute bacterial maxillary sinusitis 
+00259 | 250 mg every 12 hours 
+00260 | 10 
+00261 | a
+00262 | a
+00263 | b
+00264 | 
+00265 | established. 
+00266 | When crushed, the tablet has a strong, persistent bitter taste. Therefore, patients who
+00267 | cannot swallow the tablet whole should receive the oral suspension. 
+00268 |  
+00269 | 2.5 Dosage in Patients with Impaired Renal Function
+00270 | A dosage interval adjustment is required for patients whose creatinine clearance is less
+00271 | than 30 mL/min, as listed in Table 4 below, because cefuroxime is eliminated primarily by
+00272 | the kidney [see Clinical Pharmacology (12.3)].
+00273 | Table 4. Dosing in Adults with Renal Impairment
+00274 | Creatinine Clearance (mL/min) 
+00275 | Recommended Dosage 
+00276 | ≥30 
+00277 | No dosage adjustment 
+00278 | 10 to <30 
+00279 | Standard individual dose given every 24 hours 
+00280 | <10 (without hemodialysis) 
+00281 | Standard individual dose given every 48 hours 
+00282 | Hemodialysis 
+00283 | A single additional standard dose should be
+00284 | given at the end of each dialysis 
+00285 | 3 DOSAGE FORMS AND STRENGTHS
+00286 | Cefuroxime Axetil Tablets USP, 250 mg of cefuroxime (as cefuroxime axetil), are white
+00287 | to off-white, film-coated, capsule shaped tablets with ‘A33’ debossed on one side and
+00288 | plain on the other side. 
+00289 | Cefuroxime Axetil Tablets USP, 500 mg of cefuroxime (as cefuroxime axetil), are white
+00290 | to off-white, film-coated, capsule shaped tablets with ‘A34’ debossed on one side and
+00291 | plain on the other side.
+00292 | 4 CONTRAINDICATIONS
+00293 | Cefuroxime axetil tablets are contraindicated in patients with a known hypersensitivity
+00294 | (e.g., anaphylaxis) to cefuroxime axetil tablets or to other β-lactam antibacterial drugs
+00295 | (e.g., penicillins and cephalosporins).
+00296 | 5 WARNINGS AND PRECAUTIONS
+00297 | 5.1 Anaphylactic Reactions
+00298 | Serious and occasionally fatal hypersensitivity (anaphylactic) reactions have been
+00299 | reported in patients on β-lactam antibacterials, including cefuroxime axetil [see Adverse
+00300 | Reactions (6.2)] . These reactions are more likely to occur in individuals with a history of
+00301 | β-lactam hypersensitivity and/or a history of sensitivity to multiple allergens. There have
+00302 | been reports of individuals with a history of penicillin hypersensitivity who have
+00303 | experienced severe reactions when treated with cephalosporins. Cefuroxime axetil is
+00304 | contraindicated in patients with a known hypersensitivity to cefuroxime axetil or other β-
+00305 | b
+00306 | 
+00307 | lactam antibacterial drugs [see Contraindications (4)] . Before initiating therapy with
+00308 | cefuroxime axetil, inquire about previous hypersensitivity reactions to penicillins,
+00309 | cephalosporins, or other allergens. If an allergic reaction occurs, discontinue cefuroxime
+00310 | axetil and institute appropriate therapy.
+00311 | 5.2 Clostridioides difficile-Associated Diarrhea
+00312 | Clostridioidesdifficile- associated diarrhea (CDAD) has been reported with use of nearly all
+00313 | antibacterial agents, including cefuroxime axetil, and may range in severity from mild
+00314 | diarrhea to fatal colitis. Treatment with antibacterial agents alters the normal flora of the
+00315 | colon leading to overgrowth of C. difficile. 
+00316 | C. difficile produces toxins A and B which contribute to the development of CDAD.
+00317 | Hypertoxin-producing strains of C. difficilecause increased morbidity and mortality, as
+00318 | these infections can be refractory to antimicrobial therapy and may require colectomy.
+00319 | CDAD must be considered in all patients who present with diarrhea following antibiotic
+00320 | use. Careful medical history is necessary since CDAD has been reported to occur over 2
+00321 | months after the administration of antibacterial agents. 
+00322 | If CDAD is suspected or confirmed, ongoing antibiotic use not directed against C.
+00323 | difficilemay need to be discontinued. Appropriate fluid and electrolyte management,
+00324 | protein supplementation, antibiotic treatment of C. difficile, and surgical evaluation
+00325 | should be instituted as clinically indicated.
+00326 | 5.3 Potential for Microbial Overgrowth
+00327 | The possibility of superinfections with fungal or bacterial pathogens should be
+00328 | considered during therapy.
+00329 | 5.4 Development of Drug-Resistant Bacteria
+00330 | Prescribing cefuroxime axetil either in the absence of a proven or strongly suspected
+00331 | bacterial infection or a prophylactic indication is unlikely to provide benefit to the patient
+00332 | and increases the risk of the development of drug-resistant bacteria.
+00333 | 5.6 Interference with Glucose Tests
+00334 | A false-positive result for glucose in the urine may occur with copper reduction tests,
+00335 | and a false-negative result for blood/plasma glucose may occur with ferricyanide tests in
+00336 | subjects receiving cefuroxime axetil [see Drug Interactions (7.3)] .
+00337 | 6 ADVERSE REACTIONS
+00338 | The following serious and otherwise important adverse reaction is described in greater
+00339 | detail in the Warnings and Precautions section of the label:
+00340 | Anaphylactic Reactions [see Warnings and Precautions (5.1)].
+00341 | 6.1 Clinical Trials Experience
+00342 | Because clinical trials are conducted under widely varying conditions, adverse reaction
+00343 | 
+00344 | rates observed in the clinical trials of a drug cannot be directly compared with rates in
+00345 | the clinical trials of another drug and may not reflect the rates observed in practice.
+00346 | Tablets
+00347 | Multiple-Dose Dosing Regimens with 7 to 10 Days’ Duration: In multiple-dose clinical
+00348 | trials, 912 subjects were treated with cefuroxime axetil (125 to 500 mg twice daily). It is
+00349 | noted that 125 mg twice daily is not an approved dosage. Twenty (2.2%) subjects
+00350 | discontinued medication due to adverse reactions. Seventeen (85%) of the 20 subjects
+00351 | who discontinued therapy did so because of gastrointestinal disturbances, including
+00352 | diarrhea, nausea, vomiting, and abdominal pain. The percentage of subjects treated with
+00353 | cefuroxime axetil who discontinued study drug because of adverse reactions was similar
+00354 | at daily doses of 1,000, 500, and 250 mg (2.3%, 2.1%, and 2.2%, respectively).
+00355 | However, the incidence of gastrointestinal adverse reactions increased with the higher
+00356 | recommended doses.
+00357 | The adverse reactions in Table 5 are for subjects (n = 912) treated with cefuroxime
+00358 | axetil in multiple-dose clinical trials.
+00359 | Table 5. Adverse Reactions (≥1%) after Multiple-Dose Regimens with
+00360 | Cefuroxime Axetil Tablets
+00361 | Adverse Reaction 
+00362 | Cefuroxime Axetil 
+00363 | (n = 912) 
+00364 | Blood and lymphatic system disorders 
+00365 |  
+00366 |  Eosinophilia 
+00367 | 1% 
+00368 | Gastrointestinal disorders 
+00369 |  
+00370 |  Diarrhea 
+00371 | 4% 
+00372 |  Nausea/Vomiting 
+00373 | 3% 
+00374 | Investigations 
+00375 |  
+00376 |  Transient elevation in AST 
+00377 | 2% 
+00378 |  Transient elevation in ALT 
+00379 | 2% 
+00380 |  Transient elevation in LDH 
+00381 | 1% 
+00382 | The following adverse reactions occurred in less than 1% but greater than 0.1% of
+00383 | subjects (n = 912) treated with cefuroxime axetil in multiple-dose clinical trials. 
+00384 |  Immune System Disorders: Hives, swollen tongue. 
+00385 |  Metabolism and Nutrition Disorders:Anorexia. 
+00386 |  Nervous System Disorders:Headache. 
+00387 |  Cardiac Disorders: Chest pain. 
+00388 |  Respiratory Disorders: Shortness of breath. 
+00389 | 
+00390 |  Gastrointestinal Disorders: Abdominal pain, abdominal cramps, flatulence, indigestion,
+00391 | mouth ulcers. 
+00392 |  Skin and Subcutaneous Tissue Disorders: Rash, itch. 
+00393 |  Renal and Urinary Disorders: Dysuria. 
+00394 |  Reproductive System and Breast Disorders: Vaginitis, vulvar itch. 
+00395 |  General Disorders and Administration Site Conditions: Chills, sleepiness, thirst. 
+00396 |  Investigations: Positive Coombs’ test. 
+00397 | Early Lyme Disease with 20-Day Regimen: Two multicenter trials assessed cefuroxime
+00398 | axetil 500 mg twice daily for 20 days. The most common drug-related adverse
+00399 | experiences were diarrhea (10.6%), Jarisch-Herxheimer reaction (5.6%), and vaginitis
+00400 | (5.4%). Other adverse experiences occurred with frequencies comparable to those
+00401 | reported with 7 to 10 days’ dosing. 
+00402 | Single-Dose Regimen for Uncomplicated Gonorrhea: In clinical trials using a single 1,000
+00403 | mg dose of cefuroxime axetil, 1,061 subjects were treated for uncomplicated
+00404 | gonorrhea. 
+00405 | The adverse reactions in Table 6 were for subjects treated with a single dose of 1,000
+00406 | mg cefuroxime axetil in U.S. clinical trials.
+00407 | Table 6. Adverse Reactions (≥1%) after Single-Dose Regimen with 1,000 mg
+00408 |  Cefuroxime Axetil Tablets for Uncomplicated Gonorrhea
+00409 | Adverse Reaction 
+00410 | Cefuroxime Axetil 
+00411 | (n = 1,061) 
+00412 | Gastrointestinal disorders
+00413 |  
+00414 |  Nausea/Vomiting
+00415 | 7% 
+00416 |  Diarrhea
+00417 | 4% 
+00418 | The following adverse reactions occurred in less than 1% but greater than 0.1% of
+00419 | subjects (n = 1,061) treated with a single dose of cefuroxime axetil 1,000 mg for
+00420 | uncomplicated gonorrhea in U.S. clinical trials. 
+00421 |  Infections and Infestations: Vaginal candidiasis. 
+00422 |  Nervous System Disorders: Headache, dizziness, somnolence. 
+00423 |  Cardiac Disorders: Tightness/pain in chest, tachycardia. 
+00424 |  Gastrointestinal Disorders: Abdominal pain, dyspepsia. 
+00425 | 
+00426 |  Skin and Subcutaneous Tissue Disorders: Erythema, rash, pruritus. 
+00427 |  Musculoskeletal and Connective Tissue Disorders: Muscle cramps, muscle stiffness,
+00428 | muscle spasm of neck, lockjaw-type reaction. 
+00429 |  Renal and Urinary Disorders: Bleeding/pain in urethra, kidney pain. 
+00430 |  Reproductive System and Breast Disorders: Vaginal itch, vaginal discharge.
+00431 | 6.2 Postmarketing Experience
+00432 | The following adverse reactions have been identified during post-approval use of
+00433 | cefuroxime axetil. Because these reactions are reported voluntarily from a population of
+00434 | uncertain size, it is not always possible to reliably estimate their frequency or establish a
+00435 | causal relationship to drug exposure.
+00436 | Blood and Lymphatic System Disorders
+00437 | Hemolytic anemia, leukopenia, pancytopenia, thrombocytopenia.
+00438 | Gastrointestinal Disorders
+00439 | Pseudomembranous colitis [see Warnings and Precautions (5.2)] .
+00440 | Hepatobiliary Disorders
+00441 | Hepatic impairment including hepatitis and cholestasis, jaundice.
+00442 | Immune System Disorders
+00443 | Anaphylaxis, serum sickness-like reaction, acute myocardial ischemia with or without
+00444 | myocardial infarction may occur as part of an allergic reaction. 
+00445 | Investigations
+00446 | Increased prothrombin time.
+00447 | Nervous System Disorders
+00448 | Seizure, encephalopathy.
+00449 | Renal and Urinary Disorders
+00450 | 
+00451 | Renal dysfunction.
+00452 | Skin and Subcutaneous Tissue Disorders
+00453 | Angioedema, erythema multiforme, Stevens-Johnson syndrome, toxic epidermal
+00454 | necrolysis, urticaria.
+00455 | 7 DRUG INTERACTIONS
+00456 | 7.1 Drugs that Reduce Gastric Acidity
+00457 | Drugs that reduce gastric acidity may result in a lower bioavailability of cefuroxime axetil
+00458 | compared with administration in the fasting state. Administration of drugs that reduce
+00459 | gastric acidity may negate the food effect of increased absorption of cefuroxime axetil
+00460 | when administered in the postprandial state. Administer cefuroxime axetil at least 1 hour
+00461 | before or 2 hours after administration of short-acting antacids. Histamine-2 (H )
+00462 | antagonists and proton pump inhibitors should be avoided.
+00463 | 7.2 Probenecid
+00464 | Concomitant administration of probenecid with cefuroxime axetil tablets increases
+00465 | serum concentrations of cefuroxime [see Clinical Pharmacology (12.3)].
+00466 | Coadministration of probenecid with cefuroxime axetil is not recommended.
+00467 | 7.3 Drug/Laboratory Test Interactions
+00468 | A false-positive reaction for glucose in the urine may occur with copper reduction tests
+00469 | (e.g., Benedict's or Fehling's solution), but not with enzyme-based tests for glycosuria.
+00470 | As a false-negative result may occur in the ferricyanide test, it is recommended that
+00471 | either the glucose oxidase or hexokinase method be used to determine blood/plasma
+00472 | glucose levels in patients receiving cefuroxime axetil. The presence of cefuroxime does
+00473 | not interfere with the assay of serum and urine creatinine by the alkaline picrate method.
+00474 | 8 USE IN SPECIFIC POPULATIONS
+00475 | 8.1 Pregnancy
+00476 | Risk Summary
+00477 | Available data from published epidemiologic studies, case series, and case reports over
+00478 | several decades with cephalosporin use, including cefuroxime axetil, in pregnant women
+00479 | have not established drug-associated risks of major birth defects, miscarriage, or
+00480 | adverse maternal or fetal outcomes (see Data). 
+00481 | In studies in pregnant mice and rats administered oral cefuroxime axetil during
+00482 | organogenesis at 14 and 9 times the maximum recommended human dose (MRHD)
+00483 | based on body surface area, respectively, there were no adverse developmental
+00484 | outcomes (see Data). 
+00485 | 2
+00486 | 
+00487 | The estimated background risk of major birth defects and miscarriage for the indicated
+00488 | populations are unknown. All pregnancies have a background risk of birth defects, loss,
+00489 | or other adverse outcomes. In the U.S. general population, the estimated background
+00490 | risk of major birth defects and miscarriage in clinically recognized pregnancies is 2% to
+00491 | 4% and 15% to 20%, respectively. 
+00492 | Clinical Considerations 
+00493 | Disease-Associated Maternal and/or Embryo/Fetal Risk: Maternal gonorrhea may be
+00494 | associated with preterm birth, low neonatal birth weight, chorioamnionitis, intrauterine
+00495 | growth restriction, small for gestational age, and premature rupture of membranes.
+00496 | Perinatal transmission of gonorrhea to the offspring can result in infant blindness, joint
+00497 | infections, and bloodstream infections. 
+00498 | Data 
+00499 | Human Data: While available studies cannot definitively establish the absence of risk,
+00500 | published data from epidemiologic studies, case series, and case reports over several
+00501 | decades have not identified an association with cephalosporin use (including cefuroxime
+00502 | axetil) during pregnancy and major birth defects, miscarriage, or other adverse maternal
+00503 | or fetal outcomes. Available studies have methodologic limitations, including small sample
+00504 | size, retrospective data collection, and inconsistent comparator groups. 
+00505 | Animal Data: Studies performed with oral cefuroxime axetil administered to pregnant
+00506 | mice during organogenesis (Gestation Days 7 through 16) at doses up to 3,200
+00507 | mg/kg/day (14 times the MRHD based on body surface area); and in rats dosed during
+00508 | organogenesis and lactation (Gestation Days 7 through 16 and Gestation Days 17
+00509 | through Lactation Day 21, respectively) at doses up to 1,000 mg/kg/day (9 times the
+00510 | MRHD based on body surface area) have revealed no adverse developmental outcomes.
+00511 | 8.2 Lactation
+00512 | Risk Summary
+00513 | Based on several published case reports describing multiple lactating women who
+00514 | received cefuroxime via intravenous, intramuscular, and oral routes, cefuroxime is
+00515 | present in human milk. The highest maternal milk concentration described occurred in
+00516 | lactating women 8 hours after an intramuscular administration of cefuroxime 750 mg.
+00517 | Allowing for an infant milk consumption of 150 mL/kg/day, the estimated breastfed
+00518 | infant dose would be less than 1% of the adult dose .No data are available on the effects
+00519 | of the drug on the breastfed infant or the effects of the drug on milk production. The
+00520 | developmental and health benefits of breastfeeding should be considered along with the
+00521 | mother’s clinical need for cefuroxime and any potential adverse effects on the breastfed
+00522 | infant from cefuroxime or from the underlying maternal condition.
+00523 | 8.4 Pediatric Use
+00524 | The safety and effectiveness of cefuroxime axetil have been established for pediatric
+00525 | patients aged 3 months to 12 years for acute bacterial maxillary sinusitis based upon its
+00526 | approval in adults. Use of cefuroxime axetil in pediatric patients is supported by
+00527 | 
+00528 | pharmacokinetic and safety data in adults and pediatric patients, and by clinical and
+00529 | microbiological data from adequate and well-controlled trials of the treatment of acute
+00530 | bacterial maxillary sinusitis in adults and of acute otitis media with effusion in pediatric
+00531 | patients. It is also supported by postmarketing adverse events surveillance [see
+00532 | Indications and Usage (1), Dosage and Administration (2), Adverse Reactions (6), Clinical
+00533 | Pharmacology (12.3)].
+00534 | 8.5 Geriatric Use
+00535 | Of the total number of subjects who received cefuroxime axetil in 20 clinical trials, 375
+00536 | were aged 65 and older while 151 were aged 75 and older. No overall differences in
+00537 | safety or effectiveness were observed between these subjects and younger adult
+00538 | subjects. Reported clinical experience has not identified differences in responses
+00539 | between the elderly and younger adult patients, but greater sensitivity of some older
+00540 | individuals cannot be ruled out.
+00541 | Cefuroxime is substantially excreted by the kidney, and the risk of adverse reactions
+00542 | may be greater in patients with impaired renal function. Because elderly patients are
+00543 | more likely to have decreased renal function, care should be taken in dose selection, and
+00544 | it may be useful to monitor renal function.
+00545 | 8.6 Renal Impairment
+00546 | Reducing the dosage of cefuroxime axetil is recommended for adult patients with severe
+00547 | renal impairment (creatinine clearance <30 mL/min) [see Dosage and Administration
+00548 | (2.5), Clinical Pharmacology (12.3)] .
+00549 | 10 OVERDOSAGE
+00550 | Overdosage of cephalosporins can cause cerebral irritation leading to convulsions or
+00551 | encephalopathy. Serum levels of cefuroxime can be reduced by hemodialysis and
+00552 | peritoneal dialysis.
+00553 | 11 DESCRIPTION
+00554 | Cefuroxime axetil tablets, USP contain cefuroxime as cefuroxime axetil. Cefuroxime
+00555 | axetil is a semisynthetic, cephalosporin antibacterial drug for oral administration.
+00556 | The chemical name of cefuroxime axetil (1-(acetyloxy) ethyl ester of cefuroxime) is (
+00557 | RS)-1-hydroxyethyl (6 R,7 R)-7-[2-(2-furyl)glyoxyl-amido]-3-(hydroxymethyl)-8-oxo-5-
+00558 | thia-1-azabicyclo[4.2.0]-oct-2-ene-2-carboxylate, 7 -( Z)-( O-methyl-oxime), 1-acetate
+00559 | 3-carbamate. Its molecular formula is C 
+00560 | H 
+00561 | N O 
+00562 | S, and it has a molecular weight of
+00563 | 510.48.
+00564 | Cefuroxime axetil is in the amorphous form and has the following structural formula: 
+00565 | 2
+00566 | 20
+00567 | 22
+00568 | 4
+00569 | 10
+00570 | 
+00571 | Tablets are film-coated and contain the equivalent of 250 mg or 500 mg of cefuroxime
+00572 | as cefuroxime axetil USP. Tablets contain the inactive ingredients colloidal silicon dioxide,
+00573 | croscarmellose sodium, hydrogenated vegetable oil, hypromellose, microcrystalline
+00574 | cellulose, polyethylene glycol, sodium lauryl sulfate, and titanium dioxide.
+00575 | 12 CLINICAL PHARMACOLOGY
+00576 | 12.1 Mechanism of Action
+00577 | Cefuroxime axetil is an antibacterial drug [see Microbiology (12.4)].
+00578 | 12.3 Pharmacokinetics
+00579 | Absorption
+00580 | After oral administration, cefuroxime axetil is absorbed from the gastrointestinal tract
+00581 | and rapidly hydrolyzed by nonspecific esterases in the intestinal mucosa and blood to
+00582 | cefuroxime. Serum pharmacokinetic parameters for cefuroxime following administration
+00583 | of cefuroxime axetil tablets to adults are shown in Table 8.
+00584 | Table 8. Pharmacokinetics of Cefuroxime Administered in the Postprandial
+00585 | State as Cefuroxime Axetil Tablets to Adults 
+00586 |  Mean values of 12 healthy adult volunteers. 
+00587 |  Drug administered immediately after a meal. 
+00588 | Dose
+00589 | (Cefuroxime
+00590 | Equivalent) 
+00591 | Peak Plasma
+00592 | Concentration
+00593 | (mcg/mL) 
+00594 | Time of Peak
+00595 | Plasma
+00596 | Concentration
+00597 | (h) 
+00598 | Mean
+00599 | Elimination
+00600 | Half-life (h) 
+00601 | AUC
+00602 | (mcg·h/mL) 
+00603 | 125 mg 
+00604 | 2.1 
+00605 | 2.2 
+00606 | 1.2 
+00607 | 6.7 
+00608 | 250 mg 
+00609 | 4.1 
+00610 | 2.5 
+00611 | 1.2 
+00612 | 12.9 
+00613 | 500 mg 
+00614 | 7 
+00615 | 3 
+00616 | 1.2 
+00617 | 27.4 
+00618 | 1,000 mg 
+00619 | 13.6 
+00620 | 2.5 
+00621 | 1.3 
+00622 | 50 
+00623 | Effect of Food:Absorption of the tablet is greater when taken after food (absolute
+00624 | bioavailability increases from 37% to 52%). Despite this difference in absorption, the
+00625 | clinical and bacteriologic responses of subjects were independent of food intake at the
+00626 | time of tablet administration in 2 trials where this was assessed. 
+00627 | a
+00628 | a
+00629 | b
+00630 | b
+00631 | 
+00632 | Lack of Bioequivalence: Oral suspension was not bioequivalent to tablets when tested in
+00633 | healthy adults. The tablet and oral suspension formulations are NOT substitutable on a
+00634 | milligram-per-milligram basis. The area under the curve for the suspension averaged
+00635 | 91% of that for the tablet, and the peak plasma concentration for the suspension
+00636 | averaged 71% of the peak plasma concentration of the tablets. Therefore, the safety
+00637 | and effectiveness of both the tablet and oral suspension formulations were established
+00638 | in separate clinical trials. 
+00639 | Distribution 
+00640 | Cefuroxime is distributed throughout the extracellular fluids. Approximately 50% of
+00641 | serum cefuroxime is bound to protein. 
+00642 | Metabolism 
+00643 | The axetil moiety is metabolized to acetaldehyde and acetic acid. 
+00644 | Excretion 
+00645 | Cefuroxime is excreted unchanged in the urine; in adults, approximately 50% of the
+00646 | administered dose is recovered in the urine within 12 hours. The pharmacokinetics of
+00647 | cefuroxime in pediatric subjects have not been studied. Until further data are available,
+00648 | the renal elimination of cefuroxime axetil established in adults should not be extrapolated
+00649 | to pediatric subjects. 
+00650 | Specific Populations 
+00651 | Patients with Renal Impairment: In a trial of 28 adults with normal renal function or
+00652 | severe renal impairment (creatinine clearance <30 mL/min), the elimination half-life was
+00653 | prolonged in relation to severity of renal impairment. Prolongation of the dosage interval
+00654 | is recommended in adult patients with creatinine clearance <30 mL/min [see Dosage and
+00655 | Administration (2.5)] . 
+00656 | Geriatric Patients: In a trial of 20 elderly subjects (mean age = 83.9 years) having a mean
+00657 | creatinine clearance of 34.9 mL/min, the mean serum elimination half-life was prolonged
+00658 | to 3.5 hours; however, despite the lower elimination of cefuroxime in geriatric patients,
+00659 | dosage adjustment based on age is not necessary [see Use in Specific Populations (8.5)]
+00660 | . 
+00661 | Drug Interaction Studies 
+00662 | Concomitant administration of probenecid with cefuroxime axetil tablets increases the
+00663 | cefuroxime area under the serum concentration versus time curve and maximum
+00664 | serum concentration by 50% and 21%, respectively [see Drug Interactions (7.2)] .
+00665 | 12.4 Microbiology
+00666 | Mechanism of Action
+00667 | 
+00668 | Cefuroxime axetil is a bactericidal agent that acts by inhibition of bacterial cell wall
+00669 | synthesis. Cefuroxime axetil has activity in the presence of some β-lactamases, both
+00670 | penicillinases and cephalosporinases, of gram-negative and gram-positive bacteria.
+00671 | Resistance
+00672 | Resistance to cefuroxime axetil is primarily through hydrolysis by β-lactamase, alteration
+00673 | of penicillin-binding proteins (PBPs), decreased permeability, and the presence of
+00674 | bacterial efflux pumps.
+00675 | Susceptibility to cefuroxime axetil will vary with geography and time; local susceptibility
+00676 | data should be consulted, if available. Beta-lactamase -negative, ampicillin-resistant
+00677 | (BLNAR) isolates of H. influenzaeshould be considered resistant to cefuroxime axetil. 
+00678 | Antimicrobial Activity 
+00679 | Cefuroxime axetil has been shown to be active against most isolates of the following
+00680 | bacteria, both in vitroand in clinical infections [see Indications and Usage (1)] :
+00681 | Aerobic Bacteria:
+00682 | Gram-positive bacteria
+00683 | Staphylococcus aureus(methicillin-susceptible isolates only)
+00684 | Streptococcus pneumoniae
+00685 | Streptococcus pyogenes
+00686 | Gram-negative bacteria
+00687 | Escherichia coli
+00688 | Klebsiella pneumoniae
+00689 | Haemophilus influenzae
+00690 | Haemophilus parainfluenzae
+00691 | Moraxella catarrhalis
+00692 | Neisseria gonorrhoeae
+00693 | Most extended spectrum β-lactamase (ESBL) -producing and carbapenemase-
+00694 | producing isolates are resistant to cefuroxime axetil.
+00695 | Spirochetes
+00696 | Borrelia burgdorferi
+00697 | The following in vitrodata are available, but their clinical significance is unknown. At least
+00698 | 90 percent of the following bacteria exhibit an in vitrominimum inhibitory concentration
+00699 | (MIC) less than or equal to the susceptible breakpoint for cefuroxime against isolates of
+00700 | similar genus or organism group. However, the efficacy of cefuroxime axetil in treating
+00701 | clinical infections caused by these bacteria has not been established in adequate and
+00702 | a
+00703 | a
+00704 | a 
+00705 | 
+00706 | well-controlled clinical trials.
+00707 | Aerobic Bacteria:
+00708 | Gram-positive bacteria
+00709 | Staphylococcus epidermidis(methicillin-susceptible isolates only)
+00710 | Staphylococcus saprophyticus(methicillin-susceptible isolates only)
+00711 | Streptococcus agalactiae
+00712 | Gram-negative bacteria
+00713 | Morganella morganii
+00714 | Proteus inconstans
+00715 | Proteus mirabilis
+00716 | Providencia rettgeri
+00717 | Anaerobic Bacteria:
+00718 | Gram-positive bacteria
+00719 | Peptococcus niger
+00720 | Susceptibility Testing
+00721 | For specific information regarding susceptibility test interpretive criteria and associated
+00722 | test methods and quality control standards recognized by FDA for this drug, please see:
+00723 | https://www.fda.gov/STIC.
+00724 | 13 NONCLINICAL TOXICOLOGY
+00725 | 13.1 Carcinogenesis, Mutagenesis, Impairment of Fertility
+00726 | Although lifetime studies in animals have not been performed to evaluate carcinogenic
+00727 | potential, no mutagenic activity was found for cefuroxime axetil in a battery of bacterial
+00728 | mutation tests. Positive results were obtained in an in vitrochromosome aberration
+00729 | assay; however, negative results were found in an in vivomicronucleus test at doses up
+00730 | to 1.5 g/kg. Fertility studies in rats (males dosed for 70 days prior to and through
+00731 | mating; females dosed 21 days prior to mating through lactation) at doses up to
+00732 | 1,000 mg/kg/day (9 times the MRHD based on body surface area) have revealed no
+00733 | adverse effects on fertility.
+00734 | 14 CLINICAL STUDIES
+00735 | 14.1 Acute Bacterial Maxillary Sinusitis
+00736 | One adequate and well-controlled trial was performed in subjects with acute bacterial
+00737 | maxillary sinusitis. In this trial, each subject had a maxillary sinus aspirate collected by
+00738 | 
+00739 | sinus puncture before treatment was initiated for presumptive acute bacterial sinusitis.
+00740 | All subjects had radiographic and clinical evidence of acute maxillary sinusitis. In the trial,
+00741 | the clinical effectiveness of cefuroxime axetil in treating acute maxillary sinusitis was
+00742 | comparable to an oral antimicrobial agent containing a specific β-lactamase inhibitor.
+00743 | However, microbiology data demonstrated cefuroxime axetil to be effective in treating
+00744 | acute bacterial maxillary sinusitis due only to Streptococcus pneumoniaeor non-β-
+00745 | lactamase–producing Haemophilus influenzae. Insufficient numbers of β-lactamase–
+00746 | producing Haemophilus influenzaeand Moraxella catarrhalisisolates were obtained in this
+00747 | trial to adequately evaluate the effectiveness of cefuroxime axetil in treating acute
+00748 | bacterial maxillary sinusitis due to these 2 organisms.
+00749 | This trial randomized 317 adult subjects, 132 subjects in the U.S. and 185 subjects in
+00750 | South America. Table 10 shows the results of the intent-to-treat analysis.
+00751 | Table 10. Clinical Effectiveness of Cefuroxime Axetil Tablets in the Treatment
+00752 | of Acute Bacterial Maxillary Sinusitis
+00753 | 95% confidence interval around the success difference [-0.08, +0.32]. 
+00754 | 95% confidence interval around the success difference [-0.1, +0.16]. 
+00755 | Control was an antibacterial drug containing a β-lactamase inhibitor. 
+00756 | U.S. Subjects 
+00757 | South American Subjects 
+00758 | Cefuroxime
+00759 | Axetil 
+00760 | 250 mg Twice 
+00761 | Daily 
+00762 | (n = 49) 
+00763 | Control 
+00764 | (n = 43) 
+00765 | Cefuroxime
+00766 | Axetil 
+00767 | 250 mg Twice 
+00768 | Daily 
+00769 | (n = 49) 
+00770 | Control 
+00771 | (n = 43) 
+00772 | Clinical success 
+00773 | (cure + improvement) 
+00774 | 65% 
+00775 | 53% 
+00776 | 77% 
+00777 | 74% 
+00778 | Clinical cure 
+00779 | 53% 
+00780 | 44% 
+00781 | 72% 
+00782 | 64% 
+00783 | Clinical improvement 
+00784 | 12% 
+00785 | 9% 
+00786 | 5% 
+00787 | 10% 
+00788 | In this trial and in a supporting maxillary puncture trial, 15 evaluable subjects had non-β-
+00789 | lactamase–producing Haemophilus influenzaeas the identified pathogen. Of these, 67%
+00790 | (10/15) had this pathogen eradicated. Eighteen (18) evaluable subjects had
+00791 | Streptococcus pneumoniaeas the identified pathogen. Of these, 83% (15/18) had this
+00792 | pathogen eradicated.
+00793 | 14.2 Early Lyme Disease
+00794 | Two adequate and well-controlled trials were performed in subjects with early Lyme
+00795 | disease. All subjects presented with physician-documented erythema migrans, with or
+00796 | without systemic manifestations of infection. Subjects were assessed at 1 month
+00797 | posttreatment for success in treating early Lyme disease (Part I) and at 1 year
+00798 | posttreatment for success in preventing the progression to the sequelae of late Lyme
+00799 | disease (Part II).
+00800 | A total of 355 adult subjects (181 treated with cefuroxime axetil and 174 treated with
+00801 | doxycycline) were randomized in the 2 trials, with diagnosis of early Lyme disease
+00802 | confirmed in 79% (281/355). The clinical diagnosis of early Lyme disease in these
+00803 | a
+00804 | b
+00805 | c
+00806 | a
+00807 | b
+00808 | c
+00809 | c
+00810 | 
+00811 | subjects was validated by 1) blinded expert reading of photographs, when available, of
+00812 | the pretreatment erythema migrans skin lesion, and 2) serologic confirmation (using
+00813 | enzyme-linked immunosorbent assay [ELISA] and immunoblot assay [“Western” blot])
+00814 | of the presence of antibodies specific to Borrelia burgdorferi, the etiologic agent of Lyme
+00815 | disease. The efficacy data in Table 11 are specific to this “validated” patient subset, while
+00816 | the safety data below reflect the entire patient population for the 2 trials. Clinical data for
+00817 | evaluable subjects in the “validated” patient subset are shown in Table 11.
+00818 | Table 11. Clinical Effectiveness of Cefuroxime Axetil Tablets Compared with
+00819 | Doxycycline in the Treatment of Early Lyme Disease
+00820 | 95% confidence interval around the satisfactory difference for Part I (-0.08, +0.05). 
+00821 | 95% confidence interval around the satisfactory difference for Part II (-0.13, +0.07). 
+00822 | n’s include subjects assessed as unsatisfactory clinical outcomes (failure + recurrence)
+00823 | in Part I (cefuroxime axetil - 11 [5 failure, 6 recurrence]; doxycycline - 8 [6 failure, 2
+00824 | recurrence]). 
+00825 | Satisfactory clinical outcome includes cure + improvement (Part I) and success +
+00826 | improvement (Part II). 
+00827 | Part I 
+00828 | (1 Month after 20 Days of
+00829 | Treatment) 
+00830 | Part II 
+00831 | (1 Year after 20 Days of
+00832 | Treatment) 
+00833 | Cefuroxime
+00834 | Axetil 
+00835 | 500 mg Twice 
+00836 | Daily 
+00837 | (n = 125) 
+00838 | Doxycycline
+00839 | 100 mg 3
+00840 | Times Daily
+00841 | (n = 108) 
+00842 | Cefuroxime
+00843 | Axetil 
+00844 | 500 mg Twice 
+00845 | Daily 
+00846 | (n = 105 ) 
+00847 | Doxycycline
+00848 | 100 mg 3
+00849 | Times Daily
+00850 | (n = 83 ) 
+00851 | Satisfactory clinical
+00852 | outcome 
+00853 | 91% 
+00854 | 93% 
+00855 | 84% 
+00856 | 87% 
+00857 | Clinical cure/success 
+00858 | 72% 
+00859 | 73% 
+00860 | 73% 
+00861 | 73% 
+00862 | Clinical improvement 
+00863 | 19% 
+00864 | 19% 
+00865 | 10% 
+00866 | 13% 
+00867 | Cefuroxime axetil and doxycycline were effective in prevention of the development of
+00868 | sequelae of late Lyme disease.
+00869 | While the incidence of drug-related gastrointestinal adverse reactions was similar in the
+00870 | 2 treatment groups (cefuroxime axetil - 13%; doxycycline - 11%), the incidence of drug-
+00871 | related diarrhea was higher in the cefuroxime axetil arm versus the doxycycline arm
+00872 | (11% versus 3%, respectively).
+00873 | 16 HOW SUPPLIED/STORAGE AND HANDLING
+00874 | Cefuroxime Axetil Tablets USP, 250 mgof cefuroxime (as cefuroxime axetil), are 
+00875 | white to off-white, film-coated, capsule shaped tablets with ‘A33’ debossed on one side
+00876 | and plain on the other side. 
+00877 |  20 Tablets/Bottle NDC 57237-058-20 
+00878 |  60 Tablets/Bottle NDC 57237-058-60 
+00879 | Cefuroxime Axetil Tablets USP, 500 mg of cefuroxime (as cefuroxime axetil), are 
+00880 | a
+00881 | b
+00882 | c
+00883 | d
+00884 | a
+00885 | b
+00886 | c
+00887 | c
+00888 | d
+00889 | 
+00890 | white to off-white, film-coated, capsule shaped tablets with ‘A34’ debossed on one side
+00891 | and plain on the other side. 
+00892 |  20 Tablets/Bottle NDC 57237-059-20 
+00893 |  60 Tablets/Bottle NDC 57237-059-60 
+00894 | Store at 20° to 25°C (68° to 77°F); excursions permitted to 15° to 30°C (59°
+00895 | to 86°F) [see USP Controlled Room Temperature]. Replace cap securely after
+00896 | each opening.
+00897 | 17 PATIENT COUNSELING INFORMATION
+00898 | Allergic Reactions 
+00899 | Inform patients that cefuroxime axetil is a cephalosporin that can cause allergic
+00900 | reactions in some individuals [see Warnings and Precautions (5.1)] . 
+00901 | Clostridioidesdifficile -Associated Diarrhea 
+00902 | Inform patients that diarrhea is a common problem caused by antibacterials, and it
+00903 | usually ends when the antibacterial is discontinued. Sometimes after starting treatment
+00904 | with antibacterials, patients can develop watery and bloody stools (with or without
+00905 | stomach cramps and fever) even as late as 2 or more months after having taken their
+00906 | last dose of the antibacterial. If this occurs, advise patients to contact their physician as
+00907 | soon as possible. 
+00908 | Crushing Tablets 
+00909 | Instruct patients to swallow the tablet whole, without crushing the tablet. Patients who
+00910 | cannot swallow the tablet whole should receive the oral suspension. 
+00911 |  
+00912 | Drug Resistance 
+00913 | Inform patients that antibacterial drugs, including cefuroxime axetil, should only be used
+00914 | to treat bacterial infections. They do not treat viral infections (e.g., the common cold).
+00915 | When cefuroxime axetil is prescribed to treat a bacterial infection, inform patients that
+00916 | although it is common to feel better early in the course of therapy, the medication
+00917 | should be taken exactly as directed. Skipping doses or not completing the full course of
+00918 | therapy may: (1) decrease the effectiveness of the immediate treatment, and (2)
+00919 | increase the likelihood that bacteria will develop resistance and will not be treatable by
+00920 | cefuroxime axetil or other antibacterial drugs in the future. 
+00921 | Distributed by: 
+00922 | Rising Health, LLC 
+00923 | Saddle Brook, NJ 07663 
+00924 | Made in India 
+00925 | Code: TS/DRUGS/78/1996 
+00926 | 
+00927 | Revised: 04/2021
+00928 | PACKAGE LABEL-PRINCIPAL DISPLAY PANEL - 250 mg (20 Tablets Bottle)
+00929 | Rising 
+00930 |  NDC 57237-058-20 
+00931 | Cefuroxime Axetil 
+00932 | Tablets, USP 
+00933 | 250 mg* 
+00934 | 20 Tablets Rx only
+00935 | PACKAGE LABEL-PRINCIPAL DISPLAY PANEL - 500 mg (20 Tablets Bottle)
+00936 | Rising 
+00937 |  NDC 57237-059-20 
+00938 | Cefuroxime Axetil 
+00939 | Tablets, USP 
+00940 | 500 mg* 
+00941 | 20 Tablets Rx only 
+00942 | ®
+00943 | ®
+00944 | 
+00945 | CEFUROXIME AXETIL 
+00946 | cefuroxime axetil tablet, film coated
+00947 | Product Information
+00948 | Product Type
+00949 | HUMAN PRESCRIPTION
+00950 | DRUG
+00951 | Item Code
+00952 | (Source)
+00953 | NDC:67296-2079(NDC:57237-
+00954 | 059)
+00955 | Route of Administration
+00956 | ORAL
+00957 | Active Ingredient/Active Moiety
+00958 | Ingredient Name
+00959 | Basis of Strength
+00960 | Strength
+00961 | CEFUROXIME AXETIL (UNII: Z49QDT0J8Z) (CEFUROXIME - UNII:O1R9FJ93ED)
+00962 | CEFUROXIME
+00963 | 500 mg
+00964 | Inactive Ingredients
+00965 | Ingredient Name
+00966 | Strength
+00967 | SILICON DIOXIDE (UNII: ETJ7Z6XBU4)
+00968 |  
+00969 | CROSCARMELLOSE SODIUM (UNII: M28OL1HH48)
+00970 |  
+00971 | HYDROGENATED COTTONSEED OIL (UNII: Z82Y2C65EA)
+00972 |  
+00973 | HYPROMELLOSE, UNSPECIFIED (UNII: 3NXW29V3WO)
+00974 |  
+00975 | MICROCRYSTALLINE CELLULOSE (UNII: OP1R32D61U)
+00976 |  
+00977 | POLYETHYLENE GLYCOL 400 (UNII: B697894SGQ)
+00978 |  
+00979 | SODIUM LAURYL SULFATE (UNII: 368GB5141J)
+00980 |  
+00981 | TITANIUM DIOXIDE (UNII: 15FIX9V2JP)
+00982 |  
+00983 | Product Characteristics
+00984 | Color
+00985 | white (White to Off-white)
+00986 | Score
+00987 | no score
+00988 | Shape
+00989 | OVAL (CAPSULE-SHAPED)
+00990 | Size
+00991 | 20mm
+00992 | Flavor
+00993 | Imprint Code
+00994 | A34
+00995 | Contains
+00996 |  
+00997 | 
+00998 | Redpharm Drug
+00999 | Packaging
+01000 | #
+01001 | Item Code
+01002 | Package Description
+01003 | Marketing Start
+01004 | Date
+01005 | Marketing End
+01006 | Date
+01007 | 1 NDC:67296-
+01008 | 2079-2
+01009 | 20 in 1 BOTTLE; Type 0: Not a Combination
+01010 | Product
+01011 | 03/29/2006
+01012 | Marketing Information
+01013 | Marketing
+01014 | Category
+01015 | Application Number or Monograph
+01016 | Citation
+01017 | Marketing Start
+01018 | Date
+01019 | Marketing End
+01020 | Date
+01021 | ANDA
+01022 | ANDA065308
+01023 | 03/29/2006
+01024 | Labeler - Redpharm Drug (828374897)
+01025 | Establishment
+01026 | Name
+01027 | Address
+01028 | ID/FEI
+01029 | Business Operations
+01030 | Redpharm Drug
+01031 | 828374897
+01032 | repack(67296-2079)
+01033 |  
+01034 | Revised: 9/2026

@@ -1,0 +1,3222 @@
+00001 | LEVOFLOXACIN- levofloxacin solution 
+00002 | Lannett Company, LLC
+00003 | ----------
+00004 | HIGHLIGHTS OF PRESCRIBING INFORMATION
+00005 | These highlights do not include all the information needed to use LEVOFLOXACIN ORAL
+00006 | SOLUTION safely and effectively. See full prescribing information for LEVOFLOXACIN ORAL
+00007 | SOLUTION. 
+00008 | LEVOFLOXACIN oral solution, for oral use 
+00009 | Initial U.S. Approval: 1996
+00010 | WARNING: SERIOUS ADVERSE REACTIONS INCLUDING TENDINITIS, TENDON RUPTURE,
+00011 | PERIPHERAL NEUROPATHY, CENTRAL NERVOUS SYSTEM EFFECTS AND EXACERBATION
+00012 | OF MYASTHENIA GRAVIS
+00013 | See full prescribing information for complete boxed warning.
+00014 |  
+00015 | Fluoroquinolones, including levofloxacin, have been associated with disabling and
+00016 | potentially irreversible serious adverse reactions that have occurred together (5.1),
+00017 | including:
+00018 | Tendinitis and tendon rupture (5.2)
+00019 | Peripheral neuropathy (5.3)
+00020 | Central nervous system effects (5.4)
+00021 | Discontinue levofloxacin immediately and avoid the use of fluoroquinolones,
+00022 | including levofloxacin, in patients who experience any of these serious adverse
+00023 | reactions (5.1)
+00024 | Fluoroquinolones, including levofloxacin, may exacerbate muscle weakness in
+00025 | patients with myasthenia gravis. Avoid levofloxacin in patients with a known history
+00026 | of myasthenia gravis [see Warnings and Precautions (5.5)].
+00027 | Because fluoroquinolones, including levofloxacin, have been associated with serious
+00028 | adverse reactions (5.1-5.15), reserve levofloxacin for use in patients who have no
+00029 | alternative treatment options for the following indications:
+00030 | Uncomplicated urinary tract infection (1.12)
+00031 | Acute bacterial exacerbation of chronic bronchitis (1.13)
+00032 | Acute bacterial sinusitis (1.14)
+00033 | RECENT MAJOR CHANGES
+00034 | Warnings and Precautions Hypersensitivity Reactions (5.7) 06/2024
+00035 | INDICATIONS AND USAGE
+00036 | Levofloxacin is a fluoroquinolone antibacterial indicated in adults (≥18 years of age) with infections caused
+00037 | by designated, susceptible bacteria (1, 12.4).
+00038 | Pneumonia: Nosocomial (1.1) and Community Acquired (1.2, 1.3) 
+00039 | Skin and Skin Structure Infections: Complicated (1.4) and Uncomplicated (1.5) 
+00040 | Chronic bacterial prostatitis (1.6)
+00041 | Inhalational Anthrax, Post-Exposure (1.7) 
+00042 | Plague (1.8)
+00043 | Urinary Tract Infections: Complicated (1.9, 1.10) and Uncomplicated (1.12) 
+00044 | Acute Pyelonephritis (1.11)
+00045 | Acute Bacterial Exacerbation of Chronic Bronchitis (1.13) 
+00046 | Acute Bacterial Sinusitis (1.14)
+00047 | Usage
+00048 | To reduce the development of drug-resistant bacteria and maintain the effectiveness of levofloxacin and
+00049 | other antibacterial drugs, levofloxacin should be used only to treat or prevent infections that are proven or
+00050 | strongly suspected to be caused by bacteria (1.15).
+00051 | DOSAGE AND ADMINISTRATION
+00052 | Dosage in patients with normal renal function (2.1)
+00053 | 
+00054 | Type of Infection
+00055 | Dose Every 24 hours 
+00056 | Duration
+00057 | (days)
+00058 |  Nosocomial Pneumonia (1.1)
+00059 |  750 mg
+00060 |  7-14
+00061 |  Community Acquired Pneumonia (1.2)
+00062 |  500 mg
+00063 |  7-14
+00064 |  Community Acquired Pneumonia (1.3)
+00065 |  750 mg
+00066 |  5
+00067 |  Complicated Skin and Skin Structure Infections (SSSI) (1.4)
+00068 |  750 mg 
+00069 |  7-14
+00070 |  Uncomplicated SSSI (1.5)
+00071 |  500 mg
+00072 |  7-10
+00073 |  Chronic Bacterial Prostatitis (1.6)
+00074 |  500 mg
+00075 |  28
+00076 |  Inhalational Anthrax (Post-Exposure) (1.7)
+00077 |  Adults and Pediatric Patients > 50 kg
+00078 |  Pediatric Patients <50 kg and ≥ 6 months of age 
+00079 |  500 mg
+00080 |  8 mg/kg BID (not to exceed 250
+00081 | mg/dose)
+00082 |  60
+00083 |  60 
+00084 |  Plague (1.8)
+00085 |  Adults and Pediatric Patients > 50 kg
+00086 |  Pediatric Patients < 50 kg and ≥ 6 months of age 
+00087 |  500 mg
+00088 |  8 mg/kg BID (not to exceed 250
+00089 | mg/dose)
+00090 |  10 to 14
+00091 |  10 to 14 
+00092 |  Complicated Urinary Tract Infection (1.9) or Acute
+00093 | Pyelonephritis (1.11)
+00094 |  750 mg
+00095 |  5
+00096 |  Complicated Urinary Tract Infection (1.10) or Acute
+00097 | Pyelonephritis (1.11)
+00098 |  250 mg
+00099 |  10
+00100 |  Uncomplicated Urinary Tract Infection (1.12) 
+00101 |  250 mg
+00102 |  3
+00103 |  Acute Bacterial Exacerbation of Chronic Bronchitis (1.13)
+00104 |  500 mg
+00105 |  7
+00106 |  Acute Bacterial Sinusitis (1.14)
+00107 |  750 mg
+00108 |  5
+00109 |  
+00110 |  500 mg
+00111 |  10-14
+00112 | Adjust dose for creatinine clearance < 50 mL/min (2.3, 8.6, 12.3)
+00113 | DOSAGE FORMS AND STRENGTHS
+00114 |  Formulation (3)
+00115 |  Strength
+00116 |  Oral Solution
+00117 |  25 mg/mL
+00118 | CONTRAINDICATIONS
+00119 |  Known hypersensitivity to levofloxacin or other quinolones (4, 5.7)
+00120 | WARNINGS AND PRECAUTIONS
+00121 | Anaphylactic reactions and allergic skin reactions, serious, occasionally fatal, may occur after first dose
+00122 | (4, 5.7)
+00123 | Hematologic (including agranulocytosis, thrombocytopenia), and renal toxicities may occur after
+00124 | multiple doses (5.6)
+00125 | Hepatotoxicity: Severe, and sometimes fatal, hepatotoxicity has been reported. Discontinue
+00126 | immediately if signs and symptoms of hepatitis occur (5.8)
+00127 | Clostridium difficile-associated colitis: evaluate if diarrhea occurs (5.10)
+00128 | Prolongation of the QT interval and isolated cases of torsade de pointes have been reported. Avoid use
+00129 | in patients with known prolongation, those with hypokalemia, and with other drugs that prolong the QT
+00130 | interval (5.11, 8.5)
+00131 | ADVERSE REACTIONS
+00132 | The most common reactions (≥3%) were nausea, headache, diarrhea, insomnia, constipation and
+00133 | dizziness (6.2).
+00134 | To report SUSPECTED ADVERSE REACTIONS, contact Lannett Company, Inc. at 1-844-834-
+00135 | 0530 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.
+00136 | DRUG INTERACTIONS
+00137 |  Interacting Drug Interaction
+00138 | Multivalent cation-
+00139 | containing products
+00140 | including antacids,
+00141 | metal cations or
+00142 | didanosine
+00143 | Absorption of levofloxacin is decreased when the tablet or
+00144 | oral solution formulation is taken within 2 hours of these
+00145 | products. Do not co-administer the intravenous
+00146 | formulation in the same IV line with a multivalent cation,
+00147 | e.g., magnesium (2.4, 7.1)
+00148 | 
+00149 | Warfarin
+00150 | Effect may be enhanced. Monitor prothrombin time, INR,
+00151 | watch for bleeding (7.2)
+00152 | Antidiabetic agents Carefully monitor blood glucose (5.12, 7.3)
+00153 | USE IN SPECIFIC POPULATIONS
+00154 | Geriatrics: Severe hepatotoxicity has been reported. The majority of reports describe patients 65
+00155 | years of age or older (5.8, 8.5, 17). May have increased risk of tendinopathy (including rupture),
+00156 | especially with concomitant corticosteroid use (5.2, 8.5, 17). May be more susceptible to prolongation
+00157 | of the QT interval. (5.11, 8.5, 17).
+00158 | Pediatrics: Musculoskeletal disorders (arthralgia, arthritis, tendinopathy, and gait abnormality) seen in
+00159 | more levofloxacin-treated patients than in comparator. Shown to cause arthropathy and
+00160 | osteochondrosis in juvenile animals (5.12, 8.4, 13.2). Safety in pediatric patients treated for more than
+00161 | 14 days has not been studied. Risk-benefit appropriate only for the treatment of inhalational anthrax
+00162 | (post-exposure) (1.7, 2.2, 8.4, 14.9) and plague (1.8, 2.2, 8.4, 14.10)
+00163 | See 17 for PATIENT COUNSELING INFORMATION and Medication Guide.
+00164 | Revised: 9/2025
+00165 | FULL PRESCRIBING INFORMATION: CONTENTS*
+00166 | WARNING: SERIOUS ADVERSE REACTIONS INCLUDING TENDINITIS, TENDON
+00167 | RUPTURE, PERIPHERAL NEUROPATHY, CENTRAL NERVOUS SYSTEM EFFECTS
+00168 | AND EXACERBATION OF MYASTHENIA GRAVIS
+00169 | 1 INDICATIONS AND USAGE
+00170 | 1.1 Nosocomial Pneumonia
+00171 | 1.2 Community-Acquired Pneumonia: 7-14 day Treatment Regimen
+00172 | 1.3 Community-Acquired Pneumonia: 5-day Treatment Regimen
+00173 | 1.4 Complicated Skin and Skin Structure Infections
+00174 | 1.5 Uncomplicated Skin and Skin Structure Infections
+00175 | 1.6 Chronic Bacterial Prostatitis
+00176 | 1.7 Inhalational Anthrax (Post-Exposure)
+00177 | 1.8 Plague
+00178 | 1.9 Complicated Urinary Tract Infections: 5-day Treatment Regimen
+00179 | 1.10 Complicated Urinary Tract Infections: 10-day Treatment Regimen
+00180 | 1.11 Acute Pyelonephritis: 5- or 10-day Treatment Regimen
+00181 | 1.12 Uncomplicated Urinary Tract Infections
+00182 | 1.13 Acute Bacterial Exacerbation of Chronic Bronchitis
+00183 | 1.14 Acute Bacterial Sinusitis: 5-day and 10-14 day Treatment Regimens
+00184 | 1.15 Usage
+00185 | 2 DOSAGE AND ADMINISTRATION
+00186 | 2.1 Dosage in Adult Patients with Normal Renal Function
+00187 | 2.2 Dosage in Pediatric Patients
+00188 | 2.3 Dosage Adjustment in Adults with Renal Impairment
+00189 | 2.4 Drug Interaction With Chelation Agents: Antacids, Sucralfate, Metal Cations,
+00190 | Multivitamins
+00191 | 2.5 Administration Instructions
+00192 | 3 DOSAGE FORMS AND STRENGTHS
+00193 | 4 CONTRAINDICATIONS
+00194 | 5 WARNINGS AND PRECAUTIONS
+00195 | 
+00196 | 5.1 Disabling and Potentially Irreversible Serious Adverse Reactions Including
+00197 | Tendinitis and Tendon Rupture, Peripheral Neuropathy, and Central Nervous System
+00198 | Effects
+00199 | 5.2 Tendinitis and Tendon Rupture
+00200 | 5.3 Peripheral Neuropathy
+00201 | 5.4 Central Nervous System Effects
+00202 | 5.5 Exacerbation of Myasthenia Gravis
+00203 | 5.6 Other Serious and Sometimes Fatal Adverse Reactions
+00204 | 5.7 Hypersensitivity Reactions
+00205 | 5.8 Hepatotoxicity
+00206 | 5.9 Risk of Aortic Aneurysm and Dissection
+00207 | 5.10 Clostridium difficile-Associated Diarrhea
+00208 | 5.11 Prolongation of the QT Interval
+00209 | 5.12 Musculoskeletal Disorders in Pediatric Patients and Arthropathic Effects in
+00210 | Animals
+00211 | 5.13 Blood Glucose Disturbances
+00212 | 5.14 Photosensitivity/Phototoxicity
+00213 | 5.15 Development of Drug Resistant Bacteria
+00214 | 6 ADVERSE REACTIONS
+00215 | 6.1 Serious and Otherwise Important Adverse Reactions
+00216 | 6.2 Clinical Trial Experience
+00217 | 6.3 Postmarketing Experience
+00218 | 7 DRUG INTERACTIONS
+00219 | 7.1 Chelation Agents: Antacids, Sucralfate, Metal Cations, Multivitamins
+00220 | 7.2 Warfarin
+00221 | 7.3 Antidiabetic Agents
+00222 | 7.4 Non-Steroidal Anti-Inflammatory Drugs
+00223 | 7.5 Theophylline
+00224 | 7.6 Cyclosporine
+00225 | 7.7 Digoxin
+00226 | 7.8 Probenecid and Cimetidine
+00227 | 7.9 Interactions with Laboratory or Diagnostic Testing
+00228 | 8 USE IN SPECIFIC POPULATIONS
+00229 | 8.1 Pregnancy
+00230 | 8.3 Nursing Mothers
+00231 | 8.4 Pediatric Use
+00232 | 8.5 Geriatric Use
+00233 | 8.6 Renal Impairment
+00234 | 8.7 Hepatic Impairment
+00235 | 10 OVERDOSAGE
+00236 | 11 DESCRIPTION
+00237 | 12 CLINICAL PHARMACOLOGY
+00238 | 12.1 Mechanism of Action
+00239 | 12.3 Pharmacokinetics
+00240 | 12.4 Microbiology
+00241 | 13 NONCLINICAL TOXICOLOGY
+00242 | 13.1 Carcinogenesis, Mutagenesis, Impairment of Fertility
+00243 | 13.2 Animal Toxicology and/or Pharmacology
+00244 | 14 CLINICAL STUDIES
+00245 | 14.1 Nosocomial Pneumonia
+00246 | 
+00247 | 14.2 Community-Acquired Pneumonia: 7-14 day Treatment Regimen
+00248 | 14.3 Community-Acquired Pneumonia: 5-day Treatment Regimen
+00249 | 14.4 Acute Bacterial Sinusitis: 5-day and 10-14 day Treatment Regimens
+00250 | 14.5 Complicated Skin and Skin Structure Infections
+00251 | 14.6 Chronic Bacterial Prostatitis
+00252 | 14.7 Complicated Urinary Tract Infections and Acute Pyelonephritis: 5-day Treatment
+00253 | Regimen
+00254 | 14.8 Complicated Urinary Tract Infections and Acute Pyelonephritis: 10-day
+00255 | Treatment Regimen
+00256 | 14.9 Inhalational Anthrax (Post-Exposure)
+00257 | 14.10 Plague
+00258 | 16 HOW SUPPLIED/STORAGE AND HANDLING
+00259 | 17 PATIENT COUNSELING INFORMATION
+00260 | *
+00261 | FULL PRESCRIBING INFORMATION
+00262 | Sections or subsections omitted from the full prescribing information are not listed.
+00263 | 
+00264 | WARNING: SERIOUS ADVERSE REACTIONS INCLUDING TENDINITIS,
+00265 | TENDON RUPTURE, PERIPHERAL NEUROPATHY, CENTRAL NERVOUS
+00266 | SYSTEM EFFECTS AND EXACERBATION OF MYASTHENIA GRAVIS
+00267 | Fluoroquinolones, including levofloxacin, have been associated with
+00268 | disabling and potentially irreversible serious adverse reactions that
+00269 | have occurred together [see Warnings and Precautions (5.1)],
+00270 | including:
+00271 | Tendinitis and tendon rupture [see Warnings and Precautions
+00272 | (5.2)]
+00273 | Peripheral neuropathy [see Warnings and Precautions (5.3)]
+00274 | Central nervous system effects [see Warnings and Precautions
+00275 | (5.4)]
+00276 | Discontinue levofloxacin immediately and avoid the use of
+00277 | fluoroquinolones, including levofloxacin, in patients who experience any
+00278 | of these serious adverse reactions [see Warnings and Precautions
+00279 | (5.1)].
+00280 |  
+00281 | Fluoroquinolones, including levofloxacin, may exacerbate muscle
+00282 | weakness in patients with myasthenia gravis. Avoid levofloxacin in
+00283 | patients with a known history of myasthenia gravis [see Warnings
+00284 | and Precautions (5.5)].
+00285 | Because fluoroquinolones, including levofloxacin, have been
+00286 | associated with serious adverse reactions [see Warnings and
+00287 | Precautions (5.1-5.15)], reserve levofloxacin for use in patients who
+00288 | have no alternative treatment options for the following indications:
+00289 | Uncomplicated urinary tract infection [see Indications and Usage
+00290 | (1.12)]
+00291 | Acute bacterial exacerbation of chronic bronchitis [see Indications
+00292 | and Usage (1.13)]
+00293 | Acute bacterial sinusitis [see Indications and Usage (1.14)].
+00294 | 1 INDICATIONS AND USAGE
+00295 | Levofloxacin oral solution is indicated for the treatment of adults (≥18 years of age) with
+00296 | mild, moderate, and severe infections caused by susceptible isolates of the designated
+00297 | microorganisms in the conditions listed in this section.
+00298 | 1.1 Nosocomial Pneumonia
+00299 | Levofloxacin is indicated for the treatment of nosocomial pneumonia due to methicillin-
+00300 | susceptible Staphylococcus aureus, Pseudomonas aeruginosa, Serratia marcescens,
+00301 | Escherichia coli, Klebsiella pneumoniae, Haemophilus influenzae, or Streptococcus
+00302 | pneumoniae. Adjunctive therapy should be used as clinically indicated. Where
+00303 | Pseudomonas aeruginosa is a documented or presumptive pathogen, combination
+00304 | therapy with an anti-pseudomonal β-lactam is recommended [see Clinical Studies (14.1)].
+00305 | 1.2 Community-Acquired Pneumonia: 7-14 day Treatment Regimen
+00306 | 
+00307 | Levofloxacin is indicated for the treatment of community-acquired pneumonia due to
+00308 | methicillin-susceptible Staphylococcus aureus, Streptococcus pneumoniae (including
+00309 | multi- drug-resistant Streptococcus pneumoniae [MDRSP]), Haemophilus influenzae,
+00310 | Haemophilus parainfluenzae, Klebsiella pneumoniae, Moraxella catarrhalis, Chlamydophila
+00311 | pneumoniae, Legionella pneumophila, or Mycoplasma pneumoniae [see Dosage and
+00312 | Administration (2.1) and Clinical Studies (14.2)]. 
+00313 | MDRSP isolates are isolates resistant to two or more of the following antibacterials:
+00314 | penicillin (MIC ≥2 mcg/mL), 2
+00315 |  generation cephalosporins, e.g., cefuroxime, macrolides,
+00316 | tetracyclines and trimethoprim/sulfamethoxazole.
+00317 | 1.3 Community-Acquired Pneumonia: 5-day Treatment Regimen
+00318 | Levofloxacin is indicated for the treatment of community-acquired pneumonia due to
+00319 | Streptococcus pneumoniae (excluding multi-drug-resistant isolates [MDRSP]),
+00320 | Haemophilus influenzae, Haemophilus parainfluenzae, Mycoplasma pneumoniae, or
+00321 | Chlamydophila pneumoniae [see Dosage and Administration (2.1) and Clinical Studies
+00322 | (14.3)].
+00323 | 1.4 Complicated Skin and Skin Structure Infections
+00324 | Levofloxacin is indicated for the treatment of complicated skin and skin structure
+00325 | infections due to methicillin-susceptible Staphylococcus aureus, Enterococcus faecalis,
+00326 | Streptococcus pyogenes, or Proteus mirabilis [see Clinical Studies (14.5)].
+00327 | 1.5 Uncomplicated Skin and Skin Structure Infections
+00328 | Levofloxacin is indicated for the treatment of uncomplicated skin and skin structure
+00329 | infections (mild to moderate) including abscesses, cellulitis, furuncles, impetigo,
+00330 | pyoderma, wound infections, due to methicillin-susceptible Staphylococcus aureus, or
+00331 | Streptococcus pyogenes.
+00332 | 1.6 Chronic Bacterial Prostatitis
+00333 | Levofloxacin is indicated for the treatment of chronic bacterial prostatitis due to
+00334 | Escherichia coli, Enterococcus faecalis, or methicillin-susceptible Staphylococcus
+00335 | epidermidis [see Clinical Studies (14.6)].
+00336 | 1.7 Inhalational Anthrax (Post-Exposure)
+00337 | Levofloxacin is indicated for inhalational anthrax (post-exposure) to reduce the incidence
+00338 | or progression of disease following exposure to aerosolized Bacillus anthracis. The
+00339 | effectiveness of levofloxacin is based on plasma concentrations achieved in humans, a
+00340 | surrogate endpoint reasonably likely to predict clinical benefit. Levofloxacin has not been
+00341 | tested in humans for the post-exposure prevention of inhalation anthrax. The safety of
+00342 | levofloxacin in adults for durations of therapy beyond 28 days or in pediatric patients for
+00343 | durations of therapy beyond 14 days has not been studied. Prolonged levofloxacin
+00344 | therapy should only be used when the benefit outweighs the risk [see Dosage and
+00345 | Administration (2.1, 2.2) and Clinical Studies (14.9)].
+00346 | 1.8 Plague
+00347 | Levofloxacin is indicated for treatment of plague, including pneumonic and septicemic
+00348 | nd
+00349 | 
+00350 | plague, due to Yersinia pestis (Y. pestis) and prophylaxis for plague in adults and
+00351 | pediatric patients, 6 months of age and older. Efficacy studies of levofloxacin could not
+00352 | be conducted in humans with plague for ethical and feasibility reasons. Therefore,
+00353 | approval of this indication was based on an efficacy study conducted in animals [see
+00354 | Dosage and Administration (2.1, 2.2) and Clinical Studies (14.10)].
+00355 | 1.9 Complicated Urinary Tract Infections: 5-day Treatment Regimen
+00356 | Levofloxacin is indicated for the treatment of complicated urinary tract infections due to
+00357 | Escherichia coli, Klebsiella pneumoniae, or Proteus mirabilis [see Clinical Studies (14.7)].
+00358 | 1.10 Complicated Urinary Tract Infections: 10-day Treatment Regimen
+00359 | Levofloxacin is indicated for the treatment of complicated urinary tract infections (mild
+00360 | to moderate) due to Enterococcus faecalis, Enterobacter cloacae, Escherichia coli,
+00361 | Klebsiella pneumoniae, Proteus mirabilis, or Pseudomonas aeruginosa [see Clinical Studies
+00362 | (14.8)].
+00363 | 1.11 Acute Pyelonephritis: 5- or 10-day Treatment Regimen
+00364 | Levofloxacin is indicated for the treatment of acute pyelonephritis caused by Escherichia
+00365 | coli, including cases with concurrent bacteremia [see Clinical Studies (14.7, 14.8)].
+00366 | 1.12 Uncomplicated Urinary Tract Infections
+00367 | Levofloxacin is indicated for the treatment of uncomplicated urinary tract infections (mild
+00368 | to moderate) due to Escherichia coli, Klebsiella pneumoniae, or Staphylococcus
+00369 | saprophyticus.
+00370 | Because fluoroquinolones, including levofloxacin, have been associated with serious
+00371 | adverse reactions [see Warnings and Precautions (5.1-5.15)] and for some patients
+00372 | uncomplicated urinary tract infection is self-limiting, reserve levofloxacin for treatment of
+00373 | uncomplicated urinary tract infections in patients who have no alternative treatment
+00374 | options.
+00375 | 1.13 Acute Bacterial Exacerbation of Chronic Bronchitis
+00376 | Levofloxacin is indicated for the treatment of acute bacterial exacerbation of chronic
+00377 | bronchitis (ABECB) due to methicillin-susceptible Staphylococcus aureus, Streptococcus
+00378 | pneumoniae, Haemophilus influenzae, Haemophilus parainfluenzae, or Moraxella
+00379 | catarrhalis.
+00380 | Because fluoroquinolones, including levofloxacin, have been associated with serious
+00381 | adverse reactions [see Warnings and Precautions (5.1-5.15)] and for some patients
+00382 | ABECB is self-limiting, reserve levofloxacin for treatment of ABECB in patients who have
+00383 | no alternative treatment options.
+00384 | 1.14 Acute Bacterial Sinusitis: 5-day and 10-14 day Treatment Regimens
+00385 | Levofloxacin is indicated for the treatment of acute bacterial sinusitis (ABS) due to
+00386 | Streptococcus pneumoniae, Haemophilus influenzae, or Moraxella catarrhalis [see Clinical
+00387 | Studies (14.4)].
+00388 | Because fluoroquinolones, including levofloxacin, have been associated with serious
+00389 | 
+00390 | adverse reactions [see Warnings and Precautions (5.1-5.15)] and for some patients ABS
+00391 | is self-limiting, reserve levofloxacin for treatment of ABS in patients who have no
+00392 | alternative treatment options.
+00393 | 1.15 Usage
+00394 | To reduce the development of drug-resistant bacteria and maintain the effectiveness of
+00395 | levofloxacin and other antibacterial drugs, levofloxacin should be used only to treat or
+00396 | prevent infections that are proven or strongly suspected to be caused by susceptible
+00397 | bacteria. When culture and susceptibility information are available, they should be
+00398 | considered in selecting or modifying antibacterial therapy. In the absence of such data,
+00399 | local epidemiology and susceptibility patterns may contribute to the empiric selection of
+00400 | therapy.
+00401 | Culture and susceptibility testing
+00402 | Appropriate culture and susceptibility tests should be performed before treatment in
+00403 | order to isolate and identify organisms causing the infection and to determine their
+00404 | susceptibility to levofloxacin [see Microbiology (12.4)]. Therapy with levofloxacin may be
+00405 | initiated before results of these tests are known; once results become available,
+00406 | appropriate therapy should be selected.
+00407 | As with other drugs in this class, some isolates of Pseudomonas aeruginosa may
+00408 | develop resistance fairly rapidly during treatment with levofloxacin. Culture and
+00409 | susceptibility testing performed periodically during therapy will provide information about
+00410 | the continued susceptibility of the pathogens to the antimicrobial agent and also the
+00411 | possible emergence of bacterial resistance.
+00412 | 2 DOSAGE AND ADMINISTRATION
+00413 | 2.1 Dosage in Adult Patients with Normal Renal Function
+00414 | The usual dose of levofloxacin oral solution is 250 mg, 500 mg, or 750 mg administered
+00415 | orally every 24 hours, as indicated by infection and described in Table 1.
+00416 | These recommendations apply to patients with creatinine clearance ≥ 50 mL/min. For
+00417 | patients with creatinine clearance < 50 mL/min, adjustments to the dosing regimen are
+00418 | required [see Dosage and Administration (2.3)].
+00419 | Table 1: Dosage in Adult Patients with Normal Renal Function (creatinine
+00420 | clearance ≥ 50 mL/min)
+00421 |  Type of Infection
+00422 |  Dosed Every 24
+00423 | hours
+00424 |  Duration
+00425 | (days)
+00426 | Nosocomial Pneumonia
+00427 |  750 mg
+00428 |  7-14
+00429 | Community Acquired Pneumonia
+00430 |  500 mg
+00431 |  7-14
+00432 | Community Acquired Pneumonia
+00433 |  750 mg
+00434 |  5
+00435 | Complicated Skin and Skin Structure Infections (SSSI)
+00436 |  750 mg
+00437 |  7-14
+00438 | Uncomplicated SSSI
+00439 |  500 mg
+00440 |  7-10
+00441 | Chronic Bacterial Prostatitis
+00442 |  500 mg 
+00443 |  28
+00444 | Inhalational Anthrax (Post-Exposure), adult and pediatric
+00445 |  500 mg
+00446 | 60
+00447 | *
+00448 | †
+00449 | ‡
+00450 | §
+00451 | ß
+00452 | 
+00453 | patients > 50 kg 
+00454 |  
+00455 | Pediatric patients < 50 kg and ≥ 6 months of age
+00456 | See Table 2 below
+00457 | (2.2)
+00458 |  60 
+00459 | 60
+00460 | Plague, adult and pediatric patients > 50 kg 
+00461 | Pediatric patients < 50 kg and ≥ 6 months of age
+00462 |  500 mg
+00463 | See Table 2 below
+00464 | (2.2)
+00465 | 10-14
+00466 | 10-14
+00467 | Complicated Urinary Tract Infection (cUTI) or Acute
+00468 | Pyelonephritis (AP)
+00469 |  750 mg
+00470 |  5
+00471 | Complicated Urinary Tract Infection (cUTI) or Acute
+00472 | Pyelonephritis (AP)
+00473 |  250 mg
+00474 |  10
+00475 | Uncomplicated Urinary Tract Infection
+00476 |  250 mg
+00477 |  3
+00478 | Acute Bacterial Exacerbation of Chronic
+00479 | Bronchitis (ABECB)
+00480 |  500 mg
+00481 |  7
+00482 | Acute Bacterial Sinusitis (ABS)
+00483 |  750 mg
+00484 |  500 mg
+00485 |  5
+00486 | 10-14
+00487 | * Due to the designated pathogens [see Indications and Usage (1)].
+00488 | † Sequential therapy (intravenous to oral) may be instituted at the discretion of the
+00489 | physician.
+00490 | ‡ Due to methicillin-susceptible Staphylococcus aureus, Streptococcus pneumoniae
+00491 | (including multi-drug-resistant isolates [MDRSP]), Haemophilus influenzae, Haemophilus
+00492 | parainfluenzae, Klebsiella pneumoniae, Moraxella catarrhalis, Chlamydophila pneumoniae,
+00493 | Legionella pneumophila, or Mycoplasma pneumoniae [see Indications and Usage (1.2)].
+00494 | § Due to Streptococcus pneumoniae (excluding multi-drug-resistant isolates [MDRSP]),
+00495 | Haemophilus influenzae, Haemophilus parainfluenzae, Mycoplasma pneumoniae, or
+00496 | Chlamydophila pneumoniae [see Indications and Usage (1.3)].
+00497 | ¶ This regimen is indicated for cUTI due to Escherichia coli, Klebsiella pneumoniae,
+00498 | Proteus mirabilis and AP due to E. coli, including cases with concurrent bacteremia.
+00499 | # This regimen is indicated for cUTI due to Enterococcus faecalis, Enterococcus cloacae,
+00500 | Escherichia coli, Klebsiella pneumoniae, Proteus mirabilis, Pseudomonas aeruginosa; and
+00501 | for AP due to E. coli.
+00502 |  Drug administration should begin as soon as possible after suspected or confirmed
+00503 | exposure to aerosolized B. anthracis. This indication is based on a surrogate endpoint.
+00504 | Levofloxacin plasma concentrations achieved in humans are reasonably likely to predict
+00505 | clinical benefit [see Clinical Studies (14.9)].
+00506 |  The safety of levofloxacin in adults for durations of therapy beyond 28 days or in
+00507 | pediatric patients for durations beyond 14 days has not been studied. An increased
+00508 | incidence of musculoskeletal adverse events compared to controls has been observed in
+00509 | pediatric patients [see Warnings and Precautions (5.11), Use in Specific Populations
+00510 | (8.4), and Clinical Studies (14.9)]. Prolonged levofloxacin therapy should only be used
+00511 | when the benefit outweighs the risk.
+00512 |  Drug administration should begin as soon as possible after suspected or confirmed
+00513 | exposure to Yersinia pestis. Higher doses of levofloxacin typically used for treatment of
+00514 | pneumonia can be used for treatment of plague, if clinically indicated.
+00515 | 2.2 Dosage in Pediatric Patients
+00516 | Þ,ß
+00517 | Þ,ß
+00518 | ß
+00519 | ß
+00520 | à
+00521 | ¶
+00522 | #
+00523 | Þ
+00524 | ß
+00525 | à
+00526 | 
+00527 | The dosage in pediatric patients ≥ 6 months of age is described below in Table 2.
+00528 | Table 2: Dosage in Pediatric Patients ≥ 6 months of age
+00529 |  Type of Infection
+00530 |  Dose
+00531 |  Freq. Once
+00532 | Every
+00533 |  Duration
+00534 |  Inhalational Anthrax (post-exposure)
+00535 |  
+00536 |  Pediatric patients > 50 kg
+00537 |  500 mg
+00538 |  24 hr
+00539 |  60 days
+00540 |  Pediatric patients < 50 kg and ≥ 6
+00541 | months of age
+00542 |  8 mg/kg
+00543 | (not to exceed 250 mg
+00544 | per dose)
+00545 |  12 hr
+00546 |  60 days
+00547 |  Plague 
+00548 |  Pediatric patients > 50 kg
+00549 |  500 mg
+00550 |  24 hr
+00551 |  10 to 14
+00552 | days
+00553 |  Pediatric patients < 50 kg and ≥ 6
+00554 | months of age
+00555 |  8 mg/kg
+00556 | (not to exceed 250 mg
+00557 | per dose)
+00558 |  12 hr
+00559 |  10 to 14
+00560 | days
+00561 | * Due to Bacillus anthracis [see Indications and Usage (1.13)] and Yersinia pestis [see
+00562 | Indications and Usage (1.14)].
+00563 | † Sequential therapy (intravenous to oral) may be instituted at the discretion of the
+00564 | physician.
+00565 | ‡ Drug administration should begin as soon as possible after suspected or confirmed
+00566 | exposure to aerosolized B. anthracis. This indication is based on a surrogate endpoint.
+00567 | Levofloxacin plasma concentrations achieved in humans are reasonably likely to predict
+00568 | clinical benefit [see Clinical Studies (14.9)].
+00569 | § The safety of levofloxacin in pediatric patients for durations of therapy beyond 14 days
+00570 | has not been studied. An increased incidence of musculoskeletal adverse events
+00571 | compared to controls has been observed in pediatric patients [see Warnings and
+00572 | Precautions (5.11), Use in Specific Populations (8.4), and Clinical Studies (14.9)].
+00573 | Prolonged levofloxacin therapy should only be used when the benefit outweighs the risk.
+00574 | ¶ Drug administration should begin as soon as possible after suspected or confirmed
+00575 | exposure to Yersinia pestis.
+00576 | 2.3 Dosage Adjustment in Adults with Renal Impairment
+00577 | Administer levofloxacin with caution in the presence of renal insufficiency. Careful clinical
+00578 | observation and appropriate laboratory studies should be performed prior to and during
+00579 | therapy since elimination of levofloxacin may be reduced.
+00580 | No adjustment is necessary for patients with a creatinine clearance ≥ 50 mL/min.
+00581 | In patients with impaired renal function (creatinine clearance < 50 mL/min), adjustment
+00582 | of the dosage regimen is necessary to avoid the accumulation of levofloxacin due to
+00583 | decreased clearance [see Use in Specific Populations (8.6)].
+00584 | Table 3 shows how to adjust dose based on creatinine clearance.
+00585 | *
+00586 | †
+00587 | ‡,§
+00588 | §
+00589 | §
+00590 | ¶
+00591 | 
+00592 | Table 3: Dosage Adjustment in Adult Patients with Renal Impairment
+00593 | (creatinine clearance < 50 mL/min)
+00594 |  Dosage in
+00595 | Normal Renal
+00596 | Function Every
+00597 | 24 hours
+00598 |  Creatinine
+00599 | Clearance
+00600 | 20 to 49
+00601 | mL/min
+00602 |  Creatinine Clearance
+00603 | 10 to 19 mL/min
+00604 |  Hemodialysis or
+00605 | Chronic Ambulatory
+00606 | Peritoneal Dialysis
+00607 | (CAPD)
+00608 |  750 mg
+00609 |  750 mg every
+00610 | 48 hours
+00611 |  750 mg initial dose,
+00612 | then 500 mg every 48
+00613 | hours
+00614 |  750 mg initial dose, then
+00615 | 500 mg every 48 hours
+00616 |  500 mg
+00617 |  500 mg initial
+00618 | dose, then 250
+00619 | mg every 24
+00620 | hours
+00621 |  500 mg initial dose,
+00622 | then 250 mg every 48
+00623 | hours
+00624 |  500 mg initial dose, then
+00625 | 250 mg every 48 hours
+00626 |  250 mg
+00627 |  No dosage
+00628 | adjustment
+00629 | required
+00630 | 250 mg every 48 hours.
+00631 | If treating
+00632 | uncomplicated UTI, then
+00633 | no dosage adjustment is
+00634 | required
+00635 |  No information on
+00636 | dosing adjustment is
+00637 | available
+00638 | 2.4 Drug Interaction With Chelation Agents: Antacids, Sucralfate, Metal
+00639 | Cations, Multivitamins
+00640 | Levofloxacin Oral Solution
+00641 | Levofloxacin oral solution should be administered at least two hours before or two
+00642 | hours after antacids containing magnesium, aluminum, as well as sucralfate, metal
+00643 | cations such as iron, and multivitamin preparations with zinc or didanosine
+00644 | chewable/buffered tablets or the pediatric powder for oral solution [see Drug
+00645 | Interactions (7.1) and Patient Counseling Information (17)].
+00646 | 2.5 Administration Instructions
+00647 | Food and Levofloxacin Oral Solution
+00648 | It is recommended that levofloxacin oral solution be taken 1 hour before or 2 hours
+00649 | after eating.
+00650 | Hydration for Patients Receiving Levofloxacin Oral Solution
+00651 | Adequate hydration of patients receiving oral or intravenous levofloxacin should be
+00652 | maintained to prevent the formation of highly concentrated urine. Crystalluria and
+00653 | cylindruria have been reported with quinolones [see Adverse Reactions (6.1) and Patient
+00654 | Counseling Information (17)].
+00655 | 3 DOSAGE FORMS AND STRENGTHS
+00656 | Levofloxacin Oral Solution, USP, 25 mg/mL, clear yellow to greenish-yellow liquid
+00657 | 4 CONTRAINDICATIONS
+00658 | Levofloxacin is contraindicated in persons with known hypersensitivity to levofloxacin, or
+00659 | 
+00660 | other quinolone antibacterials [see Warnings and Precautions (5.3)].
+00661 | 5 WARNINGS AND PRECAUTIONS
+00662 | 5.1 Disabling and Potentially Irreversible Serious Adverse Reactions Including
+00663 | Tendinitis and Tendon Rupture, Peripheral Neuropathy, and Central Nervous
+00664 | System Effects
+00665 | Fluoroquinolones, including levofloxacin, have been associated with disabling and
+00666 | potentially irreversible serious adverse reactions from different body systems that can
+00667 | occur together in the same patient. Commonly seen adverse reactions include tendinitis,
+00668 | tendon rupture, arthralgia, myalgia, peripheral neuropathy, and central nervous system
+00669 | effects (hallucinations, anxiety, depression, insomnia, severe headaches, and
+00670 | confusion). These reactions can occur within hours to weeks after starting levofloxacin.
+00671 | Patients of any age or without pre-existing risk factors have experienced these adverse
+00672 | reactions [see Warnings and Precautions (5.2, 5.3, 5.4)].
+00673 | Discontinue levofloxacin immediately at the first signs or symptoms of any serious
+00674 | adverse reaction. In addition, avoid the use of fluoroquinolones, including levofloxacin, in
+00675 | patients who have experienced any of these serious adverse reactions associated with
+00676 | fluoroquinolones.
+00677 | 5.2 Tendinitis and Tendon Rupture
+00678 | Fluoroquinolones, including levofloxacin, have been associated with an increased risk of
+00679 | tendinitis and tendon rupture in all ages [see Warnings and Precautions (5.1) and
+00680 | Adverse Reactions (6.2)]. This adverse reaction most frequently involves the Achilles
+00681 | tendon and has also been reported with the rotator cuff (the shoulder), the hand, the
+00682 | biceps, the thumb, and other tendon sites. Tendinitis or tendon rupture can occur within
+00683 | hours or days of starting levofloxacin or as long as several months after completion of
+00684 | fluoroquinolone therapy. Tendinitis and tendon rupture can occur bilaterally.
+00685 | The risk of developing fluoroquinolone-associated tendinitis and tendon rupture is
+00686 | increased in patients over 60 years of age, in those taking corticosteroid drugs, and in
+00687 | patients with kidney, heart or lung transplants. Other factors that may independently
+00688 | increase the risk of tendon rupture include strenuous physical activity, renal failure, and
+00689 | previous tendon disorders such as rheumatoid arthritis. Tendinitis and tendon rupture
+00690 | have been reported in patients taking fluoroquinolones who do not have the above risk
+00691 | factors. Discontinue levofloxacin immediately if the patient experiences pain, swelling,
+00692 | inflammation or rupture of a tendon. Patients should be advised to rest at the first sign
+00693 | of tendinitis or tendon rupture, and to contact their healthcare provider regarding
+00694 | changing to a non-quinolone antimicrobial drug. Avoid levofloxacin in patients who have
+00695 | a history of tendon disorders or tendon rupture [see Adverse Reactions (6.3); Patient
+00696 | Counseling Information (17)].
+00697 | 5.3 Peripheral Neuropathy
+00698 | Fluoroquinolones, including levofloxacin, have been associated with an increased risk of
+00699 | peripheral neuropathy. Cases of sensory or sensorimotor axonal polyneuropathy
+00700 | affecting small and/or large axons resulting in paresthesias, hypoesthesias, dysesthesias
+00701 | and weakness have been reported in patients receiving fluoroquinolones, including
+00702 | levofloxacin. Symptoms may occur soon after initiation of levofloxacin and may be
+00703 | 
+00704 | y
+00705 | p
+00706 | y
+00707 | y
+00708 | irreversible in some patients [see Warnings and Precautions (5.1) and Adverse Reactions
+00709 | (6.1, 6.2)].
+00710 | Discontinue levofloxacin immediately if the patient experiences symptoms of neuropathy
+00711 | including pain, burning, tingling, numbness, and/or weakness or other alterations of
+00712 | sensation including light touch, pain, temperature, position sense, and vibratory
+00713 | sensation. Avoid fluoroquinolones, including levofloxacin, in patients who have
+00714 | previously experienced peripheral neuropathy [see Adverse Reactions (6), Patient
+00715 | Counseling Information (17)].
+00716 | 5.4 Central Nervous System Effects
+00717 | Fluoroquinolones, including levofloxacin, have been associated with an increased risk of
+00718 | central nervous system (CNS) effects, including convulsions, toxic psychoses, increased
+00719 | intracranial pressure (including pseudotumor cerebri). Fluoroquinolones may also cause
+00720 | central nervous system stimulation which may lead to tremors, restlessness, anxiety,
+00721 | lightheadedness, confusion, hallucinations, paranoia, depression, nightmares, and
+00722 | insomnia. Suicidal thoughts, and attempted or completed suicide may also occur,
+00723 | especially in patients with a medical history of depression, or an underlying risk factor
+00724 | for depression. These reactions may occur following the first dose. If these reactions
+00725 | occur in patients receiving levofloxacin, discontinue levofloxacin and institute appropriate
+00726 | measures. As with other fluoroquinolones, levofloxacin should be used with caution in
+00727 | patients with a known or suspected central nervous system (CNS) disorder that may
+00728 | predispose them to seizures or lower the seizure threshold (e.g., severe cerebral
+00729 | arteriosclerosis, epilepsy) or in the presence of other risk factors that may predispose
+00730 | them to seizures or lower the seizure threshold (e.g., certain drug therapy, renal
+00731 | dysfunction). [see Adverse Reactions (6); Drug Interactions (7.4, 7.5); Patient Counseling
+00732 | Information (17)].
+00733 | 5.5 Exacerbation of Myasthenia Gravis
+00734 | Fluoroquinolones, including levofloxacin, have neuromuscular blocking activity and may
+00735 | exacerbate muscle weakness in patients with myasthenia gravis. Postmarketing serious
+00736 | adverse reactions including deaths and requirement for ventilatory support, have been
+00737 | associated with fluoroquinolone use in patients with myasthenia gravis. Avoid
+00738 | levofloxacin in patients with a known history of myasthenia gravis [see Adverse
+00739 | Reactions (6.3); Patient Counseling Information (17)].
+00740 | 5.6 Other Serious and Sometimes Fatal Adverse Reactions
+00741 | Other serious and sometimes fatal adverse reactions, some due to hypersensitivity, and
+00742 | some due to uncertain etiology, have been reported rarely in patients receiving therapy
+00743 | with fluoroquinolones, including levofloxacin. These events may be severe and generally
+00744 | occur following the administration of multiple doses. Clinical manifestations may include
+00745 | one or more of the following:
+00746 | fever, rash, or severe dermatologic reactions (e.g., toxic epidermal necrolysis,
+00747 | Stevens-Johnson Syndrome);
+00748 | vasculitis; arthralgia; myalgia; serum sickness;
+00749 | allergic pneumonitis;
+00750 | interstitial nephritis; acute renal insufficiency or failure;
+00751 | hepatitis; jaundice; acute hepatic necrosis or failure;
+00752 | anemia, including hemolytic and aplastic; thrombocytopenia, including thrombotic
+00753 | 
+00754 | g
+00755 | y
+00756 | p
+00757 | y
+00758 | p
+00759 | g
+00760 | thrombocytopenic purpura; leukopenia; agranulocytosis; pancytopenia; and/or other
+00761 | hematologic abnormalities.
+00762 | Discontinue levofloxacin immediately at the first appearance of skin rash, jaundice, or
+00763 | any other sign of hypersensitivity and institute supportive measures [see Adverse
+00764 | Reactions (6); Patient Counseling Information (17)].
+00765 | 5.7 Hypersensitivity Reactions
+00766 | Serious and occasionally fatal hypersensitivity and/or anaphylactic reactions have been
+00767 | reported in patients receiving therapy with fluoroquinolones, including levofloxacin.
+00768 | These reactions often occur following the first dose. Some reactions have been
+00769 | accompanied by cardiovascular collapse, acute myocardial ischemia with or without
+00770 | myocardial infarction, hypotension/shock, seizure, loss of consciousness, tingling,
+00771 | angioedema (including tongue, laryngeal, throat, or facial edema/swelling), airway
+00772 | obstruction (including bronchospasm, shortness of breath, and acute respiratory
+00773 | distress), dyspnea, urticaria, itching, and other serious skin reactions. Levofloxacin
+00774 | should be discontinued immediately at the first appearance of a skin rash or any other
+00775 | sign of hypersensitivity. Serious acute hypersensitivity reactions may require treatment
+00776 | with epinephrine and other resuscitative measures, including oxygen, intravenous fluids,
+00777 | antihistamines, corticosteroids, pressor amines, and airway management, as clinically
+00778 | indicated [see Adverse Reactions (6); Patient Counseling Information (17)].
+00779 | 5.8 Hepatotoxicity
+00780 | Post-marketing reports of severe hepatotoxicity (including acute hepatitis and fatal
+00781 | events) have been received for patients treated with levofloxacin. No evidence of serious
+00782 | drug-associated hepatotoxicity was detected in clinical trials of over 7,000 patients.
+00783 | Severe hepatotoxicity generally occurred within 14 days of initiation of therapy and most
+00784 | cases occurred within 6 days. Most cases of severe hepatotoxicity were not associated
+00785 | with hypersensitivity [see Warnings and Precautions (5.6)]. The majority of fatal
+00786 | hepatotoxicity reports occurred in patients 65 years of age or older and most were not
+00787 | associated with hypersensitivity. Levofloxacin should be discontinued immediately if the
+00788 | patient develops signs and symptoms of hepatitis [see Adverse Reactions (6); Patient
+00789 | Counseling Information (17)].
+00790 | 5.9 Risk of Aortic Aneurysm and Dissection
+00791 | Epidemiologic studies report an increased rate of aortic aneurysm and dissection within
+00792 | two months following use of fluoroquinolones, particularly in elderly patients. The cause
+00793 | for the increased risk has not been identified. In patients with a known aortic aneurysm
+00794 | or patients who are at greater risk for aortic aneurysms, reserve levofloxacin for use
+00795 | only when there are no alternative antibacterial treatments available.
+00796 | 5.10 Clostridium difficile-Associated Diarrhea
+00797 | Clostridium difficile-associated diarrhea (CDAD) has been reported with use of nearly all
+00798 | antibacterial agents, including levofloxacin, and may range in severity from mild diarrhea
+00799 | to fatal colitis. Treatment with antibacterial agents alters the normal flora of the colon
+00800 | leading to overgrowth of C. difficile.
+00801 | C. difficile produces toxins A and B which contribute to the development of CDAD.
+00802 | 
+00803 | Hypertoxin producing strains of C. difficile cause increased morbidity and mortality, as
+00804 | these infections can be refractory to antimicrobial therapy and may require colectomy.
+00805 | CDAD must be considered in all patients who present with diarrhea following antibiotic
+00806 | use. Careful medical history is necessary since CDAD has been reported to occur over
+00807 | two months after the administration of antibacterial agents.
+00808 | If CDAD is suspected or confirmed, ongoing antibiotic use not directed against C. difficile
+00809 | may need to be discontinued. Appropriate fluid and electrolyte management, protein
+00810 | supplementation, antibiotic treatment of C. difficile, and surgical evaluation should be
+00811 | instituted as clinically indicated [see Adverse Reactions (6.2), Patient Counseling
+00812 | Information (17)].
+00813 | 5.11 Prolongation of the QT Interval
+00814 | Some fluoroquinolones, including levofloxacin, have been associated with prolongation
+00815 | of the QT interval on the electrocardiogram and infrequent cases of arrhythmia. Rare
+00816 | cases of torsade de pointes have been spontaneously reported during postmarketing
+00817 | surveillance in patients receiving fluoroquinolones, including levofloxacin. Levofloxacin
+00818 | should be avoided in patients with known prolongation of the QT interval, patients with
+00819 | uncorrected hypokalemia, and patients receiving Class IA (quinidine, procainamide), or
+00820 | Class III (amiodarone, sotalol) antiarrhythmic agents. Elderly patients may be more
+00821 | susceptible to drug-associated effects on the QT interval [see Adverse Reactions (6.3),
+00822 | Use in Specific Populations (8.5), and Patient Counseling Information (17)].
+00823 | 5.12 Musculoskeletal Disorders in Pediatric Patients and Arthropathic Effects
+00824 | in Animals
+00825 | Levofloxacin is indicated in pediatric patients (6 months of age and older) only for the
+00826 | prevention of inhalational anthrax (post-exposure) and for plague [see Indications and
+00827 | Usage (1.7, 1.8)]. An increased incidence of musculoskeletal disorders (arthralgia,
+00828 | arthritis, tendinopathy, and gait abnormality) compared to controls has been observed
+00829 | in pediatric patients receiving levofloxacin [see Use in Specific Populations (8.4)].
+00830 | In immature rats and dogs, the oral and intravenous administration of levofloxacin
+00831 | resulted in increased osteochondrosis. Histopathological examination of the weight-
+00832 | bearing joints of immature dogs dosed with levofloxacin revealed persistent lesions of
+00833 | the cartilage. Other fluoroquinolones also produce similar erosions in the weight-bearing
+00834 | joints and other signs of arthropathy in immature animals of various species [see Animal
+00835 | Toxicology and/or Pharmacology (13.2)].
+00836 | 5.13 Blood Glucose Disturbances
+00837 | As with other fluoroquinolones, disturbances of blood glucose, including symptomatic
+00838 | hyper- and hypoglycemia, have been reported with levofloxacin, usually in diabetic
+00839 | patients receiving concomitant treatment with an oral hypoglycemic agent (e.g.,
+00840 | glyburide) or with insulin. In these patients, careful monitoring of blood glucose is
+00841 | recommended. If a hypoglycemic reaction occurs in a patient being treated with
+00842 | levofloxacin, levofloxacin should be discontinued and appropriate therapy should be
+00843 | initiated immediately [see Adverse Reactions (6.2); Drug Interactions (7.3); Patient
+00844 | Counseling Information (17)].
+00845 | 5.14 Photosensitivity/Phototoxicity
+00846 | 
+00847 | Moderate to severe photosensitivity/phototoxicity reactions, the latter of which may
+00848 | manifest as exaggerated sunburn reactions (e.g., burning, erythema, exudation,
+00849 | vesicles, blistering, edema) involving areas exposed to light (typically the face, “V” area
+00850 | of the neck, extensor surfaces of the forearms, dorsa of the hands), can be associated
+00851 | with the use of fluoroquinolones after sun or UV light exposure. Therefore, excessive
+00852 | exposure to these sources of light should be avoided. Drug therapy should be
+00853 | discontinued if photosensitivity/phototoxicity occurs [see Adverse Reactions (6.3);
+00854 | Patient Counseling Information (17)].
+00855 | 5.15 Development of Drug Resistant Bacteria
+00856 | Prescribing levofloxacin in the absence of a proven or strongly suspected bacterial
+00857 | infection or a prophylactic indication is unlikely to provide benefit to the patient and
+00858 | increases the risk of the development of drug-resistant bacteria [see Patient Counseling
+00859 | Information (17)].
+00860 | 6 ADVERSE REACTIONS
+00861 | 6.1 Serious and Otherwise Important Adverse Reactions
+00862 | The following serious and otherwise important adverse drug reactions are discussed in
+00863 | greater detail in other sections of labeling:
+00864 | Disabling and Potentially Irreversible Serious Adverse Reactions [see Warnings and
+00865 | Precautions (5.1)]
+00866 | Tendinitis and Tendon Rupture [see Warnings and Precautions (5.2)]
+00867 | Peripheral Neuropathy [see Warnings and Precautions (5.3)]
+00868 | Central Nervous System Effects [see Warnings and Precautions (5.4)]
+00869 | Exacerbation of Myasthenia Gravis [see Warnings and Precautions (5.5)]
+00870 | Other Serious and Sometimes Fatal Reactions [see Warnings and Precautions (5.6)]
+00871 | Hypersensitivity Reactions [see Warnings and Precautions (5.7)]
+00872 | Hepatotoxicity [see Warnings and Precautions (5.8)]
+00873 | Clostridium difficile-Associated Diarrhea [see Warnings and Precautions (5.10)]
+00874 | Prolongation of the QT Interval [see Warnings and Precautions (5.11)]
+00875 | Musculoskeletal Disorders in Pediatric Patients [see Warnings and Precautions (5.12)]
+00876 | Blood Glucose Disturbances [see Warnings and Precautions (5.13)]
+00877 | Photosensitivity/Phototoxicity [see Warnings and Precautions (5.14)]
+00878 | Development of Drug Resistant Bacteria [see Warnings and Precautions (5.15)]
+00879 | Hypotension has been associated with rapid or bolus intravenous infusion of
+00880 | levofloxacin. Levofloxacin should be infused slowly over 60 to 90 minutes, depending on
+00881 | dosage [see Dosage and Administration (2.5)].
+00882 | Crystalluria and cylindruria have been reported with quinolones, including levofloxacin.
+00883 | Therefore, adequate hydration of patients receiving levofloxacin should be maintained to
+00884 | prevent the formation of a highly concentrated urine [see Dosage and Administration
+00885 | (2.5)]. 
+00886 | 6.2 Clinical Trial Experience
+00887 | Because clinical trials are conducted under widely varying conditions, adverse reaction
+00888 | 
+00889 | rates observed in the clinical trials of a drug cannot be directly compared to rates in the
+00890 | clinical trials of another drug and may not reflect the rates observed in practice.
+00891 | The data described below reflect exposure to levofloxacin in 7537 patients in 29 pooled
+00892 | Phase 3 clinical trials. The population studied had a mean age of 50 years (approximately
+00893 | 74% of the population was < 65 years of age), 50% were male, 71% were Caucasian,
+00894 | 19% were Black. Patients were treated with levofloxacin for a wide variety of infectious
+00895 | diseases [see Indications and Usage (1)]. Patients received levofloxacin doses of 750 mg
+00896 | once daily, 250 mg once daily, or 500 mg once or twice daily. Treatment duration was
+00897 | usually 3–14 days, and the mean number of days on therapy was 10 days.
+00898 | The overall incidence, type and distribution of adverse reactions was similar in patients
+00899 | receiving levofloxacin doses of 750 mg once daily, 250 mg once daily, and 500 mg once
+00900 | or twice daily. Discontinuation of levofloxacin due to adverse drug reactions occurred in
+00901 | 4.3% of patients overall, 3.8% of patients treated with the 250 mg and 500 mg doses
+00902 | and 5.4% of patients treated with the 750 mg dose. The most common adverse drug
+00903 | reactions leading to discontinuation with the 250 and 500 mg doses were
+00904 | gastrointestinal (1.4%), primarily nausea (0.6%); vomiting (0.4%); dizziness (0.3%); and
+00905 | headache (0.2%). The most common adverse drug reactions leading to discontinuation
+00906 | with the 750 mg dose were gastrointestinal (1.2%), primarily nausea (0.6%), vomiting
+00907 | (0.5%); dizziness (0.3%); and headache (0.3%).
+00908 | Adverse reactions occurring in ≥ 1% of levofloxacin-treated patients and less common
+00909 | adverse reactions, occurring in 0.1 to <1% of levofloxacin-treated patients, are shown
+00910 | in Table 4 and Table 5, respectively. The most common adverse drug reactions (≥ 3%)
+00911 | are nausea, headache, diarrhea, insomnia, constipation, and dizziness.
+00912 | Table 4: Common (≥1%) Adverse Reactions Reported in Clinical Trials with
+00913 | Levofloxacin
+00914 |  System/Organ Class
+00915 |  Adverse Reaction
+00916 |  %
+00917 | (N=7537)
+00918 |  Infections and Infestations
+00919 | moniliasis
+00920 |  1
+00921 |  Psychiatric Disorders
+00922 | insomnia [see Warnings and
+00923 | Precautions (5.4)]
+00924 |  4
+00925 |  Nervous System Disorders
+00926 | headache
+00927 | dizziness [see Warnings and
+00928 | Precautions (5.4)]
+00929 |  6
+00930 |  3
+00931 |  Respiratory, Thoracic and Mediastinal
+00932 | Disorders
+00933 | dyspnea [see Warnings and
+00934 | Precautions (5.7)]
+00935 |  1
+00936 |  Gastrointestinal Disorders
+00937 | nausea
+00938 | diarrhea
+00939 | constipation
+00940 | abdominal pain
+00941 | vomiting
+00942 | dyspepsia
+00943 |  7
+00944 |  5
+00945 |  3
+00946 |  2
+00947 |  2
+00948 |  2
+00949 |  Skin and Subcutaneous Tissue
+00950 | Disorders
+00951 | rash [see Warnings and
+00952 | Precautions (5.7)] 
+00953 | pruritus
+00954 |  2
+00955 |  
+00956 |  1
+00957 |  Reproductive System and Breast
+00958 | Disorders
+00959 | vaginitis
+00960 |  1
+00961 | * 
+00962 | †
+00963 | 
+00964 |  General Disorders and Administration
+00965 | Site Conditions
+00966 | edema
+00967 | injection site reaction
+00968 | chest pain
+00969 |  1
+00970 |  1
+00971 |  1
+00972 | * N=7274
+00973 | † N=3758 (women)
+00974 | Table 5: Less Common (0.1 to 1%) Adverse Reactions Reported in Clinical
+00975 | Trials with Levofloxacin (N=7537)
+00976 |  System/Organ Class
+00977 |  Adverse Reaction
+00978 |  Infections and Infestations
+00979 | genital moniliasis
+00980 |  Blood and Lymphatic System
+00981 | Disorders
+00982 | anemia
+00983 | thrombocytopenia
+00984 | granulocytopenia
+00985 | [see Warnings and Precautions (5.6)]
+00986 |  Immune System Disorders
+00987 | allergic reaction [see Warnings and Precautions
+00988 | (5.6, 5.7)]
+00989 |  Metabolism and Nutrition
+00990 | Disorders
+00991 | hyperglycemia
+00992 | hypoglycemia
+00993 | [see Warnings and Precautions (5.13)]
+00994 |  hyperkalemia
+00995 |  Psychiatric Disorders
+00996 | anxiety
+00997 | agitation
+00998 | confusion 
+00999 | depression 
+01000 | hallucination 
+01001 | nightmare*
+01002 | [see Warnings and Precautions (5.4)] 
+01003 | sleep disorder*
+01004 | anorexia
+01005 | abnormal dreaming*
+01006 |  Nervous System Disorders
+01007 | tremor
+01008 | convulsions
+01009 | [see Warnings and Precautions (5.4)] 
+01010 | paresthesia [see Warnings and Precautions (5.3)] 
+01011 | vertigo
+01012 | hypertonia
+01013 | hyperkinesias
+01014 | abnormal gait
+01015 | somnolence*
+01016 | syncope
+01017 |  Respiratory, Thoracic and
+01018 | Mediastinal Disorders
+01019 | epistaxis
+01020 |  Cardiac Disorders
+01021 | cardiac arrest
+01022 | palpitation
+01023 | ventricular tachycardia 
+01024 | ventricular arrhythmia
+01025 | 
+01026 |  Vascular Disorders
+01027 | phlebitis
+01028 |  Gastrointestinal Disorders
+01029 | gastritis
+01030 | stomatitis 
+01031 | pancreatitis 
+01032 | esophagitis 
+01033 | gastroenteritis 
+01034 | glossitis
+01035 | pseudomembranous/C. difficile colitis [see
+01036 | Warnings and Precautions (5.10)]
+01037 |  Hepatobiliary Disorders
+01038 | abnormal hepatic function 
+01039 | increased hepatic enzymes 
+01040 | increased alkaline phosphatase
+01041 |  Skin and Subcutaneous Tissue
+01042 | Disorders
+01043 | urticaria [see Warnings and Precautions (5.7)]
+01044 |  Musculoskeletal and Connective
+01045 | Tissue Disorders
+01046 | arthralgia
+01047 | tendinitis
+01048 | [see Warnings and Precautions (5.2)] 
+01049 | myalgia 
+01050 | skeletal pain
+01051 |  Renal and Urinary Disorders
+01052 | abnormal renal function
+01053 | acute renal failure [see Warnings and Precautions
+01054 | (5.6)]
+01055 | N = 7274
+01056 | In clinical trials using multiple-dose therapy, ophthalmologic abnormalities, including
+01057 | cataracts and multiple punctate lenticular opacities, have been noted in patients
+01058 | undergoing treatment with quinolones, including levofloxacin. The relationship of the
+01059 | drugs to these events is not presently established.
+01060 | 6.3 Postmarketing Experience
+01061 | Table 6 lists adverse reactions that have been identified during post-approval use of
+01062 | levofloxacin. Because these reactions are reported voluntarily from a population of
+01063 | uncertain size, it is not always possible to reliably estimate their frequency or establish a
+01064 | causal relationship to drug exposure.
+01065 | Table 6: Postmarketing Reports of Adverse Drug Reactions
+01066 |  System/Organ Class
+01067 |  Adverse Reaction
+01068 |  Blood and Lymphatic
+01069 | System Disorders
+01070 | pancytopenia
+01071 | aplastic anemia
+01072 | leukopenia
+01073 | hemolytic anemia
+01074 | [see Warnings and Precautions (5.6)]
+01075 | eosinophilia
+01076 |  Immune System Disorders
+01077 | hypersensitivity reactions, sometimes fatal including: 
+01078 | anaphylactic/anaphylactoid reactions
+01079 | anaphylactic shock
+01080 | angioneurotic edema
+01081 | *
+01082 | 
+01083 | serum sickness
+01084 | [see Warnings and Precautions (5.6, 5.7)]
+01085 |  Psychiatric Disorders
+01086 | psychosis
+01087 | paranoia
+01088 | isolated reports of suicidal ideation, suicide attempt and
+01089 | completed suicide
+01090 |  [see Warnings and Precautions (5.4)]
+01091 |  Nervous System Disorders
+01092 | exacerbation of myasthenia gravis [see Warnings and
+01093 | Precautions (5.5)] 
+01094 | anosmia
+01095 | ageusia
+01096 | parosmia
+01097 | dysgeusia
+01098 | peripheral neuropathy (may be irreversible) [see
+01099 | Warnings and Precautions (5.3)] 
+01100 | isolated reports of encephalopathy
+01101 | abnormal electroencephalogram (EEG)
+01102 | dysphonia
+01103 | pseudotumor cerebri [see Warnings and Precautions
+01104 | (5.4)]
+01105 |  Eye Disorders
+01106 | uveitis
+01107 | vision disturbance, including diplopia 
+01108 | visual acuity reduced
+01109 | vision blurred
+01110 | scotoma
+01111 |  Ear and Labyrinth Disorders hypoacusis tinnitus
+01112 |  Cardiac Disorders
+01113 | isolated reports of torsade de pointes 
+01114 | electrocardiogram QT prolonged
+01115 | [see Warnings and Precautions (5.11)]
+01116 | tachycardia 
+01117 | Acute myocardial ischemia with or without myocardial
+01118 | infarction occurring as part of an allergic reaction
+01119 |  Vascular Disorders
+01120 | vasodilatation
+01121 |  Respiratory, Thoracic and
+01122 | Mediastinal Disorders
+01123 | isolated reports of allergic pneumonitis [see Warnings
+01124 | and Precautions (5.6)]
+01125 |  Hepatobiliary Disorders
+01126 | hepatic failure (including fatal cases)
+01127 | hepatitis 
+01128 | jaundice [see Warnings and Precautions (5.6, 5.8)]
+01129 |  Skin and Subcutaneous
+01130 | Tissue Disorders
+01131 | bullous eruptions to include:
+01132 |  Stevens-Johnson Syndrome
+01133 |  toxic epidermal necrolysis
+01134 |  Acute Generalized Exanthematous Pustulosis (AGEP)
+01135 | fixed drug eruptions 
+01136 |  erythema multiforme
+01137 | [see Warnings and Precautions (5.6)] 
+01138 | photosensitivity/phototoxicity reaction [see Warnings
+01139 | and Precautions (5.14)] 
+01140 | leukocytoclastic vasculitis
+01141 | Musculoskeletal and
+01142 | tendon rupture [see Warnings and Precautions (5.2)] 
+01143 | 
+01144 |  Musculoskeletal and
+01145 | Connective Tissue Disorders muscle injury, including rupture
+01146 | rhabdomyolysis
+01147 |  Renal and Urinary Disorders interstitial nephritis [see Warnings and Precautions
+01148 | (5.6)]
+01149 |  General Disorders and
+01150 | Administration Site
+01151 | Conditions
+01152 | multi-organ failure 
+01153 | pyrexia
+01154 |  Investigations
+01155 | prothrombin time prolonged
+01156 | international normalized ratio prolonged 
+01157 | muscle enzymes increased
+01158 | 7 DRUG INTERACTIONS
+01159 | 7.1 Chelation Agents: Antacids, Sucralfate, Metal Cations, Multivitamins
+01160 | Levofloxacin Oral Solution
+01161 | While the chelation by divalent cations is less marked than with other fluoroquinolones,
+01162 | concurrent administration of levofloxacin oral solution with antacids containing
+01163 | magnesium, or aluminum, as well as sucralfate, metal cations such as iron, and
+01164 | multivitamin preparations with zinc may interfere with the gastrointestinal absorption of
+01165 | levofloxacin, resulting in systemic levels considerably lower than desired. Tablets with
+01166 | antacids containing magnesium, aluminum, as well as sucralfate, metal cations such as
+01167 | iron, and multivitamin preparations with zinc or didanosine may substantially interfere
+01168 | with the gastrointestinal absorption of levofloxacin, resulting in systemic levels
+01169 | considerably lower than desired. These agents should be taken at least two hours
+01170 | before or two hours after oral levofloxacin administration.
+01171 | 7.2 Warfarin
+01172 | No significant effect of levofloxacin on the peak plasma concentrations, AUC, and other
+01173 | disposition parameters for R- and S- warfarin was detected in a clinical study involving
+01174 | healthy volunteers. Similarly, no apparent effect of warfarin on levofloxacin absorption
+01175 | and disposition was observed. However, there have been reports during the
+01176 | postmarketing experience in patients that levofloxacin enhances the effects of warfarin.
+01177 | Elevations of the prothrombin time in the setting of concurrent warfarin and levofloxacin
+01178 | use have been associated with episodes of bleeding. Prothrombin time, International
+01179 | Normalized Ratio (INR), or other suitable anticoagulation tests should be closely
+01180 | monitored if levofloxacin is administered concomitantly with warfarin. Patients should
+01181 | also be monitored for evidence of bleeding [see Adverse Reactions (6.3); Patient
+01182 | Counseling Information (17)].
+01183 | 7.3 Antidiabetic Agents
+01184 | Disturbances of blood glucose, including hyperglycemia and hypoglycemia, have been
+01185 | reported in patients treated concomitantly with fluoroquinolones and an antidiabetic
+01186 | agent. Therefore, careful monitoring of blood glucose is recommended when these
+01187 | agents are co-administered [see Warnings and Precautions (5.13); Adverse Reactions
+01188 | 
+01189 | (6.2), Patient Counseling Information (17)].
+01190 | 7.4 Non-Steroidal Anti-Inflammatory Drugs
+01191 | The concomitant administration of a non-steroidal anti-inflammatory drug with a
+01192 | fluoroquinolone, including levofloxacin, may increase the risk of CNS stimulation and
+01193 | convulsive seizures [see Warnings and Precautions (5.4)].
+01194 | 7.5 Theophylline
+01195 | No significant effect of levofloxacin on the plasma concentrations, AUC, and other
+01196 | disposition parameters for theophylline was detected in a clinical study involving healthy
+01197 | volunteers. Similarly, no apparent effect of theophylline on levofloxacin absorption and
+01198 | disposition was observed. However, concomitant administration of other
+01199 | fluoroquinolones with theophylline has resulted in prolonged elimination half-life, elevated
+01200 | serum theophylline levels, and a subsequent increase in the risk of theophylline-related
+01201 | adverse reactions in the patient population. Therefore, theophylline levels should be
+01202 | closely monitored and appropriate dosage adjustments made when levofloxacin is co-
+01203 | administered. Adverse reactions, including seizures, may occur with or without an
+01204 | elevation in serum theophylline levels [see Warnings and Precautions (5.4)].
+01205 | 7.6 Cyclosporine
+01206 | No significant effect of levofloxacin on the peak plasma concentrations, AUC, and other
+01207 | disposition parameters for cyclosporine was detected in a clinical study involving healthy
+01208 | volunteers. However, elevated serum levels of cyclosporine have been reported in the
+01209 | patient population when co-administered with some other fluoroquinolones. Levofloxacin
+01210 | C
+01211 |  and k were slightly lower while T
+01212 |  and t
+01213 |  were slightly longer in the presence
+01214 | of cyclosporine than those observed in other studies without concomitant medication.
+01215 | The differences, however, are not considered to be clinically significant. Therefore, no
+01216 | dosage adjustment is required for levofloxacin or cyclosporine when administered
+01217 | concomitantly.
+01218 | 7.7 Digoxin
+01219 | No significant effect of levofloxacin on the peak plasma concentrations, AUC, and other
+01220 | disposition parameters for digoxin was detected in a clinical study involving healthy
+01221 | volunteers. Levofloxacin absorption and disposition kinetics were similar in the presence
+01222 | or absence of digoxin. Therefore, no dosage adjustment for levofloxacin or digoxin is
+01223 | required when administered concomitantly.
+01224 | 7.8 Probenecid and Cimetidine
+01225 | No significant effect of probenecid or cimetidine on the C
+01226 |  of levofloxacin was
+01227 | observed in a clinical study involving healthy volunteers. The AUC and t
+01228 |  of levofloxacin
+01229 | were higher while CL/F and CL were lower during concomitant treatment of levofloxacin
+01230 | with probenecid or cimetidine compared to levofloxacin alone. However, these changes
+01231 | do not warrant dosage adjustment for levofloxacin when probenecid or cimetidine is co-
+01232 | administered.
+01233 | 7.9 Interactions with Laboratory or Diagnostic Testing
+01234 | Some fluoroquinolones, including levofloxacin, may produce false-positive urine
+01235 | max
+01236 | e
+01237 | max
+01238 | 1/2
+01239 | max
+01240 | 1/2
+01241 | R
+01242 | 
+01243 | screening results for opiates using commercially available immunoassay kits.
+01244 | Confirmation of positive opiate screens by more specific methods may be necessary.
+01245 | 8 USE IN SPECIFIC POPULATIONS
+01246 | 8.1 Pregnancy
+01247 | Pregnancy Category C. Levofloxacin was not teratogenic in rats at oral doses as high as
+01248 | 810 mg/kg/day which corresponds to 9.4 times the highest recommended human dose
+01249 | based upon relative body surface area, or at intravenous doses as high as 160
+01250 | mg/kg/day corresponding to 1.9 times the highest recommended human dose based
+01251 | upon relative body surface area. The oral dose of 810 mg/kg/day to rats caused
+01252 | decreased fetal body weight and increased fetal mortality. No teratogenicity was
+01253 | observed when rabbits were dosed orally as high as 50 mg/kg/day which corresponds
+01254 | to 1.1 times the highest recommended human dose based upon relative body surface
+01255 | area, or when dosed intravenously as high as 25 mg/kg/day, corresponding to 0.5 times
+01256 | the highest recommended human dose based upon relative body surface area.
+01257 | There are, however, no adequate and well-controlled studies in pregnant women.
+01258 | Levofloxacin should be used during pregnancy only if the potential benefit justifies the
+01259 | potential risk to the fetus.
+01260 | 8.3 Nursing Mothers
+01261 | Based on data on other fluoroquinolones and very limited data on levofloxacin, it can be
+01262 | presumed that levofloxacin will be excreted in human milk. Because of the potential for
+01263 | serious adverse reactions from levofloxacin in nursing infants, a decision should be
+01264 | made whether to discontinue nursing or to discontinue the drug, taking into account the
+01265 | importance of the drug to the mother.
+01266 | 8.4 Pediatric Use
+01267 | Quinolones, including levofloxacin, cause arthropathy and osteochondrosis in juvenile
+01268 | animals of several species. [see Warnings and Precautions (5.12) and Animal Toxicology
+01269 | and/or Pharmacology (13.2)].
+01270 | Pharmacokinetics following intravenous administration
+01271 | The pharmacokinetics of levofloxacin following a single intravenous dose were
+01272 | investigated in pediatric patients ranging in age from six months to 16 years. Pediatric
+01273 | patients cleared levofloxacin faster than adult patients resulting in lower plasma
+01274 | exposures than adults for a given mg/kg dose [see Clinical Pharmacology (12.3) and
+01275 | Clinical Studies (14.9)].
+01276 | Inhalational Anthrax (Post-Exposure)
+01277 | Levofloxacin is indicated in pediatric patients 6 months of age and older, for inhalational
+01278 | anthrax (post-exposure). The risk-benefit assessment indicates that administration of
+01279 | levofloxacin to pediatric patients is appropriate. The safety of levofloxacin in pediatric
+01280 | patients treated for more than 14 days has not been studied [see Indications and Usage
+01281 | (1.7), Dosage and Administration (2.2) and Clinical Studies (14.9)].
+01282 | Plague
+01283 | 
+01284 | Levofloxacin is indicated in pediatric patients, 6 months of age and older, for treatment
+01285 | of plague, including pneumonic and septicemic plague due to Yersinia pestis (Y. pestis)
+01286 | and prophylaxis for plague. Efficacy studies of levofloxacin could not be conducted in
+01287 | humans with pneumonic plague for ethical and feasibility reasons. Therefore, approval of
+01288 | this indication was based on an efficacy study conducted in animals. The risk-benefit
+01289 | assessment indicates that administration of levofloxacin to pediatric patients is
+01290 | appropriate [see Indications and Usage (1.8), Dosage and Administration (2.2) and
+01291 | Clinical Studies (14.10)].
+01292 | Safety and effectiveness in pediatric patients below the age of six months have not been
+01293 | established.
+01294 | Adverse Events
+01295 | In clinical trials, 1534 children (6 months to 16 years of age) were treated with oral and
+01296 | intravenous levofloxacin. Children 6 months to 5 years of age received levofloxacin 10
+01297 | mg/kg twice a day and children greater than 5 years of age received 10 mg/kg once a
+01298 | day (maximum 500 mg per day) for approximately 10 days.
+01299 | A subset of children in the clinical trials (1340 levofloxacin-treated and 893 non-
+01300 | fluoroquinolone-treated) enrolled in a prospective, long-term surveillance study to
+01301 | assess the incidence of protocol-defined musculoskeletal disorders (arthralgia, arthritis,
+01302 | tendinopathy, gait abnormality) during 60 days and 1 year following the first dose of the
+01303 | study drug. Children treated with levofloxacin had a significantly higher incidence of
+01304 | musculoskeletal disorders when compared to the non-fluoroquinolone-treated children
+01305 | as illustrated in Table 7.
+01306 | Table 7: Incidence of Musculoskeletal Disorders in Pediatric
+01307 | Clinical Trial
+01308 |  Follow-up Period Levofloxacin 
+01309 | N = 1340
+01310 |  Non-Fluoroquinolone 
+01311 | N = 893
+01312 |  p-value
+01313 |  60 days
+01314 |  28 (2.1%)
+01315 |  8 (0.9%)
+01316 |  p = 0.038
+01317 |  1 year
+01318 |  46 (3.4%)
+01319 |  16 (1.8%)
+01320 |  p = 0.025
+01321 | * Non-Fluoroquinolone: ceftriaxone, amoxicillin/clavulanate, clarithromycin
+01322 | † 2-sided Fisher’s Exact Test
+01323 | ‡ There were 1199 levofloxacin-treated and 804 non-fluoroquinolone-treated children
+01324 | who had a one-year evaluation visit. However, the incidence of musculoskeletal
+01325 | disorders was calculated using all reported events during the specified period for all
+01326 | children enrolled regardless of whether they completed the 1-year evaluation visit.
+01327 | Arthralgia was the most frequently occurring musculoskeletal disorder in both treatment
+01328 | groups. Most of the musculoskeletal disorders in both groups involved multiple weight-
+01329 | bearing joints. Disorders were moderate in 8/46 (17%) children and mild in 35/46 (76%)
+01330 | levofloxacin-treated children and most were treated with analgesics. The median time to
+01331 | resolution was 7 days for levofloxacin-treated children and 9 for non-fluoroquinolone-
+01332 | treated children (approximately 80% resolved within 2 months in both groups). No child
+01333 | had a severe or serious disorder and all musculoskeletal disorders resolved without
+01334 | sequelae.
+01335 | *
+01336 | †
+01337 | ‡
+01338 | 
+01339 | Vomiting and diarrhea were the most frequently reported adverse events, occurring in
+01340 | similar frequency in the levofloxacin-treated and non-fluoroquinolone-treated children.
+01341 | In addition to the events reported in pediatric patients in clinical trials, events reported in
+01342 | adults during clinical trials or post-marketing experience [see Adverse Reactions (6)] may
+01343 | also be expected to occur in pediatric patients.
+01344 | 8.5 Geriatric Use
+01345 | Geriatric patients are at increased risk for developing severe tendon disorders including
+01346 | tendon rupture when being treated with a fluoroquinolone such as levofloxacin. This risk
+01347 | is further increased in patients receiving concomitant corticosteroid therapy. Tendinitis
+01348 | or tendon rupture can involve the Achilles, hand, shoulder, or other tendon sites and
+01349 | can occur during or after completion of therapy; cases occurring up to several months
+01350 | after fluoroquinolone treatment have been reported. Caution should be used when
+01351 | prescribing levofloxacin to elderly patients especially those on corticosteroids. Patients
+01352 | should be informed of this potential side effect and advised to discontinue levofloxacin
+01353 | and contact their healthcare provider if any symptoms of tendinitis or tendon rupture
+01354 | occur [see Boxed Warning; Warnings and Precautions (5.2); and Adverse Reactions
+01355 | (6.3)].
+01356 | In Phase 3 clinical trials, 1,945 levofloxacin-treated patients (26%) were ≥ 65 years of
+01357 | age. Of these, 1,081 patients (14%) were between the ages of 65 and 74 and 864
+01358 | patients (12%) were 75 years or older. No overall differences in safety or effectiveness
+01359 | were observed between these subjects and younger subjects, but greater sensitivity of
+01360 | some older individuals cannot be ruled out.
+01361 | Severe, and sometimes fatal, cases of hepatotoxicity have been reported post-
+01362 | marketing in association with levofloxacin. The majority of fatal hepatotoxicity reports
+01363 | occurred in patients 65 years of age or older and most were not associated with
+01364 | hypersensitivity. Levofloxacin should be discontinued immediately if the patient develops
+01365 | signs and symptoms of hepatitis [see Warnings and Precautions (5.8)].
+01366 | Epidemiologic studies report an increased rate of aortic aneurysm and dissection within
+01367 | two months following use of fluoroquinolones, particularly in elderly patients [see
+01368 | Warnings and Precautions (5.9)].
+01369 | Elderly patients may be more susceptible to drug-associated effects on the QT interval.
+01370 | Therefore, precaution should be taken when using levofloxacin with concomitant drugs
+01371 | that can result in prolongation of the QT interval (e.g., Class IA or Class III
+01372 | antiarrhythmics) or in patients with risk factors for torsade de pointes (e.g., known QT
+01373 | prolongation, uncorrected hypokalemia) [see Warnings and Precautions (5.11)].
+01374 | The pharmacokinetic properties of levofloxacin in younger adults and elderly adults do
+01375 | not differ significantly when creatinine clearance is taken into consideration. However,
+01376 | since the drug is known to be substantially excreted by the kidney, the risk of toxic
+01377 | reactions to this drug may be greater in patients with impaired renal function. Because
+01378 | elderly patients are more likely to have decreased renal function, care should be taken in
+01379 | dose selection, and it may be useful to monitor renal function [see Clinical Pharmacology
+01380 | (12.3)].
+01381 | 8.6 Renal Impairment
+01382 | Clearance of levofloxacin is substantially reduced and plasma elimination half-life is
+01383 | 
+01384 | substantially prolonged in patients with impaired renal function (creatinine clearance <
+01385 | 50 mL/min), requiring dosage adjustment in such patients to avoid accumulation. Neither
+01386 | hemodialysis nor continuous ambulatory peritoneal dialysis (CAPD) is effective in removal
+01387 | of levofloxacin from the body, indicating that supplemental doses of levofloxacin are not
+01388 | required following hemodialysis or CAPD [see Dosage and Administration (2.3)].
+01389 | 8.7 Hepatic Impairment
+01390 | Pharmacokinetic studies in hepatically impaired patients have not been conducted. Due
+01391 | to the limited extent of levofloxacin metabolism, the pharmacokinetics of levofloxacin are
+01392 | not expected to be affected by hepatic impairment.
+01393 | 10 OVERDOSAGE
+01394 | In the event of an acute overdosage, the stomach should be emptied. The patient
+01395 | should be observed and appropriate hydration maintained. Levofloxacin is not efficiently
+01396 | removed by hemodialysis or peritoneal dialysis.
+01397 | Levofloxacin exhibits a low potential for acute toxicity. Mice, rats, dogs and monkeys
+01398 | exhibited the following clinical signs after receiving a single high dose of levofloxacin:
+01399 | ataxia, ptosis, decreased locomotor activity, dyspnea, prostration, tremors, and
+01400 | convulsions. Doses in excess of 1500 mg/kg orally and 250 mg/kg IV produced
+01401 | significant mortality in rodents.
+01402 | 11 DESCRIPTION
+01403 | Levofloxacin Oral Solution, USP is a synthetic broad-spectrum antibacterial agent for oral
+01404 | administration. Chemically, levofloxacin, a chiral fluorinated carboxyquinolone, is the
+01405 | pure (-)-(S)-enantiomer of the racemic drug substance ofloxacin. The chemical name is
+01406 | (-)-(S)-9-fluoro-2,3-dihydro-3-methyl-10-(4-methyl-1-piperazinyl)-7-oxo-7H-pyrido[1,2,3-
+01407 | de]-1,4 benzoxazine-6-carboxylic acid hemihydrate.
+01408 |  Figure 1:
+01409 | The Chemical Structure of Levofloxacin 
+01410 | 
+01411 | The empirical formula is C
+01412 | H
+01413 | FN O • 1/2 H O and the molecular weight is 370.38.
+01414 | Levofloxacin is a light yellowish-white to yellow-white crystal or crystalline powder. The
+01415 | molecule exists as a zwitterion at the pH conditions in the small intestine.
+01416 | The data demonstrate that from pH 0.6 to 5.8, the solubility of levofloxacin is essentially
+01417 | constant (approximately 100 mg/mL). Levofloxacin is considered soluble to freely soluble
+01418 | in this pH range, as defined by USP nomenclature. Above pH 5.8, the solubility increases
+01419 | rapidly to its maximum at pH 6.7 (272 mg/mL) and is considered freely soluble in this
+01420 | range. Above pH 6.7, the solubility decreases and reaches a minimum value (about 50
+01421 | mg/mL) at a pH of approximately 6.9.
+01422 | Levofloxacin has the potential to form stable coordination compounds with many metal
+01423 | ions. This in vitro chelation potential has the following formation order:
+01424 | Al
+01425 | >Cu
+01426 | >Zn
+01427 | >Mg
+01428 | >Ca
+01429 | .
+01430 | Excipients and Description of Dosage Forms
+01431 | Levofloxacin Oral Solution, USP
+01432 | Levofloxacin Oral Solution, USP, 25 mg/mL, is a multi-use self-preserving aqueous
+01433 | solution of levofloxacin with pH ranging from 5.0 to 6.0. The appearance of Levofloxacin
+01434 | Oral Solution, USP may range from clear yellow to clear greenish-yellow. This does not
+01435 | adversely affect product potency.
+01436 | Levofloxacin Oral Solution, USP contains the following inactive ingredients: sucrose,
+01437 | glycerin, saccharin sodium, Magnasweet 110F, hydrochloric acid, purified water,
+01438 | propylene glycol, peppermint flavor, FD&C Yellow No. 6, benzoic acid, and butylated
+01439 | hydroxyanisole. It may also contain a solution of sodium hydroxide for pH adjustment.
+01440 | 12 CLINICAL PHARMACOLOGY
+01441 | 12.1 Mechanism of Action
+01442 |  Levofloxacin is a member of the fluoroquinolone class of antibacterial agents [see
+01443 | 18
+01444 | 20
+01445 | 3
+01446 | 4
+01447 | 2
+01448 | +3
+01449 | +2
+01450 | +2
+01451 | +2
+01452 | +2
+01453 | 
+01454 | q
+01455 | g
+01456 | [
+01457 | Microbiology (12.4)].
+01458 | 12.3 Pharmacokinetics
+01459 | The mean ± SD pharmacokinetic parameters of levofloxacin determined under single
+01460 | and steady-state conditions following oral tablet, oral solution, or intravenous (IV) doses
+01461 | of levofloxacin are summarized in Table 8.
+01462 | Table 8: Mean ± SD Levofloxacin PK Parameters
+01463 |  Regimen
+01464 |  C
+01465 |  
+01466 | (mcg/mL)
+01467 |  T
+01468 | (h)
+01469 |  AUC
+01470 | (mcg·h/mL)
+01471 |  CL/F 
+01472 | (mL/min)
+01473 |  Vd/F
+01474 | (L)
+01475 |  t
+01476 | (h)
+01477 |  CL 
+01478 | (mL/min)
+01479 |  Single dose
+01480 |  
+01481 |  
+01482 |  
+01483 |  
+01484 |  
+01485 |  
+01486 |  
+01487 |  250 mg oral tablet
+01488 |  2.8 ± 0.4 1.6
+01489 | ± 1.0 27.2 ± 3.9
+01490 |  156 ±
+01491 | 20
+01492 |  ND
+01493 |  7.3
+01494 | ±
+01495 | 0.9
+01496 |  142 ±
+01497 | 21
+01498 |  500 mg oral tablet *
+01499 |  5.1 ± 0.8 1.3
+01500 | ± 0.6 47.9 ± 6.8
+01501 |  178 ±
+01502 | 28
+01503 |  ND
+01504 |  6.3
+01505 | ±
+01506 | 0.6
+01507 |  103 ±
+01508 | 30
+01509 |  500 mg oral solution
+01510 |  5.8 ± 1.8 0.8
+01511 | ± 0.7 47.8 ± 10.8 183 ±
+01512 | 40
+01513 |  112 ±
+01514 | 37.2
+01515 |  7.0
+01516 | ±
+01517 | 1.4
+01518 |  ND
+01519 |  500 mg IV
+01520 |  6.2 ± 1.0 1.0
+01521 | ± 0.1 48.3 ± 5.4
+01522 |  175 ±
+01523 | 20
+01524 |  90 ±
+01525 | 11
+01526 |  6.4
+01527 | ±
+01528 | 0.7
+01529 |  112 ±
+01530 | 25
+01531 |  750 mg oral tablet *
+01532 |  9.3 ± 1.6 1.6
+01533 | ± 0.8 101 ± 20
+01534 |  129 ±
+01535 | 24
+01536 |  83 ±
+01537 | 17
+01538 |  7.5
+01539 | ±
+01540 | 0.9
+01541 |  ND
+01542 |  750 mg IV
+01543 |  11.5 ±
+01544 | 4.0
+01545 |  ND
+01546 |  110 ± 40
+01547 |  126 ±
+01548 | 39
+01549 |  75 ±
+01550 | 13
+01551 |  7.5
+01552 | ±
+01553 | 1.6
+01554 |  ND
+01555 |  Multiple dose
+01556 |  
+01557 |  
+01558 |  
+01559 |  
+01560 |  
+01561 |  
+01562 |  
+01563 |  500 mg every 24h oral
+01564 | tablet
+01565 |  5.7 ± 1.4 1.1
+01566 | ± 0.4 47.5 ± 6.7
+01567 |  175 ±
+01568 | 25
+01569 |  102 ±
+01570 | 22
+01571 |  7.6
+01572 | ±
+01573 | 1.6
+01574 |  116 ±
+01575 | 31
+01576 |  500 mg every 24h IV
+01577 |  6.4 ± 0.8 ND
+01578 |  54.6 ± 11.1 158 ±
+01579 | 29
+01580 |  91 ±
+01581 | 12
+01582 |  7.0
+01583 | ±
+01584 | 0.8
+01585 |  99 ± 28
+01586 |  500 mg or 250 mg every
+01587 | 24h IV, patients with
+01588 | bacterial infection
+01589 |  8.7± 4.0 ND
+01590 |  72.5 ±
+01591 | 51.2
+01592 |  154 ±
+01593 | 72
+01594 |  111 ±
+01595 | 58
+01596 |  ND ND
+01597 |  750 mg every 24h oral
+01598 | tablet
+01599 |  8.6 ± 1.9 1.4
+01600 | ± 0.5 90.7 ± 17.6 143 ±
+01601 | 29
+01602 |  100 ±
+01603 | 16
+01604 |  8.8
+01605 | ±
+01606 | 1.5
+01607 |  116 ±
+01608 | 28
+01609 |  750 mg every 24h IV
+01610 |  12.1 ±
+01611 | 4.1
+01612 |  ND
+01613 |  108 ± 34
+01614 |  126 ±
+01615 | 37
+01616 |  80 ±
+01617 | 27
+01618 |  7.9
+01619 | ±
+01620 | 1.9
+01621 |  ND
+01622 |  500 mg oral tablet
+01623 | single dose, effects of 
+01624 |  
+01625 |  
+01626 |  
+01627 |  
+01628 |  
+01629 |  
+01630 | max
+01631 | max
+01632 | 1
+01633 | 2
+01634 | 1/2
+01635 | R
+01636 | 3
+01637 | 3
+01638 | 12
+01639 | 3
+01640 | 5
+01641 | 5
+01642 | 4
+01643 | 3
+01644 | 3
+01645 | 6
+01646 | 7
+01647 | 7
+01648 | 5
+01649 | 5
+01650 | 4
+01651 | 
+01652 | gender and age:
+01653 |  Male
+01654 |  5.5 ± 1.1 1.2
+01655 | ± 0.4 54.4 ± 18.9 166 ±
+01656 | 44
+01657 |  89 ±
+01658 | 13
+01659 |  7.5
+01660 | ±
+01661 | 2.1
+01662 |  126 ±
+01663 | 38
+01664 |  Female
+01665 |  7.0 ± 1.6 1.7
+01666 | ± 0.5 67.7 ± 24.2 136 ±
+01667 | 44
+01668 |  62 ±
+01669 | 16
+01670 |  6.1
+01671 | ±
+01672 | 0.8
+01673 |  106 ±
+01674 | 40
+01675 |  Young
+01676 |  5.5 ± 1.0 1.5
+01677 | ± 0.6 47.5 ± 9.8
+01678 |  182 ±
+01679 | 35
+01680 |  83 ±
+01681 | 18
+01682 |  6.0
+01683 | ±
+01684 | 0.9
+01685 |  140 ±
+01686 | 33
+01687 |  Elderly
+01688 |  7.0 ± 1.6 1.4
+01689 | ± 0.5 74.7 ± 23.3 121 ±
+01690 | 33
+01691 |  67 ±
+01692 | 19
+01693 |  7.6
+01694 | ±
+01695 | 2.0
+01696 |  91 ± 29
+01697 |  500 mg oral single
+01698 | dose tablet, patients
+01699 | with
+01700 | renal insufficiency:
+01701 |  
+01702 |  
+01703 |  
+01704 |  
+01705 |  
+01706 |  
+01707 |  
+01708 |  CLCR 50–80 mL/min
+01709 |  7.5 ± 1.8 1.5
+01710 | ± 0.5 95.6 ± 11.8 88 ± 10 ND
+01711 |  9.1
+01712 | ±
+01713 | 0.9
+01714 |  57 ± 8
+01715 |  CLCR 20–49 mL/min
+01716 |  7.1 ± 3.1 2.1
+01717 | ± 1.3
+01718 |  182.1 ±
+01719 | 62.6
+01720 |  51 ± 19 ND
+01721 |  27
+01722 | ±
+01723 | 10
+01724 |  26 ± 13
+01725 |  CLCR <20 mL/min
+01726 |  8.2 ± 2.6 1.1
+01727 | ± 1.0
+01728 |  263.5 ±
+01729 | 72.5
+01730 |  33 ± 8
+01731 |  ND
+01732 |  35
+01733 | ± 5 13 ± 3
+01734 |  Hemodialysis
+01735 |  5.7 ± 1.0 2.8
+01736 | ± 2.2 ND
+01737 |  ND
+01738 |  ND
+01739 |  76
+01740 | ±
+01741 | 42
+01742 |  ND
+01743 |  CAPD
+01744 |  6.9 ± 2.3 1.4
+01745 | ± 1.1 ND
+01746 |  ND
+01747 |  ND
+01748 |  51
+01749 | ±
+01750 | 24
+01751 |  ND
+01752 | clearance/bioavailability
+01753 |  volume of distribution/bioavailability
+01754 |  healthy males 18–53 years of age
+01755 |  60 min infusion for 250 mg and 500 mg doses, 90 min infusion for 750 mg dose
+01756 |  healthy male and female subjects 18–54 years of age
+01757 |  500 mg every 48h for patients with moderate renal impairment (CLCR 20–50 mL/min)
+01758 | and infections of the respiratory tract or skin
+01759 |  dose-normalized values (to 500 mg dose), estimated by population pharmacokinetic
+01760 | modeling
+01761 |  healthy males 22–75 years of age
+01762 |  healthy females 18–80 years of age
+01763 |  young healthy male and female subjects 18–36 years of age
+01764 | 8
+01765 | 9
+01766 | 10
+01767 | 11
+01768 | 1 
+01769 | 2
+01770 | 3
+01771 | 4
+01772 | 5
+01773 | 6
+01774 | 7
+01775 | 8
+01776 | 9
+01777 | 10
+01778 | 
+01779 |  healthy elderly male and female subjects 66–80 years of age
+01780 |  healthy males and females 19–55 years of age.
+01781 | *Absolute bioavailability; F=0.99 ± 0.08 from a 500 mg tablet and F=0.99 ± 0.06 from a
+01782 | 750 mg tablet; ND=not determined.
+01783 | Absorption
+01784 | Levofloxacin is rapidly and essentially completely absorbed after oral administration.
+01785 | Peak plasma concentrations are usually attained one to two hours after oral dosing. The
+01786 | absolute bioavailability of levofloxacin from a 500 mg tablet and a 750 mg tablet of
+01787 | levofloxacin are both approximately 99%, demonstrating complete oral absorption of
+01788 | levofloxacin. Following a single intravenous dose of levofloxacin to healthy volunteers,
+01789 | the mean ± SD peak plasma concentration attained was 6.2 ± 1.0 mcg/mL after a 500
+01790 | mg dose infused over 60 minutes and 11.5 ± 4.0 mcg/mL after a 750 mg dose infused
+01791 | over 90 minutes. Levofloxacin oral solution and tablet formulations are bioequivalent.
+01792 | Levofloxacin pharmacokinetics are linear and predictable after single and multiple oral or
+01793 | IV dosing regimens. Steady-state conditions are reached within 48 hours following a 500
+01794 | mg or 750 mg once-daily dosage regimen. The mean ± SD peak and trough plasma
+01795 | concentrations attained following multiple once-daily oral dosage regimens were
+01796 | approximately 5.7 ± 1.4 and 0.5 ± 0.2 mcg/mL after the 500 mg doses, and 8.6 ± 1.9
+01797 | and 1.1 ± 0.4 mcg/mL after the 750 mg doses, respectively. The mean ± SD peak and
+01798 | trough plasma concentrations attained following multiple once-daily IV regimens were
+01799 | approximately 6.4 ± 0.8 and 0.6 ± 0.2 mcg/mL after the 500 mg doses, and 12.1 ± 4.1
+01800 | and 1.3 ± 0.71 mcg/mL after the 750 mg doses, respectively. Oral administration of a
+01801 | 500 mg dose of levofloxacin with food prolongs the time to peak concentration by
+01802 | approximately 1 hour and decreases the peak concentration by approximately 14%
+01803 | following tablet and approximately 25% following oral solution administration. Therefore,
+01804 | levofloxacin tablets can be administered without regard to food. It is recommended that
+01805 | levofloxacin oral solution be taken 1 hour before or 2 hours after eating.
+01806 | The plasma concentration profile of levofloxacin after IV administration is similar and
+01807 | comparable in extent of exposure (AUC) to that observed for levofloxacin tablets when
+01808 | equal doses (mg/mg) are administered. Therefore, the oral and IV routes of
+01809 | administration can be considered interchangeable (see Figure 2 and Figure 3).
+01810 |  Figure 2: Mean
+01811 | Levofloxacin Plasma Concentration vs. Time Profile: 750 mg
+01812 | 11
+01813 | 12
+01814 | 
+01815 |  Figure 3: Mean
+01816 | Levofloxacin Plasma Concentration vs. Time Profile: 500 mg
+01817 | 
+01818 | Distribution
+01819 | The mean volume of distribution of levofloxacin generally ranges from 74 to 112 L after
+01820 | single and multiple 500 mg or 750 mg doses, indicating widespread distribution into
+01821 | body tissues. Levofloxacin reaches its peak levels in skin tissues and in blister fluid of
+01822 | healthy subjects at approximately 3 hours after dosing. The skin tissue biopsy to plasma
+01823 | AUC ratio is approximately 2 and the blister fluid to plasma AUC ratio is approximately 1
+01824 | following multiple once-daily oral administration of 750 mg and 500 mg doses of
+01825 | levofloxacin, respectively, to healthy subjects. Levofloxacin also penetrates well into lung
+01826 | tissues. Lung tissue concentrations were generally 2- to 5-fold higher than plasma
+01827 | concentrations and ranged from approximately 2.4 to 11.3 mcg/g over a 24-hour period
+01828 | after a single 500 mg oral dose.
+01829 | In vitro, over a clinically relevant range (1 to 10 mcg/mL) of serum/plasma levofloxacin
+01830 | concentrations, levofloxacin is approximately 24 to 38% bound to serum proteins
+01831 | across all species studied, as determined by the equilibrium dialysis method.
+01832 | Levofloxacin is mainly bound to serum albumin in humans. Levofloxacin binding to
+01833 | serum proteins is independent of the drug concentration.
+01834 | 
+01835 | Metabolism
+01836 | Levofloxacin is stereochemically stable in plasma and urine and does not invert
+01837 | metabolically to its enantiomer, D-ofloxacin. Levofloxacin undergoes limited metabolism
+01838 | in humans and is primarily excreted as unchanged drug in the urine. Following oral
+01839 | administration, approximately 87% of an administered dose was recovered as
+01840 | unchanged drug in urine within 48 hours, whereas less than 4% of the dose was
+01841 | recovered in feces in 72 hours. Less than 5% of an administered dose was recovered in
+01842 | the urine as the desmethyl and N-oxide metabolites, the only metabolites identified in
+01843 | humans. These metabolites have little relevant pharmacological activity.
+01844 | Excretion
+01845 | Levofloxacin is excreted largely as unchanged drug in the urine. The mean terminal
+01846 | plasma elimination half-life of levofloxacin ranges from approximately 6 to 8 hours
+01847 | following single or multiple doses of levofloxacin given orally or intravenously. The mean
+01848 | apparent total body clearance and renal clearance range from approximately 144 to 226
+01849 | mL/min and 96 to 142 mL/min, respectively. Renal clearance in excess of the glomerular
+01850 | filtration rate suggests that tubular secretion of levofloxacin occurs in addition to its
+01851 | glomerular filtration. Concomitant administration of either cimetidine or probenecid
+01852 | results in approximately 24% and 35% reduction in the levofloxacin renal clearance,
+01853 | respectively, indicating that secretion of levofloxacin occurs in the renal proximal tubule.
+01854 | No levofloxacin crystals were found in any of the urine samples freshly collected from
+01855 | subjects receiving levofloxacin.
+01856 | Geriatric
+01857 | There are no significant differences in levofloxacin pharmacokinetics between young and
+01858 | elderly subjects when the subjects’ differences in creatinine clearance are taken into
+01859 | consideration. Following a 500 mg oral dose of levofloxacin to healthy elderly subjects
+01860 | (66-80 years of age), the mean terminal plasma elimination half-life of levofloxacin was
+01861 | about 7.6 hours, as compared to approximately 6 hours in younger adults. The
+01862 | difference was attributable to the variation in renal function status of the subjects and
+01863 | was not believed to be clinically significant. Drug absorption appears to be unaffected by
+01864 | age. Levofloxacin dose adjustment based on age alone is not necessary [see Use in
+01865 | Specific Populations (8.5)].
+01866 | Pediatrics
+01867 | The pharmacokinetics of levofloxacin following a single 7 mg/kg intravenous dose were
+01868 | investigated in pediatric patients ranging in age from 6 months to 16 years. Pediatric
+01869 | patients cleared levofloxacin faster than adult patients, resulting in lower plasma
+01870 | exposures than adults for a given mg/kg dose. Subsequent pharmacokinetic analyses
+01871 | predicted that a dosage regimen of 8 mg/kg every 12 hours (not to exceed 250 mg per
+01872 | dose) for pediatric patients 6 months to 17 years of age would achieve comparable
+01873 | steady state plasma exposures (AUC
+01874 |  and C
+01875 | ) to those observed in adult patients
+01876 | administered 500 mg of levofloxacin once every 24 hours.
+01877 | Gender
+01878 | There are no significant differences in levofloxacin pharmacokinetics between male and
+01879 | female subjects when subjects’ differences in creatinine clearance are taken into
+01880 | consideration. Following a 500 mg oral dose of levofloxacin to healthy male subjects, the
+01881 | mean terminal plasma elimination half-life of levofloxacin was about 7.5 hours, as
+01882 | 0-24
+01883 | max
+01884 | 
+01885 | compared to approximately 6.1 hours in female subjects. This difference was
+01886 | attributable to the variation in renal function status of the male and female subjects and
+01887 | was not believed to be clinically significant. Drug absorption appears to be unaffected by
+01888 | the gender of the subjects. Dose adjustment based on gender alone is not necessary.
+01889 | Race
+01890 | The effect of race on levofloxacin pharmacokinetics was examined through a covariate
+01891 | analysis performed on data from 72 subjects: 48 white and 24 non-white. The apparent
+01892 | total body clearance and apparent volume of distribution were not affected by the race
+01893 | of the subjects.
+01894 | Renal Impairment
+01895 | Clearance of levofloxacin is substantially reduced and plasma elimination half-life is
+01896 | substantially prolonged in adult patients with impaired renal function (creatinine
+01897 | clearance < 50 mL/min), requiring dosage adjustment in such patients to avoid
+01898 | accumulation. Neither hemodialysis nor continuous ambulatory peritoneal dialysis
+01899 | (CAPD) is effective in removal of levofloxacin from the body, indicating that supplemental
+01900 | doses of levofloxacin are not required following hemodialysis or CAPD [see Dosage and
+01901 | Administration (2.3), Use in Specific Populations (8.6)].
+01902 | Hepatic Impairment
+01903 | Pharmacokinetic studies in hepatically impaired patients have not been conducted. Due
+01904 | to the limited extent of levofloxacin metabolism, the pharmacokinetics of levofloxacin are
+01905 | not expected to be affected by hepatic impairment [see Use in Specific Populations
+01906 | (8.7)].
+01907 | Bacterial Infection
+01908 | The pharmacokinetics of levofloxacin in patients with serious community-acquired
+01909 | bacterial infections are comparable to those observed in healthy subjects.
+01910 | Drug-Drug Interactions
+01911 | The potential for pharmacokinetic drug interactions between levofloxacin and antacids,
+01912 | warfarin, theophylline, cyclosporine, digoxin, probenecid, and cimetidine has been
+01913 | evaluated [see Drug Interactions (7)].
+01914 | 12.4 Microbiology
+01915 | Mechanism of Action
+01916 | Levofloxacin is the L-isomer of the racemate, ofloxacin, a quinolone antimicrobial agent.
+01917 | The antibacterial activity of ofloxacin resides primarily in the L-isomer. The mechanism of
+01918 | action of levofloxacin and other fluoroquinolone antimicrobials involves inhibition of
+01919 | bacterial topoisomerase IV and DNA gyrase (both of which are type II topoisomerases),
+01920 | enzymes required for DNA replication, transcription, repair and recombination.
+01921 | Mechanism of Resistance
+01922 | Fluoroquinolone resistance can arise through mutations in defined regions of DNA
+01923 | gyrase or topoisomerase IV, termed the Quinolone-Resistance Determining Regions
+01924 | (QRDRs), or through altered efflux.
+01925 | Fluoroquinolones, including levofloxacin, differ in chemical structure and mode of action
+01926 | 
+01927 | from aminoglycosides, macrolides and β-lactam antibiotics, including penicillins.
+01928 | Fluoroquinolones may, therefore, be active against bacteria resistant to these
+01929 | antimicrobials.
+01930 | Resistance to levofloxacin due to spontaneous mutation in vitro is a rare occurrence
+01931 | (range: 10
+01932 |  to 10
+01933 | ). Cross-resistance has been observed between levofloxacin and
+01934 | some other fluoroquinolones, some microorganisms resistant to other fluoroquinolones
+01935 | may be susceptible to levofloxacin.
+01936 | Activity in vitro and in vivo
+01937 | Levofloxacin has in vitro activity against Gram-negative and Gram-positive bacteria.
+01938 | Levofloxacin has been shown to be active against most isolates of the following bacteria
+01939 | both in vitro and in clinical infections as described in Indications and Usage (1):
+01940 | Gram-Positive Bacteria
+01941 | Enterococcus faecalis
+01942 | Staphylococcus aureus (methicillin-susceptible isolates)
+01943 | Staphylococcus epidermidis (methicillin-susceptible isolates)
+01944 | Staphylococcus saprophyticus
+01945 | Streptococcus pneumoniae (including multi-drug resistant isolates [MDRSP] )
+01946 | Streptococcus pyogenes
+01947 | Gram-Negative Bacteria
+01948 | Enterobacter cloacae
+01949 | Escherichia coli
+01950 | Haemophilus influenzae
+01951 | Haemophilus parainfluenzae
+01952 | Klebsiella pneumoniae
+01953 | Legionella pneumophila
+01954 | Moraxella catarrhalis
+01955 | Proteus mirabilis
+01956 | Pseudomonas aeruginosa
+01957 | Serratia marcescens
+01958 | Other Bacteria
+01959 | Chlamydophila pneumoniae
+01960 | Mycoplasma pneumonia 
+01961 |  MDRSP (Multi-drug resistant Streptococcus pneumoniae) isolates are isolates resistant
+01962 | to two or more of the following antibiotics: penicillin (MIC ≥2 mcg/mL), 2nd generation
+01963 | cephalosporins, e.g., cefuroxime; macrolides, tetracyclines and
+01964 | trimethoprim/sulfamethoxazole.
+01965 | -9
+01966 | -10
+01967 | 1
+01968 | 1
+01969 | 
+01970 | The following in vitro data are available, but their clinical significance is unknown: 
+01971 | Levofloxacin exhibits in vitro minimum inhibitory concentrations (MIC values) of 2
+01972 | mcg/mL or less against most (≥90%) isolates of the following microorganisms; however,
+01973 | the safety and effectiveness of levofloxacin in treating clinical infections due to these
+01974 | bacteria have not been established in adequate and well-controlled clinical trials.
+01975 | Gram-Positive Bacteria
+01976 | Staphylococcus haemolyticus
+01977 | β-hemolytic Streptococcus (Group C/F)
+01978 | β-hemolytic Streptococcus (Group G)
+01979 | Streptococcus agalactiae
+01980 | Streptococcus milleri
+01981 | Viridans group streptococci
+01982 | Bacillus anthracis
+01983 | Gram-Negative Bacteria
+01984 | Acinetobacter baumannii
+01985 | Acinetobacter lwoffii
+01986 | Bordetella pertussis
+01987 | Citrobacter koseri
+01988 | Citrobacter freundii
+01989 | Enterobacter aerogenes
+01990 | Enterobacter sakazakii
+01991 | Klebsiella oxytoca
+01992 | Morganella morganii
+01993 | Pantoea agglomerans
+01994 | Proteus vulgaris
+01995 | Providencia rettgeri
+01996 | Providencia stuartii
+01997 | Pseudomonas fluorescens
+01998 | Yersinia pestis
+01999 |  Anaerobic Gram-Positive Bacteria
+02000 | Clostridium perfringens
+02001 | Susceptibility Tests
+02002 | For specific information regarding susceptibility test interpretive criteria and associated
+02003 | test methods and quality control standards recognized by FDA for this drug, please see:
+02004 | https//www.fda.gov/STIC.
+02005 | 
+02006 | 13 NONCLINICAL TOXICOLOGY
+02007 | 13.1 Carcinogenesis, Mutagenesis, Impairment of Fertility
+02008 | In a lifetime bioassay in rats, levofloxacin exhibited no carcinogenic potential following
+02009 | daily dietary administration for 2 years; the highest dose (100 mg/kg/day) was 1.4 times
+02010 | the highest recommended human dose (750 mg) based upon relative body surface
+02011 | area. Levofloxacin did not shorten the time to tumor development of UV-induced skin
+02012 | tumors in hairless albino (Skh-1) mice at any levofloxacin dose level and was therefore
+02013 | not photo-carcinogenic under conditions of this study. Dermal levofloxacin
+02014 | concentrations in the hairless mice ranged from 25 to 42 mcg/g at the highest
+02015 | levofloxacin dose level (300 mg/kg/day) used in the photo-carcinogenicity study. By
+02016 | comparison, dermal levofloxacin concentrations in human subjects receiving 750 mg of
+02017 | levofloxacin averaged approximately 11.8 mcg/g at C
+02018 | .
+02019 | Levofloxacin was not mutagenic in the following assays: Ames bacterial mutation assay
+02020 | (S. typhimurium and E. coli), CHO/HGPRT forward mutation assay, mouse micronucleus
+02021 | test, mouse dominant lethal test, rat unscheduled DNA synthesis assay, and the mouse
+02022 | sister chromatid exchange assay. It was positive in the in vitro chromosomal aberration
+02023 | (CHL cell line) and sister chromatid exchange (CHL/IU cell line) assays.
+02024 | Levofloxacin caused no impairment of fertility or reproductive performance in rats at
+02025 | oral doses as high as 360 mg/kg/day, corresponding to 4.2 times the highest
+02026 | recommended human dose based upon relative body surface area and intravenous
+02027 | doses as high as 100 mg/kg/day, corresponding to 1.2 times the highest recommended
+02028 | human dose based upon relative body surface area.
+02029 | 13.2 Animal Toxicology and/or Pharmacology
+02030 | Levofloxacin and other quinolones have been shown to cause arthropathy in immature
+02031 | animals of most species tested [see Warnings and Precautions (5.12)]. In immature
+02032 | dogs (4–5 months old), oral doses of 10 mg/kg/day for 7 days and intravenous doses of
+02033 | 4 mg/kg/day for 14 days of levofloxacin resulted in arthropathic lesions. Administration
+02034 | at oral doses of 300 mg/kg/day for 7 days and intravenous doses of 60 mg/kg/day for 4
+02035 | weeks produced arthropathy in juvenile rats. Three-month old beagle dogs dosed orally
+02036 | with levofloxacin at 40 mg/kg/day exhibited clinically severe arthrotoxicity resulting in the
+02037 | termination of dosing at Day 8 of a 14-day dosing routine. Slight musculoskeletal clinical
+02038 | effects, in the absence of gross pathological or histopathological effects, resulted from
+02039 | the lowest dose level of 2.5 mg/kg/day (approximately 0.2-fold the pediatric dose based
+02040 | upon AUC comparisons). Synovitis and articular cartilage lesions were observed at the
+02041 | 10 and 40 mg/kg dose levels (approximately 0.7-fold and 2.4-fold the pediatric dose,
+02042 | respectively, based on AUC comparisons). Articular cartilage gross pathology and
+02043 | histopathology persisted to the end of the 18-week recovery period for those dogs from
+02044 | the 10 and 40 mg/kg/day dose levels.
+02045 | When tested in a mouse ear swelling bioassay, levofloxacin exhibited phototoxicity
+02046 | similar in magnitude to ofloxacin, but less phototoxicity than other quinolones.
+02047 | While crystalluria has been observed in some intravenous rat studies, urinary crystals
+02048 | are not formed in the bladder, being present only after micturition and are not
+02049 | associated with nephrotoxicity.
+02050 | max
+02051 | 
+02052 | In mice, the CNS stimulatory effect of quinolones is enhanced by concomitant
+02053 | administration of non-steroidal anti-inflammatory drugs.
+02054 | In dogs, levofloxacin administered at 6 mg/kg or higher by rapid intravenous injection
+02055 | produced hypotensive effects. These effects were considered to be related to histamine
+02056 | release.
+02057 | In vitro and in vivo studies in animals indicate that levofloxacin is neither an enzyme
+02058 | inducer nor inhibitor in the human therapeutic plasma concentration range; therefore,
+02059 | no drug metabolizing enzyme-related interactions with other drugs or agents are
+02060 | anticipated.
+02061 | 14 CLINICAL STUDIES
+02062 | 14.1 Nosocomial Pneumonia
+02063 | Adult patients with clinically and radiologically documented nosocomial pneumonia were
+02064 | enrolled in a multicenter, randomized, open-label study comparing intravenous
+02065 | levofloxacin (750 mg once daily) followed by oral levofloxacin (750 mg once daily) for a
+02066 | total of 7-15 days to intravenous imipenem/cilastatin (500–1000 mg every 6–8 hours
+02067 | daily) followed by oral ciprofloxacin (750 mg every 12 hours daily) for a total of 7-15
+02068 | days. Levofloxacin-treated patients received an average of 7 days of intravenous
+02069 | therapy (range: 1-16 days); comparator-treated patients received an average of 8 days
+02070 | of intravenous therapy (range: 1-19 days).
+02071 | Overall, in the clinically and microbiologically evaluable population, adjunctive therapy was
+02072 | empirically initiated at study entry in 56 of 93 (60.2%) patients in the levofloxacin arm
+02073 | and 53 of 94 (56.4%) patients in the comparator arm. The average duration of
+02074 | adjunctive therapy was 7 days in the levofloxacin arm and 7 days in the comparator. In
+02075 | clinically and microbiologically evaluable patients with documented Pseudomonas
+02076 | aeruginosa infection, 15 of 17 (88.2%) received ceftazidime (N=11) or
+02077 | piperacillin/tazobactam (N=4) in the levofloxacin arm and 16 of 17 (94.1%) received an
+02078 | aminoglycoside in the comparator arm. Overall, in clinically and microbiologically
+02079 | evaluable patients, vancomycin was added to the treatment regimen of 37 of 93 (39.8%)
+02080 | patients in the levofloxacin arm and 28 of 94 (29.8%) patients in the comparator arm for
+02081 | suspected methicillin-resistant S. aureus infection.
+02082 | Clinical success rates in clinically and microbiologically evaluable patients at the
+02083 | posttherapy visit (primary study endpoint assessed on day 3-15 after completing
+02084 | therapy) were 58.1% for levofloxacin and 60.6% for comparator. The 95% CI for the
+02085 | difference of response rates (levofloxacin minus comparator) was [-17.2, 12.0]. The
+02086 | microbiological eradication rates at the posttherapy visit were 66.7% for levofloxacin and
+02087 | 60.6% for comparator. The 95% CI for the difference of eradication rates (levofloxacin
+02088 | minus comparator) was [-8.3, 20.3]. Clinical success and microbiological eradication
+02089 | rates by pathogen are detailed in Table 9.
+02090 | Table 9: Clinical Success Rates and Bacteriological Eradication Rates
+02091 | (Nosocomial Pneumonia)
+02092 |  Pathogen
+02093 |  N
+02094 |  Levoflocaxin No. (%)
+02095 | of
+02096 | Patients
+02097 |  N
+02098 |  Imipenem/Cilastatin No. (%) of
+02099 | Patients Microbiologic/Clinical
+02100 | 
+02101 | g
+02102 | Microbiologic/Clinical
+02103 | Outcomes
+02104 | g
+02105 | Outcomes
+02106 |  MSSA
+02107 |  21
+02108 |  14 (66.7)/13 (61.9)
+02109 |  19
+02110 |  13 (68.4)/15 (78.9)
+02111 |  P.
+02112 | aeruginosa
+02113 |  17
+02114 |  10 (58.8)/11 (64.7)
+02115 |  17
+02116 |  5 (29.4)/7 (41.2)
+02117 |  S.
+02118 | marcescens 11
+02119 |  9 (81.8)/7 (63.6)
+02120 |  7
+02121 |  2 (28.6)/3 (42.9)
+02122 |  E. coli
+02123 |  12
+02124 |  10 (83.3)/7 (58.3)
+02125 |  11
+02126 |  7 (63.6 )/8 (72.7)
+02127 |  K.
+02128 | pneumoniae 11
+02129 |  9 (81.8)/5 (45.5)
+02130 |  7
+02131 |  6 (85.7)/3 (42.9)
+02132 |  H.
+02133 | influenzae
+02134 |  16
+02135 |  13 (81.3)/10 (62.5)
+02136 |  15
+02137 |  14 (93.3)/11 (73.3)
+02138 |  S.
+02139 | pneumoniae
+02140 |  4
+02141 |  3 (75.0)/3 (75.0)
+02142 |  7
+02143 |  5 (71.4)/4 (57.1)
+02144 | * Methicillin-susceptible S. aureus
+02145 | † See above text for use of combination therapy
+02146 | ‡ The observed differences in rates for the clinical and microbiological outcomes may
+02147 | reflect other factors that were not accounted for in the study
+02148 | 14.2 Community-Acquired Pneumonia: 7-14 day Treatment Regimen
+02149 | Adult inpatients and outpatients with a diagnosis of community-acquired bacterial
+02150 | pneumonia were evaluated in 2 pivotal clinical studies. In the first study, 590 patients
+02151 | were enrolled in a prospective, multi-center, unblinded randomized trial comparing
+02152 | levofloxacin 500 mg once daily orally or intravenously for 7 to 14 days to ceftriaxone 1
+02153 | to 2 grams intravenously once or in equally divided doses twice daily followed by
+02154 | cefuroxime axetil 500 mg orally twice daily for a total of 7 to 14 days. Patients assigned
+02155 | to treatment with the control regimen were allowed to receive erythromycin (or
+02156 | doxycycline if intolerant of erythromycin) if an infection due to atypical pathogens was
+02157 | suspected or proven. Clinical and microbiologic evaluations were performed during
+02158 | treatment, 5 to 7 days posttherapy, and 3 to 4 weeks posttherapy. Clinical success
+02159 | (cure plus improvement) with levofloxacin at 5 to 7 days posttherapy, the primary
+02160 | efficacy variable in this study, was superior (95%) to the control group (83%). The 95%
+02161 | CI for the difference of response rates (levofloxacin minus comparator) was [-6, 19]. In
+02162 | the second study, 264 patients were enrolled in a prospective, multi-center, non-
+02163 | comparative trial of 500 mg levofloxacin administered orally or intravenously once daily
+02164 | for 7 to 14 days. Clinical success for clinically evaluable patients was 93%. For both
+02165 | studies, the clinical success rate in patients with atypical pneumonia due to
+02166 | Chlamydophila pneumoniae, Mycoplasma pneumoniae, and Legionella pneumophila were
+02167 | 96%, 96%, and 70%, respectively. Microbiologic eradication rates across both studies
+02168 | are presented in Table 10.
+02169 | Table 10: Bacteriological Eradication Rates Across 2 Community
+02170 | Acquired Pneumonia Clinical Studies
+02171 |  Pathogen
+02172 |  No. Pathogens Bacteriological Eradication Rate (%)
+02173 |  H. influenzae
+02174 |  55
+02175 |  98
+02176 | *
+02177 | †
+02178 | ‡
+02179 | 
+02180 |  S. pneumoniae
+02181 |  83
+02182 |  95
+02183 |  S. aureus
+02184 |  17
+02185 |  88
+02186 |  M. catarrhalis
+02187 |  18
+02188 |  94
+02189 |  H. parainfluenzae
+02190 |  19
+02191 |  95
+02192 |  K. pneumoniae
+02193 |  10
+02194 |  100.0
+02195 | Community-Acquired Pneumonia Due to Multi-Drug Resistant Streptococcus
+02196 | pneumoniae
+02197 | Levofloxacin was effective for the treatment of community-acquired pneumonia caused
+02198 | by multi-drug resistant Streptococcus pneumoniae (MDRSP). MDRSP isolates are isolates
+02199 | resistant to two or more of the following antibacterials: penicillin (MIC ≥2 mcg/mL), 2
+02200 | generation cephalosporins (e.g., cefuroxime, macrolides, tetracyclines and
+02201 | trimethoprim/sulfamethoxazole). Of 40 microbiologically evaluable patients with MDRSP
+02202 | isolates, 38 patients (95.0%) achieved clinical and bacteriologic success at post-therapy.
+02203 | The clinical and bacterial success rates are shown in Table 11.
+02204 | Table 11: Clinical and Bacterial Success Rates for Levofloxacin-
+02205 | Treated MDRSP in Community Acquired Pneumonia Patients
+02206 | (Population Valid for Efficacy)
+02207 |  Screening Susceptibility
+02208 |  Clinical 
+02209 |  Success
+02210 |  Bacteriological 
+02211 |  Success
+02212 |  
+02213 |  n/N
+02214 |  %
+02215 |  n/N
+02216 |  %
+02217 |  Penicillin-resistant
+02218 |  16/17 94.1
+02219 |  16/17
+02220 |  94.1
+02221 |  2nd generation Cephalosporin resistant
+02222 |  31/32 96.9
+02223 |  31/32
+02224 |  96.9
+02225 |  Macrolide-resistant
+02226 |  28/29 96.6
+02227 |  28/29
+02228 |  96.6
+02229 |  Trimethoprim/ Sulfamethoxazole resistant 17/19 89.5
+02230 |  17/19
+02231 |  89.5
+02232 |  Tetracycline-resistant
+02233 |  12/12 100
+02234 |  12/12
+02235 |  100
+02236 | * One patient had a respiratory isolate that was resistant to tetracycline, cefuroxime,
+02237 | macrolides and TMP/SMX and intermediate to penicillin and a blood isolate that was
+02238 | intermediate to penicillin and cefuroxime and resistant to the other classes. The patient
+02239 | is included in the database based on respiratory isolate.
+02240 | † n=the number of microbiologically evaluable patients who were clinical successes;
+02241 | N=number of microbiologically evaluable patients in the designated resistance group.
+02242 | ‡ n=the number of MDRSP isolates eradicated or presumed eradicated in
+02243 | microbiologically evaluable patients; N=number of MDRSP isolates in a designated
+02244 | resistance group.
+02245 | Not all isolates were resistant to all antimicrobial classes tested. Success and eradication
+02246 | rates are summarized in Table 12.
+02247 | Table 12: Clinical Success and Bacteriologic Eradication Rates for
+02248 | Resistant Streptococcus pneumoniae (Community Acquired
+02249 | Pneumonia)
+02250 |  Type of Resistance
+02251 |  Clinical Success Bacteriologic Eradication
+02252 | nd
+02253 | *
+02254 | †
+02255 | ‡
+02256 | 
+02257 |  Resistant to 2 antibacterials
+02258 |  17/18 (94.4%)
+02259 |  17/18 (94.4%)
+02260 |  Resistant to 3 antibacterials
+02261 |  14/15 (93.3%)
+02262 |  14/15 (93.3%)
+02263 |  Resistant to 4 antibacterials
+02264 |  7/7 (100%)
+02265 |  7/7 (100%)
+02266 |  Resistant to 5 antibacterials
+02267 |  0
+02268 |  0
+02269 |  Bacteremia with MDRSP
+02270 |  8/9 (89%)
+02271 |  8/9 (89%)
+02272 | 14.3 Community-Acquired Pneumonia: 5-day Treatment Regimen
+02273 | To evaluate the safety and efficacy of the higher dose and shorter course of
+02274 | levofloxacin, 528 outpatient and hospitalized adults with clinically and radiologically
+02275 | determined mild to severe community-acquired pneumonia were evaluated in a double-
+02276 | blind, randomized, prospective, multicenter study comparing levofloxacin 750 mg, IV or
+02277 | orally, every day for five days or levofloxacin 500 mg IV or orally, every day for 10 days.
+02278 | Clinical success rates (cure plus improvement) in the clinically evaluable population were
+02279 | 90.9% in the levofloxacin 750 mg group and 91.1% in the levofloxacin 500 mg group.
+02280 | The 95% CI for the difference of response rates (levofloxacin 750 minus levofloxacin
+02281 | 500) was [-5.9, 5.4]. In the clinically evaluable population (31–38 days after enrollment)
+02282 | pneumonia was observed in 7 out of 151 patients in the levofloxacin 750 mg group and
+02283 | 2 out of 147 patients in the levofloxacin 500 mg group. Given the small numbers
+02284 | observed, the significance of this finding cannot be determined statistically. The
+02285 | microbiological efficacy of the 5-day regimen was documented for infections listed in
+02286 | Table 13.
+02287 | Table 13: Bacteriological Eradication
+02288 | Rates (Community-Acquired
+02289 | Pneumonia)
+02290 |  S. pneumoniae
+02291 |  19/20 (95%)
+02292 |  Haemophilus influenzae
+02293 |  12/12 (100%)
+02294 |  Haemophilus parainfluenzae 10/10 (100%)
+02295 |  Mycoplasma pneumoniae
+02296 |  26/27 (96%)
+02297 |  Chlamydophila pneumoniae 13/15 (87%)
+02298 | 14.4 Acute Bacterial Sinusitis: 5-day and 10-14 day Treatment Regimens
+02299 | Levofloxacin is approved for the treatment of acute bacterial sinusitis (ABS) using either
+02300 | 750 mg by mouth x 5 days or 500 mg by mouth once daily x 10–14 days. To evaluate
+02301 | the safety and efficacy of a high dose short course of levofloxacin, 780 outpatient
+02302 | adults with clinically and radiologically determined acute bacterial sinusitis were evaluated
+02303 | in a double-blind, randomized, prospective, multicenter study comparing levofloxacin
+02304 | 750 mg by mouth once daily for five days to levofloxacin 500 mg by mouth once daily
+02305 | for 10 days.
+02306 | Clinical success rates (defined as complete or partial resolution of the pre-treatment
+02307 | signs and symptoms of ABS to such an extent that no further antibiotic treatment was
+02308 | 
+02309 | deemed necessary) in the microbiologically evaluable population were 91.4% (139/152)
+02310 | in the levofloxacin 750 mg group and 88.6% (132/149) in the levofloxacin 500 mg group
+02311 | at the test-of-cure (TOC) visit (95% CI [-4.2, 10.0] for levofloxacin 750 mg minus
+02312 | levofloxacin 500 mg).
+02313 | Rates of clinical success by pathogen in the microbiologically evaluable population who
+02314 | had specimens obtained by antral tap at study entry showed comparable results for the
+02315 | five- and ten-day regimens at the test-of-cure visit 22 days post treatment (see Table
+02316 | 14).
+02317 | Table 14: Clinical Success Rate by Pathogen at the TOC in
+02318 | Microbiologically Evaluable Subjects Who Underwent Antral
+02319 | Puncture (Acute Bacterial Sinusitis)
+02320 |  Pathogen
+02321 |  Levofloxacin
+02322 | 750 mg x 5 days
+02323 |  Levofloxacin
+02324 | 500 mg x 10 days
+02325 |  Streptococcus pneumoniae* 25/27 (92.6%)
+02326 |  26/27 (96.3%)
+02327 |  Haemophilus influenzae*
+02328 |  19/21 (90.5%)
+02329 |  25/27 (92.6%)
+02330 |  Moraxella catarrhalis*
+02331 |  10/11 (90.9%)
+02332 |  13/13 (100%)
+02333 | * Note: Forty percent of the subjects in this trial had specimens obtained by sinus
+02334 | endoscopy. The efficacy data for subjects whose specimen was obtained endoscopically
+02335 | were comparable to those presented in the above table.
+02336 | 14.5 Complicated Skin and Skin Structure Infections
+02337 | Three hundred ninety-nine patients were enrolled in an open-label, randomized,
+02338 | comparative study for complicated skin and skin structure infections. The patients were
+02339 | randomized to receive either levofloxacin 750 mg once daily (IV followed by oral), or an
+02340 | approved comparator for a median of 10 ± 4.7 days. As is expected in complicated skin
+02341 | and skin structure infections, surgical procedures were performed in the levofloxacin
+02342 | and comparator groups. Surgery (incision and drainage or debridement) was performed
+02343 | on 45% of the levofloxacin-treated patients and 44% of the comparator-treated
+02344 | patients, either shortly before or during antibiotic treatment and formed an integral part
+02345 | of therapy for this indication.
+02346 | Among those who could be evaluated clinically 2–5 days after completion of study drug,
+02347 | overall success rates (improved or cured) were 116/138 (84.1%) for patients treated
+02348 | with levofloxacin and 106/132 (80.3%) for patients treated with the comparator.
+02349 | Success rates varied with the type of diagnosis ranging from 68% in patients with
+02350 | infected ulcers to 90% in patients with infected wounds and abscesses. These rates
+02351 | were equivalent to those seen with comparator drugs.
+02352 | 14.6 Chronic Bacterial Prostatitis
+02353 | Adult patients with a clinical diagnosis of prostatitis and microbiological culture results
+02354 | from urine sample collected after prostatic massage (VB ) or expressed prostatic
+02355 | secretion (EPS) specimens obtained via the Meares-Stamey procedure were enrolled in a
+02356 | multicenter, randomized, double-blind study comparing oral levofloxacin 500 mg, once
+02357 | daily for a total of 28 days to oral ciprofloxacin 500 mg, twice daily for a total of 28 days.
+02358 | The primary efficacy endpoint was microbiologic efficacy in microbiologically evaluable
+02359 | 3
+02360 | 
+02361 | patients. A total of 136 and 125 microbiologically evaluable patients were enrolled in the
+02362 | levofloxacin and ciprofloxacin groups, respectively. The microbiologic eradication rate by
+02363 | patient infection at 5-18 days after completion of therapy was 75.0% in the levofloxacin
+02364 | group and 76.8% in the ciprofloxacin group (95% CI [-12.58, 8.98] for levofloxacin
+02365 | minus ciprofloxacin). The overall eradication rates for pathogens of interest are
+02366 | presented in Table 15.
+02367 | Table 15: Bacteriological Eradication Rates
+02368 | (Chronic Bacterial Prostatitis)
+02369 |  
+02370 |  Levofloxacin 
+02371 |  (N=136)
+02372 |  Ciprofloxacin 
+02373 |  (N=125)
+02374 |  Pathogen
+02375 |  N Eradication N Eradication
+02376 |  E. coli
+02377 |  15 14 (93.3%) 11 9 (81.8%)
+02378 |  E. faecalis
+02379 |  54 39 (72.2%) 44 33 (75.0%)
+02380 |  S. epidermidis* 11 9 (81.8%) 14 11 (78.6%)
+02381 | * Eradication rates shown are for patients who had a sole pathogen only; mixed cultures
+02382 | were excluded.
+02383 | Eradication rates for S. epidermidis when found with other co-pathogens are consistent
+02384 | with rates seen in pure isolates.
+02385 | Clinical success (cure + improvement with no need for further antibiotic therapy) rates
+02386 | in microbiologically evaluable population 5-18 days after completion of therapy were
+02387 | 75.0% for levofloxacin-treated patients and 72.8% for ciprofloxacin-treated patients
+02388 | (95% CI [-8.87, 13.27] for levofloxacin minus ciprofloxacin). Clinical long-term success
+02389 | (24-45 days after completion of therapy) rates were 66.7% for the levofloxacin-treated
+02390 | patients and 76.9% for the ciprofloxacin-treated patients (95% CI [-23.40, 2.89] for
+02391 | levofloxacin minus ciprofloxacin).
+02392 | 14.7 Complicated Urinary Tract Infections and Acute Pyelonephritis: 5-day
+02393 | Treatment Regimen
+02394 | To evaluate the safety and efficacy of the higher dose and shorter course of
+02395 | levofloxacin, 1109 patients with cUTI and AP were enrolled in a randomized, double-
+02396 | blind, multicenter clinical trial conducted in the US from November 2004 to April 2006
+02397 | comparing levofloxacin 750 mg IV or orally once daily for 5 days (546 patients) with
+02398 | ciprofloxacin 400 mg IV or 500 mg orally twice daily for 10 days (563 patients). Patients
+02399 | with AP complicated by underlying renal diseases or conditions such as complete
+02400 | obstruction, surgery, transplantation, concurrent infection or congenital malformation
+02401 | were excluded. Efficacy was measured by bacteriologic eradication of the baseline
+02402 | organism(s) at the post-therapy visit in patients with a pathogen identified at baseline.
+02403 | The post-therapy (test-of-cure) visit occurred 10 to 14 days after the last active dose of
+02404 | levofloxacin and 5 to 9 days after the last dose of active ciprofloxacin.
+02405 | The bacteriologic cure rates overall for levofloxacin and control at the test-of-cure (TOC)
+02406 | visit for the group of all patients with a documented pathogen at baseline (modified
+02407 | intent to treat or mITT) and the group of patients in the mITT population who closely
+02408 | followed the protocol (Microbiologically Evaluable) are summarized in Table 16.
+02409 | 
+02410 | Table 16: Bacteriological Eradication at Test-of-Cure
+02411 |  Levofloxacin 
+02412 |  750 mg orally
+02413 | or IV once daily
+02414 | for 5 days
+02415 |  
+02416 |  Ciprofloxacin 
+02417 |  400 mg IV/500 mg orally twice
+02418 | daily for 10 days
+02419 |  Overall
+02420 | Difference
+02421 | [95% CI]
+02422 |  n/N
+02423 |  %
+02424 |  n/N
+02425 |  %
+02426 | Levofloxacin-
+02427 | Ciprofloxacin 
+02428 |  
+02429 | mITT Population 
+02430 |  Overall (cUTI
+02431 | or AP)
+02432 |  252/333
+02433 |  75.7
+02434 |  239/318
+02435 | 75.2 
+02436 | 0.5 (-6.1, 7.1)
+02437 |  cUTI
+02438 |  168/230
+02439 |  73.0
+02440 |  157/213
+02441 |  73.7
+02442 |  
+02443 |  AP
+02444 |  84/103
+02445 |  81.6
+02446 |  82/105
+02447 |  78.1
+02448 |  
+02449 | Microbiologically Evaluable Population 
+02450 | Overall (cUTI
+02451 | or AP) 
+02452 |  228/265
+02453 |  86.0
+02454 |  215/241
+02455 | 89.2 
+02456 | -3.2 [-8.9, 2.5]
+02457 |  
+02458 |  cUTI
+02459 |  154/185
+02460 |  
+02461 | 83.2 
+02462 |  144/165
+02463 | 87.3 
+02464 |  AP
+02465 |  74/80
+02466 |  92.5
+02467 |  71/76
+02468 |  93.4
+02469 |  
+02470 | * The mITT population included patients who received study medication and who had a
+02471 | positive (≥10 CFU/mL) urine culture with no more than 2 uropathogens at baseline.
+02472 | Patients with missing response were counted as failures in this analysis.
+02473 | † The Microbiologically Evaluable population included patients with a confirmed diagnosis
+02474 | of cUTI or AP, a causative organism(s) at baseline present at ≥10 CFU/mL, a valid test-
+02475 | of-cure urine culture, no pathogen isolated from blood resistant to study drug, no
+02476 | premature discontinuation or loss to follow-up, and compliance with treatment (among
+02477 | other criteria).
+02478 | Microbiologic eradication rates in the Microbiologically Evaluable population at TOC for
+02479 | individual pathogens recovered from patients randomized to levofloxacin treatment are
+02480 | presented in Table 17.
+02481 | Table 17: Bacteriological Eradication Rates for Individual
+02482 | Pathogens Recovered From Patients Randomized to
+02483 | Levofloxacin 750 mg QD for 5 Days Treatment
+02484 |  Pathogen
+02485 |  Bacteriological Eradication Rate
+02486 | (n/N)
+02487 |  %
+02488 |  Escherichia coli
+02489 |  155/172
+02490 |  90
+02491 |  Klebsiella pneumoniae
+02492 |  20/23
+02493 |  87
+02494 |  Proteus mirabilis
+02495 |  12/12
+02496 |  100
+02497 | * The predominant organism isolated from patients with AP was E. coli: 91% (63/69)
+02498 | eradication in AP and 89% (92/103) in patients with cUTI.
+02499 | 14.8 Complicated Urinary Tract Infections and Acute Pyelonephritis: 10-day
+02500 | Treatment Regimen
+02501 | *
+02502 | †
+02503 | 5
+02504 | 5
+02505 | *
+02506 | 
+02507 | To evaluate the safety and efficacy of the 250 mg dose, 10 day regimen of levofloxacin,
+02508 | 567 patients with uncomplicated UTI, mild-to-moderate cUTI, and mild-to-moderate AP
+02509 | were enrolled in a randomized, double-blind, multicenter clinical trial conducted in the US
+02510 | from June 1993 to January 1995 comparing levofloxacin 250 mg orally once daily for 10
+02511 | days (285 patients) with ciprofloxacin 500 mg orally twice daily for 10 days (282
+02512 | patients). Patients with a resistant pathogen, recurrent UTI, women over age 55 years,
+02513 | and with an indwelling catheter were initially excluded, prior to protocol amendment
+02514 | which took place after 30% of enrollment. Microbiological efficacy was measured by
+02515 | bacteriologic eradication of the baseline organism(s) at 1–12 days post-therapy in
+02516 | patients with a pathogen identified at baseline.
+02517 | The bacteriologic cure rates overall for levofloxacin and control at the test-of-cure (TOC)
+02518 | visit for the group of all patients with a documented pathogen at baseline (modified
+02519 | intent to treat or mITT) and the group of patients in the mITT population who closely
+02520 | followed the protocol (Microbiologically Evaluable) are summarized in Table 18.
+02521 | Table 18: Bacteriological Eradication Overall (cUTI or AP) at Test-Of-Cure
+02522 |  
+02523 |  Levofloxacin
+02524 | 250 mg once daily for 10
+02525 | days 
+02526 |  Ciprofloxacin
+02527 | 500 mg twice daily for 10
+02528 | days
+02529 |  
+02530 | n/N
+02531 |  %
+02532 | n/N
+02533 | % 
+02534 | mITT Population 
+02535 | 174/209
+02536 |  83.3
+02537 | 184/219
+02538 |  84.0
+02539 | Microbiologically Evaluable
+02540 | Population
+02541 | 164/177
+02542 |  92.7
+02543 | 159/171
+02544 |  93.0 
+02545 | * 1–9 days posttherapy for 30% of subjects enrolled prior to a protocol amendment; 5–
+02546 | 12 days posttherapy for 70% of subjects.
+02547 | † The mITT population included patients who had a pathogen isolated at baseline.
+02548 | Patients with missing response were counted as failures in this analysis.
+02549 | ‡ The Microbiologically Evaluable population included mITT patients who met protocol-
+02550 | specified evaluability criteria.
+02551 | 14.9 Inhalational Anthrax (Post-Exposure)
+02552 | The effectiveness of levofloxacin for this indication is based on plasma concentrations
+02553 | achieved in humans, a surrogate endpoint reasonably likely to predict clinical benefit.
+02554 | Levofloxacin has not been tested in humans for the post-exposure prevention of
+02555 | inhalation anthrax. The mean plasma concentrations of levofloxacin associated with a
+02556 | statistically significant improvement in survival over placebo in the rhesus monkey model
+02557 | of inhalational anthrax are reached or exceeded in adult and pediatric patients receiving
+02558 | the recommended oral and intravenous dosage regimens [see Indications and Usage
+02559 | (1.13); Dosage and Administration (2.1, 2.2)].
+02560 | Levofloxacin pharmacokinetics have been evaluated in adult and pediatric patients. The
+02561 | mean (± SD) steady state peak plasma concentration in human adults receiving 500 mg
+02562 | orally or intravenously once daily is 5.7 ± 1.4 and 6.4 ± 0.8 mcg/mL, respectively; and
+02563 | the corresponding total plasma exposure (AUC
+02564 | ) is 47.5 ± 6.7 and 54.6 ± 11.1
+02565 | mcg.h/mL, respectively. The predicted steady-state pharmacokinetic parameters in
+02566 | pediatric patients ranging in age from 6 months to 17 years receiving 8 mg/kg orally
+02567 | *
+02568 | †
+02569 | ‡
+02570 | 0-24
+02571 | 
+02572 | p
+02573 | p
+02574 | g
+02575 | g
+02576 | g
+02577 | y
+02578 | g
+02579 | g
+02580 | g
+02581 | y
+02582 | every 12 hours (not to exceed 250 mg per dose) were calculated to be comparable to
+02583 | those observed in adults receiving 500 mg orally once daily [see Clinical Pharmacology
+02584 | (12.3)].
+02585 | In adults, the safety of levofloxacin for treatment durations of up to 28 days is well
+02586 | characterized. However, information pertaining to extended use at 500 mg daily up to
+02587 | 60 days is limited. Prolonged levofloxacin therapy in adults should only be used when the
+02588 | benefit outweighs the risk.
+02589 | In pediatric patients, the safety of levofloxacin for treatment durations of more than 14
+02590 | days has not been studied. An increased incidence of musculoskeletal adverse events
+02591 | (arthralgia, arthritis, tendinopathy, gait abnormality) compared to controls has been
+02592 | observed in clinical studies with treatment duration of up to 14 days. Long-term safety
+02593 | data, including effects on cartilage, following the administration of levofloxacin to
+02594 | pediatric patients is limited [see Warnings and Precautions (5.11), Use in Specific
+02595 | Populations (8.4)].
+02596 | A placebo-controlled animal study in rhesus monkeys exposed to an inhaled mean dose
+02597 | of 49 LD
+02598 |  (~2.7 × 10 ) spores (range 17-118 LD
+02599 | ) of B. anthracis (Ames strain) was
+02600 | conducted. The minimal inhibitory concentration (MIC) of levofloxacin for the anthrax
+02601 | strain used in this study was 0.125 mcg/mL. In the animals studied, mean plasma
+02602 | concentrations of levofloxacin achieved at expected T
+02603 |  (1 hour post-dose) following
+02604 | oral dosing to steady state ranged from 2.79 to 4.87 mcg/mL. Steady state trough
+02605 | concentrations at 24 hours post-dose ranged from 0.107 to 0.164 mcg/mL. Mean (SD)
+02606 | steady state AUC
+02607 |  was 33.4 ± 3.2 mcg.h/mL (range 30.4 to 36.0 mcg.h/mL).
+02608 | Mortality due to anthrax for animals that received a 30 day regimen of oral levofloxacin
+02609 | beginning 24 hrs post exposure was significantly lower (1/10), compared to the placebo
+02610 | group (9/10) [P=0.0011, 2-sided Fisher’s Exact Test]. The one levofloxacin treated
+02611 | animal that died of anthrax did so following the 30-day drug administration period.
+02612 | 14.10 Plague
+02613 | Efficacy studies of levofloxacin could not be conducted in humans with pneumonic
+02614 | plague for ethical and feasibility reasons. Therefore, approval of this indication was
+02615 | based on an efficacy study conducted in animals.
+02616 | The mean plasma concentrations of levofloxacin associated with a statistically significant
+02617 | improvement in survival over placebo in an African green monkey model of pneumonic
+02618 | plague are reached or exceeded in adult and pediatric patients receiving the
+02619 | recommended oral and intravenous dosage regimens [see Indications and Usage (1.14),
+02620 | Dosage and Administration (2.1), (2.2)].
+02621 | Levofloxacin pharmacokinetics have been evaluated in adult and pediatric patients. The
+02622 | mean (± SD) steady state peak plasma concentration in human adults receiving 500 mg
+02623 | orally or intravenously once daily is 5.7 ± 1.4 and 6.4 ± 0.8 mcg/mL, respectively; and
+02624 | the corresponding total plasma exposure (AUC
+02625 | ) is 47.5 ± 6.7 and 54.6 ± 11.1
+02626 | mcg.h/mL, respectively. The predicted steady-state pharmacokinetic parameters in
+02627 | pediatric patients ranging in age from 6 months to 17 years receiving 8 mg/kg orally
+02628 | every 12 hours (not to exceed 250 mg per dose) were calculated to be comparable to
+02629 | those observed in adults receiving 500 mg orally once daily [see Clinical Pharmacology
+02630 | (12.3)].
+02631 | A placebo-controlled animal study in African green monkeys exposed to an inhaled mean
+02632 | 50
+02633 | 6
+02634 | 50
+02635 | max
+02636 | 0-24
+02637 | 0-24
+02638 | 
+02639 | dose of 65 LD
+02640 |  (range 3 to 145 LD
+02641 | ) of Yersinia pestis (CO92 strain) was conducted.
+02642 | The minimal inhibitory concentration (MIC) of levofloxacin for the Y. pestis strain used in
+02643 | this study was 0.03 mcg/mL. Mean plasma concentrations of levofloxacin achieved at
+02644 | the end of a single 30-min infusion ranged from 2.84 to 3.50 mcg/mL in African green
+02645 | monkeys. Trough concentrations at 24 hours post-dose ranged from <0.03 to 0.06
+02646 | mcg/mL. Mean (SD) AUC
+02647 |  was 11.9 (3.1) mcg.h/mL (range 9.50 to 16.86 mcg.h/mL).
+02648 | Animals were randomized to receive either a 10-day regimen of i.v. levofloxacin or
+02649 | placebo beginning within 6 hrs of the onset of telemetered fever (≥ 39 C for more than
+02650 | 1 hour). Mortality in the levofloxacin group was significantly lower (1/17) compared to
+02651 | the placebo group (7/7) [p<0.001, Fisher’s Exact Test; exact 95% confidence interval (-
+02652 | 99.9%, -55.5%) for the difference in mortality]. One levofloxacin-treated animal was
+02653 | euthanized on Day 9 post-exposure to Y. pestis due to a gastric complication; it had a
+02654 | blood culture positive for Y. pestis on Day 3 and all subsequent daily blood cultures from
+02655 | Day 4 through Day 7 were negative.
+02656 | 16 HOW SUPPLIED/STORAGE AND HANDLING
+02657 | Levofloxacin Oral Solution, USP is supplied in multi-use 100 mL (NDC 0527-1948-66),
+02658 | 200 mL (0527-1948-68), and 480 mL (NDC 0527-1948-70) bottles of 25 mg/mL
+02659 | levofloxacin oral solution.
+02660 | Levofloxacin Oral Solution, USP should be stored at 25° C (77° F); excursions permitted
+02661 | to 15° - 30° C (59° to 86° F) [refer to USP controlled room temperature].
+02662 | Levofloxacin Oral Solution, USP is distributed by Lannett Company, Inc., Philadelphia, PA
+02663 | 19136
+02664 | Keep out of reach of children.
+02665 | 17 PATIENT COUNSELING INFORMATION
+02666 | Advise the patient to read the FDA-approved patient labeling (Medication Guide).
+02667 | Serious Adverse Reactions
+02668 | Advise patients to stop taking levofloxacin if they experience an adverse reaction and to
+02669 | call their healthcare provider for advice on completing the full course of treatment with
+02670 | another antibacterial drug.
+02671 | Inform patients of the following serious adverse reactions that have been associated
+02672 | with levofloxacin or other fluoroquinolone use:
+02673 | Disabling and Potentially Irreversible Serious Adverse Reactions That May
+02674 | Occur Together: Inform patients that disabling and potentially irreversible serious
+02675 | adverse reactions, including tendinitis and tendon rupture, peripheral neuropathies,
+02676 | and central nervous system effects, have been associated with use of levofloxacin
+02677 | and may occur together in the same patient. Inform patients to stop taking
+02678 | levofloxacin immediately if they experience an adverse reaction and to call their
+02679 | healthcare provider.
+02680 | Tendinitis and Tendon Rupture: Instruct patients to contact their healthcare
+02681 | provider if they experience pain, swelling, or inflammation of a tendon, or weakness
+02682 | or inability to use one of their joints; rest and refrain from exercise; and discontinue
+02683 | levofloxacin treatment. Symptoms may be irreversible. The risk of severe tendon
+02684 | 50
+02685 | 50
+02686 | 0-24
+02687 | o
+02688 | 
+02689 | disorders with fluoroquinolones is higher in older patients usually over 60 years of
+02690 | age, in patients taking corticosteroid drugs, and in patients with kidney, heart or lung
+02691 | transplants.
+02692 | Peripheral Neuropathies: Inform patients that peripheral neuropathies have been
+02693 | associated with levofloxacin use, symptoms may occur soon after initiation of
+02694 | therapy and may be irreversible. If symptoms of peripheral neuropathy including
+02695 | pain, burning, tingling, numbness, and/or weakness develop, immediately discontinue
+02696 | levofloxacin and tell them to contact their physician.
+02697 | Central Nervous System Effects (for example, convulsions, dizziness,
+02698 | lightheadedness, increased intracranial pressure): Inform patients that convulsions
+02699 | have been reported in patients receiving fluoroquinolones, including levofloxacin.
+02700 | Instruct patients to notify their physician before taking this drug if they have a history
+02701 | of convulsions. Inform patients that they should know how they react to levofloxacin
+02702 | before they operate an automobile or machinery or engage in other activities
+02703 | requiring mental alertness and coordination. Instruct patients to notify their physician
+02704 | if persistent headache with or without blurred vision occurs.
+02705 | Exacerbation of Myasthenia Gravis: Instruct patients to inform their physician of
+02706 | any history of myasthenia gravis. Instruct patients to notify their physician if they
+02707 | experience any symptoms of muscle weakness, including respiratory difficulties.
+02708 | Hypersensitivity Reactions: Inform patients that levofloxacin can cause
+02709 | hypersensitivity reactions, even following a single dose, and to discontinue the drug
+02710 | at the first sign of a skin rash, hives or other skin reactions, a rapid heartbeat,
+02711 | difficulty in swallowing or breathing, any swelling suggesting angioedema (for
+02712 | example, swelling of the lips, tongue, face, tightness of the throat, hoarseness), or
+02713 | other symptoms of an allergic reaction.
+02714 | Hepatotoxicity: Inform patients that severe hepatotoxicity (including acute hepatitis
+02715 | and fatal events) has been reported in patients taking levofloxacin. Instruct patients
+02716 | to inform their physician if they experience any signs or symptoms of liver injury
+02717 | including: loss of appetite, nausea, vomiting, fever, weakness, tiredness, right upper
+02718 | quadrant tenderness, itching, yellowing of the skin and eyes, light colored bowel
+02719 | movements or dark colored urine.
+02720 | Aortic aneurysm and dissection: Inform patients to seek emergency medical care
+02721 | if they experience sudden chest, stomach, or back pain.
+02722 | Diarrhea: Diarrhea is a common problem caused by antibiotics which usually ends
+02723 | when the antibiotic is discontinued. Sometimes after starting treatment with
+02724 | antibiotics, patients can develop watery and bloody stools (with or without stomach
+02725 | cramps and fever) even as late as two or more months after having taken the last
+02726 | dose of the antibiotic. If this occurs, instruct patients to contact their physician as
+02727 | soon as possible.
+02728 | Prolongation of the QT Interval: Instruct patients to inform their physician of any
+02729 | personal or family history of QT prolongation or proarrhythmic conditions such as
+02730 | hypokalemia, bradycardia, or recent myocardial ischemia; if they are taking any Class
+02731 | IA (quinidine, procainamide), or Class III (amiodarone, sotalol) antiarrhythmic agents.
+02732 | Instruct patients to notify their physician if they have any symptoms of prolongation
+02733 | of the QT interval, including prolonged heart palpitations or a loss of consciousness.
+02734 | Musculoskeletal Disorders in Pediatric Patients: Instruct parents to inform
+02735 | their child’s physician if the child has a history of joint-related problems before taking
+02736 | this drug. Inform parents of pediatric patients to notify their child’s physician of any
+02737 | joint-related problems that occur during or following levofloxacin therapy [see
+02738 | Warnings and Precautions (5.12) and Use in Specific Populations (8.4)].
+02739 | 
+02740 | Photosensitivity/Phototoxicity: Inform patients that photosensitivity/phototoxicity
+02741 | has been reported in patients receiving fluoroquinolones. Inform patients to minimize
+02742 | or avoid exposure to natural or artificial sunlight (tanning beds or UVA/B treatment)
+02743 | while taking fluoroquinolones. If patients need to be outdoors while using
+02744 | fluoroquinolones, instruct them to wear loose-fitting clothes that protect skin from
+02745 | sun exposure and discuss other sun protection measures with their physician. If a
+02746 | sunburn-like reaction or skin eruption occurs, instruct patients to contact their
+02747 | physician.
+02748 | Antibacterial Resistance
+02749 | Antibacterial drugs including levofloxacin should only be used to treat bacterial
+02750 | infections. They do not treat viral infections (e.g., the common cold). When levofloxacin
+02751 | is prescribed to treat a bacterial infection, patients should be told that although it is
+02752 | common to feel better early in the course of therapy, the medication should be taken
+02753 | exactly as directed. Skipping doses or not completing the full course of therapy may (1)
+02754 | decrease the effectiveness of the immediate treatment and (2) increase the likelihood
+02755 | that bacteria will develop resistance and will not be treatable by levofloxacin or other
+02756 | antibacterial drugs in the future.
+02757 | Administration with Food, Fluids, and Concomitant Medications
+02758 | Patients should be informed that levofloxacin oral solution should be taken 1 hour
+02759 | before or 2 hours after eating. The oral solution should be taken at the same time each
+02760 | day.
+02761 | Patients should drink fluids liberally while taking levofloxacin to avoid formation of a
+02762 | highly concentrated urine and crystal formation in the urine.
+02763 | Antacids containing magnesium, or aluminum, as well as sucralfate, metal cations such
+02764 | as iron, and multivitamin preparations with zinc or didanosine should be taken at least
+02765 | two hours before or two hours after oral levofloxacin administration.
+02766 | Drug Interactions with Insulin, Oral Hypoglycemic Agents, and Warfarin 
+02767 | Patients should be informed that if they are diabetic and are being treated with insulin or
+02768 | an oral hypoglycemic agent and a hypoglycemic reaction occurs, they should
+02769 | discontinue levofloxacin and consult a physician.
+02770 | Patients should be informed that concurrent administration of warfarin and levofloxacin
+02771 | has been associated with increases of the International Normalized Ratio (INR) or
+02772 | prothrombin time and clinical episodes of bleeding. Patients should notify their physician
+02773 | if they are taking warfarin, be monitored for evidence of bleeding, and also have their
+02774 | anticoagulation tests closely monitored while taking warfarin concomitantly.
+02775 | Plague and Anthrax Studies
+02776 | Patients given levofloxacin for these conditions should be informed that efficacy studies
+02777 | could not be conducted in humans for ethical and feasibility reasons. Therefore,
+02778 | approval for these conditions was based on efficacy studies conducted in animals.
+02779 | Distributed by:
+02780 | Lannett Company, Inc.
+02781 | Philadelphia, PA 19136
+02782 | CIB72181C 
+02783 | Rev. 09/2025
+02784 | 
+02785 |  
+02786 | MEDICATION GUIDE
+02787 | Levofloxacin (lee" voe flox' a sin)
+02788 | Oral Solution, USP 
+02789 | Read this Medication Guide before you start taking levofloxacin and each time you get a
+02790 | refill. There may be new information. This Medication Guide does not take the place of
+02791 | talking to your healthcare provider about your medical condition or your treatment.
+02792 | What is the most important information I should know about levofloxacin?
+02793 | Levofloxacin, a fluoroquinolone antibiotic, can cause serious side effects.
+02794 | Some of these serious side effects can happen at the same time and could
+02795 | result in death.
+02796 | If you have any of the following serious side effects while you take levofloxacin, you
+02797 | should stop taking levofloxacin immediately and get medical help right away.
+02798 | 1. Tendon rupture or swelling of the tendon (tendinitis).
+02799 | Tendon problems can happen in people of all ages who take levofloxacin.
+02800 | Tendons are tough cords of tissue that connect muscles to bones.
+02801 | Some tendon problems include pain, swelling, tears, and swelling of tendons including
+02802 | the back of the ankle (Achilles), shoulder, hand, or other tendon sites.
+02803 | The risk of getting tendon problems while you take levofloxacin is higher if you:
+02804 | are over 60 years of age
+02805 | are taking steroids (corticosteroids)
+02806 | have had a kidney, heart or lung transplant.
+02807 | Tendon problems can happen in people who do not have the above risk factors when
+02808 | they take levofloxacin.
+02809 | Other reasons that can increase your risk of tendon problems can include:
+02810 | physical activity or exercise
+02811 | kidney failure
+02812 | tendon problems in the past, such as in people with rheumatoid arthritis (RA)
+02813 | Stop taking levofloxacin immediately and get medical help right away at the first sign
+02814 | of tendon pain, swelling or inflammation. Avoid exercise and using the affected area.
+02815 | The most common area of pain and swelling is the Achilles tendon at the back of your
+02816 | ankle. This can also happen with other tendons. You may need a different antibiotic that
+02817 | is not a fluoroquinolone to treat your infection.
+02818 | Tendon rupture can happen while you are taking or after you have finished taking
+02819 | levofloxacin. Tendon ruptures can happen within hours or days of taking levofloxacin
+02820 | and have happened up to several months after people have finished taking their
+02821 | fluoroquinolone.
+02822 | Stop taking levofloxacin immediately and get medical help right away if you get any of
+02823 | 
+02824 | the following signs or symptoms of a tendon rupture:
+02825 | hear or feel a snap or pop in a tendon area
+02826 | bruising right after an injury in a tendon area
+02827 | unable to move the affected area or bear weight
+02828 | 2. Changes in sensation and possible nerve damage (Peripheral Neuropathy).
+02829 | Damage to the nerves in arms, hands, legs, or feet can happen in people who take
+02830 | fluoroquinolones, including levofloxacin. Stop taking levofloxacin immediately and talk to
+02831 | your healthcare provider right away if you get any of the following symptoms of
+02832 | peripheral neuropathy in your arms, hands, legs, or feet:
+02833 | pain
+02834 | burning
+02835 | tingling
+02836 | numbness
+02837 | weakness
+02838 | The nerve damage may be permanent.
+02839 | 3. Central Nervous System (CNS) effects. Seizures have been reported in people
+02840 | who take fluoroquinolone antibacterial medicines, including levofloxacin. Tell your
+02841 | healthcare provider if you have a history of seizures before you start taking levofloxacin.
+02842 | CNS side effects may happen as soon as after taking the first dose of levofloxacin. Stop
+02843 | taking levofloxacin immediately and talk to your healthcare provider right away if you get
+02844 | any of these side effects, or changes in mood or behavior:
+02845 | seizures
+02846 | hear voices, see things, or sense things that are not there (hallucinations)
+02847 | feel restless
+02848 | tremors
+02849 | feel anxious or nervous
+02850 | confusion
+02851 | depression
+02852 | trouble sleeping
+02853 | nightmares
+02854 | feel lightheaded or dizzy
+02855 | feel more suspicious (paranoia)
+02856 | suicidal thoughts or acts
+02857 | headaches that will not go away, with or without blurred vision
+02858 | 4. Worsening of myasthenia gravis (a problem that causes muscle
+02859 | weakness). Fluoroquinolones like levofloxacin may cause worsening of myasthenia
+02860 | gravis symptoms, including muscle weakness and breathing problems. Tell your
+02861 | healthcare provider if you have a history of myasthenia gravis before you start taking
+02862 | levofloxacin. Call your healthcare provider right away if you have any worsening muscle
+02863 | weakness or breathing problems.
+02864 | What is levofloxacin?
+02865 | Levofloxacin is a fluoroquinolone antibiotic medicine used in adults age 18 years or older
+02866 | to treat certain infections caused by certain germs called bacteria. These bacterial
+02867 | infections include:
+02868 | 
+02869 | nosocomial pneumonia
+02870 | community acquired pneumonia
+02871 | acute sinus infection
+02872 | acute worsening of chronic bronchitis
+02873 | skin infections, complicated and uncomplicated
+02874 | chronic prostate infection
+02875 | urinary tract infections, complicated and uncomplicated
+02876 | acute kidney infection (pyelonephritis)
+02877 | inhalational anthrax
+02878 | plague
+02879 | Studies of levofloxacin for use in the treatment of plague and anthrax were done in
+02880 | animals only, because plague and anthrax could not be studied in people.
+02881 | Levofloxacin should not be used in patients with uncomplicated urinary tract infections,
+02882 | acute bacterial exacerbation of chronic bronchitis, or acute bacterial sinusitis if there are
+02883 | other treatment options available.
+02884 | Levofloxacin is also used to treat children who are 6 months of age or older and may
+02885 | have breathed in anthrax germs, have plague, or been exposed to plague germs.
+02886 | It is not known if levofloxacin is safe and effective in children under 6 months of age.
+02887 | The safety and effectiveness in children treated with levofloxacin for more than 14 days
+02888 | is not known.
+02889 | Who should not take levofloxacin?
+02890 | Do not take levofloxacin if you have ever had a severe allergic reaction to an
+02891 | antibiotic known as a fluoroquinolone, or if you are allergic to levofloxacin or any of the
+02892 | ingredients in levofloxacin. See the end of this leaflet for a complete list of ingredients in
+02893 | levofloxacin.
+02894 | What should I tell my healthcare provider before taking levofloxacin?
+02895 | Before you take levofloxacin, tell your healthcare provider if you:
+02896 | have tendon problems; levofloxacin should not be used in patients who have a
+02897 | history of tendon problems
+02898 | have a problem that causes muscle weakness (myasthenia gravis); levofloxacin
+02899 | should not be used in patients who have a known history of myasthenia gravis
+02900 | have central nervous system problems such as seizures (epilepsy)
+02901 | have nerve problems; levofloxacin should not be used in patients who have a history
+02902 | of a nerve problem called peripheral neuropathy
+02903 | have or anyone in your family has an irregular heartbeat, especially a condition called
+02904 | "QT prolongation"
+02905 | have low blood potassium (hypokalemia)
+02906 | have bone problems
+02907 | have joint problems including rheumatoid arthritis (RA)
+02908 | have kidney problems. You may need a lower dose of levofloxacin if your kidneys do
+02909 | not work well.
+02910 | have liver problems
+02911 | have diabetes or problems with low blood sugar (hypoglycemia)
+02912 | are pregnant or plan to become pregnant. It is not known if levofloxacin will harm
+02913 | 
+02914 | your unborn child.
+02915 | are breastfeeding or plan to breastfeed. It is not known if levofloxacin passes into
+02916 | your breast milk. You and your healthcare provider should decide if you will take
+02917 | levofloxacin or breastfeed. You should not do both.
+02918 | Tell your healthcare provider about all the medicines you take, including
+02919 | prescription and non-prescription medicines, vitamins, and herbal supplements.
+02920 | Levofloxacin and other medicines can affect each other causing side effects.
+02921 | Especially tell your healthcare provider if you take:
+02922 | a steroid medicine.
+02923 | an anti-psychotic medicine
+02924 | a tricyclic antidepressant
+02925 | a water pill (diuretic)
+02926 | certain medicines may keep levofloxacin from working correctly. Take levofloxacin
+02927 | oral solution either 2 hours before or 2 hours after taking these medicines or
+02928 | supplements:
+02929 | an antacid, multivitamin, or other medicines or supplements that have magnesium,
+02930 | aluminum, iron, or zinc
+02931 | sucralfate (Carafate )
+02932 | didanosine (Videx
+02933 | ,Videx
+02934 |  EC)
+02935 | a blood thinner (warfarin, Coumadin, Jantoven)
+02936 | an oral anti-diabetes medicine or insulin
+02937 | an NSAID (Non-Steroidal Anti-Inflammatory Drug). Many common medicines for pain
+02938 | relief are NSAIDs. Taking an NSAID while you take levofloxacin or other
+02939 | fluoroquinolones may increase your risk of central nervous system effects and
+02940 | seizures.
+02941 | theophylline (Theo-24
+02942 | , Elixophyllin
+02943 | , Theochron
+02944 | , Uniphyl , Theolair
+02945 | )
+02946 | a medicine to control your heart rate or rhythm (antiarrhythmics)
+02947 | Ask your healthcare provider if you are not sure if any of your medicines are listed
+02948 | above.
+02949 | Know the medicines you take. Keep a list of your medicines and show it to your
+02950 | healthcare provider and pharmacist when you get a new medicine.
+02951 | How should I take levofloxacin?
+02952 | Take levofloxacin exactly as your healthcare provider tells you to take it.
+02953 | Take levofloxacin at about the same time each day.
+02954 | Drink plenty of fluids while you take levofloxacin.
+02955 | Take levofloxacin oral solution 1 hour before or 2 hours after eating.
+02956 | If you miss a dose of levofloxacin, take it as soon as you remember. Do not take
+02957 | more than 1 dose in 1 day.
+02958 | Do not skip any doses of levofloxacin or stop taking it, even if you begin to feel
+02959 | better, until you finish your prescribed treatment unless:
+02960 | you have tendon problems. See "What is the most important information I
+02961 | should know about levofloxacin?".
+02962 | you have a nerve problem. See "What are the possible side effects of
+02963 | levofloxacin?".
+02964 | ®
+02965 | ®
+02966 | ®
+02967 | ®
+02968 | ®
+02969 | ®
+02970 | ®
+02971 | ®
+02972 | 
+02973 | you have a central nervous system problem. See "What are the possible side
+02974 | effects of levofloxacin?".
+02975 | you have a serious allergic reaction. See "What are the possible side effects of
+02976 | levofloxacin?".
+02977 | your healthcare provider tells you to stop taking levofloxacin
+02978 | Taking all of your levofloxacin doses will help make sure that all of the bacteria are killed.
+02979 | Taking all of your levofloxacin doses will help you lower the chance that the bacteria will
+02980 | become resistant to levofloxacin. If your infection does not get better while you take
+02981 | levofloxacin, it may mean that the bacteria causing your infection may be resistant to
+02982 | levofloxacin. If your infection does not get better, call your healthcare provider. If your
+02983 | infection does not get better, levofloxacin and other similar antibiotic medicines may not
+02984 | work for you in the future.
+02985 | If you take too much levofloxacin, call your healthcare provider or get medical help
+02986 | right away.
+02987 | What should I avoid while taking levofloxacin?
+02988 | Levofloxacin can make you feel dizzy and lightheaded. Do not drive, operate
+02989 | machinery, or do other activities that require mental alertness or coordination until
+02990 | you know how levofloxacin affects you.
+02991 | Avoid sunlamps, tanning beds, and try to limit your time in the sun. Levofloxacin can
+02992 | make your skin sensitive to the sun (photosensitivity) and the light from sunlamps
+02993 | and tanning beds. You could get severe sunburn, blisters or swelling of your skin. If
+02994 | you get any of these symptoms while you take levofloxacin, call your healthcare
+02995 | provider right away. You should use a sunscreen and wear a hat and clothes that
+02996 | cover your skin if you have to be in sunlight.
+02997 | What are the possible side effects of levofloxacin?
+02998 | Levofloxacin can cause serious side effects, including:
+02999 | See "What is the most important information I should know about
+03000 | levofloxacin?"
+03001 | Serious allergic reactions.
+03002 | Allergic reactions can happen in people taking fluoroquinolones, including levofloxacin,
+03003 | even after only 1 dose. Stop taking levofloxacin and get emergency medical help right
+03004 | away if you have any of the following symptoms of a severe allergic reaction:
+03005 | hives
+03006 | trouble breathing or swallowing
+03007 | swelling of the lips, tongue, face
+03008 | throat tightness, hoarseness
+03009 | rapid heartbeat
+03010 | faint
+03011 | skin rash
+03012 | Skin rash may happen in people taking levofloxacin, even after only 1 dose. Stop taking
+03013 | levofloxacin at the first sign of a skin rash and immediately call your healthcare provider.
+03014 | Skin rash may be a sign of a more serious reaction to levofloxacin.
+03015 | Liver damage (hepatotoxicity): Hepatotoxicity can happen in people who take
+03016 | levofloxacin. Call your healthcare provider right away if you have unexplained
+03017 | symptoms such as:
+03018 | 
+03019 | y
+03020 | p
+03021 | nausea or vomiting
+03022 | stomach pain
+03023 | fever
+03024 | weakness
+03025 | abdominal pain or tenderness
+03026 | itching
+03027 | unusual tiredness
+03028 | loss of appetite
+03029 | light colored bowel movements
+03030 | dark colored urine
+03031 | yellowing of your skin or the whites of your eyes
+03032 | Stop taking levofloxacin and tell your healthcare provider right away if you have
+03033 | yellowing of your skin or white part of your eyes, or if you have dark urine. These can be
+03034 | signs of a serious reaction to levofloxacin (a liver problem).
+03035 | Aortic aneurysm and dissection
+03036 | Tell your healthcare provider if you have ever been told that you have an aortic
+03037 | aneurysm, a swelling of the large artery that carries blood from the heart to the body.
+03038 | Get emergency medical help right away if you have sudden chest, stomach, or back
+03039 | pain.
+03040 | Intestine infection (Pseudomembranous colitis)
+03041 | Pseudomembranous colitis can happen with many antibiotics, including levofloxacin.
+03042 | Call your healthcare provider right away if you get watery diarrhea, diarrhea that does
+03043 | not go away, or bloody stools. You may have stomach cramps and a fever.
+03044 | Pseudomembranous colitis can happen 2 or more months after you have finished
+03045 | your antibiotic. 
+03046 | Serious heart rhythm changes (QT prolongation and torsades de pointes)
+03047 | Tell your healthcare provider right away if you have a change in your heart beat (a
+03048 | fast or irregular heartbeat), or if you faint. Levofloxacin may cause a rare heart
+03049 | problem known as prolongation of the QT interval. This condition can cause an
+03050 | abnormal heartbeat and can be very dangerous. The chances of this happening are
+03051 | higher in people:
+03052 | who are elderly
+03053 | with a family history of prolonged QT interval
+03054 | with low blood potassium (hypokalemia)
+03055 | who take certain medicines to control heart rhythm (antiarrhythmics)
+03056 | Joint Problems 
+03057 | Increased chance of problems with joints and tissues around joints in children can
+03058 | happen. Tell your child's healthcare provider if your child has any joint problems
+03059 | during or after treatment with levofloxacin.
+03060 | Changes in blood sugar 
+03061 | People who take levofloxacin and other fluoroquinolone medicines with oral anti-
+03062 | diabetes medicines or with insulin can get low blood sugar (hypoglycemia) and high
+03063 | blood sugar (hyperglycemia). Follow your healthcare provider's instructions for how
+03064 | often to check your blood sugar. If you have diabetes and you get low blood sugar
+03065 | while taking levofloxacin, stop taking levofloxacin and call your healthcare provider
+03066 | right away. Your antibiotic medicine may need to be changed.
+03067 | 
+03068 | Sensitivity to sunlight (photosensitivity) 
+03069 | See "What should I avoid while taking levofloxacin?"
+03070 | The most common side effects of levofloxacin include:
+03071 | nausea
+03072 | headache
+03073 | diarrhea
+03074 | insomnia
+03075 | constipation
+03076 | dizziness
+03077 | In children 6 months and older who take levofloxacin to treat anthrax disease or plague,
+03078 | vomiting is also common.
+03079 | Levofloxacin may cause false-positive urine screening results for opiates when testing is
+03080 | done with some commercially available kits. A positive result should be confirmed using a
+03081 | more specific test.
+03082 | These are not all the possible side effects of levofloxacin. Tell your healthcare provider
+03083 | about any side effect that bothers you or that does not go away.
+03084 | Call your doctor for medical advice about side effects. You may report side effects to
+03085 | FDA at 1-800-FDA-1088.
+03086 | How should I store levofloxacin?
+03087 | Store levofloxacin oral solution at room temperature between 59°F to 86° F (15°C to
+03088 | 30°C).
+03089 | Keep levofloxacin and all medicines out of the reach of children.
+03090 | General information about the safe and effective use of levofloxacin
+03091 | Medicines are sometimes prescribed for purposes other than those listed in a Medication
+03092 | Guide. Do not use levofloxacin for a condition for which it is not prescribed. Do not give
+03093 | levofloxacin to other people, even if they have the same symptoms that you have. It
+03094 | may harm them.
+03095 | This Medication Guide summarizes the most important information about levofloxacin. If
+03096 | you would like more information about levofloxacin, talk with your healthcare provider.
+03097 | You can ask your healthcare provider or pharmacist for information about levofloxacin
+03098 | that is written for healthcare professionals.
+03099 | For more information call Lannett Company, Inc. at 1-844-834-0530.
+03100 | What are the ingredients in levofloxacin?
+03101 | Levofloxacin Oral Solution:
+03102 | Active ingredient: levofloxacin
+03103 | Inactive ingredients: sucrose, glycerin, saccharin sodium, Magnasweet 110F,
+03104 | hydrochloric acid, purified water, propylene glycol, peppermint flavor, FD&C Yellow No.
+03105 | 6, benzoic acid, and butylated hydroxyanisole. It may also contain a solution of sodium
+03106 | hydroxide for pH adjustment.
+03107 | Distributed by:
+03108 | 
+03109 | Lannett Company, Inc.
+03110 | Philadelphia, PA 19136
+03111 | This Medication Guide has been approved by the U.S. Food and Drug Administration.
+03112 | CIB72180C
+03113 | Rev. 09/2025
+03114 | 100 mL carton
+03115 | NDC 0527-1948-66
+03116 | ONCE-A-DAY
+03117 | Levofloxacin
+03118 | Oral Solution,
+03119 | USP
+03120 | 25 mg/mL
+03121 | Rx Only
+03122 | Lannett
+03123 | 
+03124 | LEVOFLOXACIN 
+03125 | levofloxacin solution
+03126 | Product Information
+03127 | Product Type
+03128 | HUMAN PRESCRIPTION DRUG
+03129 | Item Code (Source)
+03130 | NDC:0527-1948
+03131 | Route of Administration
+03132 | ORAL
+03133 | Active Ingredient/Active Moiety
+03134 | Ingredient Name
+03135 | Basis of Strength
+03136 | Strength
+03137 | LEVOFLOXACIN (UNII: 6GNT3Y5LMF) (LEVOFLOXACIN ANHYDROUS -
+03138 | UNII:RIX4E89Y14)
+03139 | LEVOFLOXACIN
+03140 | ANHYDROUS
+03141 | 25 mg
+03142 |  in 1 mL
+03143 | Inactive Ingredients
+03144 | Ingredient Name
+03145 | Strength
+03146 | SUCROSE (UNII: C151H8M554)
+03147 |  
+03148 | 
+03149 | Lannett Company, LLC
+03150 | SACCHARIN SODIUM (UNII: SB8ZUX40TY)
+03151 |  
+03152 | GLYCERIN (UNII: PDC6A3C0OX)
+03153 |  
+03154 | HYDROCHLORIC ACID (UNII: QTT17582CB)
+03155 |  
+03156 | FD&C YELLOW NO. 6 (UNII: H77VEI93A8)
+03157 |  
+03158 | PROPYLENE GLYCOL (UNII: 6DC9Q167V3)
+03159 |  
+03160 | SODIUM HYDROXIDE (UNII: 55X04QC32I)
+03161 |  
+03162 | BENZOIC ACID (UNII: 8SKN0B0MIM)
+03163 |  
+03164 | WATER (UNII: 059QF0KO0R)
+03165 |  
+03166 | BUTYLATED HYDROXYANISOLE (UNII: REK4960K2U)
+03167 |  
+03168 | Product Characteristics
+03169 | Color
+03170 |  
+03171 | Score
+03172 |  
+03173 | Shape
+03174 | Size
+03175 | Flavor
+03176 | PEPPERMINT
+03177 | Imprint Code
+03178 | Contains
+03179 |  
+03180 | Packaging
+03181 | # Item Code
+03182 | Package Description
+03183 | Marketing Start
+03184 | Date
+03185 | Marketing End
+03186 | Date
+03187 | 1 NDC:0527-
+03188 | 1948-66
+03189 | 1 in 1 CARTON
+03190 | 05/25/2018
+03191 | 1
+03192 | 100 mL in 1 BOTTLE, PLASTIC; Type 0: Not a
+03193 | Combination Product
+03194 | 2 NDC:0527-
+03195 | 1948-68
+03196 | 1 in 1 CARTON
+03197 | 05/25/2018
+03198 | 2
+03199 | 200 mL in 1 BOTTLE, PLASTIC; Type 0: Not a
+03200 | Combination Product
+03201 | 3 NDC:0527-
+03202 | 1948-70
+03203 | 1 in 1 CARTON
+03204 | 05/25/2018
+03205 | 3
+03206 | 480 mL in 1 BOTTLE, PLASTIC; Type 0: Not a
+03207 | Combination Product
+03208 | Marketing Information
+03209 | Marketing
+03210 | Category
+03211 | Application Number or Monograph
+03212 | Citation
+03213 | Marketing Start
+03214 | Date
+03215 | Marketing End
+03216 | Date
+03217 | ANDA
+03218 | ANDA205222
+03219 | 05/25/2018
+03220 | Labeler - Lannett Company, LLC (002277481)
+03221 |  
+03222 | Revised: 9/2025

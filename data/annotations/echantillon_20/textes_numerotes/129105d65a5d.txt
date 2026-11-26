@@ -1,0 +1,322 @@
+00001 | Sommaire de la notice
+00002 | Dénomination du médicament
+00003 | Encadré
+00004 | Sommaire notice
+00005 | 1. QU'EST-CE QUE ENALAPRIL EVOLUGEN 20 mg, comprimé sécable ET DANS QUELS CAS EST-IL UTILISE ?
+00006 | Classe pharmacothérapeutique
+00007 | Indications thérapeutiques
+00008 | 2. QUELLES SONT LES INFORMATIONS A CONNAITRE AVANT DE PRENDRE ENALAPRIL EVOLUGEN 20 mg, comprimé sécable ?
+00009 | Liste des informations nécessaires avant la prise du médicament
+00010 | Contre-indications
+00011 | Précautions d'emploi ; mises en garde spéciales
+00012 | Interactions avec d'autres médicaments
+00013 | Interactions avec les aliments et les boissons
+00014 | Interactions avec les produits de phytothérapie ou thérapies alternatives
+00015 | Utilisation pendant la grossesse et l'allaitement
+00016 | Sportifs
+00017 | Effets sur l'aptitude à conduire des véhicules ou à utiliser des machines
+00018 | Liste des excipients à effet notoire
+00019 | 3. COMMENT PRENDRE ENALAPRIL EVOLUGEN 20 mg, comprimé sécable ?
+00020 | Instructions pour un bon usage
+00021 | Posologie, Mode et/ou voie(s) d'administration, Fréquence d'administration et Durée du traitement
+00022 | Symptômes et instructions en cas de surdosage
+00023 | Instructions en cas d'omission d'une ou de plusieurs doses
+00024 | Risque de syndrome de sevrage
+00025 | 4. QUELS SONT LES EFFETS INDESIRABLES EVENTUELS ?
+00026 | Description des effets indésirables
+00027 | 5. COMMENT CONSERVER ENALAPRIL EVOLUGEN 20 mg, comprimé sécable ?
+00028 | Date de péremption
+00029 | Conditions de conservation
+00030 | Si nécessaire, mises en garde contre certains signes visibles de détérioration
+00031 | 6. INFORMATIONS SUPPLEMENTAIRES
+00032 | Liste complète des substances actives et des excipients
+00033 | Forme pharmaceutique et contenu
+00034 | Nom et adresse du titulaire de l'autorisation de mise sur le marché et du titulaire de l'autorisation de fabrication responsable de la libération des lots, si différent
+00035 | Noms du médicament dans les Etats membres de l'Espace Economique Européen
+00036 | Date d’approbation de la notice
+00037 | AMM sous circonstances exceptionnelles
+00038 | Informations Internet
+00039 | Informations réservées aux professionnels de santé
+00040 | Autres
+00041 | Imprimer
+00042 | Notice patient
+00043 | ANSM - Mis à jour le : 14/12/2015
+00044 | Dénomination du médicament
+00045 | Redirection vers le haut de page
+00046 | ENALAPRIL EVOLUGEN 20 mg, comprimé sécable
+00047 | Encadré
+00048 | Redirection vers le haut de page
+00049 | Veuillez lire attentivement l'intégralité de cette notice avant de prendre ce médicament.
+00050 | ·
+00051 | Gardez cette notice, vous pourriez avoir besoin de la relire.
+00052 | ·
+00053 | Si vous avez toute autre question, si vous avez un doute, demandez plus d'informations à votre médecin ou à votre pharmacien.
+00054 | ·
+00055 | Ce médicament vous a été personnellement prescrit. Ne le donnez jamais à quelqu'un d'autre, même en cas de symptômes identiques, cela pourrait lui être nocif.
+00056 | ·
+00057 | Si l'un des effets indésirables devient grave ou si vous remarquez un effet indésirable non mentionné dans cette notice, parlez-en à votre médecin ou à votre pharmacien.
+00058 | Sommaire notice
+00059 | Redirection vers le haut de page
+00060 | Dans cette notice :
+00061 | 1. QU'EST-CE QUE ENALAPRIL EVOLUGEN 20 mg, comprimé sécable ET DANS QUELS CAS EST-IL UTILISE ?
+00062 | 2. QUELLES SONT LES INFORMATIONS A CONNAITRE AVANT DE PRENDRE ENALAPRIL EVOLUGEN 20 mg, comprimé sécable ?
+00063 | 3. COMMENT PRENDRE ENALAPRIL EVOLUGEN 20 mg, comprimé sécable ?
+00064 | 4. QUELS SONT LES EFFETS INDESIRABLES EVENTUELS ?
+00065 | 5. COMMENT CONSERVER ENALAPRIL EVOLUGEN 20 mg, comprimé sécable ?
+00066 | 6. INFORMATIONS SUPPLEMENTAIRES
+00067 | 1. QU'EST-CE QUE ENALAPRIL EVOLUGEN 20 mg, comprimé sécable ET DANS QUELS CAS EST-IL UTILISE ?
+00068 | Redirection vers le haut de page
+00069 | Classe pharmacothérapeutique
+00070 | Redirection vers le haut de page
+00071 | Sans objet.
+00072 | Indications thérapeutiques
+00073 | Redirection vers le haut de page
+00074 | Ce médicament appartient à la famille des « inhibiteurs de l'enzyme de conversion »: il est prescrit pour diminuer la tension artérielle (chez l'hypertendu) ou pour traiter l'insuffisance cardiaque.
+00075 | 2. QUELLES SONT LES INFORMATIONS A CONNAITRE AVANT DE PRENDRE ENALAPRIL EVOLUGEN 20 mg, comprimé sécable ?
+00076 | Redirection vers le haut de page
+00077 | Liste des informations nécessaires avant la prise du médicament
+00078 | Redirection vers le haut de page
+00079 | Sans objet.
+00080 | Contre-indications
+00081 | Redirection vers le haut de page
+00082 | Ne prenez jamais ENALAPRIL EVOLUGEN 20 mg, comprimé sécable dans les cas suivants :
+00083 | ·
+00084 | allergie connue à l'énalapril ou à l'un des autres constituants de ce médicament,
+00085 | ·
+00086 | antécédent de réactions allergiques avec gonflement de la face, des lèvres, de la langue et/ou de la gorge avec des difficultés à avaler ou à respirer, que la survenue soit liée à la prise d'un médicament du même groupe que ENALAPRIL EVOLUGEN (inhibiteur de l'enzyme de conversion), ou que cette réaction soit de nature héréditaire ou sans cause connue,
+00087 | ·
+00088 | si vous avez du diabète ou une insuffisance rénale et que vous êtes traité par un médicament contenant de l’aliskiren pour diminuer votre pression artérielle,
+00089 | ·
+00090 | si vous êtes enceinte depuis plus de 3 mois (Il est également préférable d'éviter de prendre ENALAPRIL EVOLUGEN en début de grossesse,
+00091 | voir rubrique Grossesse et Allaitement
+00092 | ).
+00093 | Ce médicament est généralement déconseillé :
+00094 | ·
+00095 | en cas d'association avec des diurétiques épargneurs de potassium, des sels de potassium, de l'estramustine, du lithium (médicament du système nerveux),
+00096 | ·
+00097 | en cas de rétrécissement (sténose) des artères rénales,
+00098 | ·
+00099 | en cas d'hyperkaliémie (taux élevé de potassium dans le sang).
+00100 | Précautions d'emploi ; mises en garde spéciales
+00101 | Redirection vers le haut de page
+00102 | Mises en garde et précautions d’emploi
+00103 | Une toux sèche peut se produire, il est impératif dans ce cas de consulter à nouveau le médecin qui jugera de l'opportunité de poursuivre le traitement.
+00104 | Risque de réactions allergiques et d'œdème de la face, ou en cas d'atteinte cutanée et/ou d'atteinte des muqueuses.
+00105 | Vous devez savoir que les patients noirs ont un risque accru de ces réactions aux IEC.
+00106 | Risque de taux anormalement bas de certains globules blancs dans le sang chez des patients immunodéprimés.
+00107 | Ce médicament peut entraîner des risques de réaction allergique chez des patients hémodialysés. Informez votre médecin si vous devez être hémodialysé.
+00108 | Adressez-vous à votre médecin ou pharmacien avant de prendre
+00109 | ENALAPRIL EVOLUGEN
+00110 | si :
+00111 | ·
+00112 | vous prenez l’un des médicaments suivants pour traiter une hypertension :
+00113 | o
+00114 | un « antagoniste des récepteurs de l’angiotensine II » (ARA II) (aussi connu sous le nom de sartans – par exemple valsartan, telmisartan, irbésartan), en particulier si vous avez des problèmes rénaux dus à un diabète,
+00115 | o
+00116 | aliskiren.
+00117 | Votre médecin pourra être amené à surveiller régulièrement le fonctionnement de vos reins, votre pression artérielle et le taux des électrolytes (par ex. du potassium) dans votre sang.
+00118 | Voir aussi les informations dans la rubrique « Ne prenez jamais ENALAPRIL EVOLUGEN 20 mg, comprimé sécable dans les cas suivants ».
+00119 | L’utilisation de ce médicament est déconseillée chez les patients présentant une intolérance au galactose, un déficit en lactase de Lapp ou un syndrome de malabsorption du glucose ou du galactose (maladies héréditaires rares).
+00120 | Informez votre médecin en cas de :
+00121 | ·
+00122 | insuffisance rénale ou cardiaque, diabète, athérosclérose, sténose de l'artère rénale, problème hépatique,
+00123 | ·
+00124 | hypotension ou suivi d'un régime strictement « sans sel »,
+00125 | ·
+00126 | rétrécissement aortique, maladie du muscle cardiaque,
+00127 | ·
+00128 | aphérèse des LDL (prélèvement et séparation d'une partie du sang),
+00129 | ·
+00130 | désensibilisation aux piqûres de certains insectes,
+00131 | ·
+00132 | l'utilisation chez l'enfant est déconseillée,
+00133 | ·
+00134 | la prudence s'impose tout particulièrement chez les sujets âgés.
+00135 | En cas d'intervention chirurgicale, prévenez l'anesthésiste de la prise de ce médicament.
+00136 | Vous devez savoir qu’ENALAPRIL EVOLUGEN a une efficacité moins importante sur la diminution de la pression artérielle chez les patients noire que chez ceux des autres patients.
+00137 | Vous devez informer votre médecin si vous pensez être (ou susceptible de devenir) enceinte.
+00138 | ENALAPRIL EVOLUGEN est déconseillé en début de grossesse, et ne doit pas être pris si vous êtes enceinte de plus de 3 mois, car cela pourrait nuire gravement à votre enfant en cas d'utilisation à partir de ce stade de la grossesse (
+00139 | voir rubrique Grossesse
+00140 | et
+00141 | Allaitement
+00142 | ).
+00143 | Interactions avec d'autres médicaments
+00144 | Redirection vers le haut de page
+00145 | Autres
+00146 | médicaments et ENALAPRIL EVOLUGEN 20 mg, comprimé sécable :
+00147 | Veuillez indiquer à votre médecin ou à votre pharmacien si vous prenez ou avez pris récemment un autre médicament, particulièrement s'il s'agit de lithium (médicament du système nerveux), d'estramustine, de sels de potassium ou d'un diurétique (médicament également prescrit dans le traitement de l'hypertension artérielle ou de l'insuffisance cardiaque), même s'il s'agit d'un médicament obtenu sans ordonnance.
+00148 | Votre médecin pourrait avoir besoin de modifier la dose de vos médicaments et/ou prendre d’autres précautions :
+00149 | Si vous prenez un antagoniste des récepteurs de l'angiotensine II (ARA II) ou l’aliskiren (voir aussi les informations dans les rubriques « Ne prenez jamais ENALAPRIL EVOLUGEN 20 mg, comprimé sécable dans les cas suivants » et « Mises en garde et précautions d’emploi »).
+00150 | Interactions avec les aliments et les boissons
+00151 | Redirection vers le haut de page
+00152 | Sans objet.
+00153 | Interactions avec les produits de phytothérapie ou thérapies alternatives
+00154 | Redirection vers le haut de page
+00155 | Sans objet.
+00156 | Utilisation pendant la grossesse et l'allaitement
+00157 | Redirection vers le haut de page
+00158 | Grossesse et allaitement
+00159 | Grossesse
+00160 | ·
+00161 | Vous devez informer votre médecin si vous pensez être (ou susceptible de devenir) enceinte.
+00162 | Votre médecin vous recommandera normalement d’arrêter de prendre ENALAPRIL EVOLUGEN 20 mg, comprimé sécable avant d’être enceinte ou dès que vous apprenez que vous êtes enceinte. Il vous recommandera de prendre un autre médicament à la place de ENALAPRIL EVOLUGEN 20 mg, comprimé sécable. ENALAPRIL EVOLUGEN 20 mg, comprimé sécable est déconseillé au cours de la grossesse et ne doit pas être pris si vous êtes enceinte de plus de 3 mois, car cela pourrait nuire gravement à votre enfant.
+00163 | Allaitement
+00164 | ·
+00165 | Informez votre médecin si vous allaitez ou êtes sur le point de commencer à allaiter.
+00166 | ENALAPRIL EVOLUGEN 20 mg, comprimé sécable est déconseillé aux femmes qui allaitent et votre médecin pourrait choisir un autre traitement si vous souhaitez allaiter, surtout si votre enfant est un nouveau-né ou un prématuré.
+00167 | En cas d'allaitement d'un bébé plus âgé, votre médecin devra vous informer sur les bénéfices et les risques de la poursuite de ENALAPRIL EVOLUGEN 20 mg, comprimé sécable pendant l'allaitement en comparaison à d'autres traitements.
+00168 | Demandez conseil à votre médecin ou à votre pharmacien avant de prendre tout médicament.
+00169 | Sportifs
+00170 | Redirection vers le haut de page
+00171 | Sans objet.
+00172 | Effets sur l'aptitude à conduire des véhicules ou à utiliser des machines
+00173 | Redirection vers le haut de page
+00174 | Conduite de véhicules et utilisation de machines:
+00175 | Une prudence particulière devra être observée chez les conducteurs de véhicules automobiles et les utilisateurs de machines, en raison du risque de sensation de vertiges.
+00176 | Liste des excipients à effet notoire
+00177 | Redirection vers le haut de page
+00178 | Liste des excipients à effet notoire
+00179 | : lactose.
+00180 | 3. COMMENT PRENDRE ENALAPRIL EVOLUGEN 20 mg, comprimé sécable ?
+00181 | Redirection vers le haut de page
+00182 | Instructions pour un bon usage
+00183 | Redirection vers le haut de page
+00184 | Sans objet.
+00185 | Posologie, Mode et/ou voie(s) d'administration, Fréquence d'administration et Durée du traitement
+00186 | Redirection vers le haut de page
+00187 | Pour que ENALAPRIL EVOLUGEN soit pleinement efficace, suivez attentivement l'ordonnance de votre médecin et respectez la dose prescrite sans l'augmenter ni la diminuer.
+00188 | A titre indicatif:
+00189 | ·
+00190 | dans l'hypertension artérielle: la dose habituelle est de 20 mg par jour.
+00191 | Elle peut être plus faible chez certains patients, par exemple ceux qui ont une maladie des reins. La dose maximale est de 40 mg par jour.
+00192 | ·
+00193 | dans
+00194 | l'insuffisance cardiaque
+00195 | : la dose initiale habituelle est de 2,5 mg, par jour.
+00196 | Cette dose sera habituellement adaptée par votre médecin jusqu'à 20 mg par jour.
+00197 | Si vous avez l'impression que l'effet de
+00198 | ENALAPRIL EVOLUGEN 20 mg, comprimé sécable
+00199 | est trop fort ou trop faible, consultez votre médecin ou votre pharmacien.
+00200 | Voie orale.
+00201 | Quelle que soit la dose prescrite, vous pouvez prendre ENALAPRIL EVOLUGEN indifféremment avant, pendant ou après les repas.
+00202 | Il est particulièrement important de prendre votre traitement pendant toute la durée indiquée par votre médecin.
+00203 | N'oubliez pas que, pour être efficace, ce médicament doit être utilisé très régulièrement et aussi longtemps que votre médecin vous l'aura conseillé.
+00204 | En effet, il introduit dans votre organisme un nouvel équilibre que seul le traitement peut maintenir.
+00205 | Il est particulièrement important de prendre votre traitement pendant toute la durée indiquée par votre médecin.
+00206 | Symptômes et instructions en cas de surdosage
+00207 | Redirection vers le haut de page
+00208 | Si vous avez pris plus de ENALAPRIL EVOLUGEN 20 mg, comprimé sécable que vous n'auriez dû:
+00209 | L'événement le plus probable, en cas de surdosage, est l'hypotension.
+00210 | Si une hypotension importante se produit, elle peut être combattue en allongeant le patient, jambes relevées.
+00211 | Si le malaise se poursuit, alertez immédiatement votre médecin.
+00212 | Si vous avez pris par erreur un nombre plus important de comprimés d' ENALAPRIL EVOLUGENS que la dose prescrite, prévenez vite votre médecin.
+00213 | Consultez immédiatement votre médecin ou votre pharmacien.
+00214 | Instructions en cas d'omission d'une ou de plusieurs doses
+00215 | Redirection vers le haut de page
+00216 | Si vous oubliez de prendre ENALAPRIL EVOLUGEN 20 mg, comprimé sécable:
+00217 | Ne prenez pas de dose double pour compenser la dose simple que vous avez oublié de prendre, mais continuez votre traitement normalement.
+00218 | Risque de syndrome de sevrage
+00219 | Redirection vers le haut de page
+00220 | Sans objet.
+00221 | 4. QUELS SONT LES EFFETS INDESIRABLES EVENTUELS ?
+00222 | Redirection vers le haut de page
+00223 | Description des effets indésirables
+00224 | Redirection vers le haut de page
+00225 | Comme tous les médicaments, ENALAPRIL EVOLUGEN 20 mg, comprimé sécable est susceptible d'avoir des effets indésirables, bien que tout le monde n'y soit pas sujet.
+00226 | Ont été retrouvés:
+00227 | ·
+00228 | maux de tête, fatigue, vertige, perte de connaissance;
+00229 | ·
+00230 | hypotension, malaise;
+00231 | ·
+00232 | démangeaisons, éruption cutanée, réaction de la peau lors d'une exposition au soleil ou aux UV, chute des cheveux ou des poils, urticaire, lésions sévères de la peau à l'aspect de cloques et de brûlures sur tout le corps, maladie de la peau avec cloques ou brûlures, inflammation de la peau avec élimination des cellules mortes de la peau, autre maladie de la peau (érythème polymorphe);
+00233 | ·
+00234 | nausées, diarrhée, constipation, douleurs abdominales, vomissements, manque d'appétit, hépatite non virale, affection du pancréas, jaunisse, crampes musculaires.
+00235 | Arrêter de prendre ENALAPRIL EVOLUGEN et contacter
+00236 | immédiatement
+00237 | votre médecin dans les situations suivantes:
+00238 | ·
+00239 | gonflement de la face, des lèvres, de la langue et/ou du larynx entraînant une difficulté à respirer ou à avaler;
+00240 | ·
+00241 | gonflement des mains, des pieds;
+00242 | ·
+00243 | démangeaisons importantes de la peau.
+00244 | Très rarement:
+00245 | ·
+00246 | impuissance, rougeur du visage, vision trouble, bruits anormaux, inflammation de la langue, troubles du goût;
+00247 | ·
+00248 | dépression, confusion, nervosité, gêne respiratoire;
+00249 | ·
+00250 | toux.
+00251 | Un complexe symptomatique a également été rapporté qui comporte un ou plusieurs des symptômes suivants: fièvre, inflammation des petits vaisseaux sanguins ou des séreuses, douleurs musculaires et des articulations, présence d'anomalies biologiques (anticorps antinucléaires, augmentation de la vitesse de sédimentation, éosinophilie et leucocytose).
+00252 | Diverses modifications des examens biologiques: augmentation de l'urée et de la créatinine plasmatiques, augmentation du taux de potassium dans le sang, des enzymes du foie, baisse du nombre de globules blancs dans certaines pathologies (insuffisance rénale, collagénose) en cas d'administration de doses élevées, quantité insuffisante de globules rouges dans le sang.
+00253 | Si vous remarquez des effets indésirables non mentionnés dans cette notice, ou si certains effets indésirables deviennent graves, veuillez en informer votre médecin ou votre pharmacien.
+00254 | 5. COMMENT CONSERVER ENALAPRIL EVOLUGEN 20 mg, comprimé sécable ?
+00255 | Redirection vers le haut de page
+00256 | Tenir hors de la portée et de la vue des enfants.
+00257 | Date de péremption
+00258 | Redirection vers le haut de page
+00259 | Ne pas utiliser ENALAPRIL EVOLUGEN 20 mg, comprimé sécable après la date de péremption mentionnée sur la boîte.
+00260 | Conditions de conservation
+00261 | Redirection vers le haut de page
+00262 | A conserver à une température ne dépassant pas 25°C.
+00263 | Conserver les comprimés dans l'emballage extérieur, à l'abri de l'humidité.
+00264 | Si nécessaire, mises en garde contre certains signes visibles de détérioration
+00265 | Redirection vers le haut de page
+00266 | Les médicaments ne doivent pas être jetés au tout à l'égout ou avec les ordures ménagères. Demandez à votre pharmacien ce qu'il faut faire des médicaments inutilisés. Ces mesures permettront de protéger l'environnement.
+00267 | 6. INFORMATIONS SUPPLEMENTAIRES
+00268 | Redirection vers le haut de page
+00269 | Liste complète des substances actives et des excipients
+00270 | Redirection vers le haut de page
+00271 | Que contient ENALAPRIL EVOLUGEN 20 mg, comprimé sécable ?
+00272 | La substance active est:
+00273 | maléate d'énalapril ............................................................................................................................. 20 mg
+00274 | Pour un comprimé sécable.
+00275 | Les autres composants sont:
+00276 | croscarmellose sodique, lactose monohydraté, stéarate de magnésium, pigment PB-23026 orange (lactose monohydraté, oxyde de fer jaune (E 172), oxyde de fer rouge (E 172)), amidon de maïs prégélatinisé, bicarbonate de sodium.
+00277 | Forme pharmaceutique et contenu
+00278 | Redirection vers le haut de page
+00279 | Ce médicament se présente sous forme de comprimés sécables.
+00280 | Boîte de 14, 28, 30 ou 50 comprimés.
+00281 | Flacon de 50, 56, 60, 84, 90 et 100 comprimés.
+00282 | Nom et adresse du titulaire de l'autorisation de mise sur le marché et du titulaire de l'autorisation de fabrication responsable de la libération des lots, si différent
+00283 | Redirection vers le haut de page
+00284 | Titulaire
+00285 | EVOLUPHARM
+00286 | RUE IRENE CARON
+00287 | ZI D'AUNEUIL
+00288 | 60390 AUNEUIL
+00289 | Exploitant
+00290 | EVOLUPHARM
+00291 | RUE IRENE CARON
+00292 | ZI D'AUNEUIL
+00293 | 60390 AUNEUIL
+00294 | Fabricant
+00295 | ACTAVIS HF
+00296 | REYKJAVIKURVEGI 78
+00297 | 220 HAFNARFJORDUR
+00298 | ISLANDE
+00299 | ou
+00300 | ACTAVIS LTD
+00301 | B16
+00302 | BULEBEL INDUSTRIAL ESTATE
+00303 | ZEJTUN ZTN 08
+00304 | MALTE
+00305 | Noms du médicament dans les Etats membres de l'Espace Economique Européen
+00306 | Redirection vers le haut de page
+00307 | Sans objet.
+00308 | Date d’approbation de la notice
+00309 | Redirection vers le haut de page
+00310 | La dernière date à laquelle cette notice a été approuvée est le {date}.
+00311 | AMM sous circonstances exceptionnelles
+00312 | Redirection vers le haut de page
+00313 | Sans objet.
+00314 | Informations Internet
+00315 | Redirection vers le haut de page
+00316 | Des informations détaillées sur ce médicament sont disponibles sur le site Internet de l’Afssaps (France).
+00317 | Informations réservées aux professionnels de santé
+00318 | Redirection vers le haut de page
+00319 | Sans objet.
+00320 | Autres
+00321 | Redirection vers le haut de page
+00322 | Sans objet.

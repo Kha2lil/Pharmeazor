@@ -1,0 +1,347 @@
+00001 | Notice
+00002 | 1 / 6
+00003 | NOTICE: INFORMATION DE L’UTILISATEUR
+00004 | Indapamide EG 2,5 mg comprimés enrobés
+00005 | Indapamide
+00006 | Veuillez lire attentivement cette notice avant de prendre ce médicament car elle contient des
+00007 | informations importantes pour vous.
+00008 | -
+00009 | Gardez cette notice. Vous pourriez avoir besoin de la relire.
+00010 | -
+00011 | Si vous avez d’autres questions, interrogez votre médecin ou votre pharmacien.
+00012 | -
+00013 | Ce médicament vous a été personnellement prescrit. Ne le donnez pas à d’autres personnes. Il
+00014 | pourrait leur être nocif, même si les signes de leur maladie sont identiques aux vôtres.
+00015 | -
+00016 | Si vous ressentez un quelconque effet indésirable, parlez-en à votre médecin ou votre pharmacien.
+00017 | Ceci s’applique aussi à tout effet indésirable qui ne serait pas mentionné dans cette notice. Voir
+00018 | rubrique 4.
+00019 | Que contient cette notice?
+00020 | 1.
+00021 | Qu’est-ce que Indapamide EG et dans quel cas est-il utilisé ?
+00022 | 2.
+00023 | Quelles sont les informations à connaître avant de prendre Indapamide EG ?
+00024 | 3.
+00025 | Comment prendre Indapamide EG ?
+00026 | 4.
+00027 | Quels sont les effets indésirables éventuels ?
+00028 | 5.
+00029 | Comment conserver Indapamide EG ?
+00030 | 6.
+00031 | Contenu de l’emballage et autres informations
+00032 | 1.
+00033 | Qu’est-ce que Indapamide EG et dans quel cas est-il utilisé ?
+00034 | Indapamide EG est un antihypertenseur diurétique : il diminue la pression dans les artères quand elle
+00035 | est trop élevée. Ce médicament est indiqué pour le traitement de l’hypertension artérielle essentielle
+00036 | (sans cause connue).
+00037 | 2.
+00038 | Quelles sont les informations à connaître avant de prendre Indapamide EG ?
+00039 | Ne prenez jamais Indapamide EG
+00040 | -
+00041 | si vous êtes allergique à l’indapamide, à tout autre sulfamide ou à l’un des autres composants
+00042 | contenus dans ce médicament mentionnés dans la rubrique 6.
+00043 | -
+00044 | si vous souffrez d’insuffisance rénale sévère.
+00045 | -
+00046 | si vous souffrez d’une atteinte hépatique grave (maladie du foie).
+00047 | -
+00048 | si vous avez une hypokaliémie (baisse du taux de potassium dans le sang).
+00049 | En cas de doute, vous devez demander conseil à votre médecin ou pharmacien.
+00050 | Avertissements et précautions
+00051 | Adressez-vous à votre médecin ou pharmacien avant de prendre Indapamide EG:
+00052 | -
+00053 | si vous avez une maladie du foie,
+00054 | -
+00055 | si vous êtes diabétique,
+00056 | -
+00057 | si vous souffrez de goutte,
+00058 | -
+00059 | si vous avez des troubles du rythme cardiaque ou des problèmes rénaux,
+00060 | -
+00061 | si vous ressentez une diminution de la vision ou des douleurs oculaires. Il peut s’agir de
+00062 | symptômes d’accumulation de fluide dans la couche vasculaire de l’œil (épanchement choroïdien),
+00063 | ou d’une augmentation de la pression dans l’œil, et peuvent survenir dans les heures ou les
+00064 | 
+00065 | Notice
+00066 | 2 / 6
+00067 | semaines suivant la prise de Indapamide EG. Cela peut entrainer une perte de la vision, si elle n’est
+00068 | pas traitée. Si vous avez déjà une allergie à la pénicilline ou aux sulfamides, vous pouvez être plus
+00069 | à risque de développer cela,
+00070 | -
+00071 | si vous avez des troubles musculaires, notamment des douleurs, une sensibilité, une faiblesse ou
+00072 | des crampes,
+00073 | -
+00074 | si vous devez faire un examen de votre glande parathyroïde.
+00075 | Vous devez informer votre médecin en cas de réactions de photosensibilité.
+00076 | Votre médecin peut être amené à vous prescrire des examens de laboratoire afin de rechercher une
+00077 | baisse des taux de sodium ou de potassium ou une augmentation du taux de calcium dans le sang.
+00078 | Si vous pensez être concernés par ces situations ou si vous avez d’autres questions sur l’utilisation de
+00079 | ce médicament, demandez conseil à votre médecin ou à votre pharmacien.
+00080 | Les sportifs doivent être avertis que Indapamide EG contient un principe actif pouvant induire une
+00081 | réaction positive des tests pratiqués lors des contrôles antidopage
+00082 | Enfants et adolescents
+00083 | Aucune donnée n’est disponible.
+00084 | Autres médicaments et Indapamide EG
+00085 | Informez votre médecin ou pharmacien si vous prenez, avez récemment pris ou pourriez prendre tout
+00086 | autre médicament.
+00087 | Evitez de prendre Indapamide EG avec du lithium (utilisé pour traiter la dépression) en raison du
+00088 | risque d’augmentation des taux de lithium dans le sang.
+00089 | Si vous prenez l’un des médicaments suivants, parlez-en à votre médecin, certaines précautions
+00090 | d’emploi particulières peuvent être nécessaires :
+00091 | -
+00092 | médicaments utilisés pour des troubles du rythme cardiaque (ex. : quinidine, hydroquinidine,
+00093 | disopyramide, amiodarone, sotalol, ibutilide, dofétilide, digitaline, brétylium),
+00094 | -
+00095 | médicaments utilisés pour traiter des troubles mentaux tels que dépression, anxiété,
+00096 | schizophrénie… (antidépresseurs tricycliques, antipsychotiques, neuroleptiques tels que
+00097 | chlorpromazine, cyamémazine, lévomépromazine, thioridazine, trifluopérazine, amisulpride,
+00098 | sulpiride, sultopride, tiapride, halopéridol, dropéridol),
+00099 | -
+00100 | bépridil (utilisé pour traiter l’angine de poitrine, maladie provoquant des douleurs dans la
+00101 | poitrine),
+00102 | -
+00103 | cisapride, diphémanil ( utilisés pour traiter les troubles gastro-intestinaux),
+00104 | -
+00105 | antibiotiques utilisés pour traiter des infections bactériennes (ex : sparfloxacine, moxifloxacine,
+00106 | érythromycine par injection),
+00107 | -
+00108 | vincamine par injection (utilisé pour traiter des troubles cognitifs symptomatiques chez les patients
+00109 | âgés, y compris la perte de mémoire),
+00110 | -
+00111 | halofantrine (antiparasitaire utilisé pour traiter certains types de paludisme), - pentamidine (utilisé
+00112 | pour traiter certains types de pneumonie),
+00113 | -
+00114 | antihistaminiques utilisés pour traiter les réactions allergiques, telles que le rhume des foins (ex :
+00115 | mizolastine, astémizole, terfénadine),
+00116 | -
+00117 | anti-inflammatoires non stéroïdiens pour soulager la douleur (ex. : ibuprofène) ou fortes doses
+00118 | d’acide acétylsalicylique,
+00119 | -
+00120 | inhibiteurs de l’enzyme de conversion de l’angiotensine (IEC) (utilisés pour traiter l’hypertension
+00121 | artérielle et l’insuffisance cardiaque),
+00122 | -
+00123 | amphotéricine B par injection (médicaments anti-fongiques),
+00124 | -
+00125 | corticostéroïdes oraux utilisés pour traiter divers troubles : asthme sévère et arthrite rhumatoïde,
+00126 | -
+00127 | laxatifs stimulants,
+00128 | 
+00129 | Notice
+00130 | 3 / 6
+00131 | -
+00132 | baclofène (pour traiter la raideur musculaire survenant lors de maladie comme la sclérose en
+00133 | plaque),
+00134 | -
+00135 | allopurinol (pour le traitement de la goutte), - diurétiques épargneurs de potassium (ex. amiloride,
+00136 | spironolactone, triamtérène),
+00137 | -
+00138 | metformine (pour traiter le diabète),
+00139 | -
+00140 | produits de contrastes iodés (utilisés pour les examens aux rayons X),
+00141 | -
+00142 | comprimés de calcium ou autres suppléments calciques,
+00143 | -
+00144 | ciclosporine, tacrolimus ou autres immunosuppresseurs utilisés suite à une transplantation
+00145 | d’organe, pour le traitement de maladies auto-immunes ou de maladies rhumatologiques ou
+00146 | dermatologiques graves,
+00147 | -
+00148 | tétracosactide (pour traiter la maladie de Crohn),
+00149 | -
+00150 | méthadone (utilisé pour traiter la toxicomanie)
+00151 | Indapamide EG avec des aliments, boissons et de l’alcool
+00152 | Aucune précaution particulière à prendre. Indapamide EG peut être pris avec des aliments ou des
+00153 | boissons.
+00154 | Grossesse, allaitement et fertilité
+00155 | Si vous êtes enceinte ou que vous allaitez, si vous pensez être enceinte ou planifiez une grossesse,
+00156 | demandez conseil à votre médecin ou pharmacien avant de prendre ce médicament.
+00157 | Grossesse
+00158 | Comme les autres diurétiques, Indapamide EG n’est pas recommandé pendant la grossesse. Prévenez
+00159 | votre médecin si vous êtes enceinte ou si vous souhaitez avoir un enfant.
+00160 | Allaitement
+00161 | Comme les autres diurétiques, Indapamide EG est déconseillé pendant l’allaitement. Prévenez votre
+00162 | médecin si vous allaitez.
+00163 | Demandez conseil à votre médecin ou à votre pharmacien avant de prendre tout médicament.
+00164 | Conduite de véhicules et utilisation de machines 
+00165 | Indapamide EG n’a aucun effet sur la vigilance en doses thérapeutiques, mais, chez certains patients,
+00166 | des réactions individuelles peuvent se produire suite à une diminution de la tension.
+00167 | La capacité de conduire ou d’utiliser des machines peut alors diminuer.
+00168 | Indapamide EG contient du lactose et du sodium
+00169 | Si votre médecin vous a informé(e) d'une intolérance à certains sucres, contactez-le avant de prendre
+00170 | ce médicament.
+00171 | Ce médicament contient moins de 1 mmol (23 mg) de sodium par comprimé enrobé, c.-a-d. qu’il est
+00172 | essentiellement ≪ sans sodium ≫.
+00173 | 3.
+00174 | Comment prendre Indapamide EG ?
+00175 | Veillez à toujours prendre ce médicament en suivant exactement les indications de votre médecin ou
+00176 | pharmacien. Vérifiez auprès de votre médecin ou pharmacien en cas de doute.
+00177 | La dose recommandée est de 1 comprimé par jour, de préférence le matin, avec un verre d’eau.
+00178 | Le médicament peut être pris à jeun ou pendant le petit-déjeuner.
+00179 | Si vous avez pris plus d’Indapamide EG que vous n’auriez dû 
+00180 | Si vous avez pris trop d’Indapamide EG, prenez immédiatement contact avec votre médecin, votre
+00181 | pharmacien ou le Centre Antipoison (070/245.245).
+00182 | 
+00183 | Notice
+00184 | 4 / 6
+00185 | Les symptômes prévus dans un tel cas sont des troubles de certains paramètres sanguins, une
+00186 | hypotension importante et des troubles de la vigilance.
+00187 | Le traitement indiqué, outre un lavage d’estomac et/ou l’administration de charbon actif, consiste en
+00188 | une surveillance et une adaptation des troubles des paramètres sanguins.
+00189 | Si vous oubliez de prendre Indapamide EG
+00190 | Ne prenez pas de dose double pour compenser la dose que vous avez oublié de prendre.
+00191 | Si vous arrêtez de prendre Indapamide EG
+00192 | Votre médecin vous dira combien de temps vous devrez utiliser Indapamide EG. N’arrêtez pas
+00193 | prématurément votre traitement. Il devra être pris durant une longue période.
+00194 | Si vous avez d’autres questions sur l’utilisation de ce médicament, demandez plus d’informations à
+00195 | votre médecin ou à votre pharmacien.
+00196 | 4.
+00197 | Quels sont les effets indésirables éventuels ?
+00198 | Comme tous les médicaments, ce médicament peut provoquer des effets indésirables, mais ils ne
+00199 | surviennent pas systématiquement chez tout le monde.
+00200 | Arrêtez de prendre ce médicament et consultez immédiatement un médecin si vous remarquez
+00201 | l’un des effets secondaires suivants pouvant être graves:
+00202 | -
+00203 | angiœdème et/ou urticaire,. l’angiœdème se caractérise par un gonflement de la peau des
+00204 | extrémités ou du visage, des lèvres ou de la langue, des muqueuses de la gorge ou des voies
+00205 | aériennes pouvant occasionner des difficultés à respirer ou à avaler. Si cela vous arrive, contactez
+00206 | immédiatement votre médecin (très rare - peut affecter jusqu’à 1 personne sur 10 000),
+00207 | -
+00208 | réactions cutanées sévères, comme des éruptions cutanées intenses, une rougeur de la peau sur tout
+00209 | le corps, des démangeaisons sévères, des ampoules, la peau qui pèle et qui gonfle, une
+00210 | inflammation des membranes muqueuses (syndrome de Stevens Johnson) ou d’autres réactions
+00211 | allergiques (très rare - peut affecter jusqu’à 1 personne sur 10 000),
+00212 | -
+00213 | battements cardiaques irréguliers mettant en jeu le pronostic vital, (fréquence indéterminée)
+00214 | -
+00215 | inflammation du pancréas pouvant entraîner d’importantes douleurs abdominales et dorsales
+00216 | accompagnées d’une sensation de grand malaise (très rare - peut affecter jusqu’à 1 personne sur 10
+00217 | 000),
+00218 | -
+00219 | maladie du cerveau causée par une maladie du foie (Encéphalopathie hépatique- fréquence
+00220 | indéterminée),
+00221 | -
+00222 | inflammation du foie (Hépatite - fréquence indéterminée),
+00223 | -
+00224 | Faiblesse musculaire, crampes, sensibilité ou douleur et, en particulier, si en même temps, vous ne
+00225 | vous sentez pas bien ou avez une température élevée, cela peut être dû à une dégradation
+00226 | musculaire anormale (fréquence indéterminée).
+00227 | Par ordre décroissant de fréquence, les effets secondaires peuvent inclure :
+00228 | Fréquent (peut affecter jusqu’à 1 personne sur 10) :
+00229 | -
+00230 | éruptions cutanées rouges en relief,
+00231 | -
+00232 | réactions allergiques principalement cutanées chez les sujets prédisposés aux réactions allergiques
+00233 | et asthmatiques,
+00234 | -
+00235 | diminution du taux de potassium dans le sang.
+00236 | Peu fréquent (peut affecter jusqu’à 1 personne sur 100):
+00237 | -
+00238 | vomissements,
+00239 | -
+00240 | petites taches rouges sur la peau en « tête d’épingle » (purpura),
+00241 | -
+00242 | diminution du taux de sodium dans le sang pouvant entraîner une déshydratation et une pression
+00243 | artérielle basse,
+00244 | 
+00245 | Notice
+00246 | 5 / 6
+00247 | -
+00248 | impuissance (incapacité d’obtenir ou de maintenir une érection).
+00249 | Rare (peut affecter jusqu’à 1 personne sur 1000) :
+00250 | -
+00251 | sensation de fatigue, maux de tête, sensations de picotements et de fourmillements (paresthésies),
+00252 | vertiges,
+00253 | -
+00254 | troubles gastro-intestinaux (tels que nausées, constipation), sécheresse de la bouche,
+00255 | -
+00256 | diminution du taux de chlorure dans le sang,
+00257 | -
+00258 | diminution du taux de magnésium dans le sang.
+00259 | Très rare (peut affecter jusqu’à 1 personne sur 10 000) :
+00260 | -
+00261 | des modifications de la formule sanguine comme une thrombocytopénie (diminution du nombre de
+00262 | plaquettes à l’origine d’ecchymoses et de saignements de nez), une leucopénie (diminution du
+00263 | nombre de globules blancs à l’origine d’une fièvre inexpliquée, d’un mal de gorge ou d’autres
+00264 | symptômes grippaux
+00265 | -
+00266 | si cela vous arrive, contactez votre médecin) et une anémie (dimution du nombre de globules
+00267 | rouges),
+00268 | -
+00269 | taux élévé de calcium dans le sang,
+00270 | -
+00271 | troubles du rythme cardiaque, hypotension,
+00272 | -
+00273 | maladie du rein,
+00274 | -
+00275 | fonction hépatique anormale.
+00276 | Fréquence indéterminée (fréquence qui n'a pas pu être estimée à partir des données disponibles) :
+00277 | -
+00278 | évanouissement
+00279 | -
+00280 | Si vous souffrez d’un lupus érythémateux généralisé (une maladie du collagène), celui-ci pourrait
+00281 | s’aggraver.
+00282 | -
+00283 | Des cas de photosensibilisation (modification de l’apparence de votre peau) après exposition au
+00284 | soleil ou à la lumière artificielle UVA ont été rapportés.
+00285 | -
+00286 | Myopie (vision floue au loin). vision trouble.
+00287 | -
+00288 | Troubles de la vision.
+00289 | -
+00290 | Diminution de la vision ou douleur oculaire due à une pression élevée (signes potentiels d’une
+00291 | accumulation de liquide dans la couche vasculaire de l’œil (épanchement choroïdien) ou glaucome
+00292 | aigu à angle fermé).
+00293 | -
+00294 | Des modifications de vos paramètres biologiques (examens sanguins) peuvent apparaître et votre
+00295 | médecin pourra être amené à faire pratiquer des examens sanguins afin de les contrôler. Les
+00296 | modifications suivantes de vos paramètres biologiques peuvent survenir :
+00297 | o
+00298 | augmentation du taux d’acide urique pouvant causer ou aggraver des crises de goutte
+00299 | (articulation douloureuse en particulier au niveau du pied),
+00300 | o
+00301 | augmentation du taux de glucose sanguin chez les patients diabétiques,
+00302 | o
+00303 | élévation des concentrations d'enzymes hépatiques.
+00304 | -
+00305 | Tracé anormal sur l’ECG.
+00306 | Déclaration des effets secondaires
+00307 | Si vous ressentez un quelconque effet indésirable, parlez-en à votre médecin, votre pharmacien ou à
+00308 | votre infirmier/ère. Ceci s’applique aussi à tout effet indésirable qui ne serait pas mentionné dans cette
+00309 | notice. Vous pouvez également déclarer les effets indésirables directement via:
+00310 | Belgique: Agence fédérale des fédicaments et des produits de santé - www.afmps.be - Division
+00311 | Vigilance : Site internet : www.notifieruneffetindesirable.be - E-mail : adr@fagg-afmps.be
+00312 | Luxembourg: Centre Régional de Pharmacovigilance de Nancy ou Division de la Pharmacie et des
+00313 | Médicaments de la Direction de la Santé : www.guichet.lu/pharmacovigilance.
+00314 | En signalant les effets indésirables, vous contribuez à fournir davantage d’informations sur la sécurité
+00315 | du médicament.
+00316 | 
+00317 | Notice
+00318 | 6 / 6
+00319 | 5.
+00320 | Comment conserver Indapamide EG ?
+00321 | Tenir hors de la vue et de la portée des enfants.
+00322 | A conserver à une température ambiante (15 à 25°C).
+00323 | N’utilisez pas ce médicament après la date de péremption indiquée sur l’étiquette ou l’emballage
+00324 | extérieur après « EXP ». La date de péremption fait référence au dernier jour de ce mois.
+00325 | Ne jetez aucun médicament au tout-à-l’égout ni avec les ordures ménagères. Demandez à votre
+00326 | pharmacien d’éliminer les médicaments que vous n’utilisez plus. Ces mesures contribueront à protéger
+00327 | l’environnement.
+00328 | 6.
+00329 | Contenu de l’emballage et autres informations
+00330 | Ce que contient Indapamide EG
+00331 | -
+00332 | La substance active est l’indapamide à raison de 2,5 mg par comprimé enrobé.
+00333 | -
+00334 | Les autres composants sont: Lactose, Amidon de maïs, Carmellose sodique, Povidone, Talc,
+00335 | Stéarate de magnésium, Hypromellose, Propylèneglycol, Dioxyde de titane (E171).
+00336 | Voir rubrique « Indapamide EG contient lactose » pour plus d’informations.
+00337 | Aspect de Indapamide EG et contenu de l’emballage extérieur
+00338 | Plaquettes de 20, 60 ou de 100 comprimés enrobés.
+00339 | Toutes les présentations peuvent ne pas être commercialisées.
+00340 | Titulaire de l’autorisation de mise sur le marché et fabricant
+00341 | Titulaire de l’autorisation de mise sur le marché 
+00342 | EG (Eurogenerics) SA - Esplanade du Heysel b22 - 1020 Bruxelles
+00343 | Fabricant 
+00344 | Sanico NV - Veedijk 59 - 2300 Turnhout
+00345 | Numéro d’autorisation de mise sur le marché: BE163116
+00346 | Mode de délivrance: sur prescription médicale
+00347 | La dernière date à laquelle cette notice a été approuvée est 04/2024.

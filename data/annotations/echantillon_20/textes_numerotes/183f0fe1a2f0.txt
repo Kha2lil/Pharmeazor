@@ -1,0 +1,254 @@
+00001 | Sommaire de la notice
+00002 | Dénomination du médicament
+00003 | Encadré
+00004 | Que contient cette notice ?
+00005 | 1. QU’EST-CE QUE MAPAKNA LP 20 mg, comprimé à libération prolongée ET DANS QUELS CAS EST-IL UTILISE ?
+00006 | 2. QUELLES SONT LES INFORMATIONS A CONNAITRE AVANT DE PRENDRE MAPAKNA LP 20 mg, comprimé à libération prolongée?
+00007 | 3. COMMENT PRENDRE MAPAKNA LP 20 mg, comprimé à libération prolongée ?
+00008 | 4. QUELS SONT LES EFFETS INDESIRABLES EVENTUELS ?
+00009 | 5. COMMENT CONSERVER MAPAKNA LP 20 mg, comprimé à libération prolongée?
+00010 | 6. CONTENU DE L’EMBALLAGE ET AUTRES INFORMATIONS
+00011 | Imprimer
+00012 | Notice patient
+00013 | ANSM - Mis à jour le : 26/08/2026
+00014 | Dénomination du médicament
+00015 | Redirection vers le haut de page
+00016 | MAPAKNA LP 20 mg, comprimé à libération prolongée
+00017 | Nifédipine
+00018 | Encadré
+00019 | Redirection vers le haut de page
+00020 | Veuillez lire attentivement cette notice avant de prendre ce médicament car elle contient des informations importantes pour vous.
+00021 | ·
+00022 | Gardez cette notice. Vous pourriez avoir besoin de la relire.
+00023 | ·
+00024 | Si vous avez d’autres questions, interrogez votre médecin, votre pharmacien ou votre infirmier/ère.
+00025 | ·
+00026 | Ce médicament vous a été personnellement prescrit. Ne le donnez pas à d’autres personnes. Il pourrait leur être nocif, même si les signes de leur maladie sont identiques aux vôtres.
+00027 | ·
+00028 | Si vous ressentez un quelconque effet indésirable, parlez-en à votre médecin, votre pharmacien ou votre infirmier/ère. Ceci s’applique aussi à tout effet indésirable qui ne serait pas mentionné dans cette notice.
+00029 | Voir rubrique 4.
+00030 | Que contient cette notice ?
+00031 | Redirection vers le haut de page
+00032 | 1. Qu'est-ce que MAPAKNA LP 20 mg, comprimé à libération prolongée et dans quels cas est-il utilisé ?
+00033 | 2. Quelles sont les informations à connaître avant de prendre MAPAKNA LP 20 mg, comprimé à libération prolongée ?
+00034 | 3. Comment prendre MAPAKNA LP 20 mg, comprimé à libération prolongée ?
+00035 | 4. Quels sont les effets indésirables éventuels ?
+00036 | 5. Comment conserver MAPAKNA LP 20 mg, comprimé à libération prolongée ?
+00037 | 6. Contenu de l’emballage et autres informations.
+00038 | 1. QU’EST-CE QUE MAPAKNA LP 20 mg, comprimé à libération prolongée ET DANS QUELS CAS EST-IL UTILISE ?
+00039 | Redirection vers le haut de page
+00040 | Classe pharmacothérapeutique - Inhibiteurs calciques sélectifs à effets vasculaires, code ATC : C08CA05
+00041 | MAPAKNA LP est indiqué pour retarder l’accouchement en cas de menace d'accouchement prématuré chez les femmes enceintes adultes :
+00042 | ·
+00043 | présentant des contractions utérines douloureuses régulières d’une durée d’au moins 30 secondes et survenant au moins 4 fois en 30 minutes ;
+00044 | ·
+00045 | ayant un raccourcissement significatif du col clinique ou échographique ;
+00046 | ·
+00047 | entre 22 et 37 semaines d’aménorrhée ;
+00048 | ·
+00049 | présentant un rythme cardiaque fœtal normal.
+00050 | 2. QUELLES SONT LES INFORMATIONS A CONNAITRE AVANT DE PRENDRE MAPAKNA LP 20 mg, comprimé à libération prolongée?
+00051 | Redirection vers le haut de page
+00052 | Ne prenez jamais MAPAKNA LP 20 mg, comprimé à libération prolongée :
+00053 | ·
+00054 | Si vous êtes allergique à la nifédipine ou à l’un des autres composants contenus dans ce médicament, mentionnés dans la rubrique 6 ;
+00055 | ·
+00056 | si vous êtes enceinte de moins de 22 semaines d’aménorrhée ou de plus de 36 semaines complètes d’aménorrhée ;
+00057 | ·
+00058 | si la poursuite de la grossesse est considérée comme dangereuse pour vous ou votre bébé à naître :
+00059 | -
+00060 | vous souffrez d’une affection appelée « pré-éclampsie sévère » ou d’une « éclampsie »
+00061 | -
+00062 | le fœtus est mort ;
+00063 | -
+00064 | le foetus a une fréquence cardiaque anormale ;
+00065 | -
+00066 | vous souffrez (ou suspicion) d’une infection de l’utérus ;
+00067 | -
+00068 | vous souffrez (ou suspicion) d’une infection intra-amniotique (Chorioamniotite) ;
+00069 | -
+00070 | le placenta couvre le passage emprunté par le bébé lors de l’accouchement (placenta praevia) ;
+00071 | -
+00072 | le placenta se décolle de la paroi de l’utérus ;
+00073 | -
+00074 | pertes sanguines importantes d’origine génitale (hémorragies) ;
+00075 | ·
+00076 | si vous avez reçu des bêtamimétiques dans les 48 heures précédentes ;
+00077 | ·
+00078 | si vous prenez déjà un traitement tocolytique;
+00079 | ·
+00080 | si vous avez des antécédents cardio-vasculaires sévères : angor instable, infarctus du myocarde, cardiopathie ;
+00081 | ·
+00082 | si vous avez de l’hypotension artérielle ;
+00083 | ·
+00084 | si vous prenez déjà des médicaments contenant du diltiazem.
+00085 | Ne prenez pas MAPAKNA LP si vous êtes dans l’une des situations mentionnées ci-dessus. En cas de doute, veuillez en informer votre médecin, votre sage-femme ou votre pharmacien avant l’administration de MAPAKNA LP.
+00086 | Avertissements et précautions
+00087 | Adressez-vous à votre médecin, pharmacien ou votre infirmier/ère avant de prendre MAPAKNA LP 20 mg, comprimé à libération prolongée.
+00088 | CE MEDICAMENT NE DOIT ETRE PRIS QUE SOUS SURVEILLANCE MEDICALE.
+00089 | NE PAS LAISSER A LA PORTEE DES ENFANTS.
+00090 | Avant l’administration de MAPAKNA LP, veuillez informer votre médecin, votre sage-femme ou votre pharmacien :
+00091 | ·
+00092 | si vous avez des problèmes au niveau des reins ou du foie ;
+00093 | ·
+00094 | si votre grossesse est multiple ;
+00095 | ·
+00096 | si votre bébé à naître est petit par rapport au stade de la grossesse ;
+00097 | ·
+00098 | si vous présentez une tension artérielle basse
+00099 | ·
+00100 | si vous avez des troubles du rythme cardiaque (troubles de la conduction)
+00101 | Enfants et adolescents
+00102 | L’utilisation de MAPAKNA LP est déconseillée chez les enfants et les adolescents de moins de 18 ans en l’absence de données d’efficacité et de sécurité dans cette population.
+00103 | Autres médicaments et MAPAKNA LP 20 mg, comprimé à libération prolongée
+00104 | Ne prenez jamais MAPAKNA LP en association avec le diltiazem (un médicament utilisé pour traiter les troubles du rythme cardiaque).
+00105 | AFIN D'EVITER D'EVENTUELLES INTERACTIONS ENTRE PLUSIEURS MEDICAMENTS et notamment avec la ciclosporine (médicament utilisé pour éviter les réactions du corps suite à une greffe d’organe) et le dantrolène administré par perfusion (médicament utilisé pour relaxer vos muscles) SIGNALEZ SYSTEMATIQUEMENT TOUT AUTRE TRAITEMENT EN COURS A VOTRE MEDECIN OU A VOTRE PHARMACIEN, particulièrement si vous prenez déjà des médicaments pour les maladies cardio-vasculaires.
+00106 | Informez votre médecin ou pharmacien si vous prenez, avez récemment pris ou pourriez prendre tout autre médicament y compris un médicament obtenu sans ordonnance.
+00107 | MAPAKNA LP 20 mg, comprimé à libération prolongée avec des aliments, boissons et de l’alcool
+00108 | Pendant le traitement, évitez de consommer des pamplemousses ou du jus de pamplemousse ainsi que des produits contenant du millepertuis.
+00109 | Grossesse et allaitement
+00110 | Grossesse
+00111 | Sans objet.
+00112 | Allaitement
+00113 | Ce médicament passe faiblement dans le lait maternel. En conséquence, évitez de le prendre si vous désirez allaiter.
+00114 | Demandez conseil à votre médecin ou à votre pharmacien avant de prendre tout médicament.
+00115 | Conduite de véhicules et utilisation de machines
+00116 | Sans objet.
+00117 | MAPAKNA LP 20 mg, comprimé à libération prolongée contient du lactose
+00118 | Si votre médecin vous a informée d’une intolérance à certains sucres, contactez-le avant de prendre ce médicament.
+00119 | 3. COMMENT PRENDRE MAPAKNA LP 20 mg, comprimé à libération prolongée ?
+00120 | Redirection vers le haut de page
+00121 | Mode et voie d'administration
+00122 | Voie orale.
+00123 | Les comprimés sont à avaler sans croquer avec un peu d’eau
+00124 | Posologie
+00125 | Veillez à toujours prendre ce médicament en suivant exactement les indications de votre médecin ou pharmacien. Vérifiez auprès de votre médecin ou pharmacien en cas de doute.
+00126 | Traitement d'attaque
+00127 | : 1 comprimé de MAPAKNA LP per os (avalé) à répéter après 30 minutes (soit 2 comprimés sur 1 heure).
+00128 | Lors du traitement, votre pression artérielle sera surveillée toutes les 15 minutes pendant 2 heures tandis que les contractions utérines et le rythme cardiaque fœtal seront surveillés en continu pendant la première heure du traitement.
+00129 | Si le traitement est arrêté après le traitement d’attaque, votre pression artérielle devra être surveillée durant les 8 heures qui suivent.
+00130 | Traitement d’entretien :
+00131 | Le traitement peut être poursuivi en cas de persistance des contractions utérines, en respectant une dose maximum de 20 mg de MAPAKNA LP toutes les 8 heures (soit 6 comprimés en tout pour le traitement d'entretien). En pratique, le premier comprimé est donné 3 heures après le deuxième comprimé du traitement d'attaque.
+00132 | Pendant le traitement par MAPAKNA LP, votre pression artérielle, vos contractions et la fréquence cardiaque de votre fœtus devront être surveillées dans les 30 minutes suivant chaque prise.
+00133 | Fréquence d'administration
+00134 | Veillez à toujours prendre ce médicament en suivant exactement les indications de votre médecin. Vérifiez auprès de votre médecin ou pharmacien en cas de doute.
+00135 | CONFORMEZ
+00136 | ‑
+00137 | VOUS STRICTEMENT A L
+00138 | ’
+00139 | ORDONNANCE DE VOTRE MEDECIN.
+00140 | Durée du traitement
+00141 | Veillez à toujours prendre ce médicament en suivant exactement les indications de votre médecin. Vérifiez auprès de votre médecin ou pharmacien en cas de doute.
+00142 | Le traitement par MAPAKNA LP ne doit pas être poursuivi au-delà de 48h (après la fin du traitement d'attaque).
+00143 | CONFORMEZ
+00144 | ‑
+00145 | VOUS STRICTEMENT A L
+00146 | ’
+00147 | ORDONNANCE DE VOTRE MEDECIN.
+00148 | Utilisation chez les enfants et les adolescents
+00149 | Les données sur la sécurité et l’efficacité sont limitées chez l’enfant et l’adolescent de moins de 18 ans.
+00150 | Si vous avez pris plus de MAPAKNA LP 20 mg, comprimé à libération prolongée que vous n’auriez dû
+00151 | Les signes suivants peuvent survenir :
+00152 | ·
+00153 | un ralentissement ou une accélération du rythme cardiaque,
+00154 | ·
+00155 | vous pouvez être essoufflée, vos poumons peuvent se remplir de liquide (œdème pulmonaire),
+00156 | ·
+00157 | une tension artérielle basse (hypotension),
+00158 | ·
+00159 | une augmentation du taux de sucre dans le sang (hyperglycémie),
+00160 | ·
+00161 | une augmentation de l’acidité du sang (acidose métabolique),
+00162 | ·
+00163 | une diminution de la quantité d’oxygène dans les tissus (hypoxie),
+00164 | ·
+00165 | des troubles de la conscience qui peuvent aller jusqu’à la perte de conscience (coma).
+00166 | Dans ces cas, votre médecin vous prescrira un traitement adapté (par exemple un lavage gastrique, une surveillance en unité de soins intensifs, ).
+00167 | En particulier dans des cas d'intoxication avec les formes à libération prolongée, l'élimination doit être la plus complète possible, y compris au niveau de l'intestin grêle, afin d'éviter l'absorption prolongée de la substance active.
+00168 | Dans tous les cas, informez votre médecin ou votre pharmacien de la prise concomitante de bétabloquants.
+00169 | Consultez immédiatement votre médecin ou votre pharmacien.
+00170 | Si vous oubliez de prendre MAPAKNA LP 20 mg, comprimé à libération prolongée
+00171 | Pour être efficace, ce médicament doit être pris selon la prescription médicale. Ne prenez pas de dose double pour compenser la dose que vous avez oublié de prendre.
+00172 | Si vous arrêtez de prendre MAPAKNA LP 20 mg, comprimé à libération prolongée
+00173 | Sans objet.
+00174 | 4. QUELS SONT LES EFFETS INDESIRABLES EVENTUELS ?
+00175 | Redirection vers le haut de page
+00176 | Comme tous les médicaments, ce médicament peut provoquer des effets indésirables, mais ils ne surviennent pas systématiquement chez tout le monde.
+00177 | Les
+00178 | effets indésirables graves
+00179 | associés à l'utilisation de
+00180 | MAPAKNA LP
+00181 | sont : l’œdème aigu du poumon, l’hypotension sévère, la décompensation cardiaque.
+00182 | Le classement des effets indésirables est basé selon les fréquences suivantes :
+00183 | ·
+00184 | Fréquent : 1 à 10 patientes sur 100
+00185 | ·
+00186 | Peu fréquent : 1 à 10 patientes sur 1 000
+00187 | ·
+00188 | Rare : 1 à 10 patientes sur 10 000
+00189 | Les effets indésirables suivants peuvent survenir :
+00190 | Fréquents :
+00191 | Céphalées, tachycardie, palpitations, bouffées de chaleur,
+00192 | essoufflements (dyspnées).
+00193 | Peu fréquents :
+00194 | Angioœdème, vertiges, douleur thoracique, œdème périphérique,
+00195 | tension artérielle basse (hypotension sévère
+00196 | ),
+00197 | poumons remplis de liquide (œdème pulmonaire
+00198 | ).
+00199 | Rares :
+00200 | Prurit, urticaire, constipation, dyspepsies, nausées.
+00201 | Fréquence indéterminée :
+00202 | Hypersensibilités plus ou moins sévères (réaction anaphylactique/anaphylactoïde), nervosité,
+00203 | fonction hépatique anormale (augmentation des transaminases, gamma GT et phosphatases alcalines),
+00204 | érythème,
+00205 | érythème polymorphe, dermatite exfoliative
+00206 | , crampes musculaires, dysuries, polyuries, hémorragie utérine, atonie utérine.
+00207 | Déclaration des effets secondaires
+00208 | Si vous ressentez un quelconque effet indésirable, parlez-en à votre médecin, votre pharmacien ou à votre infirmier/ère. Ceci s’applique aussi à tout effet indésirable qui ne serait pas mentionné dans cette notice. Vous pouvez également déclarer les effets indésirables directement via le système national de déclaration : Agence nationale de sécurité du médicament et des produits de santé (ANSM) et réseau des Centres Régionaux de Pharmacovigilance - Site internet :
+00209 | https://signalement.social-sante.gouv.fr
+00210 | En signalant les effets indésirables, vous contribuez à fournir davantage d’informations sur la sécurité du médicament.
+00211 | 5. COMMENT CONSERVER MAPAKNA LP 20 mg, comprimé à libération prolongée?
+00212 | Redirection vers le haut de page
+00213 | Tenir ce médicament hors de la vue et de la portée des enfants.
+00214 | N’utilisez pas ce médicament après la date de péremption indiquée sur la boîte. La date de péremption fait référence au dernier jour de ce mois.
+00215 | A conserver à l’abri de la lumière et à une température inférieure ou égale à 25°C.
+00216 | Ne jetez aucun médicament au tout-à-l’égout
+00217 | ou avec
+00218 | les ordures ménagères. Demandez à votre pharmacien d’éliminer les médicaments que vous n’utilisez plus. Ces mesures contribueront à protéger l’environnement.
+00219 | 6. CONTENU DE L’EMBALLAGE ET AUTRES INFORMATIONS
+00220 | Redirection vers le haut de page
+00221 | Ce que contient MAPAKNA LP 20 mg, comprimé à libération prolongée
+00222 | ·
+00223 | La substance active est :
+00224 | Nifédipine................................................................................................................... 20,00 mg
+00225 | Pour un comprimé à libération prolongée
+00226 | ·
+00227 | Les autres composants sont :
+00228 | Noyau
+00229 | : cellulose microcristalline, amidon de maïs prégélatinisé, lactose monohydraté, polysorbate 80, stéarate de magnésium.
+00230 | Pelliculage
+00231 | : methocel/hypromellose E5P, polyéthylèneglycol 4000, dioxyde de titane (E171), oxyde de fer rouge (E172), oxyde de fer noir (E172).
+00232 | Qu’est-ce que MAPAKNA LP 20 mg, comprimé à libération prolongée et contenu de l’emballage extérieur
+00233 | MAPAKNA LP se présente sous forme de comprimé rose foncé, rond et légèrement convexe sous plaquette.
+00234 | Chaque boîte contient 1 plaquette de 10 comprimés.
+00235 | Titulaire de l’autorisation de mise sur le marché
+00236 | LABORATOIRES MAJORELLE
+00237 | 6 RUE COPERNIC
+00238 | 75116 PARIS
+00239 | Exploitant de l’autorisation de mise sur le marché
+00240 | LABORATOIRES MAJORELLE
+00241 | 6 RUE COPERNIC
+00242 | 75116 PARIS
+00243 | Fabricant
+00244 | EDMOND PHARMA S.R.L. (RECIPHARM)
+00245 | STRADA STATALE DEI GIOVI, 131
+00246 | 20037 PADERNO DUGNANO (MI)
+00247 | ITALIE
+00248 | Noms du médicament dans les Etats membres de l'Espace Economique Européen
+00249 | Sans objet.
+00250 | La dernière date à laquelle cette notice a été révisée est :
+00251 | [à compléter ultérieurement par le titulaire]
+00252 | < {MM/AAAA}>< {mois AAAA}.>
+00253 | Autres
+00254 | Des informations détaillées sur ce médicament sont disponibles sur le site Internet de l’ANSM (France).

@@ -17,8 +17,10 @@ venv/
 # Notebooks
 .ipynb_checkpoints/
 
-# Index (recalculables)
+# Index et textes recalculables (les scripts les régénèrent)
 data/index/
+data/processed/textes/
+data/processed/rubriques/
 
 # OS / IDE
 .DS_Store

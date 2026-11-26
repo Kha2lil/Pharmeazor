@@ -1,0 +1,217 @@
+00001 | Sommaire de la notice
+00002 | Dénomination du médicament
+00003 | Encadré
+00004 | Que contient cette notice ?
+00005 | 1. QU’EST-CE QUE NEFOPAM PANPHARMA 20 mg/2 mL, solution injectable/pour perfusion ET DANS QUELS CAS EST-IL UTILISE ?
+00006 | 2. QUELLES SONT LES INFORMATIONS A CONNAITRE AVANT d’utiliser NEFOPAM PANPHARMA 20 mg/2 mL, solution injectable/pour perfusion ?
+00007 | 3. COMMENT utiliser NEFOPAM PANPHARMA 20 mg/2 mL, solution injectable/pour perfusion?
+00008 | 4. QUELS SONT LES EFFETS INDESIRABLES EVENTUELS ?
+00009 | 5. COMMENT CONSERVER NEFOPAM PANPHARMA 20 mg/2 mL, solution injectable/pour perfusion ?
+00010 | 6. CONTENU DE L’EMBALLAGE ET AUTRES INFORMATIONS
+00011 | Imprimer
+00012 | Notice patient
+00013 | ANSM - Mis à jour le : 08/09/2026
+00014 | Dénomination du médicament
+00015 | Redirection vers le haut de page
+00016 | NEFOPAM PANPHARMA 20 mg/2 mL, solution injectable/pour perfusion
+00017 | Chlorhydrate de néfopam
+00018 | Encadré
+00019 | Redirection vers le haut de page
+00020 | Veuillez lire attentivement cette notice avant d’utiliser ce médicament car elle contient des informations importantes pour vous.
+00021 | ·
+00022 | Gardez cette notice. Vous pourriez avoir besoin de la relire.
+00023 | ·
+00024 | Si vous avez d’autres questions, interrogez votre médecin, votre pharmacien ou votre infirmier/ère.
+00025 | ·
+00026 | Ce médicament vous a été personnellement prescrit. Ne le donnez pas à d’autres personnes. Il pourrait leur être nocif, même si les signes de leur maladie sont identiques aux vôtres.
+00027 | ·
+00028 | Si vous ressentez un quelconque effet indésirable, parlez-en à votre médecin, votre pharmacien ou votre infirmier/ère. Ceci s’applique aussi à tout effet indésirable qui ne serait pas mentionné dans cette notice. Voir rubrique 4.
+00029 | Que contient cette notice ?
+00030 | Redirection vers le haut de page
+00031 | 1. Qu'est-ce que NEFOPAM PANPHARMA 20 mg/2 mL, solution injectable/pour perfusion et dans quels cas est-il utilisé ?
+00032 | 2. Quelles sont les informations à connaître avant de recevoir NEFOPAM PANPHARMA 20 mg/2 mL, solution injectable/pour perfusion ?
+00033 | 3. Comment NEFOPAM PANPHARMA 20 mg/2 mL, solution injectable/pour perfusion est-il administré ?
+00034 | 4. Quels sont les effets indésirables éventuels ?
+00035 | 5. Comment conserver NEFOPAM PANPHARMA 20 mg/2 mL, solution injectable/pour perfusion ?
+00036 | 6. Contenu de l’emballage et autres informations.
+00037 | 1. QU’EST-CE QUE NEFOPAM PANPHARMA 20 mg/2 mL, solution injectable/pour perfusion ET DANS QUELS CAS EST-IL UTILISE ?
+00038 | Redirection vers le haut de page
+00039 | Classe pharmacothérapeutique : Analgésiques, autres analgésiques et antipyrétiques - code ATC : N02BG06.
+00040 | Ce médicament contient la substance active chlorhydrate de néfopam (dénommée « néfopam » dans cette notice). Ce médicament est utilisé chez les adultes après une chirurgie pour traiter la douleur aiguë modérée à sévère dans un contexte de traitement multimodal de la douleur.
+00041 | 2. QUELLES SONT LES INFORMATIONS A CONNAITRE AVANT d’utiliser NEFOPAM PANPHARMA 20 mg/2 mL, solution injectable/pour perfusion ?
+00042 | Redirection vers le haut de page
+00043 | NEFOPAM PANPHARMA ne doit pas être administré :
+00044 | ·
+00045 | si vous êtes allergique au chlorhydrate de néfopam ou à l’un des autres composants contenus dans ce médicament, mentionnés dans la rubrique 6.
+00046 | ·
+00047 | si vous souffrez d’un glaucome à angle fermé (pression élevée à l’intérieur de l’œil),
+00048 | ·
+00049 | si vous avez des difficultés à uriner en raison d’un problème à la prostate,
+00050 | ·
+00051 | si vous avez des convulsions (crises épileptiques) ou avez des antécédents de convulsions.
+00052 | Avertissements et précautions
+00053 | Adressez-vous à votre médecin ou pharmacien avant de recevoir NEFOPAM PANPHARMA si :
+00054 | ·
+00055 | vous avez des problèmes au foie,
+00056 | ·
+00057 | vous avez des problèmes aux reins,
+00058 | ·
+00059 | vous avez des problèmes cardiovasculaires parce que ce médicament provoque une tachycardie (augmentation du rythme cardiaque),
+00060 | ·
+00061 | vous avez tendance à présenter facilement des saignements ou des ecchymoses, ou si vous prenez des anticoagulants et/ou des médicaments connus pour affecter la fonction plaquettaire.
+00062 | L’utilisation de NEFOPAM PANPHARMA peut entraîner une dépendance et un abus. Si vous craignez de devenir dépendant(e) de NEFOPAM PANPHARMA, il est important d’en parler à votre médecin. Ce médicament n’est pas recommandé chez les patients âgés en raison de ses effets anticholinergiques.
+00063 | Enfants
+00064 | Sans objet.
+00065 | Autres médicaments et NEFOPAM PANPHARMA
+00066 | Informez votre médecin ou votre pharmacien si vous utilisez, avez récemment utilisé ou pourriez utiliser tout autre médicament.
+00067 | Si le néfopam est utilisé avec d’autres médicaments qui affectent le système nerveux central, le traitement doit être particulièrement surveillé :
+00068 | ·
+00069 | dérivés de la morphine (antidouleurs, médicaments contre la toux et traitements de substitution de l’addiction).
+00070 | ·
+00071 | médicaments pour le traitement de la psychose (antipsychotiques) ; barbituriques, anxiolytiques benzodiazépines et non benzodiazépines (médicaments pour traiter l’anxiété et l’insomnie) ; somnifères (hypnotiques), médicaments pour traiter la dépression (antidépresseurs sédatifs tels que l’amitiptyline, la doxépine, la miansérine, la mirtazapine et la trimipramine) ; anti-allergiques (antihistaminiques sédatifs de type H1).
+00072 | ·
+00073 | médicaments pour traiter l’hypertension (antihypertenseurs) à action centrale.
+00074 | ·
+00075 | baclofène (médicament pour traiter les maladies et les affections caractérisées par une augmentation du tonus musculaire, comme la sclérose en plaques).
+00076 | ·
+00077 | thalomide (un médicament utilisé dans le traitement du myélome multiple).
+00078 | ·
+00079 | autres substances anticholinergiques.
+00080 | ·
+00081 | anticoagulants et/ou médicaments connus pour affecter la fonction plaquettaire : p. ex. antipsychotiques atypiques et phénothiazines, la plupart des antidépresseurs tricycliques, anti-inflammatoires non stéroïdiens (AINS), acide acétylsalicylique (AAS).
+00082 | NEFOPAM PANPHARMA avec de l’alcool
+00083 | L’alcool augmente l’effet sédatif de ce médicament. Vous devez éviter de consommer des boissons alcoolisées et des médicaments contenant de l’alcool.
+00084 | Grossesse, allaitement et fertilité
+00085 | Si vous êtes enceinte ou que vous allaitez, si vous pensez être enceinte ou planifiez une grossesse, demandez conseil à votre médecin ou pharmacien avant de prendre ce médicament.
+00086 | L’effet de ce médicament pendant la grossesse est inconnu. Ce médicament ne doit donc pas être utilisé chez la femme enceinte.
+00087 | Le néfopam est excrété dans le lait maternel et il est probable qu’il ait des effets sur le bébé allaité. Ce médicament ne doit donc pas être utilisé pendant l’allaitement.
+00088 | Conduite de véhicules et utilisation de machines
+00089 | En raison d’un risque éventuel de somnolence, les conducteurs et utilisateurs de machine devront être vigilants.
+00090 | NEFOPAM PANPHARMA contient du sodium
+00091 | Ce médicament contient moins de 1 mmol (23 mg) de sodium par ampoule, c’est-à-dire qu’il est essentiellement « sans sodium ».
+00092 | 3. COMMENT utiliser NEFOPAM PANPHARMA 20 mg/2 mL, solution injectable/pour perfusion?
+00093 | Redirection vers le haut de page
+00094 | Veillez à toujours utiliser ce médicament en suivant exactement les indications de votre médecin. Demandez conseil à votre médecin ou à votre pharmacien en cas de doute.
+00095 | Utilisation chez les adultes
+00096 | La dose recommandée est strictement individuelle.
+00097 | Il s’agit généralement de 1 ampoule (par voie IV ou IM) par dose, à répéter jusqu’à 6 ampoules par jour si nécessaire.
+00098 | Utilisation chez les enfants et les adolescents
+00099 | Ce produit ne doit pas être utilisé chez les enfants et les adolescents.
+00100 | Utilisation chez les patients âgés
+00101 | Ce produit ne doit pas être utilisé chez les patients âgés.
+00102 | Mode et voie d’administration
+00103 | Ce médicament peut être administré par voie intramusculaire (IM) profonde ou par perfusion intraveineuse (IV) lente (sur plus de 15 minutes).
+00104 | Lors d’une administration par voie intraveineuse, il est nécessaire de rester couché pour éviter les effets secondaires tels que nausées, étourdissements et sueurs.
+00105 | Les injections IM profondes peuvent être douloureuses et, si plusieurs injections IM sont nécessaires, l’administration IV doit être envisagée.
+00106 | Fréquence d’administration
+00107 | Les injections peuvent être répétée toutes les 6 heures (voie IM) ou toutes les 4 heures (voie IV).
+00108 | Durée du traitement
+00109 | La durée de traitement prescrite par votre médecin doit être strictement respectée.
+00110 | Si vous recevez plus de NEFOPAM PANPHARMA que vous n’auriez dû
+00111 | Étant donné que ce médicament vous sera administré par un médecin ou un(e) infirmier(ère), il est peu probable que vous receviez une quantité trop importante. Cependant, si vous pensez en avoir reçu plus que vous n’auriez dû, veuillez avertir immédiatement le médecin ou l’infirmier(ère).
+00112 | Si vous oubliez d’utiliser NEFOPAM PANPHARMA
+00113 | Si une injection a été oubliée, il n’est pas nécessaire d’augmenter la dose suivante.
+00114 | Si vous arrêtez d’utiliser NEFOPAM PANPHARMA
+00115 | L’arrêt du traitement n’entraînera pas de syndrome de sevrage (état de privation ou de manque que l’on ressent après avoir arrêté certains médicaments et qui fait que les symptômes réapparaissent ou s’aggravent).
+00116 | Si vous avez d’autres questions sur l’utilisation de ce médicament, demandez plus d’informations à votre médecin, à votre pharmacien ou à votre infirmier/ère.
+00117 | 4. QUELS SONT LES EFFETS INDESIRABLES EVENTUELS ?
+00118 | Redirection vers le haut de page
+00119 | Comme tous les médicaments, ce médicament peut provoquer des effets indésirables, mais ils ne surviennent pas systématiquement chez tout le monde.
+00120 | Très fréquent :
+00121 | peut affecter plus d’1 personne sur 10
+00122 | ·
+00123 | somnolence
+00124 | ·
+00125 | nausées avec ou sans vomissements
+00126 | ·
+00127 | transpiration excessive
+00128 | Fréquent :
+00129 | peut affecter jusqu’à 1 personne sur 10
+00130 | ·
+00131 | étourdissements
+00132 | ·
+00133 | rythme cardiaque rapide, cœur battant rapidement et fort
+00134 | ·
+00135 | sécheresse de la bouche
+00136 | ·
+00137 | rétention urinaire (une affection survenant lorsque vous ne parvenez pas à vider toute l’urine contenue dans votre vessie)
+00138 | Rare :
+00139 | peut affecter jusqu’à 1 personne sur 1 000
+00140 | ·
+00141 | excitation, irritabilité, hallucinations, abus, dépendance au médicament
+00142 | ·
+00143 | convulsions
+00144 | ·
+00145 | vague sensation de malaise corporel, sensation de mal-être
+00146 | ·
+00147 | réaction d’hypersensibilité (urticaire, angiœdème, choc anaphylactique)
+00148 | ·
+00149 | devenir dépendant(e) de NEFOPAM PANPHARMA (pharmacodépendance).
+00150 | Fréquence indéterminée :
+00151 | la fréquence ne peut être estimée sur la base des données disponibles
+00152 | ·
+00153 | état de confusion
+00154 | ·
+00155 | état d’inconscience
+00156 | ·
+00157 | douleur au site d’injection.
+00158 | Déclaration des effets secondaires
+00159 | Si vous ressentez un quelconque effet indésirable, parlez-en à votre médecin ou votre pharmacien. Ceci s’applique aussi à tout effet indésirable qui ne serait pas mentionné dans cette notice. Vous pouvez également déclarer les effets indésirables directement via le système national de déclaration : Agence nationale de sécurité du médicament et des produits de santé (ANSM) et réseau des Centres Régionaux de Pharmacovigilance - Site internet :
+00160 | https://signalement.social-sante.gouv.fr/
+00161 | .
+00162 | En signalant les effets indésirables, vous contribuez à fournir davantage d’informations sur la sécurité du médicament.
+00163 | 5. COMMENT CONSERVER NEFOPAM PANPHARMA 20 mg/2 mL, solution injectable/pour perfusion ?
+00164 | Redirection vers le haut de page
+00165 | Tenir ce médicament hors de la vue et de la portée des enfants.
+00166 | Le produit est à usage unique. Toute fraction non utilisée doit être éliminée.
+00167 | Le produit doit être inspecté visuellement avant d’être administré pour vérifier s’il contient des particules ou s’il possède une coloration anormale. Ce médicament ne doit pas être utilisé s’il présente des signes visibles de détérioration (p. ex. particules ou coloration anormale).
+00168 | Ce médicament ne nécessite pas de précautions particulières de conservation concernant la température.
+00169 | Conserver les ampoules dans l’emballage d’origine et extérieur, à l’abri de la lumière.
+00170 | Conservation après la première ouverture :
+00171 | Après la première ouverture, le médicament doit être utilisé immédiatement.
+00172 | Conservation après dilution :
+00173 | Pour une perfusion intraveineuse, ce médicament peut être dilué avec du chlorure de sodium à 0,9 % ou une solution de glucose à 5 %.
+00174 | La stabilité chimique et physique en cours d’utilisation a été démontrée pendant 24 heures à une température comprise entre 2 °C et 8 °C et à 25 °C.
+00175 | D'un point de vue microbiologique, le produit dilué doit être utilisé immédiatement. En cas d’utilisation non immédiate, les durées et les conditions de conservation après dilution et avant utilisation relèvent de la responsabilité de l’utilisateur et ne devraient pas dépasser 24 heures entre 2 °C et 8 °C, sauf si la dilution a été effectuée dans des conditions d’asepsie contrôlées et validées.
+00176 | N’utilisez pas ce médicament après la date de péremption indiquée sur l’emballage après « EXP ». La date de péremption fait référence au dernier jour de ce mois.
+00177 | Ne jetez aucun médicament au tout-à-l’égout
+00178 | ou avec
+00179 | les ordures ménagères. Demandez à votre pharmacien d’éliminer les médicaments que vous n’utilisez plus. Ces mesures contribueront à protéger l’environnement.
+00180 | 6. CONTENU DE L’EMBALLAGE ET AUTRES INFORMATIONS
+00181 | Redirection vers le haut de page
+00182 | Ce que contient NEFOPAM PANPHARMA
+00183 | ·
+00184 | La substance active est :
+00185 | Chlorhydrate de néfopam................................................................................................. 20 mg
+00186 | Pour une ampoule de 2 mL.
+00187 | Chaque mL contient 10 mg de chlorhydrate de néfopam.
+00188 | ·
+00189 | Les autres composants sont :
+00190 | Phosphate monosodique dihydraté, phosphate disodique dodécahydraté, acide phosphorique concentré (pour l’ajustement du pH), hydroxyde de sodium (pour l’ajustement du pH), eau pour préparations injectables.
+00191 | Qu’est-ce que NEFOPAM PANPHARMA et contenu de l’emballage extérieur
+00192 | Solution transparente, incolore à jaunâtre, exempte de particules visibles, ayant un pH compris entre 4,9 et 5,9 et une osmolalité approximative de 255-285 mOsm/kg.
+00193 | Ampoule en verre transparent de type I, d’une capacité de 2 mL, insérée dans des boîtes en carton et accompagnée d’une notice.
+00194 | Boîtes de 5 et 10 ampoules.
+00195 | Toutes les présentations peuvent ne pas être commercialisées.
+00196 | Titulaire de l’autorisation de mise sur le marché
+00197 | PANMEDICA
+00198 | 406 BUREAUX DE LA COLLINE
+00199 | 92213 SAINT-CLOUD CEDEX
+00200 | Exploitant de l’autorisation de mise sur le marché
+00201 | PANPHARMA
+00202 | Z.I. DU CLAIRAY
+00203 | 35133 LUITRE
+00204 | Fabricant
+00205 | MEDOCHEMIE LTD.
+00206 | 48 IAPETOU STREET
+00207 | AGIOS ATHANASSIOS INDUSTRIAL AREA
+00208 | 4101 AGIOS ATHANASSIOS, LIMASSOL
+00209 | CHYPRE
+00210 | Noms du médicament dans les Etats membres de l'Espace Economique Européen
+00211 | Ce médicament est autorisé dans les Etats membres de l'Espace Economique Européen sous les noms suivants : Conformément à la réglementation en vigueur.
+00212 | [À compléter ultérieurement par le titulaire]
+00213 | La dernière date à laquelle cette notice a été révisée est :
+00214 | [à compléter ultérieurement par le titulaire]
+00215 | {mois AAAA}.
+00216 | Autres
+00217 | Des informations détaillées sur ce médicament sont disponibles sur le site Internet de l’ANSM (France).

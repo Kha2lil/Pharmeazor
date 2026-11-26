@@ -1,0 +1,353 @@
+00001 | Sommaire de la notice
+00002 | Dénomination du médicament
+00003 | Encadré
+00004 | Que contient cette notice ?
+00005 | 1. QU’EST-CE QUE AMOXICILLINE VIATRIS 500 mg/5 mL, poudre pour suspension buvable ET DANS QUELS CAS EST-IL UTILISE ?
+00006 | 2. QUELLES SONT LES INFORMATIONS A CONNAITRE AVANT DE PRENDRE AMOXICILLINE VIATRIS 500 mg/5 mL, poudre pour suspension buvable ?
+00007 | 3. COMMENT PRENDRE AMOXICILLINE VIATRIS 500 mg/5 ml, poudre pour suspension buvable ?
+00008 | 4. QUELS SONT LES EFFETS INDESIRABLES EVENTUELS ?
+00009 | 5. COMMENT CONSERVER AMOXICILLINE VIATRIS 500 mg/5 mL, poudre pour suspension buvable ?
+00010 | 6. CONTENU DE L’EMBALLAGE ET AUTRES INFORMATIONS
+00011 | Imprimer
+00012 | Notice patient
+00013 | ANSM - Mis à jour le : 14/11/2025
+00014 | Dénomination du médicament
+00015 | Redirection vers le haut de page
+00016 | AMOXICILLINE VIATRIS 500 mg/5 ml, poudre pour suspension buvable
+00017 | Amoxicilline
+00018 | Encadré
+00019 | Redirection vers le haut de page
+00020 | Veuillez lire attentivement cette notice avant de prendre ce médicament car elle contient des informations importantes pour vous.
+00021 | ·
+00022 | Gardez cette notice. Vous pourriez avoir besoin de la relire.
+00023 | ·
+00024 | Si vous avez d’autres questions, interrogez votre médecin, votre pharmacien ou votre infirmier/ère.
+00025 | ·
+00026 | Ce médicament vous a été personnellement prescrit, à vous ou à votre enfant. Ne le donnez pas à d’autres personnes. Il pourrait leur être nocif, même si les signes de leur maladie sont identiques aux vôtres.
+00027 | ·
+00028 | Si vous ressentez un quelconque effet indésirable, parlez-en à votre médecin, votre pharmacien ou votre infirmier/ère. Ceci s’applique aussi à tout effet indésirable qui ne serait pas mentionné dans cette notice.
+00029 | Voir rubrique 4.
+00030 | Que contient cette notice ?
+00031 | Redirection vers le haut de page
+00032 | 1. Qu'est-ce que
+00033 | AMOXICILLINE VIATRIS 500
+00034 | mg/5 mL
+00035 | ,
+00036 | poudre pour suspension buvable et dans quels cas est-il utilisé ?
+00037 | 2. Quelles sont les informations à connaître avant de prendre
+00038 | AMOXICILLINE VIATRIS 500
+00039 | mg/5 mL
+00040 | ,
+00041 | poudre pour suspension buvable
+00042 | ?
+00043 | 3. Comment prendre
+00044 | AMOXICILLINE VIATRIS 500
+00045 | mg/5 mL
+00046 | ,
+00047 | poudre pour suspension buvable
+00048 | ?
+00049 | 4. Quels sont les effets indésirables éventuels ?
+00050 | 5. Comment conserver
+00051 | AMOXICILLINE VIATRIS 500
+00052 | mg/5 mL
+00053 | ,
+00054 | poudre pour suspension buvable
+00055 | ?
+00056 | 6. Contenu de l’emballage et autres informations.
+00057 | 1. QU’EST-CE QUE AMOXICILLINE VIATRIS 500 mg/5 mL, poudre pour suspension buvable ET DANS QUELS CAS EST-IL UTILISE ?
+00058 | Redirection vers le haut de page
+00059 | Classe pharmacothérapeutique
+00060 | : pénicillines à large spectre - code ATC : J01CA04.
+00061 | AMOXICILLINE VIATRIS, poudre pour suspension buvable est un antibiotique. Le principe actif est l’amoxicilline. Celui-ci appartient à un groupe de médicaments appelés « pénicillines ».
+00062 | AMOXICILLINE VIATRIS, poudre pour suspension buvable est utilisé pour traiter des infections causées par des bactéries dans différentes parties du corps. AMOXICILLINE VIATRIS, poudre pour suspension buvable peut également être utilisé en association à d’autres médicaments pour traiter les ulcères de l’estomac.
+00063 | 2. QUELLES SONT LES INFORMATIONS A CONNAITRE AVANT DE PRENDRE AMOXICILLINE VIATRIS 500 mg/5 mL, poudre pour suspension buvable ?
+00064 | Redirection vers le haut de page
+00065 | Ne prenez jamais AMOXICILLINE VIATRIS, poudre pour suspension buvable :
+00066 | ·
+00067 | si vous êtes allergique à l’amoxicilline, à la pénicilline ou à l’un des autres composants contenus dans ce médicament, mentionnés dans la rubrique 6 ;
+00068 | ·
+00069 | si vous avez déjà présenté une réaction allergique à un antibiotique. Ceci peut inclure une éruption cutanée ou un gonflement du visage ou de la gorge.
+00070 | Ne prenez pas AMOXICILLINE VIATRIS, poudre pour suspension buvable si vous êtes dans l’une des situations mentionnées ci-dessus. En cas de doute, demandez conseil à votre médecin ou votre pharmacien avant de prendre AMOXICILLINE VIATRIS, poudre pour suspension buvable.
+00071 | Avertissements et précautions
+00072 | Adressez-vous à votre médecin, pharmacien ou votre infirmier/ère avant de prendre AMOXICILLINE VIATRIS, poudre pour suspension buvable si vous :
+00073 | ·
+00074 | souffrez de mononucléose infectieuse (fièvre, maux de gorge, ganglions enflés et fatigue extrême) ;
+00075 | ·
+00076 | avez des problèmes rénaux ;
+00077 | ·
+00078 | n’urinez pas régulièrement.
+00079 | En cas de doute, demandez conseil à votre médecin ou votre pharmacien avant de prendre AMOXICILLINE VIATRIS, poudre pour suspension buvable.
+00080 | Tests sanguins et urinaires
+00081 | Si vous devez effectuer :
+00082 | ·
+00083 | des analyses d’urine (dosage du glucose) ou des analyses de sang pour explorer le fonctionnement de votre foie ;
+00084 | ·
+00085 | un dosage d’oestriol (utilisé pendant la grossesse pour vérifier que le bébé se développe normalement).
+00086 | Informez votre médecin ou votre pharmacien que vous prenez AMOXICILLINE VIATRIS, poudre pour suspension buvable. En effet, AMOXICILLINE VIATRIS, poudre pour suspension buvable peut influer sur les résultats de ces tests.
+00087 | Enfants et adolescents
+00088 | Sans objet.
+00089 | Autres médicaments et AMOXICILLINE VIATRIS, poudre pour suspension buvable
+00090 | Informez votre médecin ou pharmacien si vous prenez, avez récemment pris ou pourriez prendre tout autre médicament.
+00091 | ·
+00092 | Si vous prenez de l’allopurinol (utilisé dans le traitement de la goutte) avec
+00093 | AMOXICILLINE VIATRIS, poudre pour suspension buvable
+00094 | , le risque de réaction cutanée allergique est plus élevé.
+00095 | ·
+00096 | Si vous prenez du probénécide (utilisé pour traiter la goutte),
+00097 | l’utilisation concomitante de probénécide peut réduire l’excrétion de l’amoxicilline et n’est pas recommandée.
+00098 | Votre médecin peut décider d’adapter votre dose d’
+00099 | AMOXICILLINE VIATRIS, poudre pour suspension buvable
+00100 | .
+00101 | ·
+00102 | Si vous prenez du mycophénolate mofétil (utilisé après une greffe d'organe), celui-ci peut être moins efficace.
+00103 | ·
+00104 | Si vous prenez des médicaments destinés à empêcher la coagulation du sang (tels que la warfarine), vous pourriez avoir besoin d’effectuer des analyses sanguines supplémentaires.
+00105 | ·
+00106 | Si vous prenez d’autres antibiotiques (tels que les tétracyclines),
+00107 | AMOXICILLINE VIATRIS, poudre pour suspension buvable
+00108 | peut être moins efficace.
+00109 | ·
+00110 | Si vous prenez du méthotrexate (utilisé pour traiter le cancer et le psoriasis sévère),
+00111 | les pénicillines peuvent réduire l’excrétion du méthotrexate entrainant une possible augmentation des effets indésirables.
+00112 | AMOXICILLINE VIATRIS, poudre pour suspension buvable avec des aliments, boissons et de l’alcool
+00113 | Sans objet.
+00114 | Grossesse, allaitement et fertilité
+00115 | Si vous êtes enceinte ou que vous allaitez, si vous pensez être enceinte ou planifiez une grossesse, demandez conseil à votre médecin ou pharmacien avant de prendre ce médicament.
+00116 | Conduite de véhicules et utilisation de machines
+00117 | AMOXICILLINE VIATRIS, poudre pour suspension buvable peut provoquer des effets indésirables (comme des réactions allergiques, des vertiges et des convulsions) susceptibles de réduire votre capacité à conduire.
+00118 | Ne conduisez pas et n’utilisez pas de machines à moins que vous vous sentiez bien.
+00119 | AMOXICILLINE VIATRIS, poudre pour suspension buvable contient de l'aspartam (E951), de la maltodextrine (contenant du glucose), du benzoate de sodium
+00120 | (E211)
+00121 | , du sorbitol
+00122 | (E420)
+00123 | , de l’alcool benzylique et du sodium
+00124 | Ce médicament contient 8,5 mg d’aspartam par cuillère-mesure de 5 mL. L’aspartam contient une source de phénylalanine. Peut être dangereux pour les personnes atteintes de phénylcétonurie (PCU), une maladie génétique rare caractérisée par l’accumulation de phénylalanine ne pouvant être éliminée correctement.
+00125 | Ce médicament contient de la maltodextrine (source de glucose). Si votre médecin vous a informé(e) d’une intolérance à certains sucres, contactez-le avant de prendre ce médicament.
+00126 | Le glucose peut être nocif pour les dents.
+00127 | Ce médicament contient 7,1 mg de benzoate de sodium pour une cuillère-mesure de 5 mL de suspension buvable.
+00128 | Le benzoate de sodium peut accroître le risque ictère (jaunissement de la peau et des yeux) chez les nouveau-nés (jusqu’à 4 semaines).
+00129 | Ce médicament contient 0,15 mg de sorbitol par cuillère-mesure de 5 mL de suspension buvable.
+00130 | Ce médicament contient moins de 20 mg d’alcool benzylique par cuillère-mesure de 5 mL. L’alcool benzylique peut provoquer des réactions allergiques.
+00131 | L’alcool benzylique est associé à un risque d’effets secondaires graves y compris des problèmes respiratoires (appelés « syndrome de suffocation ») chez les jeunes enfants.
+00132 | Ne pas utiliser chez le nouveau-né (jusqu’à 4 semaines) sauf recommandation contraire de votre médecin.
+00133 | Ne pas utiliser pendant plus d’une semaine chez les jeunes enfants (moins de 3 ans), sauf avis contraire de votre médecin ou de votre pharmacien.
+00134 | Demandez conseil à votre médecin ou à votre pharmacien si vous êtes enceinte, si vous allaitez ou si vous souffrez d’une maladie du foie ou du rein. De grandes quantités d’alcool benzylique peuvent s’accumuler dans votre corps et entraîner des effets secondaires (appelés « acidose métabolique »).
+00135 | Ce médicament contient moins de 1 mmol (23 mg) de sodium par dose de 5 mL, c.-à-d. qu’il est essentiellement « sans sodium ».
+00136 | 3. COMMENT PRENDRE AMOXICILLINE VIATRIS 500 mg/5 ml, poudre pour suspension buvable ?
+00137 | Redirection vers le haut de page
+00138 | Veillez à toujours prendre ce médicament en suivant exactement les indications de votre médecin ou pharmacien. Vérifiez auprès de votre médecin ou pharmacien en cas de doute.
+00139 | Posologie habituelle
+00140 | Enfants pesant moins de 40 kg
+00141 | Toutes les posologies sont déterminées en fonction du poids de l’enfant en kilogrammes.
+00142 | ·
+00143 | Votre médecin vous indiquera la quantité d’
+00144 | AMOXICILLINE VIATRIS, poudre pour suspension buvable
+00145 | que vous devez administrer à votre bébé ou votre enfant.
+00146 | ·
+00147 | La posologie habituelle est de 40 mg à 90 mg par kilogramme de poids corporel et par jour, à administrer en deux ou trois prises.
+00148 | ·
+00149 | La dose maximale recommandée est de 100 mg par kilogramme de poids corporel et par jour.
+00150 | Adultes, patients âgés et enfants pesant 40 kg ou plus
+00151 | Cette suspension orale n’est habituellement pas prescrite aux adultes et aux enfants pesant plus de 40 kg. Cependant, cette présentation peut être adaptée à votre situation, notamment si vous n’êtes pas capable d’avaler une gélule. D’autres présentations sont disponibles, en fonction du dosage.
+00152 | Demandez conseil à votre médecin ou pharmacien.
+00153 | Problèmes rénaux
+00154 | Si vous souffrez de problèmes rénaux, la posologie pourra être diminuée par rapport à la posologie habituelle.
+00155 | Veillez à toujours prendre ce médicament en suivant exactement les instructions de cette notice ou les indications de votre médecin, pharmacien ou infirmier/ère. Vérifiez auprès de votre médecin, pharmacien ou infirmier/ère en cas de doute.
+00156 | Mode d’administration
+00157 | ·
+00158 | Agitez bien le flacon avant chaque utilisation.
+00159 | Reconstitution de la suspension
+00160 | 1. Remplir le flacon d'eau non gazeuse jusqu'au trait.
+00161 | 2. Agiter jusqu'à l'obtention d'un liquide homogène. Si nécessaire compléter à nouveau d'eau jusqu'au trait et agiter.
+00162 | Bien agiter le flacon avant chaque utilisation.
+00163 | Utiliser la cuillère-mesure fournie avec le flacon pour mesurer la dose prescrite. Remplir la cuillère-mesure jusqu'au bord.
+00164 | Laver la cuillère-mesure après chaque usage.
+00165 | Fréquence d'administration
+00166 | Répartissez les prises de manière régulière au cours de la journée ; elles doivent être espacées d’au moins 4 heures.
+00167 | Pendant combien de temps faut-il prendre AMOXICILLINE VIATRIS, poudre pour suspension buvable
+00168 | ·
+00169 | Vous devez continuer de prendre
+00170 | AMOXICILLINE VIATRIS, poudre pour suspension buvable
+00171 | aussi longtemps que votre médecin vous l’a prescrit, même si vous vous sentez mieux. Toutes les doses sont importantes pour combattre l’infection. Si certaines bactéries devaient survivre, elles pourraient être à l’origine d’une réapparition de l’infection.
+00172 | ·
+00173 | Une fois que vous avez fini votre traitement, si vos symptômes persistent, consultez de nouveau le médecin.
+00174 | Des mycoses (infections à levures apparaissant sur les zones humides du corps qui peuvent causer des douleurs, des démangeaisons et des pertes blanches) peuvent se développer si AMOXICILLINE VIATRIS, poudre pour suspension buvable est utilisé pendant une longue période. Si c’est votre cas, informez-en votre médecin.
+00175 | Si vous prenez AMOXICILLINE VIATRIS, poudre pour suspension buvable pendant une longue période, votre médecin pourra réaliser des analyses supplémentaires pour surveiller que vos reins, votre foie et votre sang fonctionnent normalement.
+00176 | Si vous avez pris plus d’AMOXICILLINE VIATRIS, poudre pour suspension buvable que vous n’auriez dû
+00177 | Cela peut entrainer des maux de ventre (nausées, vomissements ou diarrhée) ou la formation de cristaux dans les urines rendant celles-ci troubles ou provoquant des douleurs en urinant.
+00178 | Consultez immédiatement votre médecin ou votre pharmacien. Apportez le médicament pour le montrer à votre médecin.
+00179 | Si vous oubliez de prendre AMOXICILLINE VIATRIS, poudre pour suspension buvable
+00180 | Si vous avez oublié de prendre une dose, prenez-la dès que vous y pensez.
+00181 | Ne prenez pas la dose suivante trop tôt ; attendez environ 4 heures avant de prendre la dose suivante
+00182 | Ne prenez pas de dose double pour compenser la dose que vous avez oublié de prendre.
+00183 | Si vous arrêtez de prendre AMOXICILLINE VIATRIS, poudre pour suspension buvable
+00184 | Sans objet.
+00185 | Si vous avez d’autres questions sur l’utilisation de ce médicament, demandez plus d’informations à votre médecin, à votre pharmacien ou à votre infirmier/ère.
+00186 | 4. QUELS SONT LES EFFETS INDESIRABLES EVENTUELS ?
+00187 | Redirection vers le haut de page
+00188 | Comme tous les médicaments, ce médicament peut provoquer des effets indésirables, mais ils ne surviennent pas systématiquement chez tout le monde.
+00189 | Arrêtez de prendre AMOXICILLINE VIATRIS, poudre pour suspension buvable et consultez immédiatement un médecin si vous présentez l’un des effets indésirables graves mentionnés ci-dessous, car vous pourriez avoir besoin d’un traitement médical d’urgence.
+00190 | Les effets indésirables suivants sont très rares (pouvant affecter jusqu’à une personne sur 10 000)
+00191 | :
+00192 | ·
+00193 | réactions allergiques ; les signes peuvent inclure : démangeaisons ou éruptions cutanées, gonflement du visage, des lèvres, de la langue, du corps ou difficultés à respirer. Ces réactions peuvent être graves et parfois fatales ;
+00194 | ·
+00195 | éruptions cutanées ou taches rouges en forme de tête d’épingle sous la peau, ecchymoses. Ceci est causé par l’inflammation de la paroi des vaisseaux sanguins en raison d’une réaction allergique. Ces symptômes peuvent s’accompagner de douleurs articulaires (arthrite) et de problèmes rénaux ;
+00196 | ·
+00197 | une réaction allergique retardée peut survenir habituellement 7 à 12 jours après la prise d’
+00198 | AMOXICILLINE VIATRIS, poudre pour suspension buvable
+00199 | ; les signes incluent : éruption cutanée, fièvre, douleurs articulaires et gonflement des ganglions lymphatiques, en particulier au niveau des aisselles ;
+00200 | ·
+00201 | réaction cutanée connue sous le nom d’érythème polymorphe, se manifestant par les symptômes suivants : plaques rougeâtres ou violacées sur la peau avec des démangeaisons, en particulier sur la paume des mains et la plante des pieds, lésions concentriques en relief sur la peau, sensibilité au niveau de la bouche, des yeux et de la muqueuse génitale. Cette réaction peut entraîner de la fièvre et une grande fatigue ;
+00202 | ·
+00203 | autres réactions cutanées sévères, notamment : changement de la couleur de la peau, bosse sous la peau, cloques, pustules, peau qui pèle, rougeurs, douleurs, démangeaisons, desquamation. Ces symptômes peuvent s’accompagner de fièvre, de maux de tête et courbatures ;
+00204 | ·
+00205 | symptômes de type grippal accompagnés d’une éruption cutanée, de fièvre, de ganglions enflés, et de résultats anormaux des tests sanguins [dont une augmentation des globules blancs (éosinophilie) et des enzymes hépatiques] [syndrome d’hypersensibilité médicamenteuse (DRESS)
+00206 | ] ;
+00207 | ·
+00208 | fièvre, frissons, maux de gorge ou autres signes d’infection, apparition fréquente de bleus. Ces effets indésirables peuvent être le signe d’un problème au niveau des cellules sanguines ;
+00209 | ·
+00210 | inflammation du gros intestin (côlon), s’accompagnant de diarrhées (parfois accompagnées de sang), de douleurs et de fièvre ;
+00211 | ·
+00212 | des effets indésirables graves au niveau du foie peuvent apparaitre. Ils sont principalement observés chez les personnes traitées sur une longue durée, chez les hommes et chez les patients âgés. Vous devez consulter en urgence votre médecin dans les cas suivants :
+00213 | o
+00214 | diarrhées sévères avec présence de sang,
+00215 | o
+00216 | apparition de cloques, rougeur ou bleus sur la peau,
+00217 | o
+00218 | urines foncées ou selles décolorées,
+00219 | o
+00220 | jaunissement de la peau ou du blanc des yeux (jaunisse). Voir également les informations ci-dessous sur l’anémie, qui peut conduire à une jaunisse.
+00221 | Ces réactions peuvent apparaître lors de la prise du médicament ou pendant plusieurs semaines après son arrêt.
+00222 | Les effets indésirables suivants sont de
+00223 | fréquence indéterminée
+00224 | (ne peut être estimée sur la base des données disponibles) :
+00225 | ·
+00226 | la réaction de Jarisch-Herxheimer qui peut apparaitre pendant le traitement par
+00227 | AMOXICILLINE VIATRIS, poudre pour suspension buvable
+00228 | de la maladie de Lyme et entraine de la fièvre, des frissons, des maux de tête, des douleurs musculaires et une éruption cutanée ;
+00229 | ·
+00230 | des douleurs thoraciques dans un contexte de réactions allergiques, qui peuvent être le symptôme d’un infarctus du myocarde déclenché par une allergie (syndrome de Kounis) ;
+00231 | ·
+00232 | une éruption cutanée rouge fréquemment observée sur les deux côtés des fesses, la partie supérieure de l’intérieur des cuisses, les aisselles, le cou [exanthème intertrigineux et de flexion symétrique lié au médicament (SDRIFE)]
+00233 | ;
+00234 | ·
+00235 | le syndrome d’entérocolite induite par les médicaments (SEIM) a été rapporté principalement chez des enfants recevant de l’amoxicilline. Il s’agit d’un certain type de réaction allergique avec comme principal symptôme des vomissements répétés (1 à 4h après la prise du médicament). Les autres symptômes peuvent inclure des douleurs abdominales, une léthargie, des diarrhées et une tension artérielle basse.
+00236 | Si vous présentez l’une des réactions ci-dessus, arrêtez de prendre ce médicament et consultez immédiatement votre médecin.
+00237 | Les réactions cutanées peuvent parfois être moins sévères :
+00238 | ·
+00239 | éruptions cutanées (taches rondes de couleur rose ou rouge) avec démangeaisons modérées, lésions concentriques en relief sur les avant-bras, les jambes, la paume des mains et la plante des pieds. Ces manifestations sont peu fréquentes (pouvant affecter jusqu’à 1 personne sur 100).
+00240 | Si l’un de ces symptômes apparaît, consultez votre médecin car vous pourriez devoir arrêter de prendre AMOXICILLINE VIATRIS, poudre pour suspension buvable.
+00241 | Les autres effets indésirables possibles sont :
+00242 | Fréquents
+00243 | (peuvent affecter jusqu’à 1 personne sur 10)
+00244 | ·
+00245 | éruption cutanée ;
+00246 | ·
+00247 | nausées ;
+00248 | ·
+00249 | diarrhées.
+00250 | Peu fréquents
+00251 | (peuvent affecter jusqu’à 1 personne sur 100)
+00252 | ·
+00253 | vomissements.
+00254 | Très rares
+00255 | (peuvent affecter jusqu’à 1 personne sur 10 000)
+00256 | ·
+00257 | mycose (infection à levures qui se développe dans le vagin, la bouche ou les plis cutanés) ; vous pouvez demander un traitement contre la mycose à votre médecin ou pharmacien ;
+00258 | ·
+00259 | problèmes rénaux ;
+00260 | ·
+00261 | convulsions, en particulier chez les patients prenant des doses élevées ou ayant des problèmes rénaux ;
+00262 | ·
+00263 | vertiges ;
+00264 | ·
+00265 | hyperactivité ;
+00266 | ·
+00267 | les dents peuvent apparaitre tachées, ceci est habituellement réversible au brossage (signalé chez les enfants) ;
+00268 | ·
+00269 | la langue peut prendre une coloration jaune, marron ou noire, et peut sembler couverte de poils ;
+00270 | ·
+00271 | dégradation excessive des globules rouges engendrant un type d’anémie. Les signes sont notamment : fatigue, maux de tête, essoufflement, vertiges, pâleur, coloration jaune de la peau et du blanc des yeux ;
+00272 | ·
+00273 | faible nombre de globules blancs ;
+00274 | ·
+00275 | faible nombre de cellules impliquées dans la coagulation sanguine ;
+00276 | ·
+00277 | la coagulation du sang peut être ralentie. Vous pouvez remarquer cela en cas de saignement de nez ou de coupure.
+00278 | Fréquence indéterminée
+00279 | (ne peut être estimée sur la base des données disponibles)
+00280 | ·
+00281 | inflammation des membranes enveloppant le cerveau et la moelle épinière (méningite aseptique) ;
+00282 | ·
+00283 | éruption cutanée avec des cloques disposées en cercle et des croûtes au niveau du centre ou ayant un aspect de collier de perles (dermatose à IgA linéaire) ;
+00284 | ·
+00285 | cristaux dans les urines,
+00286 | entraînant des lésions rénales aigües,
+00287 | rendant celles-ci troubles ou provoquant une gêne ou des difficultés à uriner. Assurez-vous de boire beaucoup de liquide afin de réduire ces risques.
+00288 | Déclaration des effets secondaires
+00289 | Si vous ressentez un quelconque effet indésirable, parlez-en à votre médecin, votre pharmacien ou à votre infirmier/ère. Ceci s’applique aussi à tout effet indésirable qui ne serait pas mentionné dans cette notice. Vous pouvez également déclarer les effets indésirables directement via le système national de déclaration : Agence nationale de sécurité du médicament et des produits de santé (ANSM) et réseau des Centres Régionaux de Pharmacovigilance - Site internet :
+00290 | https://signalement.social-sante.gouv.fr
+00291 | .
+00292 | En signalant les effets indésirables, vous contribuez à fournir davantage d’informations sur la sécurité du médicament.
+00293 | 5. COMMENT CONSERVER AMOXICILLINE VIATRIS 500 mg/5 mL, poudre pour suspension buvable ?
+00294 | Redirection vers le haut de page
+00295 | Tenir ce médicament hors de la vue et de la portée des enfants.
+00296 | N’utilisez pas ce médicament
+00297 | après la date de péremption indiquée sur le flacon.
+00298 | La date de péremption fait référence au dernier jour de ce mois.
+00299 | A conserver à une température ne dépassant pas 25°C.
+00300 | Après reconstitution, la suspension reconstituée se conserve pendant 14 jours au réfrigérateur (entre 2°C et 8°C).
+00301 | Ne jetez aucun médicament au tout-à-l’égout ou avec les ordures ménagères. Demandez à votre pharmacien d’éliminer les médicaments que vous n’utilisez plus. Ces mesures contribueront à protéger l’environnement.
+00302 | 6. CONTENU DE L’EMBALLAGE ET AUTRES INFORMATIONS
+00303 | Redirection vers le haut de page
+00304 | Ce que contient AMOXICILLINE VIATRIS 500 mg/5 mL, poudre pour suspension buvable
+00305 | ·
+00306 | La substance active est :
+00307 | amoxicilline ................................................................................................................... 500 mg
+00308 | pour chaque suspension.
+00309 | ·
+00310 | Les autres composants sont :
+00311 | arôme citron, arôme pêche-abricot, arôme orange, acide citrique anhydre, benzoate de sodium
+00312 | (E211)
+00313 | , aspartam (E951), talc
+00314 | (E553b)
+00315 | , citrate trisodique, guar, dioxide de silicone
+00316 | (E551)
+00317 | .
+00318 | Qu’est-ce que AMOXICILLINE VIATRIS 500 mg/5 mL, poudre pour suspension buvable et contenu de l’emballage extérieur
+00319 | Ce médicament se présente sous forme d'une poudre pour suspension buvable. Flacon contenant 12 g de poudre correspondant à 60 mL de suspension buvable (soit 12 cuillères-mesure de 5 mL) après reconstitution, boîte de 1.
+00320 | Titulaire de l’autorisation de mise sur le marché
+00321 | VIATRIS SANTE
+00322 | 1 RUE DE TURIN
+00323 | 69007 LYON
+00324 | Exploitant de l’autorisation de mise sur le marché
+00325 | VIATRIS SANTE
+00326 | 1 RUE DE TURIN
+00327 | 69007 LYON
+00328 | Fabricant
+00329 | SANDOZ GMBH
+00330 | BIOCHEMIESTRASSE 10
+00331 | A - 6250 KUNDL
+00332 | AUTRICHE
+00333 | ou
+00334 | VIATRIS SANTE
+00335 | 1 RUE DE TURIN
+00336 | 69007 LYON
+00337 | Noms du médicament dans les Etats membres de l'Espace Economique Européen
+00338 | Sans objet.
+00339 | La dernière date à laquelle cette notice a été révisée est :
+00340 | [à compléter ultérieurement par le titulaire]
+00341 | Autres
+00342 | Des informations détaillées sur ce médicament sont disponibles sur le site Internet de l’ANSM (France).
+00343 | CONSEILS D’EDUCATION SANITAIRE
+00344 | Conseils généraux concernant l’utilisation des antibiotiques
+00345 | Les antibiotiques sont efficaces pour combattre les infections dues à des bactéries. Ils ne sont pas efficaces contre les infections dues à des virus.
+00346 | Parfois, une infection due à une bactérie ne répond pas à un traitement antibiotique. L’une des raisons les plus fréquentes, est que la bactérie à l’origine de l’infection est résistante à l’antibiotique qui a été pris. Cela signifie que les bactéries peuvent survivre et même se multiplier malgré l’antibiotique.
+00347 | Les bactéries peuvent devenir résistantes aux antibiotiques pour plusieurs raisons. L’utilisation prudente des antibiotiques peut permettre de réduire le risque que les bactéries deviennent résistantes aux antibiotiques.
+00348 | Quand votre médecin vous prescrit un traitement antibiotique, cela a pour unique but de traiter votre maladie actuelle. Faire attention aux conseils suivants permettra de prévenir l’émergence de bactéries résistantes qui pourraient stopper l’activité de l’antibiotique.
+00349 | 1. Il est très important de respecter la dose d’antibiotique, le moment de la prise et la durée du traitement. Lire les instructions sur la notice et, si vous ne comprenez pas quelque chose, demander à votre médecin ou à votre pharmacien de vous expliquer.
+00350 | 2. Vous ne devez pas prendre un antibiotique à moins qu’il vous ait été spécifiquement prescrit et vous devez l’utiliser uniquement pour traiter l’infection pour laquelle il vous a été prescrit.
+00351 | 3. Vous ne devez pas prendre d’antibiotiques qui ont été prescrits à d’autres personnes même si elles ont une infection apparemment semblable à la vôtre.
+00352 | 4. Vous ne devez pas donner d’antibiotiques qui vous ont été prescrits, à d’autres personnes.
+00353 | 5. S’il vous reste des antibiotiques à la fin de votre traitement prescrit par votre médecin, vous devez les rapporter à votre pharmacien pour destruction appropriée.

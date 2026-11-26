@@ -1,0 +1,221 @@
+00001 | Sommaire de la notice
+00002 | Dénomination du médicament
+00003 | Encadré
+00004 | Que contient cette notice ?
+00005 | 1. QU’EST-CE QUE AZYTER 15 mg/g, collyre en solution en récipient unidose ET DANS QUELS CAS EST-IL UTILISE ?
+00006 | 2. QUELLES SONT LES INFORMATIONS A CONNAITRE AVANT D’UTILISER AZYTER 15 mg/g, collyre en solution en récipient unidose ?
+00007 | 3. COMMENT UTILISER AZYTER 15 mg/g, collyre en solution en récipient unidose ?
+00008 | 4. QUELS SONT LES EFFETS INDESIRABLES EVENTUELS ?
+00009 | 5. COMMENT CONSERVER AZYTER 15 mg/g, collyre en solution en récipient unidose?
+00010 | 6. CONTENU DE L’EMBALLAGE ET AUTRES INFORMATIONS
+00011 | Imprimer
+00012 | Notice patient
+00013 | ANSM - Mis à jour le : 19/03/2024
+00014 | Dénomination du médicament
+00015 | Redirection vers le haut de page
+00016 | AZYTER 15 mg/g, collyre en solution en récipient unidose
+00017 | Azithromycine dihydrate
+00018 | Encadré
+00019 | Redirection vers le haut de page
+00020 | Veuillez lire attentivement cette notice avant d’utiliser ce médicament car elle contient des informations importantes pour vous.
+00021 | ·
+00022 | Gardez cette notice. Vous pourriez avoir besoin de la relire.
+00023 | ·
+00024 | Si vous avez d’autres questions, interrogez votre médecin ou votre pharmacien.
+00025 | ·
+00026 | Ce médicament vous a été personnellement prescrit. Ne le donnez pas à d’autres personnes. Il pourrait leur être nocif, même si les signes de leur maladie sont identiques aux vôtres.
+00027 | ·
+00028 | Si vous ressentez un quelconque effet indésirable, parlez-en à votre médecin ou votre pharmacien. Ceci s’applique aussi à tout effet indésirable qui ne serait pas mentionné dans cette notice.
+00029 | Voir rubrique 4.
+00030 | Que contient cette notice ?
+00031 | Redirection vers le haut de page
+00032 | 1. Qu'est-ce que AZYTER 15 mg/g, collyre en solution en récipient unidose et dans quels cas est-il utilisé ?
+00033 | 2. Quelles sont les informations à connaître avant d'utiliser AZYTER 15 mg/g, collyre en solution en récipient unidose ?
+00034 | 3. Comment utiliser AZYTER 15 mg/g, collyre en solution en récipient unidose ?
+00035 | 4. Quels sont les effets indésirables éventuels ?
+00036 | 5. Comment conserver AZYTER 15 mg/g, collyre en solution en récipient unidose ?
+00037 | 6. Contenu de l’emballage et autres informations.
+00038 | 1. QU’EST-CE QUE AZYTER 15 mg/g, collyre en solution en récipient unidose ET DANS QUELS CAS EST-IL UTILISE ?
+00039 | Redirection vers le haut de page
+00040 | Classe pharmacothérapeutique : antibiotiques, code ATC : S01AA26.
+00041 | AZYTER contient de l’azithromycine, un antibiotique de la famille des macrolides.
+00042 | AZYTER est indiqué dans le traitement local de certaines
+00043 | infections de l’œil d’origine bactérienne
+00044 | chez les adultes (incluant les personnes âgées) et les enfants de la naissance à l’âge de 17 ans.
+00045 | Conjonctivites bactériennes purulentes,
+00046 | ·
+00047 | Conjonctivites trachomateuses (infection particulière de l’œil due à une bactérie appelée
+00048 | Chlamydia trachomatis
+00049 | , trouvée ou survenant dans certains pays).
+00050 | 2. QUELLES SONT LES INFORMATIONS A CONNAITRE AVANT D’UTILISER AZYTER 15 mg/g, collyre en solution en récipient unidose ?
+00051 | Redirection vers le haut de page
+00052 | N’utilisez jamais AZYTER 15 mg/g, collyre en solution en récipient unidose:
+00053 | ·
+00054 | si vous êtes allergique à la substance active (l’azithromycine), à tout autre antibiotique de la famille des macrolides, ou aux triglycérides à chaine moyenne ou à l’un des autres composants contenus dans ce médicament, mentionnés dans la rubrique 6.
+00055 | Avertissements et précautions
+00056 | Faites attention avec AZYTER :
+00057 | En cas d’allergie, arrêtez votre traitement et consultez votre médecin.
+00058 | En l’absence d’amélioration dans les 3 jours après le début du traitement ou en cas d’apparition de signes anormaux, consultez votre médecin.
+00059 | En raison de votre infection oculaire, le port des lentilles de contact est déconseillé.
+00060 | Ce médicament est uniquement destiné à un usage ophtalmique.
+00061 | Ne pas l’injecter ni l’avaler
+00062 | .
+00063 | Enfants
+00064 | Sans objet.
+00065 | Autres médicaments et AZYTER 15 mg/g, collyre en solution en récipient unidose
+00066 | Utilisation d'autres médicaments
+00067 | Si vous utilisez un autre médicament à appliquer dans l’œil, vous devez :
+00068 | 
+00069 | appliquer l’autre médicament ophtalmique,
+00070 | 
+00071 | attendre 15 minutes,
+00072 | 
+00073 | instiller AZYTER en dernier.
+00074 | Informez votre médecin ou pharmacien si vous utilisez, avez récemment utilisé ou pourriez utiliser tout autre médicament.
+00075 | AZYTER 15 mg/g, collyre en solution en récipient unidose avec des aliments et boissons
+00076 | Sans objet.
+00077 | Grossesse et allaitement
+00078 | Grossesse
+00079 | AZYTER peut être utilisé pendant la grossesse.
+00080 | Ce médicament peut vous être prescrit par votre médecin pendant votre grossesse, s’il le juge nécessaire.
+00081 | Allaitement
+00082 | Quelques données montrent que l’azithromycine est excrétée dans le lait maternel. Ce médicament peut être utilisé pendant l’allaitement.
+00083 | Si vous êtes enceinte ou que vous allaitez, si vous pensez être enceinte ou si vous planifiez une grossesse, demandez conseil à votre médecin ou à votre pharmacien avant de prendre ce médicament.
+00084 | Conduite de véhicules et utilisation de machines
+00085 | La vision peut être brouillée de façon passagère après l’administration du produit dans l’œil. Attendez d’avoir retrouvé une vision normale avant de conduire un véhicule ou d’utiliser des machines.
+00086 | AZYTER 15 mg/g, collyre en solution en récipient unidose contient
+00087 | Sans objet.
+00088 | 3. COMMENT UTILISER AZYTER 15 mg/g, collyre en solution en récipient unidose ?
+00089 | Redirection vers le haut de page
+00090 | Ce médicament est destiné à être administré dans l’œil (voie ophtalmique).
+00091 | Veillez à toujours utiliser ce médicament en suivant exactement les indications de votre médecin ou du médecin traitant votre enfant. Vérifiez auprès de votre médecin, du médecin traitant votre enfant ou de votre pharmacien en cas de doute.
+00092 | Posologie
+00093 | La dose recommandée pour les adultes (incluant les personnes âgées) et les enfants de la naissance à l’âge de 17 ans est de 1 goutte dans l’œil (les yeux) à traiter, 2 fois par jour : 1 goutte le matin et 1 goutte le soir.
+00094 | La durée du traitement est de 3 jours.
+00095 | Il n’est pas nécessaire de continuer le traitement au-delà de 3 jours en raison de l’action prolongée du produit, même si vous avez encore des signes de votre infection bactérienne.
+00096 | Mode d’administration
+00097 | Pour une bonne utilisation d’AZYTER :
+00098 | lavez-vous soigneusement les mains avant et après l’administration du produit,
+00099 | instillez 1 goutte dans l’œil à traiter en regardant vers le haut et en tirant légèrement la paupière inférieure vers le bas,
+00100 | évitez le contact de l’embout de l’unidose avec l’œil et les paupières,
+00101 | jetez l’unidose après utilisation. Ne conservez pas l’unidose pour une utilisation ultérieure.
+00102 | NE PAS INJECTER, NE PAS AVALER
+00103 | .
+00104 | Si vous avez utilisé plus de AZYTER 15 mg/g, collyre en solution en récipient unidose que vous n’auriez dû
+00105 | Sans objet.
+00106 | Si vous oubliez d’utiliser AZYTER 15 mg/g, collyre en solution en récipient unidose
+00107 | Ne prenez pas de dose double pour compenser la dose que vous avez oublié de prendre.
+00108 | Si vous arrêtez d’utiliser AZYTER 15 mg/g, collyre en solution en récipient unidose
+00109 | Consultez toujours votre médecin si vous envisagez d’arrêter le traitement.
+00110 | Si vous avez d’autres questions sur l’utilisation de ce médicament, demandez plus d’informations à votre médecin ou à votre pharmacien.
+00111 | 4. QUELS SONT LES EFFETS INDESIRABLES EVENTUELS ?
+00112 | Redirection vers le haut de page
+00113 | Comme tous les médicaments, ce médicament peut provoquer des effets indésirables, mais ils ne surviennent pas systématiquement chez tout le monde.
+00114 | Informez immédiatement votre médecin si vous présentez l'un des symptômes suivants après avoir pris ce médicament, car les symptômes peuvent être graves.
+00115 | Peu fréquemment : pouvant affecter jusqu’à 1 personne sur 100
+00116 | :
+00117 | sévère réaction allergique causant un gonflement du visage ou de la gorge (angiœdème).
+00118 | Fréquence indéterminée (ne pouvant être estimée sur la base des données disponibles)
+00119 | :
+00120 | réactions cutanées graves: éruptions et rougeurs cutanées, décollement de la peau, de la bouche, des yeux et des organes génitaux (syndrome de Stevens-Johnson (SJS) ou nécrolyse épidermique toxique (NET)), éruption cutanée accompagnée d'autres symptômes tels que fièvre, ganglions enflés et une augmentation des éosinophiles (un type de globule blanc), une éruption cutanée ressemblant à de petites bosses rouges qui démangent (réaction au médicament avec éosinophilie et symptômes systémiques (DRESS)), un érythème généralisé avec une desquamation sur de grandes zones du corps (dermatite exfoliative), éruption cutanée caractérisée par l'apparition rapide de zones de peau rouge parsemées de petites pustules (petites cloques remplies de liquide blanc / jaune) (pustulose exanthémateuse aiguë généralisée (AGEP)).
+00121 | Si vous développez ces symptômes cutanés, arrêtez de prendre l'azithromycine et contactez votre médecin ou consultez immédiatement un médecin.
+00122 | Les effets indésirables oculaires suivants ont été observés lors de l’administration du produit :
+00123 | Très fréquemment : pouvant affecter plus d’1 personne sur 10
+00124 | :
+00125 | gêne visuelle passagère (démangeaisons, brûlures, picotements)
+00126 | Fréquemment : pouvant affecter jusqu’à 1 personne sur 10
+00127 | :
+00128 | vision floue,
+00129 | sensation d’œil collé,
+00130 | sensation de corps étranger.
+00131 | Peu fréquemment : pouvant affecter jusqu’à 1 personne sur 100
+00132 | :
+00133 | réaction allergique (hypersensibilité),
+00134 | inflammation de la conjonctive (pouvant être due à une infection ou à une allergie) (conjonctivite),
+00135 | inflammation allergique de la conjonctive (conjonctivite allergique),
+00136 | inflammation de la cornée (kératite),
+00137 | démangeaisons des paupières (eczéma des paupières),
+00138 | sécheresse, rougeur, gonflement des paupières (œdème des paupières),
+00139 | allergie oculaire,
+00140 | larmoiements,
+00141 | rougeur des paupières (érythème des paupières),
+00142 | rougeur de la conjonctive (hyperhémie conjonctivale).
+00143 | Déclaration des effets secondaires
+00144 | Si vous ressentez un quelconque effet indésirable, parlez-en à votre médecin ou votre pharmacien. Ceci s’applique aussi à tout effet indésirable qui ne serait pas mentionné dans cette notice. Vous pouvez également déclarer les effets indésirables directement via le système national de déclaration : Agence nationale de sécurité du médicament et des produits de santé (ANSM) et réseau des Centres Régionaux de Pharmacovigilance - Site internet :
+00145 | www.signalement-sante.gouv.fr
+00146 | .
+00147 | En signalant les effets indésirables, vous contribuez à fournir davantage d’informations sur la sécurité du médicament.
+00148 | 5. COMMENT CONSERVER AZYTER 15 mg/g, collyre en solution en récipient unidose?
+00149 | Redirection vers le haut de page
+00150 | Tenir ce médicament hors de la vue et de la portée des enfants.
+00151 | N’utilisez pas ce médicament après la date de péremption indiquée sur
+00152 | l’emballage extérieur et sur le récipient unidose
+00153 | . La date de péremption fait référence au dernier jour de ce mois.
+00154 | A conserver à une température ne dépassant pas 25ºC.
+00155 | Conserver les récipients unidoses
+00156 | dans le sachet
+00157 | , à l’abri de la lumière.
+00158 | Tout récipient unidose entamé doit être jeté immédiatement après première utilisation. Ne pas le conserver pour une utilisation ultérieure.
+00159 | Ne jetez aucun médicament au tout-à-l’égout
+00160 | ou avec
+00161 | les ordures ménagères. Demandez à votre pharmacien d’éliminer les médicaments que vous n’utilisez plus. Ces mesures contribueront à protéger l’environnement
+00162 | .
+00163 | 6. CONTENU DE L’EMBALLAGE ET AUTRES INFORMATIONS
+00164 | Redirection vers le haut de page
+00165 | Ce que contient AZYTER 15 mg/g, collyre en solution en récipient unidose
+00166 | ·
+00167 | La substance active est :
+00168 | Azithromycine..14,3 mg
+00169 | Sous forme d’azithromycine dihydrate15 mg
+00170 | Pour 1 g de solution
+00171 | Un récipient unidose de 250 mg de solution contient 3,75 mg d’azithromycine dihydrate.
+00172 | ·
+00173 | Les autres composants excipients sont :
+00174 | Triglycérides à chaîne moyenne.
+00175 | Qu’est-ce que AZYTER 15 mg/g, collyre en solution en récipient unidose et contenu de l’emballage extérieur
+00176 | Ce médicament se présente sous la forme de collyre en solution en récipients unidoses, contenant chacun 0,25 g de produit. C’est une solution limpide huileuse, incolore à légèrement jaune. La boîte contient 6 récipients unidoses conditionnés en sachet, ce qui correspond à la quantité de produit nécessaire et suffisante pour un seul traitement.
+00177 | Titulaire de l’autorisation de mise sur le marché
+00178 | LABORATOIRES THEA
+00179 | 12 RUE LOUIS BLERIOT
+00180 | 63017 CLERMONT-FERRAND CEDEX 2
+00181 | france
+00182 | Exploitant de l’autorisation de mise sur le marché
+00183 | THEA PHARMA
+00184 | 37 RUE GEORGES BESSE
+00185 | 63100 CLERMONT-FERRAND
+00186 | Fabricant
+00187 | LABORATOIRES THEA
+00188 | 12 RUE LOUIS BLERIOT
+00189 | 63017 CLERMONT-FERRAND CEDEX 2
+00190 | france
+00191 | ou
+00192 | LABORATOIRE UNITHER
+00193 | 1 RUE L’ARQUERIE
+00194 | 50200 coutances
+00195 | france
+00196 | Noms du médicament dans les Etats membres de l'Espace Economique Européen
+00197 | Ce médicament est autorisé dans les Etats membres de l'Espace Economique Européen sous les noms suivants : Conformément à la réglementation en vigueur.
+00198 | [À compléter ultérieurement par le titulaire]
+00199 | La dernière date à laquelle cette notice a été révisée est :
+00200 | [à compléter ultérieurement par le titulaire]
+00201 | Autres
+00202 | Des informations détaillées sur ce médicament sont disponibles sur le site Internet de l’ANSM (France).
+00203 | CONSEILS / EDUCATION SANITAIRE
+00204 | QUE SAVOIR SUR LES ANTIBIOTIQUES ?
+00205 | Les antibiotiques sont efficaces pour combattre les infections dues aux bactéries. Ils ne sont pas efficaces contre les infections dues aux virus.
+00206 | Aussi, votre médecin a choisi de vous prescrire cet antibiotique parce qu’il convient précisément à votre cas et à votre maladie actuelle.
+00207 | Les bactéries ont la capacité de survivre ou de se reproduire malgré l’action d’un antibiotique. Ce phénomène est appelé résistance : il rend certains traitements antibiotiques inactifs.
+00208 | La résistance s’accroît par l’usage abusif ou inapproprié des antibiotiques.
+00209 | Vous risquez de favoriser l’apparition de bactéries résistantes et donc de retarder votre guérison ou même de rendre inactif ce médicament, si vous ne respectez pas :
+00210 | ·
+00211 | la dose à prendre,
+00212 | ·
+00213 | les moments de prise,
+00214 | ·
+00215 | et la durée du traitement.
+00216 | En conséquence, pour préserver l’efficacité de ce médicament :
+00217 | 1) N’utilisez un antibiotique que lorsque votre médecin vous l’a prescrit.
+00218 | 2) Respectez strictement votre ordonnance.
+00219 | 3) Ne réutilisez pas un antibiotique sans prescription médicale même si vous pensez combattre une maladie apparemment semblable.
+00220 | 4) Ne donnez jamais votre antibiotique à une autre personne, il n’est peut-être pas adapté à sa maladie.
+00221 | 5) Une fois votre traitement terminé, rapportez à votre pharmacien toutes les boîtes entamées pour une destruction correcte et appropriée de ce médicament.

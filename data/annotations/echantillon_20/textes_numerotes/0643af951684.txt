@@ -1,0 +1,469 @@
+00001 | 1/10 
+00002 |  
+00003 | CARDENSIEL 2,5 mg, comprimé pelliculé sécable - Résumé des caractéristiques du produit 
+00004 |  
+00005 | 1. DENOMINATION DU MEDICAMENT 
+00006 | CARDENSIEL 2,5 mg, comprimé pelliculé sécable 
+00007 | 2. COMPOSITION QUALITATIVE ET QUANTITATIVE 
+00008 | Fumarate de bisoprolol.......................................................................................................... 2,5 mg 
+00009 | Pour un comprimé pelliculé sécable. 
+00010 | Pour la liste complète des excipients, voir rubrique 6.1. 
+00011 | 3. FORME PHARMACEUTIQUE 
+00012 | Comprimé pelliculé sécable. 
+00013 | Comprimé pelliculé, blanc, en forme de cœur. 
+00014 | Le comprimé peut être divisé en doses égales. 
+00015 | 4. DONNEES CLINIQUES 
+00016 | 4.1. Indications thérapeutiques 
+00017 | Traitement de l’insuffisance cardiaque chronique stable avec réduction de la fonction ventriculaire 
+00018 | systolique gauche en complément des inhibiteurs de l’enzyme de conversion (IEC) et des diurétiques, 
+00019 | et éventuellement, des digitaliques (pour de plus amples informations, voir rubrique 5.1). 
+00020 | 4.2. Posologie et mode d'administration 
+00021 | Le traitement standard de l’insuffisance cardiaque chronique est composé d’un inhibiteur de l’enzyme 
+00022 | de conversion (ou un inhibiteur du récepteur de l’angiotensine en cas d’intolérance aux IEC), d’un bêta-
+00023 | bloquant, de diurétiques et le cas échéant de glucosides cardiaques. Les patients doivent être stables 
+00024 | (sans épisode aigu) à l’instauration du traitement par le bisoprolol. 
+00025 | Il est recommandé que le traitement soit assuré par un médecin ayant une expérience de la prise en 
+00026 | charge des patients atteints d’insuffisance cardiaque chronique. 
+00027 | Une aggravation transitoire de l’insuffisance cardiaque, de l’hypotension ou de la bradycardie peut se 
+00028 | produire pendant la période de titration et par la suite. 
+00029 | Posologie 
+00030 | Période de titration 
+00031 | Le traitement de l’insuffisance cardiaque chronique stable par le bisoprolol nécessite une période de 
+00032 | titration. 
+00033 | La posologie doit être augmentée progressivement, comme suit : 
+00034 |  1,25 mg une fois par jour pendant 1 semaine ; si le médicament est bien toléré, augmenter à ; 
+00035 |  2,5 mg une fois par jour pendant une autre semaine ; si le médicament est bien toléré, augmenter à ; 
+00036 |  3,75 mg une fois par jour pendant une autre semaine ; si le médicament est bien toléré, augmenter à 
+00037 | ; 
+00038 |  5 mg une fois par jour pendant les 4 semaines suivantes ; si le médicament est bien toléré, augmenter 
+00039 | à ; 
+00040 |  7,5 mg une fois par jour pendant les 4 semaines suivantes ; si le médicament est bien toléré, 
+00041 | augmenter à ; 
+00042 |  10 mg une fois par jour en traitement d’entretien. 
+00043 | La posologie maximale recommandée est de 10 mg une fois par jour. 
+00044 | 
+00045 | 2/10 
+00046 |  
+00047 | Une surveillance des constantes vitales (fréquence cardiaque, pression artérielle) et des symptômes 
+00048 | d’aggravation de l’insuffisance cardiaque est recommandée pendant la période de titration. Des 
+00049 | symptômes peuvent déjà apparaître dès le premier jour après initiation du traitement. 
+00050 | Modification du traitement 
+00051 | Si la dose maximale recommandée est mal tolérée, une diminution progressive de la dose pourra être 
+00052 | envisagée. 
+00053 | En cas d’aggravation transitoire de l’insuffisance cardiaque, de l’hypotension ou de la bradycardie, il est 
+00054 | recommandé de revoir la posologie des traitements concomitants. Il peut également être nécessaire de 
+00055 | réduire provisoirement la dose de bisoprolol ou d’envisager l’arrêt du traitement. 
+00056 | La reprise du traitement et/ou l’augmentation de la dose de bisoprolol doivent être systématiquement 
+00057 | envisagées dès lors que le patient est de nouveau stable. 
+00058 | Si l’arrêt du traitement est envisagé, une réduction progressive de la dose est recommandée car une 
+00059 | interruption soudaine pourrait entraîner une dégradation aiguë de l’état du patient. 
+00060 | Le traitement de l’insuffisance cardiaque chronique stable par le bisoprolol est habituellement un 
+00061 | traitement au long cours. 
+00062 | Atteinte rénale ou hépatique 
+00063 | On ne dispose d’aucune donnée concernant la pharmacocinétique du bisoprolol chez les patients 
+00064 | insuffisants hépatiques ou rénaux présentant une insuffisance cardiaque chronique. Il faut donc 
+00065 | augmenter la posologie avec la plus grande prudence chez ces patients. 
+00066 | Sujets âgés 
+00067 | Il n’est pas nécessaire d’adapter la posologie. 
+00068 | Population pédiatrique 
+00069 | Aucune donnée n’étant disponible avec le bisoprolol en pédiatrie, son utilisation ne peut donc être 
+00070 | recommandée chez les patients pédiatriques. 
+00071 | Mode d’administration 
+00072 | Les comprimés de bisoprolol doivent être pris le matin, avant, pendant ou après le petit déjeuner. 
+00073 | Ils doivent être avalés avec un peu de liquide, et ne doivent pas être mâchés. 
+00074 | 4.3. Contre-indications 
+00075 | Le bisoprolol est contre-indiqué chez les patients souffrant d’insuffisance cardiaque chronique dans les 
+00076 | cas suivants : 
+00077 |  Insuffisance cardiaque aiguë ou pendant les épisodes de décompensation de l’insuffisance cardiaque, 
+00078 | nécessitant un traitement inotrope intraveineux ; 
+00079 |  Choc cardiogénique ; 
+00080 |  Blocs auriculo-ventriculaires des 2ème et 3ème degrés ; 
+00081 |  Maladie du sinus ; 
+00082 |  Bloc sino-auriculaire ; 
+00083 |  Bradycardie symptomatique ; 
+00084 |  Hypotension symptomatique ; 
+00085 |  Asthme sévère ; 
+00086 |  formes sévères de troubles artériels périphériques occlusifs ou formes sévères du phénomène de 
+00087 | Raynaud ; 
+00088 |  Phéochromocytome non traité (voir rubrique 4.4) ; 
+00089 |  Acidose métabolique ; 
+00090 |  Hypersensibilité à la substance active ou à l’un des excipients mentionnés à la rubrique 6.1. 
+00091 | 
+00092 | 3/10 
+00093 |  
+00094 | 4.4. Mises en garde spéciales et précautions d'emploi 
+00095 | Le traitement de l’insuffisance cardiaque chronique stable par le bisoprolol doit être initié par une période 
+00096 | de titration spécifique. 
+00097 | En particulier chez les patients présentant une cardiopathie ischémique, le traitement par le bisoprolol 
+00098 | ne doit pas être interrompu brutalement, sauf indication formelle, car cela pourrait conduire à une 
+00099 | aggravation transitoire de la pathologie cardiaque. 
+00100 | L’initiation et l’arrêt du traitement par le bisoprolol nécessitent une surveillance régulière. 
+00101 | Aucune donnée n’est actuellement disponible sur le traitement de l’insuffisance cardiaque par le 
+00102 | bisoprolol chez les patients présentant les pathologies et états suivants : 
+00103 |  Diabète insulino-dépendant (type I) ; 
+00104 |  Insuffisance rénale sévère ; 
+00105 |  Insuffisance hépatique sévère ; 
+00106 |  Cardiomyopathie restrictive ; 
+00107 |  Cardiopathie congénitale ; 
+00108 |  Pathologie valvulaire organique ayant un retentissement significatif au plan hémodynamique ; 
+00109 |  Infarctus du myocarde de moins de 3 mois. 
+00110 | Le bisoprolol doit être utilisé avec précaution dans les cas suivants : 
+00111 |  Bronchospasme (asthme, maladies obstructives des voies aériennes) ; 
+00112 |  Diabète avec fluctuations importantes de la glycémie, les symptômes d’hypoglycémie pouvant être 
+00113 | masqués ; 
+00114 |  jeûne strict ; 
+00115 |  Traitement de désensibilisation en cours. Comme les autres bêta-bloquants, le bisoprolol peut 
+00116 | augmenter la sensibilité aux allergènes et l’intensité des réactions anaphylactiques. Le traitement par 
+00117 | l’adrénaline ne produit pas toujours l’effet thérapeutique attendu. 
+00118 |  Bloc auriculo-ventriculaire du 1er degré ; 
+00119 |  Angor de Prinzmetal. Des cas de vasospasmes coronaires ont été observés. Bien que le bisoprolol 
+00120 | soit hautement bêta-1 sélectif, des crises d’angor ne peuvent pas être complètement exclues en cas 
+00121 | d’administration à des patients souffrant d’angor de Prinzmetal ; 
+00122 |  Troubles artériels périphériques occlusifs. Une aggravation des symptômes peut survenir, notamment 
+00123 | en début de traitement. 
+00124 |  anesthésie générale : chez les patients sous anesthésie générale, le béta-bloquant diminue l’incidence 
+00125 | des arythmies et des ischémies myocardiques pendant l’induction de l’anesthésie, l’intubation et la 
+00126 | période post-opératoire. Il est actuellement recommandé de poursuivre le traitement bêta-bloquant 
+00127 | pendant la période de l’intervention chirurgicale. L’anesthésiste doit être prévenu de la prise du 
+00128 | traitement bêta-bloquant du fait de son potentiel d’interactions avec d’autres médicaments, 
+00129 | entraînant des brady-arythmies, une diminution de la tachycardie réflexe et de la capacité réflexe 
+00130 | de compensation en cas de perte sanguine. Si l’arrêt du traitement par bêta-bloquant paraît 
+00131 | nécessaire avant l’intervention, l’arrêt devra être progressif, et terminé 48 heures avant l’anesthésie. 
+00132 | L’association du bisoprolol avec les antagonistes calciques du type verapamil ou diltiazem, avec les 
+00133 | anti-arythmiques de classe I, et avec les anti-hypertenseurs d’action centrale n’est en général pas 
+00134 | recommandée (pour plus d’information, se référer à la rubrique 4.5). 
+00135 | Même si les bêta-bloquants cardiosélectifs (bêta 1) peuvent agir moins sur la fonction pulmonaire que 
+00136 | les bêta-bloquants non sélectifs, comme avec tous les bêta-bloquants, ils devraient être évités chez les 
+00137 | patients présentant une maladie obstructive des voies aériennes excepté si un motif clinique justifie leur 
+00138 | utilisation. Quand de telles raisons existent, Cardensiel peut être utilisé avec précaution. Chez les 
+00139 | patients atteints d’une maladie obstructive des voies aériennes, le traitement par bisoprolol doit être 
+00140 | instauré à la plus faible dose possible et les patients doivent être surveillés étroitement pour déceler 
+00141 | l’apparition de nouveaux symptômes (ex. : dyspnée, intolérance à l’effort, toux). Dans l’asthme ou les 
+00142 | autres broncho-pneumopathies chroniques obstructives, qui pourraient devenir symptomatiques, un 
+00143 | traitement broncho-dilatateur peut être administré de manière concomitante. Chez les patients 
+00144 | asthmatiques, une augmentation de la résistance des voies aériennes peut se produire nécessitant une 
+00145 | augmentation de la dose de bêta-2 stimulants. 
+00146 | Les patients ayant un psoriasis ou des antécédents de psoriasis ne doivent être traités par bêta-
+00147 | bloquants (dont le bisoprolol) qu’après une évaluation minutieuse des bénéfices et des risques. 
+00148 | 
+00149 | 4/10 
+00150 |  
+00151 | Chez les patients présentant un phéochromocytome, le bisoprolol ne doit pas être administré avant le 
+00152 | traitement alpha-bloquant. 
+00153 | Les symptômes de thyrotoxicose peuvent être masqués lors du traitement par le bisoprolol. 
+00154 | Sportifs 
+00155 | L’attention des sportifs est attirée sur le fait que cette spécialité contient un principe actif pouvant induire 
+00156 | une réaction positive des tests pratiqués lors des contrôles antidopage. 
+00157 | 4.5. Interactions avec d'autres médicaments et autres formes d'interactions 
+00158 | Associations déconseillées 
+00159 | + Antagonistes calciques de type vérapamil, ou, dans une moindre mesure, de type diltiazem 
+00160 | Effet négatif sur la contractilité et la conduction auriculo-ventriculaire. L’administration intra-veineuse de 
+00161 | verapamil chez les patients sous bêta-bloquants peut induire une hypotension sévère et un bloc 
+00162 | auriculo-ventriculaire. 
+00163 | + Anti-arythmiques de classe I (par exemple quinidine, disopyramide, lidocaïne, phénytoïne, 
+00164 | flécaïnide, propafénone) 
+00165 | L’effet sur le temps de conduction auriculo-ventriculaire peut-être potentialisé et l’effet inotropique 
+00166 | négatif augmenté. 
+00167 | + Anti-hypertenseurs d’action centrale comme la clonidine et d’autres médicaments (par 
+00168 | exemple méthyldopa, moxonidine, rilménidine) 
+00169 | Aggravation de l’insuffisance cardiaque par diminution du tonus central sympathique (diminution de la 
+00170 | fréquence et du débit cardiaque, vasodilatation). L’arrêt brutal du traitement, en particulier s’il a lieu 
+00171 | avant l’arrêt du bêta-bloquant, peut augmenter le risque « d’hypertension rebond ». 
+00172 | Associations faisant l'objet de précautions d’emploi 
+00173 | + Antagonistes calciques de type dihydropyridine, comme la félodipine et l’amlodipine 
+00174 | Une majoration du risque d’hypotension et du risque de détérioration de la fonction ventriculaire chez 
+00175 | les patients souffrant d’insuffisance cardiaque ne peut être exclue. 
+00176 | + Anti-arythmiques de classe III (par exemple amiodarone) 
+00177 | L’effet sur la conduction auriculo-ventriculaire peut être majoré. 
+00178 | + Bêta-bloquants d’usage local (par exemple, collyre pour le traitement des glaucomes) 
+00179 | Les effets généraux du bisoprolol peuvent être potentialisés. 
+00180 | + Médicaments parasympathomimétiques 
+00181 | Le temps de conduction auriculo-ventriculaire et le risque de bradycardie peuvent être augmentés. 
+00182 | + Insuline et hypoglycémiants oraux 
+00183 | Augmentation de l’effet hypoglycémiant. Le blocage des bêta-adrénorécepteurs est susceptible de 
+00184 | masquer les signes d’hypoglycémie. 
+00185 | + Anesthésiques 
+00186 | Diminution de la tachycardie réflexe et augmentation du risque d’hypotension (pour plus d’information 
+00187 | sur l’anesthésie générale se référer également à la rubrique 4.4). 
+00188 | + Digitaliques 
+00189 | Diminution de la fréquence cardiaque, augmentation du temps de conduction auriculo-ventriculaire. 
+00190 | + Anti-inflammatoires non stéroïdiens (AINS) 
+00191 | L’action hypotensive du bisoprolol peut être diminuée. 
+00192 | + Médicaments -sympathomimétiques (par exemple isoprénaline, dobutamine) 
+00193 | L’association avec le bisoprolol peut diminuer l’effet des deux médicaments. 
+00194 | Médicaments sympathomimétiques qui activent les récepteurs  et -adrénergiques (par 
+00195 | exemple noradrénaline, adrénaline) 
+00196 | L’association avec le bisoprolol peut démasquer l’effet vasoconstricteur -adrénergique de ces 
+00197 | médicaments, conduisant à une hypertension et une aggravation d’une claudication intermittente. 
+00198 | Ces interactions sont considérées comme plus probables avec les bêta-bloquants non sélectifs. 
+00199 | + Anti-hypertenseurs, ou médicaments pouvant induire une hypotension (par exemple 
+00200 | antidépresseurs tricycliques, barbituriques, phénothiazines) 
+00201 | Le risque d’hypotension peut être majoré. 
+00202 | 
+00203 | 5/10 
+00204 |  
+00205 | Associations à prendre en compte 
+00206 | + Méfloquine 
+00207 | Majoration du risque de bradycardie. 
+00208 | + Inhibiteurs de la monoamine-oxydase (sauf les IMAO-B) 
+00209 | Majoration de l’effet hypotenseur des bêta-bloquants, mais aussi risque de crise hypertensive. 
+00210 | 4.6. Fertilité, grossesse et allaitement 
+00211 | Grossesse 
+00212 | Le bisoprolol possède des propriétés pharmacologiques susceptibles d’entraîner des effets nocifs sur 
+00213 | la grossesse et/ou le fœtus/nouveau-né. D’une manière générale, les bêta-bloquants diminuent la 
+00214 | perfusion placentaire ; cet effet a été associé à des retards de croissance, des morts intra-utérines, des 
+00215 | avortements ou un travail précoce. Des effets indésirables (par exemple hypoglycémie et bradycardie) 
+00216 | peuvent survenir chez le fœtus et le nouveau-né. Si le traitement par bêta-bloquants est nécessaire, il 
+00217 | faut préférer les agents bêta-1 sélectifs. 
+00218 | Le bisoprolol ne doit pas être utilisé pendant la grossesse sauf en cas de nécessité. Si le traitement par 
+00219 | le bisoprolol s’avère nécessaire, le flux sanguin utéro-placentaire et la croissance fœtale doivent être 
+00220 | surveillés. En cas d’effets nocifs sur la grossesse ou sur le fœtus, il faut envisager de mettre en route 
+00221 | un autre traitement. 
+00222 | Le nouveau-né doit faire l’objet d’une surveillance étroite. Les symptômes d’hypoglycémie et de 
+00223 | bradycardie apparaissent généralement dans les 3 premiers jours de la vie. 
+00224 | Allaitement 
+00225 | On ne sait pas si ce médicament est excrété dans le lait maternel. Par conséquent, l’allaitement n’est 
+00226 | pas recommandé pendant l’administration du bisoprolol. 
+00227 | 4.7. Effets sur l'aptitude à conduire des véhicules et à utiliser des machines 
+00228 | Dans une étude réalisée chez des patients atteints de cardiopathie ischémique, le bisoprolol n’a pas 
+00229 | altéré les capacités de conduite. Cependant en raison de la variabilité inter-individuelle des réactions 
+00230 | au médicament, l’aptitude à conduire des véhicules et à utiliser des machines peut être modifiée. Cet 
+00231 | effet doit être pris en compte notamment au début du traitement, en cas de modification du traitement 
+00232 | ainsi qu’en cas d’association à l’alcool. 
+00233 |  
+00234 | 4.8. Effets indésirables 
+00235 | Les termes de fréquence utilisés ci-après répondent aux définitions suivantes : 
+00236 | Très fréquent (≥ 1/10) 
+00237 | Fréquent (≥ 1/100 à < 1/10) 
+00238 | Peu fréquent (≥ 1/1 000 à < 1/100) 
+00239 | Rare (≥ 1/10 000 à < 1/1 000) 
+00240 | Très rare (< 1/10 000) 
+00241 | Fréquence inconnue (ne peut être estimée sur la base des données disponibles) 
+00242 | Affections cardiaques : 
+00243 | Très fréquent : bradycardie. 
+00244 | Fréquent : aggravation de l’insuffisance cardiaque. 
+00245 | Peu fréquent : troubles de la conduction auriculo-ventriculaire. 
+00246 |  
+00247 | Investigations : 
+00248 | Rare : élévation des triglycérides, élévation des enzymes hépatiques (ALAT, ASAT). 
+00249 |  
+00250 | 
+00251 | 6/10 
+00252 |  
+00253 | Affections du système nerveux : 
+00254 | Fréquent : vertiges, céphalées. 
+00255 | Rare : syncope. 
+00256 | Affections oculaires : 
+00257 | Rare : sécheresse lacrymale (à prendre en compte si le patient porte des lentilles). 
+00258 | Très rare : conjonctivite. 
+00259 | Affections de l’oreille et du labyrinthe : 
+00260 | Rare : troubles de l’audition. 
+00261 | Affections respiratoires, thoraciques et médiastinales : 
+00262 | Peu fréquent : bronchospasme chez les patients souffrant d’asthme ou ayant des antécédents de 
+00263 | troubles obstructifs des voies aériennes. 
+00264 | Rare : rhinite allergique. 
+00265 | Affections gastro-intestinales : 
+00266 | Fréquent : troubles gastro-intestinaux de type nausées, vomissements, diarrhée, constipation. 
+00267 | Affections de la peau et du tissu sous-cutané : 
+00268 | Rare : réactions d’hypersensibilité (prurit, flush, rash et angio-oedème). 
+00269 | Très rare : alopécie. Les bêta-bloquants peuvent provoquer ou aggraver un psoriasis ou induire un rash 
+00270 | psoriasiforme. 
+00271 | Affections musculo-squelettiques et des tissus conjonctifs : 
+00272 | Peu fréquent : faiblesse musculaire et crampes. 
+00273 | Affections vasculaires : 
+00274 | Fréquent : sensation de froid ou d’engourdissement dans les extrémités, hypotension. 
+00275 | Peu fréquent : hypotension orthostatique. 
+00276 | Troubles généraux : 
+00277 | Fréquent : asthénie, fatigue. 
+00278 | Affections hépatobiliaires : 
+00279 | Rare : hépatite. 
+00280 | Affections des organes de reproduction et du sein : 
+00281 | Rare : troubles de l’érection. 
+00282 | Affections psychiatriques : 
+00283 | Peu fréquent : troubles du sommeil, dépression. 
+00284 | Rare : cauchemars, hallucinations. 
+00285 | Déclaration des effets indésirables suspectés 
+00286 | La déclaration des effets indésirables suspectés après autorisation du médicament est importante. 
+00287 | Elle permet une surveillance continue du rapport bénéfice/risque du médicament. Les professionnels 
+00288 | de santé déclarent tout effet indésirable suspecté via le système national de déclaration : 
+00289 | Centre National de Pharmacovigilance et Matériovigilance (C.N.P.M) : 
+00290 | Tel/Fax : 00213 20 39 66 16 / 00213 20 39 66 18 
+00291 | Mail : cnpm@cnpm.org.dz 
+00292 | http:// www.cnpm.org.dz. 
+00293 |  
+00294 |  
+00295 |  
+00296 | 
+00297 | 7/10 
+00298 |  
+00299 | 4.9. Surdosage 
+00300 | Symptômes 
+00301 | Suite à un surdosage (par exemple un dosage quotidien de 15 mg au lieu de 7,5 mg), un bloc auriculo-
+00302 | ventriculaire du 3ème degré, une bradycardie et des vertiges ont été signalés. 
+00303 | En général, les signes les plus couramment rencontrés en cas de surdosage d’un bêta-bloquant sont la 
+00304 | bradycardie, l’hypotension, le bronchospasme, l’insuffisance cardiaque aiguë, et l’hypoglycémie. A ce 
+00305 | jour, quelques cas de surdosage (maximum 2000 mg) avec le bisoprolol ont été rapportés chez les 
+00306 | patients souffrant d’hypertension et/ou de cardiopathie ischémique, et se sont traduits par une 
+00307 | bradycardie et/ou une hypotension. Tous les patients se sont rétablis. On observe de larges variations 
+00308 | inter-individuelles de la sensibilité à une seule dose élevée de bisoprolol et les patients insuffisants 
+00309 | cardiaques sont probablement très sensibles. 
+00310 | Il est donc obligatoire, chez ces patients, de débuter le traitement en augmentant progressivement la 
+00311 | dose, selon le schéma posologique indiqué dans la rubrique 4.2. 
+00312 | Prise en charge 
+00313 | En cas de surdosage, le traitement par le bisoprolol doit être arrêté et un traitement symptomatique doit 
+00314 | être administré. Des données limitées suggèrent que le bisoprolol est peu dialysable. Compte-tenu des 
+00315 | actions pharmacologiques prévues et des recommandations pour les autres bêta-bloquants, les 
+00316 | mesures générales suivantes doivent être envisagées lorsqu’elles sont justifiées au plan clinique. 
+00317 | Bradycardie : administration d’atropine, par voie I.V. Si la réponse est inadaptée, on peut donner, avec 
+00318 | précaution, de l’isoprénaline ou un autre médicament ayant des propriétés chronotropes positives. Dans 
+00319 | certaines circonstances, la pose d’un pacemaker peut s’avérer nécessaire. 
+00320 | Hypotension : des solutés intraveineux et des vasopresseurs doivent être administrés. Le glucagon par 
+00321 | voie intraveineuse peut être utile. 
+00322 | Bloc auriculo-ventriculaire (du 2ème ou 3ème degré) : les patients doivent être surveillés attentivement 
+00323 | et traités par perfusion d’isoprénaline ou pose d’un pacemaker, s’il y a lieu. 
+00324 | Aggravation aiguë de l’insuffisance cardiaque : administration, par I.V., de diurétiques, d’agents 
+00325 | inotropes, de vasodilatateurs. 
+00326 | Bronchospasme : administration d’un traitement broncho-dilatateur, tel que isoprénaline, médicaments 
+00327 | bêta-2 sympathomimétiques et/ou aminophylline. 
+00328 | Hypoglycémie : administration I.V. de glucose. 
+00329 | 5. PROPRIETES PHARMACOLOGIQUES 
+00330 | 5.1. Propriétés pharmacodynamiques 
+00331 | Classe pharmacothérapeutique : BETA-BLOQUANT SELECTIF, code ATC : C07AB07. 
+00332 | Mécanisme d’action 
+00333 | Le bisoprolol est un bêta-bloquant ayant une forte affinité pour les récepteurs *-1, sans activité 
+00334 | sympathomimétique intrinsèque, ni effet stabilisant de membrane. Il ne présente qu’une affinité faible 
+00335 | pour les récepteurs bêta-2 des muscles lisses des bronches et des vaisseaux et pour les récepteurs 
+00336 | bêta-2 intervenant dans la régulation métabolique. En conséquence, le bisoprolol ne modifie 
+00337 | généralement pas la résistance des voies aériennes et n’a pas d’effets métaboliques liés à l’action sur 
+00338 | les récepteurs bêta-2. La sélectivité bêta-1 du bisoprolol s’étend au-delà des doses thérapeutiques. 
+00339 | Efficacité et sécurité clinique 
+00340 | 2 647 patients au total ont été inclus dans l’étude CIBIS II. 83 % (n = 2 202) étaient en classe III de la 
+00341 | NYHA et 17 % (n = 445) en classe IV de la NYHA. Ils présentaient une insuffisance cardiaque systolique 
+00342 | symptomatique stable (fraction d’éjection * 35 %, sur la base de l’échocardiographie). La mortalité totale 
+00343 | a diminué de 17,3 % à 11,8 % (diminution relative de 34 %). 
+00344 | 
+00345 | 8/10 
+00346 |  
+00347 | Une baisse de la fréquence des morts subites (3,6 % par rapport à 6,3 %, diminution relative de 44 %) 
+00348 | et une réduction des épisodes d’insuffisance cardiaque nécessitant une hospitalisation (12 % par 
+00349 | rapport à 17,6 %, diminution relative de 36 %) ont été observées. 
+00350 | Enfin, une amélioration significative de l’état fonctionnel selon la classification NYHA a été observée. 
+00351 | Pendant la mise en route et la titration des doses de bisoprolol, des hospitalisations pour bradycardie 
+00352 | (0,53 %), hypotension (0,23 %) ou décompensation aiguë (4,97 %) ont été observées, mais elles 
+00353 | n’étaient pas plus fréquentes que dans le groupe placebo (0 %, 0,3 % et 6,74 % respectivement). Le 
+00354 | nombre d’accidents vasculaires cérébraux fatals ou invalidants pendant la durée totale de l’étude a été 
+00355 | de 20 dans le groupe bisoprolol et de 15 dans le groupe placebo. 
+00356 | L’étude CIBIS III a porté sur 1 010 patients âgés de 65 ans ou plus, atteints d’insuffisance cardiaque 
+00357 | chronique légère à modérée (ICC de classe II ou III de la NYHA) et présentant une fraction d’éjection 
+00358 | ventriculaire gauche ≤ 35 %, n’ayant reçu antérieurement aucun inhibiteur de l’enzyme de conversion, 
+00359 | de bêta-bloquants ou d’antagonistes de l’angiotensine. Les patients ont été traités par l’association de 
+00360 | bisoprolol et d’énalapril pendant 6 à 24 mois après un traitement initial de 6 mois par soit du bisoprolol, 
+00361 | soit de l’énalapril. 
+00362 | On a observé une fréquence d’aggravation de l’insuffisance cardiaque chronique plus élevée lorsque le 
+00363 | bisoprolol était utilisé lors du traitement initial de 6 mois. La non-infériorité entre le traitement initial par 
+00364 | le bisoprolol et le traitement initial par l’énalapril n’a pas été prouvée dans l’analyse per-protocole, bien 
+00365 | que les deux stratégies d’initiation du traitement de l’insuffisance cardiaque ont montré un taux similaire 
+00366 | dans la fréquence du critère primaire composite des décès et hospitalisations à la fin de l’étude (32,4 % 
+00367 | dans le groupe d’abord traité par le bisoprolol versus 33,1 % dans le groupe d’abord traité par l’énalapril, 
+00368 | pour la population en per-protocole). L’étude montre que le bisoprolol peut aussi être utilisé chez les 
+00369 | personnes âgées ayant une insuffisance cardiaque chronique dans ses formes faibles à modérées. 
+00370 | Le bisoprolol est également utilisé dans le traitement de l’hypertension artérielle et de l’angor. 
+00371 | Lors d’une administration aiguë chez les patients ayant une cardiopathie ischémique sans insuffisance 
+00372 | cardiaque chronique, le bisoprolol diminue la fréquence cardiaque et le volume d’éjection systolique, et 
+00373 | donc le débit cardiaque et la consommation d’oxygène. En administration chronique, les résistances 
+00374 | périphériques, initialement élevées, diminuent. 
+00375 | 5.2. Propriétés pharmacocinétiques 
+00376 | Absorption 
+00377 | La biodisponibilité du bisoprolol est de 90 % environ après administration orale. 
+00378 | Distribution 
+00379 | Le volume de distribution est de 3,5 l/kg. La fixation du bisoprolol aux protéines plasmatiques est de 30 
+00380 | % environ. 
+00381 | Biotransformation et élimination 
+00382 | Le bisoprolol est éliminé par deux voies : 50 % sont transformés en métabolites inactifs dans le foie, 
+00383 | puis excrétés par les reins. Les 50 % restants sont excrétés sous forme inchangée par voie rénale. La 
+00384 | clairance totale est de 15 l/h environ. La demi-vie d’élimination plasmatique de 10 – 12 heures permet 
+00385 | d’obtenir un effet durant 24 heures, après une seule prise quotidienne. 
+00386 | Linéarité 
+00387 | La cinétique du bisoprolol est linéaire et indépendante de l’âge. 
+00388 | Populations spéciales 
+00389 | Du fait de cette élimination équilibrée entre la voie rénale et la voie hépatique, il n’est pas nécessaire 
+00390 | d’adapter la posologie chez les insuffisants hépatiques ou rénaux. La pharmacocinétique chez les 
+00391 | patients présentant une insuffisance cardiaque chronique stable et des troubles de la fonction rénale ou 
+00392 | hépatique n’a pas été étudiée. Chez les patients présentant une insuffisance cardiaque chronique 
+00393 | (classe III de la NYHA), les taux plasmatiques de bisoprolol sont plus élevés, et la demi-vie est prolongée 
+00394 | par rapport aux volontaires sains. La concentration plasmatique maximale à l’état d’équilibre est de 64 
+00395 | ± 21 ng/ml pour une dose quotidienne de 10 mg et la demi-vie est de 17 ± 5 heures. 
+00396 |  
+00397 |  
+00398 | 
+00399 | 9/10 
+00400 |  
+00401 | 5.3. Données de sécurité préclinique 
+00402 | Les données précliniques ne révèlent aucun risque particulier pour les êtres humains, sur la base des 
+00403 | études classiques de pharmacologie, toxicité à doses répétées, génotoxicité ou carcinogénicité. 
+00404 | Comme les autres bêta-bloquants, le bisoprolol a provoqué une toxicité maternelle (diminution de la 
+00405 | prise alimentaire et perte de poids) et embryofœtale (fréquence accrue des avortements spontanés, 
+00406 | poids de naissance réduit, retard de développement intra-utérin) à des doses élevées, mais il n’a pas 
+00407 | entraîné d’effets tératogènes. 
+00408 | 6. DONNEES PHARMACEUTIQUES 
+00409 | 6.1. Liste des excipients 
+00410 | Noyau du comprimé : 
+00411 | Silice colloïdale anhydre, stéarate de magnésium, crospovidone, cellulose microcristalline, amidon de 
+00412 | maïs, hydrogénophosphate de calcium anhydre. 
+00413 | Pelliculage : 
+00414 | Diméticone, macrogol 400, dioxyde de titane (E171), hypromellose. 
+00415 | 6.2. Incompatibilités 
+00416 | Sans objet. 
+00417 | 6.3. Durée de conservation 
+00418 | 3 ans. 
+00419 | 6.4. Précautions particulières de conservation 
+00420 | Pour les plaquettes (PVC/Aluminium) : 
+00421 | A conserver à une température ne dépassant pas 25°C. 
+00422 | 6.5. Nature et contenu de l'emballage extérieur 
+00423 | Boîtes de 30 comprimés sous plaquettes PVC/Aluminium. 
+00424 | 6.6. Précautions particulières d’élimination et de manipulation 
+00425 | Pas d’exigences particulières. 
+00426 | Tout médicament non utilisé ou déchet doit être éliminé conformément à la réglementation en vigueur. 
+00427 |  
+00428 | 7. CONDITIONS DE DELIVRANCE 
+00429 | Liste I. 
+00430 | Médicament soumis à une surveillance particulière pendant le traitement. 
+00431 | Médicament soumis à prescription initiale réservée aux spécialistes en cardiologie et en médecine 
+00432 | interne. 
+00433 |  
+00434 |  
+00435 |  
+00436 |  
+00437 |  
+00438 |  
+00439 | 
+00440 | 10/10 
+00441 |  
+00442 | 8. INFORMATION ADMINISTRATIVES 
+00443 | 8.1. Nom et adresse du détenteur de la décision d’enregistrement 
+00444 |  
+00445 | MERCK SANTE SAS 
+00446 | 37, RUE SAINT-ROMAIN 
+00447 | 69379 LYON CEDEX 08- France 
+00448 |  
+00449 | 8.2. Nom et adresse de l’exploitant de la décision d’enregistrement 
+00450 | SARL NOVAPHARM Production 
+00451 | Route de Koléa, Bou Ismail- Tipaza- Algérie 
+00452 |  
+00453 | 8.3. Nom et adresse des différents intervenants dans la fabrication du produit fini, le site de 
+00454 | production des : produits intermédiaires/ vrac/ conditionnement (primaire et secondaire), 
+00455 | libération des lots, le cas échéant ; 
+00456 | SARL NOVAPHARM Production 
+00457 | Route de Koléa, Bou Ismail- Tipaza- Algérie 
+00458 |  
+00459 | 8.4. Numéro(S) d’autorisation de mise sur le marché 
+00460 | 26/06F362/062 
+00461 | 8.5. Date de mise à jour du texte 
+00462 | 02/2026 
+00463 | 9. DOSIMETRE 
+00464 | Sans objet. 
+00465 | 10. CONDITIONS OU RESTRICTIONS EN VUE D’UNE UTILISATION SURE ET EFFICACE DU 
+00466 | MEDICAMENT 
+00467 | Sans objet. 
+00468 | 11. INSTRUCTIONS POUR LA PREPARATION DES RADIO PHARMACEUTIQUES 
+00469 | Sans objet.

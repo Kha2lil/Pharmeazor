@@ -1,0 +1,1278 @@
+00001 | ACETAMINOPHEN AND CODEINE PHOSPHATE- acetaminophen and codeine
+00002 | phosphate tablet 
+00003 | Contract Pharmacy Services-PA
+00004 | ----------
+00005 | 903 Acetaminophen/Codeine 300/30 mg 
+00006 | Acetaminophen and Codeine Phosphate Tablets, USP CIII 
+00007 | Rx only
+00008 | 
+00009 | WARNING: ADDICTION, ABUSE, AND MISUSE; LIFE-THREATENING
+00010 | RESPIRATORY DEPRESSION; ACCIDENTAL INGESTION; ULTRA-RAPID
+00011 | METABOLISM OF CODEINE AND OTHER RISK FACTORS FOR LIFE-
+00012 | THREATENING RESPIRATORY DEPRESSION IN CHILDREN; NEONATAL OPIOID
+00013 | WITHDRAWAL SYNDROME; INTERACTIONS WITH DRUGS AFFECTING
+00014 | CYTOCHROME P450 ISOENZYMES; HEPATOTOXICITY; and RISKS FROM
+00015 | CONCOMITANT USE WITH BENZODIAZEPINES OR OTHER CNS DEPRESSANTS
+00016 | Addiction, Abuse and Misuse
+00017 | Acetaminophen and codeine phosphate tablets expose patients and other users to the risks
+00018 | of opioid addiction, abuse and misuse, which can lead to overdose and death. Assess each
+00019 | patient’s risk prior to prescribing acetaminophen and codeine phosphate tablets, and
+00020 | monitor all patients regularly for the development of these behaviors and conditions [see
+00021 | WARNINGS].
+00022 | Life-Threatening Respiratory Depression
+00023 | Serious, life-threatening, or fatal respiratory depression may occur with use of
+00024 | acetaminophen and codeine phosphate tablets. Monitor for respiratory depression,
+00025 | especially during initiation of acetaminophen and codeine phosphate tablets or following a
+00026 | dose increase [see WARNINGS].
+00027 | Accidental Ingestion
+00028 | Accidental ingestion of acetaminophen and codeine phosphate tablets, especially by
+00029 | children, can result in a fatal overdose of acetaminophen and codeine phosphate tablets [see
+00030 | WARNINGS].
+00031 | Ultra-Rapid Metabolism of Codeine and Other Risk Factors for Life-Threatening
+00032 | Respiratory Depression in Children
+00033 | Life-threatening respiratory depression and death have occurred in children who received
+00034 | codeine. Most of the reported cases occurred following tonsillectomy and/or
+00035 | adenoidectomy and many of the children had evidence of being ultra-rapid metabolizers of
+00036 | codeine due to a CYP2D6 polymorphism [see WARNINGS, PRECAUTIONS; Information
+00037 | for Patients/Caregivers, Nursing Mothers]. Acetaminophen and codeine phosphate tablets
+00038 | are contraindicated in children younger than 12 years of age and in children younger than
+00039 | 18 years of age following tonsillectomy and/or adenoidectomy [see
+00040 | CONTRAINDICATIONS]. Avoid the use of acetaminophen and codeine phosphate tablets
+00041 | in adolescents 12 to 18 years of age who have other risk factors that may increase their
+00042 | sensitivity to the respiratory depressant effects of codeine.
+00043 | Neonatal Opioid Withdrawal Syndrome
+00044 | Prolonged use of acetaminophen and codeine phosphate tablets during pregnancy can
+00045 | result in neonatal opioid withdrawal syndrome, which may be life-threatening if not
+00046 | recognized and treated, and requires management according to protocols developed by
+00047 | neonatology experts. If opioid use is required for a prolonged period in a pregnant woman,
+00048 | advise the patient of the risk of neonatal opioid withdrawal syndrome and ensure that
+00049 | appropriate treatment will be available [see WARNINGS].
+00050 | Interactions with Drugs Affecting Cytochrome P450 Isoenzymes
+00051 | The effects of concomitant use or discontinuation of cytochrome P450 3A4 inducers, 3A4
+00052 | inhibitors, or 2D6 inhibitors with codeine are complex. Use of cytochrome P450 3A4
+00053 | inducers, 3A4 inhibitors, or 2D6 inhibitors with acetaminophen and codeine phosphate
+00054 | tablets requires careful consideration of the effects on the parent drug, codeine, and the
+00055 | active metabolite, morphine [see WARNINGS, PRECAUTIONS; Drug Interactions].
+00056 | 
+00057 | Hepatotoxicity
+00058 | Acetaminophen has been associated with cases of acute liver failure, at times resulting in
+00059 | liver transplant and death. Most of the cases of liver injury are associated with the use of
+00060 | acetaminophen at doses that exceed 4,000 milligrams per day, and often involve more than
+00061 | one acetaminophen-containing product [see WARNINGS].
+00062 | Risks from Concomitant Use with Benzodiazepines or Other CNS Depressants
+00063 | Concomitant use of opioids with benzodiazepines or other central nervous system (CNS)
+00064 | depressants, including alcohol, may result in profound sedation, respiratory depression,
+00065 | coma, and death [see WARNINGS, PRECAUTIONS; Drug Interactions].
+00066 | Reserve concomitant prescribing of acetaminophen and codeine phosphate tablets and
+00067 | benzodiazepines or other CNS depressants for use in patients for whom alternative
+00068 | treatment options are inadequate.
+00069 | Limit dosages and durations to the minimum required.
+00070 | Follow patients for signs and symptoms of respiratory depression and sedation.
+00071 | DESCRIPTION
+00072 | Acetaminophen and codeine phosphate are supplied in tablet form for oral administration.
+00073 | Acetaminophen, USP, 4'-hydroxyacetanilide, a slightly bitter, white, odorless, crystalline powder, is a
+00074 | non-opiate, non-salicylate analgesic and antipyretic. It has the following structural formula:
+00075 | C H NO M.W. 151.16
+00076 | Codeine phosphate, USP, 7,8-didehydro-4,5α-epoxy-3-methoxy-17-methylmorphinan-6α-ol phosphate
+00077 | (1:1) (salt) hemihydrate, a white crystalline powder, is a narcotic analgesic and antitussive. It has the
+00078 | following structural formula:
+00079 | C 
+00080 | H 
+00081 | NO •H PO •½H O M.W. 406.37
+00082 | Each Acetaminophen and Codeine Phosphate Tablet, USP (300 mg/15 mg) contains:
+00083 | 1. Acetaminophen, USP...........................300 mg 
+00084 | Codeine Phosphate, USP.......................15 mg
+00085 | 8
+00086 | 9
+00087 | 2 
+00088 | 18
+00089 | 21
+00090 | 3
+00091 | 3
+00092 | 4
+00093 | 2
+00094 | 
+00095 | OR
+00096 | Each Acetaminophen and Codeine Phosphate Tablet, USP (300 mg/30 mg) contains:
+00097 | 1. Acetaminophen, USP...........................300 mg 
+00098 | Codeine Phosphate, USP....................... 30 mg
+00099 | OR
+00100 | Each Acetaminophen and Codeine Phosphate Tablet, USP (300 mg/60 mg) contains:
+00101 | 1. Acetaminophen, USP...........................300 mg 
+00102 | Codeine Phosphate, USP....................... 60 mg
+00103 | In addition, each tablet contains the following inactive ingredients: corn starch, colloidal silicon
+00104 | dioxide, croscarmellose sodium, magnesium stearate, and microcrystalline cellulose. The 300 mg/60
+00105 | mg strength tablets also contain crospovidone, povidone, pregelatinized starch, and stearic acid.
+00106 | CLINICAL PHARMACOLOGY
+00107 | Mechanism of Action
+00108 | Codeine is an opioid agonist relatively selective for the mu-opioid receptor, but with a much weaker
+00109 | affinity than morphine. The analgesic properties of codeine have been speculated to come from its
+00110 | conversion to morphine, although the exact mechanism of analgesic action remains unknown.
+00111 | The precise mechanism of the analgesic properties of acetaminophen is not established but is thought to
+00112 | involve central actions.
+00113 | Pharmacodynamics
+00114 | Effects on the Central Nervous System
+00115 | Codeine produces respiratory depression by direct action on brain stem respiratory centers. The
+00116 | respiratory depression involves a reduction in the responsiveness of the brain stem respiratory centers
+00117 | to both increases in carbon dioxide tension and electrical stimulation.
+00118 | Codeine causes miosis, even in total darkness. Pinpoint pupils are a sign of opioid overdose but are not
+00119 | pathognomonic (e.g., pontine lesions of hemorrhagic or ischemic origins may produce similar
+00120 | findings). Marked mydriasis rather than miosis may be seen due to hypoxia in overdose situations.
+00121 | Effects on the Gastrointestinal Tract and Other Smooth Muscle
+00122 | Codeine causes a reduction in motility associated with an increase in smooth muscle tone in the antrum
+00123 | of the stomach and duodenum. Digestion of food in the small intestine is delayed and propulsive
+00124 | contractions are decreased. Propulsive peristaltic waves in the colon are decreased, while tone may be
+00125 | increased to the point of spasm, resulting in constipation. Other opioid-induced effects may include a
+00126 | reduction in biliary and pancreatic secretions, spasm of sphincter of Oddi, and transient elevations in
+00127 | serum amylase.
+00128 | Effects on the Cardiovascular System
+00129 | Codeine produces peripheral vasodilation which may result in orthostatic hypotension or syncope.
+00130 | Manifestations of histamine release and/or peripheral vasodilation may include pruritus, flushing, red
+00131 | eyes, sweating, and/or orthostatic hypotension.
+00132 | Effects on the Endocrine System
+00133 | Opioids inhibit the secretion of adrenocorticotropic hormone (ACTH), cortisol, and luteinizing
+00134 | hormone (LH) in humans [see ADVERSE REACTIONS]. They also stimulate prolactin, growth
+00135 | hormone (GH) secretion, and pancreatic secretion of insulin and glucagon.
+00136 | 
+00137 | Chronic use of opioids may influence the hypothalamic-pituitary-gonadal axis, leading to androgen
+00138 | deficiency that may manifest as low libido, impotence, erectile dysfunction, amenorrhea, or infertility.
+00139 | The causal role of opioids in the clinical syndrome of hypogonadism is unknown because the various
+00140 | medical, physical, lifestyle, and psychological stressors that may influence gonadal hormone levels
+00141 | have not been adequately controlled for in studies conducted to date [see ADVERSE REACTIONS].
+00142 | Effects on the Immune System
+00143 | Opioids have been shown to have a variety of effects on components of the immune system. The clinical
+00144 | significance of these findings is unknown. Overall, the effects of opioids appear to be modestly
+00145 | immunosuppressive.
+00146 | Concentration–Efficacy Relationships
+00147 | The minimum effective analgesic concentration will vary widely among patients, especially among
+00148 | patients who have been previously treated with potent agonist opioids. The minimum effective analgesic
+00149 | concentration of codeine for any individual patient may increase over time due to an increase in pain, the
+00150 | development of a new pain syndrome, and/or the development of analgesic tolerance [see DOSAGE
+00151 | AND ADMINISTRATION].
+00152 | Concentration–Adverse Reaction Relationships
+00153 | There is a relationship between increasing codeine plasma concentration and increasing frequency of
+00154 | dose-related opioid adverse reactions such as nausea, vomiting, CNS effects, and respiratory
+00155 | depression. In opioid-tolerant patients, the situation may be altered by the development of tolerance to
+00156 | opioid-related adverse reactions [see DOSAGE AND ADMINISTRATION].
+00157 | Pharmacokinetics
+00158 | The behavior of the individual components is described below.
+00159 | Codeine
+00160 | Codeine is rapidly absorbed from the gastrointestinal tract. It is rapidly distributed from the
+00161 | intravascular spaces to the various body tissues, with preferential uptake by parenchymatous organs
+00162 | such as the liver, spleen, and kidney. Codeine crosses the blood-brain barrier and is found in fetal tissue
+00163 | and breast milk. The plasma concentration does not correlate with brain concentration or relief of pain.
+00164 | Codeine is about 7 to 25% bound to plasma proteins and does not accumulate in body tissues.
+00165 | About 70 to 80% of the administered dose of codeine is metabolized by conjugation with glucuronic
+00166 | acid to codeine-6-glucuronide (C6G) and via O-demethylation to morphine (about 5 to 10%) and N-
+00167 | demethylation to norcodeine (about 10%) respectively. UDP-glucuronosyltransferase (UGT) 2B7 and
+00168 | 2B4 are the major enzymes mediating glucuronidation of codeine to C6G. Cytochrome P450 2D6 is the
+00169 | major enzyme responsible for conversion of codeine to morphine and P450 3A4 is the major enzyme
+00170 | mediating conversion of codeine to norcodeine. Morphine and norcodeine are further metabolized by
+00171 | conjugation with glucuronic acid. The glucuronide metabolites of morphine are morphine-3-
+00172 | glucuronide (M3G) and morphine-6-glucuronide (M6G). Morphine and M6G are known to have
+00173 | analgesic activity in humans. The analgesic activity of C6G in humans is unknown. Norcodeine and M3G
+00174 | are generally not considered to possess analgesic properties.
+00175 | The plasma half-life is about 2.9 hours. The elimination of codeine is primarily via the kidneys, and
+00176 | about 90% of an oral dose is excreted by the kidneys within 24 hours of dosing. The urinary secretion
+00177 | products consist of free and glucuronide conjugated codeine (about 70%), free and conjugated
+00178 | norcodeine (about 10%), free and conjugated morphine (about 10%), normorphine (4%), and
+00179 | hydrocodone (1%). The remainder of the dose is excreted in the feces.
+00180 | At therapeutic doses, the analgesic effect reaches a peak within 2 hours and persists between 4 and 6
+00181 | hours.
+00182 | Acetaminophen
+00183 | 
+00184 | Acetaminophen is rapidly absorbed from the gastrointestinal tract and is distributed throughout most
+00185 | body tissues. A small fraction (10 to 25%) of acetaminophen is bound to plasma proteins. The plasma
+00186 | half-life is 1.25 to 3 hours, but may be increased by liver damage and following overdosage.
+00187 | Elimination of acetaminophen is principally by liver metabolism (conjugation) and subsequent renal
+00188 | excretion of metabolites. Acetaminophen is primarily metabolized in the liver by first-order kinetics and
+00189 | involves three principal separate pathways: conjugation with glucuronide; conjugation with sulfate; and
+00190 | oxidation via the cytochrome, P450-dependent, mixed-function oxidase enzyme pathway to form a
+00191 | reactive intermediate metabolite, which conjugates with glutathione and is then further metabolized to
+00192 | form cysteine and mercapturic acid conjugates. The principal cytochrome P450 isoenzyme involved
+00193 | appears to be CYP2E1, with CYP1A2 and CYP3A4 as additional pathways. Approximately 85% of an
+00194 | oral dose appears in the urine within 24 hours of administration, most as the glucuronide conjugate, with
+00195 | small amounts of other conjugates and unchanged drug.
+00196 | See OVERDOSAGE for toxicity information.
+00197 | INDICATIONS AND USAGE
+00198 | Acetaminophen and codeine phosphate tablets are indicated for the management of mild to moderate
+00199 | pain, where treatment with an opioid is appropriate and for which alternative treatments are inadequate.
+00200 | Limitations of Use
+00201 | Because of the risks of addiction, abuse, and misuse, with opioids, even at recommended doses [see
+00202 | WARNINGS], reserve acetaminophen and codeine phosphate tablets for use in patients for whom
+00203 | alternative treatment options [e.g., non-opioid analgesics]
+00204 | Have not provided adequate analgesia, or are not expected to provide adequate analgesia,
+00205 | Have not been tolerated, or are not expected to be tolerated.
+00206 | CONTRAINDICATIONS
+00207 | Acetaminophen and codeine phosphate tablets are contraindicated for:
+00208 | All children younger than 12 years of age [see WARNINGS].
+00209 | Post-operative management in children younger than 18 years of age following tonsillectomy and/or
+00210 | adenoidectomy [see WARNINGS].
+00211 | Acetaminophen and codeine phosphate tablets are contraindicated in patients with:
+00212 | significant respiratory depression [see WARNINGS].
+00213 | acute or severe bronchial asthma in an unmonitored setting or in the absence of resuscitative
+00214 | equipment [see WARNINGS].
+00215 | concurrent use of monoamine oxidase inhibitors (MAOIs) or use of MAOIs within the last 14 days
+00216 | [see WARNINGS].
+00217 | known or suspected gastrointestinal obstruction, including paralytic ileus [see WARNINGS].
+00218 | hypersensitivity to codeine, acetaminophen, or any of the formulation excipients (e.g., anaphylaxis)
+00219 | [see WARNINGS].
+00220 | WARNINGS
+00221 | Addiction, Abuse, and Misuse
+00222 | Acetaminophen and codeine phosphate tablets contain codeine. Codeine in combination with
+00223 | acetaminophen, is a Schedule III controlled substance. As an opioid, acetaminophen and codeine
+00224 | phosphate tablets expose users to the risks of addiction, abuse, and misuse [see DRUG ABUSE AND
+00225 | DEPENDENCE].
+00226 | Although the risk of addiction in any individual is unknown, it can occur in patients appropriately
+00227 | 
+00228 | prescribed acetaminophen and codeine phosphate tablets. Addiction can occur at recommended dosages
+00229 | and if the drug is misused or abused.
+00230 | Assess each patient’s risk for opioid addiction, abuse, or misuse prior to prescribing acetaminophen
+00231 | and codeine phosphate tablets, and monitor all patients receiving acetaminophen and codeine phosphate
+00232 | tablets for the development of these behaviors and conditions. Risks are increased in patients with a
+00233 | personal or family history of substance abuse (including drug or alcohol abuse or addiction) or mental
+00234 | illness (e.g., major depression). The potential for these risks should not, however, prevent the proper
+00235 | management of pain in any given patient. Patients at increased risk may be prescribed opioids such as
+00236 | acetaminophen and codeine phosphate tablets, but use in such patients necessitates intensive counseling
+00237 | about the risks and proper use of acetaminophen and codeine phosphate tablets along with intensive
+00238 | monitoring for signs of addiction, abuse, and misuse.
+00239 | Opioids are sought by drug abusers and people with addiction disorders and are subject to criminal
+00240 | diversion. Consider these risks when prescribing or dispensing acetaminophen and codeine phosphate
+00241 | tablets. Strategies to reduce these risks include prescribing the drug in the smallest appropriate quantity
+00242 | and advising the patient on the proper disposal of unused drug [see PRECAUTIONS; Information for
+00243 | Patients/Caregivers]. Contact local state professional licensing board or state controlled substances
+00244 | authority for information on how to prevent and detect abuse or diversion of this product.
+00245 | Life-Threatening Respiratory Depression
+00246 | Serious, life-threatening, or fatal respiratory depression has been reported with the use of opioids,
+00247 | even when used as recommended. Respiratory depression, if not immediately recognized and treated,
+00248 | may lead to respiratory arrest and death. Management of respiratory depression may include close
+00249 | observation, supportive measures, and use of opioid antagonists, depending on the patient’s clinical
+00250 | status [see OVERDOSAGE]. Carbon dioxide (CO ) retention from opioid-induced respiratory
+00251 | depression can exacerbate the sedating effects of opioids.
+00252 | While serious, life-threatening, or fatal respiratory depression can occur at any time during the use of
+00253 | acetaminophen and codeine phosphate tablets, the risk is greatest during the initiation of therapy or
+00254 | following a dosage increase. Monitor patients closely for respiratory depression, especially within the
+00255 | first 24 to 72 hours of initiating therapy with and following dosage increases of acetaminophen and
+00256 | codeine phosphate tablets.
+00257 | To reduce the risk of respiratory depression, proper dosing and titration of acetaminophen and codeine
+00258 | phosphate tablets are essential [see DOSAGE AND ADMINISTRATION]. Overestimating the
+00259 | acetaminophen and codeine phosphate tablets dosage when converting patients from another opioid
+00260 | product can result in a fatal overdose with the first dose.
+00261 | Accidental ingestion of acetaminophen and codeine phosphate tablets, especially by children, can result
+00262 | in respiratory depression and death due to an overdose of codeine.
+00263 | Ultra-Rapid Metabolism of Codeine and Other Risk Factors for Life-Threatening Respiratory
+00264 | Depression in Children
+00265 | Life-threatening respiratory depression and death have occurred in children who received codeine.
+00266 | Codeine is subject to variability in metabolism based upon CYP2D6 genotype (described below), which
+00267 | can lead to an increased exposure to the active metabolite morphine. Based upon postmarketing reports,
+00268 | children younger than 12 years old appear to be more susceptible to the respiratory depressant effects
+00269 | of codeine, particularly if there are risk factors for respiratory depression. For example, many reported
+00270 | cases of death occurred in the post-operative period following tonsillectomy and/or adenoidectomy,
+00271 | and many of the children had evidence of being ultra-rapid metabolizers of codeine. Furthermore,
+00272 | children with obstructive sleep apnea who are treated with codeine for post-tonsillectomy and/or
+00273 | adenoidectomy pain may be particularly sensitive to its respiratory depressant effect. Because of the
+00274 | risk of life-threatening respiratory depression and death:
+00275 | acetaminophen and codeine phosphate tablets are contraindicated for all children younger than 12
+00276 | years of age [see CONTRAINDICATIONS].
+00277 | 2
+00278 | 
+00279 | acetaminophen and codeine phosphate tablets are contraindicated for post-operative management in
+00280 | pediatric patients younger than 18 years of age following tonsillectomy and/or adenoidectomy [see
+00281 | CONTRAINDICATIONS].
+00282 | Avoid the use of acetaminophen and codeine phosphate tablets in adolescents 12 to 18 years of age
+00283 | who have other risk factors that may increase their sensitivity to the respiratory depressant effects
+00284 | of codeine unless the benefits outweigh the risks. Risk factors include conditions associated with
+00285 | hypoventilation, such as postoperative status, obstructive sleep apnea, obesity, severe pulmonary
+00286 | disease, neuromuscular disease, and concomitant use of other medications that cause respiratory
+00287 | depression [see WARNINGS].
+00288 | As with adults, when prescribing codeine for adolescents, healthcare providers should choose the
+00289 | lowest effective dose for the shortest period of time and inform patients and caregivers about these
+00290 | risks and the signs of morphine overdose [see OVERDOSAGE].
+00291 | Nursing Mothers
+00292 | At least one death was reported in a nursing infant who was exposed to high levels of morphine in
+00293 | breast milk because the mother was an ultra-rapid metabolizer of codeine. Breastfeeding is not
+00294 | recommended during treatment with acetaminophen and codeine phosphate tablets.
+00295 | CYP2D6 Genetic Variability: Ultra-Rapid Metabolizers
+00296 | Some individuals may be ultra-rapid metabolizers because of a specific CYP2D6 genotype (e.g., gene
+00297 | duplications denoted as *1/*1xN or *1/*2xN). The prevalence of this CYP2D6 phenotype varies widely
+00298 | and has been estimated at 1 to 10% for Whites (European, North American), 3 to 4% for Blacks (African
+00299 | Americans), 1 to 2% for East Asians (Chinese, Japanese, Korean), and may be greater than 10% in
+00300 | certain racial/ethnic groups (i.e., Oceanian, Northern African, Middle Eastern, Ashkenazi Jews, Puerto
+00301 | Rican).
+00302 | These individuals convert codeine into its active metabolite, morphine, more rapidly and completely
+00303 | than other people. This rapid conversion results in higher than expected serum morphine levels. Even at
+00304 | labeled dosage regimens, individuals who are ultra-rapid metabolizers may have life-threatening or
+00305 | fatal respiratory depression or experience signs of overdose (such as extreme sleepiness, confusion,
+00306 | or shallow breathing) [see OVERDOSAGE]. Therefore, individuals who are ultra-rapid metabolizers
+00307 | should not use acetaminophen and codeine phosphate tablets.
+00308 | Neonatal Opioid Withdrawal Syndrome
+00309 | Prolonged use of acetaminophen and codeine phosphate tablets during pregnancy can result in
+00310 | withdrawal in the neonate. Neonatal opioid withdrawal syndrome, unlike opioid withdrawal syndrome in
+00311 | adults, may be life-threatening if not recognized and treated, and requires management according to
+00312 | protocols developed by neonatology experts. Observe newborns for signs of neonatal opioid
+00313 | withdrawal syndrome and manage accordingly. Advise pregnant women using opioids for a prolonged
+00314 | period of the risk of neonatal opioid withdrawal syndrome and ensure that appropriate treatment will be
+00315 | available [see PRECAUTIONS; Information for Patients/Caregivers, Pregnancy].
+00316 | Interactions with Drugs Affecting Cytochrome P450 Isoenzymes
+00317 | The effects of concomitant use or discontinuation of cytochrome P450 3A4 inducers, 3A4 inhibitors,
+00318 | or 2D6 inhibitors with codeine are complex. Use of cytochrome P450 3A4 inducers, 3A4 inhibitors, or
+00319 | 2D6 inhibitors with acetaminophen and codeine phosphate tablets requires careful consideration of the
+00320 | effects on the parent drug, codeine, and the active metabolite, morphine.
+00321 | Cytochrome P450 3A4 Interaction
+00322 | The concomitant use of acetaminophen and codeine phosphate tablets with all cytochrome P450 3A4
+00323 | inhibitors, such as macrolide antibiotics (e.g., erythromycin), azole-antifungal agents (e.g.,
+00324 | ketoconazole), and protease inhibitors (e.g., ritonavir) or discontinuation of a cytochrome P450 3A4
+00325 | inducer such as rifampin, carbamazepine, and phenytoin, may result in an increase in codeine plasma
+00326 | 
+00327 | concentrations with subsequently greater metabolism by cytochrome P450 2D6, resulting in greater
+00328 | morphine levels, which could increase or prolong adverse reactions and may cause potentially fatal
+00329 | respiratory depression.
+00330 | The concomitant use of acetaminophen and codeine phosphate tablets with all cytochrome P450 3A4
+00331 | inducers or discontinuation of a cytochrome P450 3A4 inhibitor may result in lower codeine levels,
+00332 | greater norcodeine levels, and less metabolism via 2D6 with resultant lower morphine levels. This may
+00333 | be associated with a decrease in efficacy, and in some patients, may result in signs and symptoms of
+00334 | opioid withdrawal.
+00335 | Follow patients receiving acetaminophen and codeine phosphate tablets and any CYP3A4 inhibitor or
+00336 | inducer for signs and symptoms that may reflect opioid toxicity and opioid withdrawal when
+00337 | acetaminophen and codeine phosphate tablets are used in conjunction with inhibitors and inducers of
+00338 | CYP3A4 [see WARNINGS, PRECAUTIONS; Drug Interactions].
+00339 | If concomitant use of a CYP3A4 inhibitor is necessary or if a CYP3A4 inducer is discontinued,
+00340 | consider dosage reduction of acetaminophen and codeine phosphate tablets until stable drug effects are
+00341 | achieved. Monitor patients for respiratory depression and sedation at frequent intervals.
+00342 | If concomitant use of a CYP3A4 inducer is necessary or if a CYP3A4 inhibitor is discontinued,
+00343 | consider increasing the acetaminophen and codeine phosphate tablets dosage until stable drug effects
+00344 | are achieved. Monitor for signs of opioid withdrawal [see PRECAUTIONS; Drug Interactions].
+00345 | Risks of Concomitant Use or Discontinuation of Cytochrome P450 2D6 Inhibitors
+00346 | The concomitant use of acetaminophen and codeine phosphate tablets with all cytochrome P450 2D6
+00347 | inhibitors (e.g., amiodarone, quinidine) may result in an increase in codeine plasma concentrations and a
+00348 | decrease in active metabolite morphine plasma concentration which could result in an analgesic efficacy
+00349 | reduction or symptoms of opioid withdrawal.
+00350 | Discontinuation of a concomitantly used cytochrome P450 2D6 inhibitor may result in a decrease in
+00351 | codeine plasma concentration and an increase in active metabolite morphine plasma concentration which
+00352 | could increase or prolong adverse reactions and may cause potentially fatal respiratory depression.
+00353 | Follow patients receiving acetaminophen and codeine phosphate tablets and any CYP2D6 inhibitor for
+00354 | signs and symptoms that may reflect opioid toxicity and opioid withdrawal when acetaminophen and
+00355 | codeine phosphate tablets are used in conjunction with inhibitors of CYP2D6.
+00356 | If concomitant use with a CYP2D6 inhibitor is necessary, follow the patient for signs of reduced
+00357 | efficacy or opioid withdrawal and consider increasing the acetaminophen and codeine phosphate tablets
+00358 | dosage. After stopping use of a CYP2D6 inhibitor, consider reducing the acetaminophen and codeine
+00359 | phosphate tablets dosage and follow the patient for signs and symptoms of respiratory depression or
+00360 | sedation [see PRECAUTIONS; Drug Interactions].
+00361 | Hepatotoxicity
+00362 | Acetaminophen has been associated with cases of acute liver failure, at times resulting in liver
+00363 | transplant and death. Most of the cases of liver injury are associated with the use of acetaminophen at
+00364 | doses that exceed 4,000 milligrams per day, and often involve more than one acetaminophen-containing
+00365 | product. The excessive intake of acetaminophen may be intentional to cause self-harm or unintentional
+00366 | as patients attempt to obtain more pain relief or unknowingly take other acetaminophen-containing
+00367 | products.
+00368 | The risk of acute liver failure is higher in individuals with underlying liver disease and in individuals
+00369 | who ingest alcohol while taking acetaminophen.
+00370 | Instruct patients to look for acetaminophen or APAP on package labels and not to use more than one
+00371 | product that contains acetaminophen. Instruct patients to seek medical attention immediately upon
+00372 | ingestion of more than 4,000 milligrams of acetaminophen per day, even if they feel well.
+00373 | Risks from Concomitant Use with Benzodiazepines or Other CNS Depressants
+00374 | 
+00375 | Profound sedation, respiratory depression, coma, and death may result from the concomitant use of
+00376 | acetaminophen and codeine phosphate tablets with benzodiazepines and/or other CNS depressants (e.g.,
+00377 | non-benzodiazepine sedatives/hypnotics, anxiolytics, tranquilizers, muscle relaxants, general
+00378 | anesthetics, antipsychotics, other opioids, alcohol). Because of these risks, reserve concomitant
+00379 | prescribing of these drugs for use in patients for whom alternative treatment options are inadequate.
+00380 | Observational studies have demonstrated that concomitant use of opioid analgesics and benzodiazepines
+00381 | increases the risk of drug-related mortality compared to use of opioid analgesics alone. Because of
+00382 | similar pharmacological properties, it is reasonable to expect similar risk with the concomitant use of
+00383 | other CNS depressant drugs with opioid analgesics [see PRECAUTIONS; Drug Interactions].
+00384 | If the decision is made to prescribe a benzodiazepine or other CNS depressant concomitantly with an
+00385 | opioid analgesic, prescribe the lowest effective dosages and minimum durations of concomitant use. In
+00386 | patients already receiving an opioid analgesic, prescribe a lower initial dose of the benzodiazepine or
+00387 | other CNS depressant than indicated in the absence of an opioid, and titrate based on clinical response.
+00388 | If an opioid analgesic is initiated in a patient already taking a benzodiazepine or other CNS depressant,
+00389 | prescribe a lower initial dose of the opioid analgesic, and titrate based on clinical response. Follow
+00390 | patients closely for signs and symptoms of respiratory depression and sedation.
+00391 | Advise both patients and caregivers about the risks of respiratory depression and sedation when
+00392 | acetaminophen and codeine phosphate tablets are used with benzodiazepines or other CNS depressants
+00393 | (including alcohol and illicit drugs). Advise patients not to drive or operate heavy machinery until the
+00394 | effects of concomitant use of the benzodiazepine or other CNS depressant have been determined.
+00395 | Screen patients for risk of substance use disorders, including opioid abuse and misuse, and warn them
+00396 | of the risk for overdose and death associated with the use of additional CNS depressants including
+00397 | alcohol and illicit drugs [see PRECAUTIONS; Drug Interactions, Information for
+00398 | Patients/Caregivers].
+00399 | Life-Threatening Respiratory Depression in Patients with Chronic Pulmonary Disease or
+00400 | Elderly, Cachectic, or Debilitated Patients
+00401 | The use of acetaminophen and codeine phosphate tablets in patients with acute or severe bronchial
+00402 | asthma in an unmonitored setting or in the absence of resuscitative equipment is contraindicated.
+00403 | Patients with Chronic Pulmonary Disease
+00404 | Acetaminophen and codeine phosphate tablets-treated patients with significant chronic obstructive
+00405 | pulmonary disease or cor pulmonale, and those with a substantially decreased respiratory reserve,
+00406 | hypoxia, hypercapnia, or preexisting respiratory depression are at increased risk of decreased
+00407 | respiratory drive including apnea, even at recommended dosages of acetaminophen and codeine
+00408 | phosphate tablets [see WARNINGS; Life-Threatening Respiratory Depression].
+00409 | Elderly, Cachectic, or Debilitated Patients
+00410 | Life-threatening respiratory depression is more likely to occur in elderly, cachectic, or debilitated
+00411 | patients because they may have altered pharmacokinetics, including clearance, compared to younger,
+00412 | healthier patients [see WARNINGS; Life-Threatening Respiratory Depression].
+00413 | Monitor such patients closely, particularly when initiating and titrating acetaminophen and codeine
+00414 | phosphate tablets and when acetaminophen and codeine phosphate tablets are given concomitantly with
+00415 | other drugs that depress respiration [see WARNINGS; Life-Threatening Respiratory Depression].
+00416 | Alternatively, consider the use of non-opioid analgesics in these patients.
+00417 | Interaction with Monoamine Oxidase Inhibitors
+00418 | Monoamine oxidase inhibitors (MAOIs) may potentiate the effects of morphine, codeine’s active
+00419 | metabolite, including respiratory depression, coma, and confusion. Acetaminophen and codeine
+00420 | phosphate tablets should not be used in patients taking MAOIs or within 14 days of stopping such
+00421 | treatment.
+00422 | 
+00423 | Adrenal Insufficiency
+00424 | Cases of adrenal insufficiency have been reported with opioid use, more often following greater than 1
+00425 | month of use. Presentation of adrenal insufficiency may include non-specific symptoms and signs
+00426 | including nausea, vomiting, anorexia, fatigue, weakness, dizziness, and low blood pressure. If adrenal
+00427 | insufficiency is suspected, confirm the diagnosis with diagnostic testing as soon as possible. If adrenal
+00428 | insufficiency is diagnosed, treat with physiologic replacement doses of corticosteroids. Wean the
+00429 | patient off of the opioid to allow adrenal function to recover and continue corticosteroid treatment until
+00430 | adrenal function recovers. Other opioids may be tried as some cases reported use of a different opioid
+00431 | without recurrence of adrenal insufficiency. The information available does not identify any particular
+00432 | opioids as being more likely to be associated with adrenal insufficiency.
+00433 | Severe Hypotension
+00434 | Acetaminophen and codeine may cause severe hypotension including orthostatic hypotension and
+00435 | syncope in ambulatory patients. There is increased risk in patients whose ability to maintain blood
+00436 | pressure has already been compromised by a reduced blood volume or concurrent administration of
+00437 | certain CNS depressant drugs (e.g., phenothiazines or general anesthetics) [see PRECAUTIONS;
+00438 | Drug Interactions]. Monitor these patients for signs of hypotension after initiating or titrating the
+00439 | dosage of acetaminophen and codeine phosphate tablets. In patients with circulatory shock
+00440 | acetaminophen and codeine phosphate tablets may cause vasodilatation that can further reduce cardiac
+00441 | output and blood pressure. Avoid the use of acetaminophen and codeine with circulatory shock.
+00442 | Serious Skin Reactions
+00443 | Rarely, acetaminophen may cause serious skin reactions such as acute generalized exanthematous
+00444 | pustulosis (AGEP), Stevens-Johnson Syndrome (SJS), and toxic epidermal necrolysis (TEN), which can
+00445 | be fatal. Patients should be informed about the signs of serious skin reactions, and use of the drug
+00446 | should be discontinued at the first appearance of skin rash or any other sign of hypersensitivity.
+00447 | Risks of Use in Patients with Increased Intracranial Pressure, Brain Tumors, Head Injury, or
+00448 | Impaired Consciousness
+00449 | In patients who may be susceptible to the intracranial effects of CO retention (e.g., those with
+00450 | evidence of increased intracranial pressure or brain tumors), acetaminophen and codeine phosphate
+00451 | tablets may reduce respiratory drive, and the resultant CO retention can further increase intracranial
+00452 | pressure. Monitor such patients for signs of sedation and respiratory depression, particularly when
+00453 | initiating therapy with acetaminophen and codeine phosphate tablets.
+00454 | Opioids may also obscure the clinical course in a patient with a head injury. Avoid the use of
+00455 | acetaminophen and codeine phosphate tablets in patients with impaired consciousness or coma.
+00456 | Hypersensitivity/Anaphylaxis
+00457 | There have been postmarketing reports of hypersensitivity and anaphylaxis associated with the use of
+00458 | acetaminophen. Clinical signs included swelling of the face, mouth, and throat, respiratory distress,
+00459 | urticaria, rash, pruritus, and vomiting. There were infrequent reports of life-threatening anaphylaxis
+00460 | requiring emergency medical attention. Instruct patients to discontinue acetaminophen and codeine
+00461 | phosphate tablets immediately and seek medical care if they experience these symptoms. Do not
+00462 | prescribe acetaminophen and codeine phosphate tablets for patients with acetaminophen allergy [see
+00463 | PRECAUTIONS; Information for Patients/Caregivers].
+00464 | Risks of Use in Patients with Gastrointestinal Conditions
+00465 | Acetaminophen and codeine phosphate tablets are contraindicated in patients with gastrointestinal
+00466 | obstruction, including paralytic ileus.
+00467 | The administration of acetaminophen and codeine phosphate tablets or other opioids may obscure the
+00468 | diagnosis or clinical course in patients with acute abdominal conditions.
+00469 | Acetaminophen and codeine phosphate tablets may cause spasm of the sphincter of Oddi. Opioids may
+00470 | 2
+00471 | 2
+00472 | 
+00473 | cause increases in serum amylase. Monitor patients with biliary tract disease, including acute
+00474 | pancreatitis, for worsening symptoms.
+00475 | Increased Risk of Seizures in Patients with Seizure Disorders
+00476 | The codeine in acetaminophen and codeine phosphate tablets may increase the frequency of seizures in
+00477 | patients with seizure disorders, and may increase the risk of seizures occurring in other clinical settings
+00478 | associated with seizures. Monitor patients with a history of seizure disorders for worsened seizure
+00479 | control during acetaminophen and codeine phosphate tablets therapy.
+00480 | Withdrawal
+00481 | Avoid the use of mixed agonist/antagonist (e.g, pentazocine, nalbuphine, and butorphanol) or partial
+00482 | agonist (e.g., buprenorphine) analgesics in patients who are receiving a full opioid agonist analgesic,
+00483 | including acetaminophen and codeine phosphate tablets. In these patients, mixed agonist/antagonist and
+00484 | partial analgesics may reduce the analgesic effect and/or precipitate withdrawal symptoms.
+00485 | When discontinuing acetaminophen and codeine phosphate tablets, gradually taper the dosage [see
+00486 | DOSAGE AND ADMINISTRATION]. Do not abruptly discontinue acetaminophen and codeine
+00487 | phosphate tablets [see DRUG ABUSE AND DEPENDENCE].
+00488 | PRECAUTIONS
+00489 | Risks of Driving and Operating Machinery
+00490 | Acetaminophen and codeine phosphate tablets may impair the mental or physical abilities needed to
+00491 | perform potentially hazardous activities such as driving a car or operating machinery. Warn patients not
+00492 | to drive or operate dangerous machinery unless they are tolerant to the effects of acetaminophen and
+00493 | codeine phosphate tablets and know how they will react to the medication [see PRECAUTIONS;
+00494 | Information for Patients/Caregivers].
+00495 | Information for Patients/Caregivers
+00496 | Advise the patient to read the FDA-approved patient labeling (Medication Guide).
+00497 | Addiction, Abuse and Misuse
+00498 | Inform patients that the use of acetaminophen and codeine phosphate tablets, even when taken as
+00499 | recommended, can result in addiction, abuse, and misuse, which can lead to overdose and death [see
+00500 | WARNINGS]. Instruct patients not to share acetaminophen and codeine phosphate tablets with others
+00501 | and to take steps to protect acetaminophen and codeine phosphate tablets from theft or misuse.
+00502 | Life-Threatening Respiratory Depression
+00503 | Inform patients of the risk of life-threatening respiratory depression, including information that the risk
+00504 | is greatest when starting acetaminophen and codeine phosphate tablets or when the dosage is increased,
+00505 | and that it can occur even at recommended dosages [see WARNINGS]. Advise patients how to
+00506 | recognize respiratory depression and to seek medical attention if breathing difficulties develop.
+00507 | Accidental Ingestion
+00508 | Inform patients that accidental ingestion, especially by children, may result in respiratory depression or
+00509 | death [see WARNINGS]. Instruct patients to take steps to store acetaminophen and codeine phosphate
+00510 | tablets securely. Advise patients to properly dispose of acetaminophen and codeine phosphate tablets in
+00511 | accordance with local state guidelines and/or regulations.
+00512 | Ultra-Rapid Metabolism of Codeine and Other Risk Factors for Life-Threatening Respiratory
+00513 | Depression in Children
+00514 | Advise caregivers that acetaminophen and codeine phosphate tablets are contraindicated in all children
+00515 | younger than 12 years of age and in children younger than 18 years of age following tonsillectomy
+00516 | 
+00517 | and/or adenoidectomy. Advise caregivers of children 12 to 18 years of age receiving acetaminophen
+00518 | and codeine phosphate tablets to monitor for signs of respiratory depression [see WARNINGS].
+00519 | Interactions with Benzodiazepines and Other CNS Depressants
+00520 | Inform patients and caregivers that potentially fatal additive effects may occur if acetaminophen and
+00521 | codeine phosphate tablets used with benzodiazepines or other CNS depressants, including alcohol, and
+00522 | not to use these drugs concomitantly unless supervised by a healthcare provider [see WARNINGS,
+00523 | PRECAUTIONS; Drug Interactions].
+00524 | Serotonin Syndrome
+00525 | Inform patients that opioids could cause a rare but potentially life-threatening condition resulting from
+00526 | concomitant administration of serotonergic drugs. Warn patients of the symptoms and signs of serotonin
+00527 | syndrome and to seek medical attention right away if symptoms develop.
+00528 | Instruct patients to inform their healthcare provider if they are taking, or plan to take serotonergic
+00529 | medications [see PRECAUTIONS; Drug Interactions].
+00530 | MAOI Interaction
+00531 | Inform patients not to take acetaminophen and codeine phosphate tablets while using any drugs that
+00532 | inhibit monoamine oxidase. Patients should not start MAOIs while taking acetaminophen and codeine
+00533 | phosphate tablets [see WARNINGS, PRECAUTIONS; Drug Interactions].
+00534 | Adrenal Insufficiency
+00535 | Inform patients that opioids could cause adrenal insufficiency, a potentially life-threatening condition.
+00536 | Adrenal insufficiency may present with non-specific symptoms and signs such as nausea, vomiting,
+00537 | anorexia, fatigue, weakness, dizziness, and low blood pressure. Advise patients to seek medical
+00538 | attention if they experience a constellation of these symptoms [see WARNINGS].
+00539 | Important Administration Instructions
+00540 | Instruct patients how to properly take acetaminophen and codeine phosphate tablets [see DOSAGE
+00541 | AND ADMINISTRATION].
+00542 | Advise patients not to adjust the dose of acetaminophen and codeine phosphate tablets without
+00543 | consulting a physician or other healthcare professional.
+00544 | If patients have been receiving treatment with acetaminophen and codeine phosphate tablets for more
+00545 | than a few weeks and cessation of therapy is indicated, counsel them on the importance of safely
+00546 | tapering the dose and that abruptly discontinuing the medication could precipitate withdrawal
+00547 | symptoms. Provide a dose schedule to accomplish a gradual discontinuation of the medication [see
+00548 | WARNINGS].
+00549 | Maximum Daily Dose of Acetaminophen
+00550 | Inform patients not to take more than 4,000 milligrams of acetaminophen per day. Advise patients to call
+00551 | their healthcare provider if they have taken more than the recommended dose.
+00552 | Hypotension
+00553 | Inform patients that acetaminophen and codeine phosphate tablets may cause orthostatic hypotension and
+00554 | syncope. Instruct patients how to recognize symptoms of low blood pressure and how to reduce the risk
+00555 | of serious consequences should hypotension occur (e.g., sit or lie down, carefully rise from a sitting or
+00556 | lying position) [see WARNINGS; Severe Hypotension].
+00557 | Anaphylaxis
+00558 | Inform patients that anaphylaxis has been reported with ingredients contained in acetaminophen and
+00559 | codeine phosphate tablets. Advise patients how to recognize such a reaction, and if they develop signs
+00560 | of allergy such as a rash or difficulty breathing to stop taking acetaminophen and codeine phosphate
+00561 | tablets and seek medical attention [see CONTRAINDICATIONS, ADVERSE REACTIONS].
+00562 | 
+00563 | Pregnancy
+00564 | Neonatal Opioid Withdrawal Syndrome
+00565 | Inform female patients of reproductive potential that prolonged use of acetaminophen and codeine
+00566 | phosphate tablets during pregnancy can result in neonatal opioid withdrawal syndrome, which may be
+00567 | life-threatening if not recognized and treated [see WARNINGS, PRECAUTIONS; Pregnancy].
+00568 | Embryo-Fetal Toxicity
+00569 | Inform female patients of reproductive potential that acetaminophen and codeine phosphate tablets can
+00570 | cause fetal harm and to inform the prescriber of a known or suspected pregnancy [see
+00571 | PRECAUTIONS; Pregnancy].
+00572 | Lactation
+00573 | Advise women that breastfeeding is not recommended during treatment with acetaminophen and codeine
+00574 | phosphate tablets [see PRECAUTIONS; Nursing Mothers].
+00575 | Infertility
+00576 | Inform patients that chronic use of opioids may cause reduced fertility. It is not known whether these
+00577 | effects on fertility are reversible.
+00578 | Driving or Operating Heavy Machinery
+00579 | Inform patients that acetaminophen and codeine phosphate tablets may impair the mental and/or physical
+00580 | abilities required for the performance of potentially hazardous tasks such as driving a car or operating
+00581 | machinery and to avoid such tasks while taking this product, until they know how they will react to the
+00582 | medication.
+00583 | Constipation
+00584 | Advise patients of the potential for severe constipation, including management instructions and when to
+00585 | seek medical attention [see ADVERSE REACTIONS, CLINICAL PHARMACOLOGY].
+00586 | Disposal of Unused Acetaminophen and Codeine Phosphate Tablets
+00587 | Advise patients to properly dispose of acetaminophen and codeine phosphate tablets. Advise patients to
+00588 | throw the drug in the household trash following these steps:
+00589 | 1. Remove them from their original containers and mix them with an undesirable substance, such as
+00590 | used coffee grounds or kitty litter (this makes the drug less appealing to children and pets, and
+00591 | unrecognizable to people who may intentionally go through the trash seeking drugs).
+00592 | 2. Place the mixture in a sealable bag, empty can, or other container to prevent the drug from leaking or
+00593 | breaking out of a garbage bag, or dispose of unused tablets in accordance with local state
+00594 | guidelines and/or regulations.
+00595 | Drug Interactions
+00596 | CYP2D6 Inhibitors
+00597 | Codeine is metabolized by CYP2D6 to form morphine. The concomitant use of acetaminophen and
+00598 | codeine phosphate tablets and CYP2D6 inhibitors (e.g., paroxetine, fluoxetine, bupropion, quinidine)
+00599 | can increase the plasma concentration of codeine, but can decrease the plasma concentration of active
+00600 | metabolite morphine, which could result in reduced analgesic efficacy or symptoms of opioid
+00601 | withdrawal, particularly when an inhibitor is added after a stable dose of acetaminophen and codeine
+00602 | phosphate tablets are achieved [see CLINICAL PHARMACOLOGY].
+00603 | After stopping a CYP2D6 inhibitor, as the effects of the inhibitor decline, the codeine plasma
+00604 | concentration will decrease but the active metabolite morphine plasma concentration will increase,
+00605 | which could increase or prolong adverse reactions and may cause potentially fatal respiratory
+00606 | depression [see CLINICAL PHARMACOLOGY].
+00607 | 
+00608 | If concomitant use with a CYP2D6 inhibitor is necessary, or if a CYP2D6 inhibitor is discontinued after
+00609 | concomitant use, consider dosage adjustment of acetaminophen and codeine phosphate tablets and
+00610 | monitor patients closely at frequent intervals.
+00611 | If concomitant use with CYP2D6 inhibitors is necessary, follow the patient for reduced efficacy or
+00612 | signs and symptoms of opioid withdrawal and consider increasing the acetaminophen and codeine
+00613 | phosphate tablets as needed.
+00614 | After stopping use of a CYP2D6 inhibitor, consider reducing the acetaminophen and codeine phosphate
+00615 | tablets and monitor the patient for signs and symptoms of respiratory depression or sedation.
+00616 | CYP3A4 Inhibitors
+00617 | The concomitant use of acetaminophen and codeine phosphate tablets and CYP3A4 inhibitors, such as
+00618 | macrolide antibiotics (e.g., erythromycin), azole-antifungal agents (e.g. ketoconazole), and protease
+00619 | inhibitors (e.g., ritonavir), may result in an increase in codeine plasma concentrations, with subsequently
+00620 | greater metabolism by cytochrome CYP2D6, resulting in greater morphine levels, which could increase
+00621 | or prolong adverse reactions and may cause potentially fatal respiratory depression, particularly when
+00622 | an inhibitor is added after a stable dose of acetaminophen and codeine phosphate tablets is achieved
+00623 | [see WARNINGS].
+00624 | After stopping a CYP3A4 inhibitor, as the effects of the inhibitor decline, it may result in lower
+00625 | codeine levels, greater norcodeine levels, and less metabolism via CYP2D6 with resultant lower
+00626 | morphine levels [see CLINICAL PHARMACOLOGY], resulting in decreased opioid efficacy or a
+00627 | withdrawal syndrome in patients who had developed physical dependence to codeine.
+00628 | If concomitant use of CYP3A4 inhibitor is necessary, consider dosage reduction of acetaminophen and
+00629 | codeine tablets until stable drug effects are achieved. Monitor patients for respiratory depression and
+00630 | sedation at frequent intervals.
+00631 | If a CYP3A4 inhibitor is discontinued, consider increasing the acetaminophen and codeine phosphate
+00632 | tablets dosage until stable drug effects are achieved. Monitor for signs of opioid withdrawal.
+00633 | CYP3A4 Inducers
+00634 | The concomitant use of acetaminophen and codeine phosphate tablets and CYP3A4 inducers (e.g.,
+00635 | rifampin, carbamazepine, phenytoin) can result in lower codeine levels, greater norcodeine levels, and
+00636 | less metabolism via 2D6 with resultant lower morphine levels [see CLINICAL PHARMACOLOGY],
+00637 | resulting in decreased efficacy or onset of a withdrawal syndrome in patients who have developed
+00638 | physical dependence [see WARNINGS].
+00639 | After stopping a CYP3A4 inducer, as the effects of the inducer decline, codeine plasma concentrations
+00640 | may increase, with subsequently greater metabolism by cytochrome CYP2D6, resulting in greater
+00641 | morphine levels [see CLINICAL PHARMACOLOGY], which could increase or prolong both the
+00642 | therapeutic effects and adverse reactions, and may cause serious respiratory depression.
+00643 | If concomitant use of a CYP3A4 inducer is necessary, follow the patient for reduced efficacy and signs
+00644 | of opioid withdrawal and consider increasing the acetaminophen and codeine phosphate tablets dosage
+00645 | as needed.
+00646 | If a CYP3A4 inducer is discontinued, consider acetaminophen and codeine phosphate tablets dosage
+00647 | reduction and monitor for signs of respiratory depression and sedation at frequent intervals.
+00648 | Benzodiazepines and Other Central Nervous System (CNS) Depressants
+00649 | Due to additive pharmacologic effect, the concomitant use of benzodiazepines or other CNS
+00650 | depressants, including alcohol, other sedatives/hypnotics, anxiolytics, tranquilizers, muscle relaxants,
+00651 | general anesthetics, antipsychotics and other opioids, can increase the risk of hypotension, respiratory
+00652 | depression, profound sedation, coma, and death.
+00653 | Reserve concomitant prescribing of these drugs for use in patients for whom alternative treatment
+00654 | 
+00655 | options are inadequate. Limit dosages and durations to the minimum required. Follow patients closely
+00656 | for signs of respiratory depression and sedation [see WARNINGS].
+00657 | Serotonergic Drugs
+00658 | The concomitant use of opioids with other drugs that affect the serotonergic neurotransmitter system
+00659 | has resulted in serotonin syndrome. Examples of these drugs include, selective serotonin reuptake
+00660 | inhibitors (SSRIs), serotonin and norepinephrine reuptake inhibitors (SNRIs), tricyclic antidepressants
+00661 | (TCAs), triptans, 5-HT3 receptor antagonists, drugs that effect the serotonin neurotransmitter system
+00662 | (e.g., mirtazapine, trazodone, tramadol), and monoamine oxidase (MAO) inhibitors (used to treat
+00663 | psychiatric disorders and also others, such as linezolid and intravenous methylene blue) [see
+00664 | PRECAUTIONS; Information for Patients/Caregivers].
+00665 | If concomitant use is warranted, carefully observe the patient, particularly during treatment initiation and
+00666 | dose adjustment. Discontinue acetaminophen and codeine phosphate tablets immediately if serotonin
+00667 | syndrome is suspected.
+00668 | Monoamine Oxidase Inhibitors (MAOIs)
+00669 | The concomitant use of opioids and MAOIs, such as phenelzine, tranylcypromine, linezolid, may
+00670 | manifest as serotonin syndrome or opioid toxicity.
+00671 | Advise patients taking acetaminophen and codeine phosphate tablets not to use MAOIs or within 14 days
+00672 | of stopping such treatment. If urgent use of an opioid is necessary, use test doses and frequent titration
+00673 | of small doses of other opioids (such as oxycodone, hydrocodone, oxymorphone, hydrocodone, or
+00674 | buprenorphine) to treat pain while closely monitoring blood pressure and signs and symptoms of CNS
+00675 | and respiratory depression.
+00676 | Mixed Agonist/Antagonist and Partial Agonist Opioid Analgesics
+00677 | The concomitant use of opioids with other opioid analgesics, such as butorphanol, nalbuphine,
+00678 | pentazocine, may reduce the analgesic effect of acetaminophen and codeine phosphate tablets and/or
+00679 | precipitate withdrawal symptoms.
+00680 | Advise patient to avoid concomitant use of these drugs.
+00681 | Muscle Relaxants
+00682 | Acetaminophen and codeine may enhance the neuromuscular blocking action of skeletal muscle
+00683 | relaxants and produce an increased degree of respiratory depression.
+00684 | If concomitant use is warranted, monitor patients for signs of respiratory depression that may be greater
+00685 | than otherwise expected and decrease the dosage of acetaminophen and codeine phosphate tablets
+00686 | and/or the muscle relaxant as necessary.
+00687 | Diuretics
+00688 | Opioids can reduce the efficacy of diuretics by inducing the release of antidiuretic hormone.
+00689 | If concomitant use is warranted, monitor patients for signs of diminished diuresis and/or effects on
+00690 | blood pressure and increase the dosage of the diuretic as needed.
+00691 | Anticholinergic Drugs
+00692 | The concomitant use of anticholinergic drugs may increase risk of urinary retention and/or severe
+00693 | constipation, which may lead to paralytic ileus.
+00694 | If concomitant use is warranted, monitor patients for signs of urinary retention or reduced gastric
+00695 | motility when acetaminophen and codeine phosphate tablets are used concomitantly with anticholinergic
+00696 | drugs.
+00697 | Drug/Laboratory Test Interactions
+00698 | Codeine may increase serum amylase levels.
+00699 | 
+00700 | y
+00701 | y
+00702 | Acetaminophen may produce false-positive test results for urinary 5-hydroxyindoleacetic acid.
+00703 | Carcinogenesis, Mutagenesis, Impairment of Fertility
+00704 | Carcinogenesis
+00705 | Long-term studies to evaluate the carcinogenic potential of the combination of codeine and
+00706 | acetaminophen have not been conducted.
+00707 | Two-year carcinogenicity studies have been conducted in F344/N rats and B6C3F1 mice. There was no
+00708 | evidence of carcinogenicity in male and female rats, respectively, at dietary doses up to 70 and 80
+00709 | mg/kg/day of codeine sulfate (approximately 2 times the maximum recommended daily dose of 360
+00710 | mg/day for adults on a mg/m basis) for two years. Similarly there was no evidence of carcinogenicity
+00711 | activity in male and female mice at dietary doses up to 400 mg/kg/day of codeine sulfate (approximately
+00712 | 5 times the maximum recommended daily dose of 360 mg/day for adults on a mg/m basis) for two
+00713 | years.
+00714 | Long-term studies in mice and rats have been completed by the National Toxicology Program to
+00715 | evaluate the carcinogenic potential of acetaminophen. In 2-year feeding studies, F344/N rats and
+00716 | B6C3F1 mice were fed a diet containing acetaminophen up to 6000 ppm. Female rats demonstrated
+00717 | equivocal evidence of carcinogenic activity based on increased incidences of mononuclear cell
+00718 | leukemia at 0.8 times the maximum human daily dose (MHDD) of 4 grams/day, based on a body surface
+00719 | area comparison. In contrast, there was no evidence of carcinogenic activity in male rats that received
+00720 | up to 0.7 times or mice at up to 1.2 to 1.4 times the MHDD, based on a body surface area comparison.
+00721 | Mutagenesis
+00722 | Codeine sulfate was not mutagenic in the in vitro bacterial reverse mutation assay or clastogenic in the in
+00723 | vitro Chinese hamster ovary cell chromosome aberration assay.
+00724 | In the published literature, acetaminophen has been reported to be clastogenic when administered at
+00725 | 1500 mg/kg/day to the rat model (3.6-times the MHDD, based on a body surface area comparison). In
+00726 | contrast, no clastogenicity was noted at a dose of 750 mg/kg/day (1.8-times the MHDD, based on a body
+00727 | surface area comparison), suggesting a threshold effect.
+00728 | Impairment of Fertility
+00729 | No nonclinical fertility studies have been conducted with codeine or the combination of codeine and
+00730 | acetaminophen.
+00731 | In studies conducted by the National Toxicology Program, fertility assessments with acetaminophen
+00732 | have been completed in Swiss CD-1 mice via a continuous breeding study. There were no effects on
+00733 | fertility parameters in mice consuming up to 1.7 times the MHDD of acetaminophen, based on a body
+00734 | surface area comparison.
+00735 | Although there was no effect on sperm motility or sperm density in the epididymis, there was a
+00736 | significant increase in the percentage of abnormal sperm in mice consuming 1.78 times the MHDD
+00737 | (based on a body surface comparison) and there was a reduction in the number of mating pairs producing
+00738 | a fifth litter at this dose, suggesting the potential for cumulative toxicity with chronic administration of
+00739 | acetaminophen near the upper limit of daily dosing.
+00740 | Published studies in rodents report that oral acetaminophen treatment of male animals at doses that are
+00741 | 1.2 times the MHDD and greater (based on a body surface comparison) result in decreased testicular
+00742 | weights, reduced spermatogenesis, reduced fertility, and reduced implantation sites in females given the
+00743 | same doses. These effects appear to increase with the duration of treatment. The clinical significance
+00744 | of these findings is not known.
+00745 | Infertility
+00746 | Chronic use of opioids may cause reduced fertility in females and males of reproductive potential. It is
+00747 | 2
+00748 | 2
+00749 | 
+00750 | not known whether these effects on fertility are reversible [see ADVERSE REACTIONS].
+00751 | Pregnancy
+00752 | Teratogenic Effects: Pregnancy Category C
+00753 | Codeine
+00754 | A study in rats and rabbits reported no teratogenic effect of codeine administered during the period of
+00755 | organogenesis in doses ranging from 5 to 120 mg/kg. In the rat, doses at the 120 mg/kg level, in the
+00756 | toxic range for the adult animal, were associated with an increase in embryo resorption at the time of
+00757 | implantation. In another study a single 100 mg/kg subcutaneous dose of codeine administered to pregnant
+00758 | mice reportedly resulted in delayed ossification in the offspring.
+00759 | There are no adequate and well-controlled studies in pregnant women. Acetaminophen and codeine
+00760 | phosphate tablets should be used during pregnancy only if the potential benefit justifies the potential
+00761 | risk to the fetus.
+00762 | Nonteratogenic Effects
+00763 | Fetal/Neonatal Adverse Reactions
+00764 | Prolonged use of opioid analgesics during pregnancy for medical or nonmedical purposes can result in
+00765 | physical dependence in the neonate and neonatal opioid withdrawal syndrome shortly after birth.
+00766 | Neonatal opioid withdrawal syndrome presents as irritability, hyperactivity and abnormal sleep pattern,
+00767 | high pitched cry, tremor, vomiting, diarrhea and failure to gain weight. The onset, duration, and severity
+00768 | of neonatal opioid withdrawal syndrome vary based on the specific opioid used, duration of use, timing
+00769 | and amount of last maternal use, and rate of elimination of the drug by the newborn. Observe newborns
+00770 | for symptoms of neonatal opioid withdrawal syndrome and manage accordingly [see WARNINGS].
+00771 | Labor or Delivery
+00772 | Opioids cross the placenta and may produce respiratory depression and psycho-physiologic effects in
+00773 | neonates. An opioid antagonist, such as naloxone, must be available for reversal of opioid-induced
+00774 | respiratory depression in the neonate. Acetaminophen and codeine phosphate tablets are not
+00775 | recommended for use in pregnant women during or immediately prior to labor, when other analgesic
+00776 | techniques are more appropriate. Opioid analgesics, including acetaminophen and codeine phosphate
+00777 | tablets, and can prolong labor through actions which temporarily reduce the strength, duration, and
+00778 | frequency of uterine contractions. However, this effect is not consistent and may be offset by an
+00779 | increased rate of cervical dilation, which tends to shorten labor. Monitor neonates exposed to opioid
+00780 | analgesics during labor for signs of excess sedation and respiratory depression.
+00781 | Narcotic analgesics should be avoided during labor if delivery of a premature infant is anticipated. If
+00782 | the mother has received narcotic analgesics during labor, newborn infants should be observed closely
+00783 | for signs of respiratory depression. Resuscitation may be required [see OVERDOSAGE]. The effect
+00784 | of codeine, if any, on the later growth, development, and functional maturation of the child is unknown.
+00785 | Nursing Mothers
+00786 | Codeine and its active metabolite, morphine, are present in human milk. There are published studies and
+00787 | cases that have reported excessive sedation, respiratory depression, and death in infants exposed to
+00788 | codeine via breast milk. Women who are ultra-rapid metabolizers of codeine achieve higher than
+00789 | expected serum levels of morphine, potentially leading to higher levels of morphine in breast milk that
+00790 | can be dangerous in their breastfed infants. In women with normal codeine metabolism (normal CYP2D6
+00791 | activity), the amount of codeine secreted into human milk is low and dose-dependent.
+00792 | There is no information on the effects of codeine on milk production. Because of the potential for
+00793 | serious adverse reactions, including excess sedation, respiratory depression, and death in a breastfed
+00794 | infant, advise patients that breastfeeding is not recommended during treatment with acetaminophen and
+00795 | 
+00796 | codeine phosphate tablets [see WARNINGS].
+00797 | Acetaminophen is excreted in breast milk in small amounts, but the significance of its effect on nursing
+00798 | infants is not known. Because of the potential for serious adverse reactions in nursing infants from
+00799 | acetaminophen, a decision should be made whether to discontinue nursing or discontinue the drug,
+00800 | taking into account the importance of the drug to the mother.
+00801 | Clinical Considerations
+00802 | If infants are exposed to acetaminophen and codeine phosphate tablets through breast milk, they should
+00803 | be monitored for excess sedation and respiratory depression. Withdrawal symptoms can occur in
+00804 | breastfed infants when maternal administration of an opioid analgesic is stopped, or when breastfeeding
+00805 | is stopped.
+00806 | Pediatric Use
+00807 | The safety and effectiveness of acetaminophen and codeine phosphate tablets in pediatric patients below
+00808 | the age of 18 have not been established.
+00809 | Life-threatening respiratory depression and death have occurred in children who received codeine [see
+00810 | WARNINGS]. In most of the reported cases, these events followed tonsillectomy and/or adenoidectomy,
+00811 | and many of the children had evidence of being ultra-rapid metabolizers of codeine (i.e., multiple
+00812 | copies of the gene for cytochrome P450 isoenzyme 2D6 or high morphine concentrations). Children
+00813 | with sleep apnea may be particularly sensitive to the respiratory depressant effects of codeine. Because
+00814 | of the risk of life-threatening respiratory depression and death:
+00815 | Acetaminophen and codeine phosphate tablets are contraindicated for all children younger than 12
+00816 | years of age [see CONTRAINDICATIONS].
+00817 | Acetaminophen and codeine phosphate tablets are contraindicated for post-operative management in
+00818 | pediatric patients younger than 18 years of age following tonsillectomy and/or adenoidectomy [see
+00819 | CONTRAINDICATIONS].
+00820 | Avoid the use of acetaminophen and codeine phosphate tablets in adolescents 12 to 18 years of age
+00821 | who have other risk factors that may increase their sensitivity to the respiratory depressant effects
+00822 | of codeine unless the benefits outweigh the risks. Risk factors include conditions associated with
+00823 | hypoventilation, such as postoperative status, obstructive sleep apnea, obesity, severe pulmonary
+00824 | disease, neuromuscular disease, and concomitant use of other medications that cause respiratory
+00825 | depression [see WARNINGS].
+00826 | Geriatric Use
+00827 | Elderly patients (aged 65 years or older) may have increased sensitivity to acetaminophen and codeine
+00828 | phosphate tablets. In general, use caution when selecting a dosage for an elderly patient, usually starting
+00829 | at the low end of the dosing range, reflecting the greater frequency of decreased hepatic, renal, or
+00830 | cardiac function and of concomitant disease or other drug therapy.
+00831 | Respiratory depression is the chief risk for elderly patients treated with opioids, and has occurred after
+00832 | large initial doses were administered to patients who were not opioid-tolerant or when opioids were
+00833 | coadministered with other agents that depress respiration. Titrate the dosage of acetaminophen and
+00834 | codeine phosphate tablets slowly in geriatric patients and monitor closely for signs of central nervous
+00835 | system depression [see WARNINGS].
+00836 | These drugs are known to be substantially excreted by the kidney, and the risk of adverse reactions to
+00837 | this drug may be greater in patients with impaired renal function. Because elderly patients are more
+00838 | likely to have decreased renal function, care should be taken in dose selection, and it may be useful to
+00839 | monitor renal function.
+00840 | ADVERSE REACTIONS
+00841 | The following serious adverse reactions are described, or described in greater detail, in other
+00842 | 
+00843 | sections:
+00844 | Addiction, Abuse, and Misuse [see WARNINGS]
+00845 | Life-Threatening Respiratory Depression [see WARNINGS]
+00846 | Ultra-Rapid Metabolism of Codeine and Other Risk Factors for Life-Threatening Respiratory
+00847 | Depression in Children [see WARNINGS]
+00848 | Neonatal Opioid Withdrawal Syndrome [see WARNINGS]
+00849 | Interactions with CNS Depressants [see WARNINGS]
+00850 | Severe Hypotension [see WARNINGS]
+00851 | Gastrointestinal Adverse Reactions [see WARNINGS]
+00852 | Seizures [see WARNINGS]
+00853 | Withdrawal [see WARNINGS]
+00854 | The following adverse reactions associated with the use of codeine were identified in postmarketing
+00855 | reports. Because some of these reactions were reported voluntarily from a population of uncertain size,
+00856 | it is not always possible to reliably estimate their frequency or establish a causal relationship to drug
+00857 | exposure.
+00858 | Serious adverse reactions associated with codeine are respiratory depression and, to a lesser degree,
+00859 | circulatory depression, respiratory arrest, shock, and cardiac arrest.
+00860 | The most frequently observed adverse reactions with codeine administration include drowsiness,
+00861 | lightheadedness, dizziness, sedation, shortness of breath, nausea, vomiting, sweating, and constipation.
+00862 | Other adverse reactions include allergic reactions, euphoria, dysphoria, abdominal pain, pruritus, rash,
+00863 | thrombocytopenia, and agranulocytosis.
+00864 | Other less frequently observed adverse reactions expected from opioid analgesics, including
+00865 | Acetaminophen and Codeine phosphate Tablets:
+00866 | Cardiovascular system: faintness, flushing, hypotension, palpitations, syncope.
+00867 | Digestive System: abdominal cramps, anorexia, diarrhea, dry mouth, gastrointestinal distress, pancreatitis.
+00868 | Nervous system: anxiety, drowsiness, fatigue, headache, insomnia, nervousness, shakiness, somnolence,
+00869 | vertigo, visual disturbances, weakness.
+00870 | Skin and Appendages: rash, sweating, urticarial.
+00871 | Serotonin syndrome: Cases of serotonin syndrome, a potentially life-threatening condition, have
+00872 | been reported during concomitant use of opioids with serotonergic drugs.
+00873 | Adrenal insufficiency: Cases of adrenal insufficiency have been reported with opioid use, more
+00874 | often following greater than one month of use.
+00875 | Anaphylaxis: Anaphylaxis has been reported with ingredients contained in acetaminophen and
+00876 | codeine phosphate tablets.
+00877 | Androgen deficiency: Cases of androgen deficiency have occurred with chronic use of opioids
+00878 | [see CLINICAL PHARMACOLOGY].
+00879 | DRUG ABUSE AND DEPENDENCE
+00880 | Controlled Substance
+00881 | Acetaminophen and codeine phosphate tablets contain codeine. Codeine in combination with
+00882 | acetaminophen, a Schedule III controlled substance.
+00883 | Abuse
+00884 | Acetaminophen and codeine phosphate tablets contain codeine, a substance with a high potential for
+00885 | abuse similar to other opioids, including fentanyl, hydrocodone, hydromorphone, methadone, morphine,
+00886 | oxycodone, oxymorphone, and tapentadol. Acetaminophen and codeine phosphate tablets can be abused
+00887 | 
+00888 | y
+00889 | ,
+00890 | y
+00891 | p
+00892 | ,
+00893 | p
+00894 | p
+00895 | p
+00896 | p
+00897 | and is subject to misuse, addiction, and criminal diversion [see WARNINGS].
+00898 | All patients treated with opioids require careful monitoring for signs of abuse and addiction, because
+00899 | use of opioid analgesic products carries the risk of addiction even under appropriate medical use.
+00900 | Prescription drug abuse is the intentional non-therapeutic use of a prescription drug, even once, for its
+00901 | rewarding psychological or physiological effects.
+00902 | Drug addiction is a cluster of behavioral, cognitive, and physiological phenomena that develop after
+00903 | repeated substance use and includes: a strong desire to take the drug, difficulties in controlling its use,
+00904 | persisting in its use despite harmful, or potentially harmful, consequences, a higher priority given to
+00905 | drug use than to other activities and obligations, increased tolerance, and sometimes a physical
+00906 | withdrawal.
+00907 | “Drug-seeking” behavior is very common in persons with substance use disorders. Drug-seeking
+00908 | tactics include emergency calls or visits near the end of office hours, refusal to undergo appropriate
+00909 | examination, testing, or referral, repeated “loss” of prescriptions, tampering with prescriptions and
+00910 | reluctance to provide prior medical records or contact information for other treating health care
+00911 | providers. “Doctor shopping” (visiting multiple prescribers to obtain additional prescriptions) is
+00912 | common among drug abusers and people suffering from untreated addiction. Preoccupation with
+00913 | achieving adequate pain relief can be appropriate behavior in a patient with poor pain control.
+00914 | Abuse and addiction are separate and distinct from physical dependence and tolerance. Healthcare
+00915 | providers should be aware that addiction may not be accompanied by concurrent tolerance and symptoms
+00916 | of physical dependence in all addicts. In addition, abuse of opioids can occur in the absence of true
+00917 | addiction.
+00918 | Acetaminophen and codeine phosphate tablets, like other opioids, can be diverted for non-medical use
+00919 | into illicit channels of distribution. Careful record-keeping of prescribing information, including
+00920 | quantity, frequency, and renewal requests, as required by state and federal law, is strongly advised.
+00921 | Proper assessment of the patient, proper prescribing practices, periodic re-evaluation of therapy, and
+00922 | proper dispensing and storage are appropriate measures that help to limit abuse of opioid drugs.
+00923 | Risks Specific to Abuse of Acetaminophen and Codeine Phosphate Tablets
+00924 | Acetaminophen and codeine phosphate tablets are for oral use only. Abuse of acetaminophen and
+00925 | codeine phosphate tablets poses a risk of overdose and death. The risk is increased with concurrent use
+00926 | of acetaminophen and codeine phosphate tablets with alcohol and other central nervous system
+00927 | depressants.
+00928 | Parenteral drug abuse is commonly associated with transmission of infectious diseases such as hepatitis
+00929 | and HIV.
+00930 | Dependence
+00931 | Both tolerance and physical dependence can develop during chronic opioid therapy. Tolerance is the
+00932 | need for increasing doses of opioids to maintain a defined effect such as analgesia (in the absence of
+00933 | disease progression or other external factors). Tolerance may occur to both the desired and undesired
+00934 | effects of drugs, and may develop at different rates for different effects.
+00935 | Physical dependence results in withdrawal symptoms after abrupt discontinuation or a significant dosage
+00936 | reduction of a drug. Withdrawal also may be precipitated through the administration of drugs with
+00937 | opioid antagonist activity (e.g., naloxone, nalmefene), mixed agonist/antagonist analgesics (e.g.,
+00938 | pentazocine, butorphanol, nalbuphine), or partial agonists (e.g., buprenorphine). Physical dependence
+00939 | may not occur to a clinically significant degree until after several days to weeks of continued opioid
+00940 | usage.
+00941 | Acetaminophen and codeine phosphate tablets should not be abruptly discontinued [see DOSAGE AND
+00942 | ADMINISTRATION]. If acetaminophen and codeine phosphate tablets are abruptly discontinued in a
+00943 | 
+00944 | physically dependent patient, a withdrawal syndrome may occur. Some or all of the following can
+00945 | characterize this syndrome: restlessness, lacrimation, rhinorrhea, yawning, perspiration, chills, myalgia,
+00946 | and mydriasis. Other signs and symptoms also may develop, including: irritability, anxiety, backache,
+00947 | joint pain, weakness, abdominal cramps, insomnia, nausea, anorexia, vomiting, diarrhea, or increased
+00948 | blood pressure, respiratory rate, or heart rate.
+00949 | Infants born to mothers physically dependent on opioids will also be physically dependent and may
+00950 | exhibit respiratory difficulties and withdrawal signs [see PRECAUTIONS; Pregnancy].
+00951 | OVERDOSAGE
+00952 | Following an acute overdosage, toxicity may result from codeine or acetaminophen.
+00953 | Clinical Presentation
+00954 | Codeine
+00955 | Acute overdosage with codeine can be manifested by respiratory depression, somnolence progressing
+00956 | to stupor or coma, skeletal muscle flaccidity, cold and clammy skin, constricted pupils, and, in some
+00957 | cases, pulmonary edema, bradycardia, hypotension, partial or complete airway obstruction, atypical
+00958 | snoring, and death. Marked mydriasis rather than miosis may be seen with hypoxia in overdose
+00959 | situations.
+00960 | Acetaminophen
+00961 | Dose-dependent, potentially fatal hepatic necrosis is the most serious adverse effect of acetaminophen
+00962 | overdose. Renal tubular necrosis, hypoglycemic coma, and coagulation defects may also occur.
+00963 | Early symptoms following a potentially hepatotoxic overdose may include; anorexia, nausea, vomiting,
+00964 | diaphoresis, pallor and general malaise. Clinical and laboratory evidence of hepatic toxicity may not be
+00965 | apparent until 48 to 72 hours post-ingestion.
+00966 | Treatment of Overdose
+00967 | Codeine
+00968 | In case of overdose, priorities are the reestablishment of a patent and protected airway and institution of
+00969 | assisted or controlled ventilation, if needed. Employ other supportive measures (including oxygen and
+00970 | vasopressors) in the management of circulatory shock and pulmonary edema as indicated. Cardiac arrest
+00971 | or serious arrhythmias will require advanced life-support measures.
+00972 | The opioid antagonists, naloxone or nalmefene, are specific antidotes to respiratory depression
+00973 | resulting from opioid overdose. For clinically significant respiratory or circulatory depression
+00974 | secondary to acetaminophen and codeine overdose, administer an opioid antagonist. Opioid antagonists
+00975 | should not be administered in the absence of clinically significant respiratory or circulatory depression
+00976 | secondary to codeine overdose.
+00977 | Because the duration of opioid reversal is expected to be less than the duration of action of codeine in
+00978 | acetaminophen and codeine phosphate tablets, carefully monitor the patient until spontaneous respiration
+00979 | is reliably reestablished. If the response to an opioid antagonist is suboptimal or only brief in nature,
+00980 | administer additional antagonist as directed by the product’s prescribing information.
+00981 | In an individual physically dependent on opioids, administration of the recommended usual dosage of the
+00982 | antagonist will precipitate an acute withdrawal syndrome. The severity of the withdrawal symptoms
+00983 | experienced will depend on the degree of physical dependence and the dose of the antagonist
+00984 | administered. If a decision is made to treat serious respiratory depression in the physically dependent
+00985 | patient, administration of the antagonist should be begun with care and by titration with smaller than usual
+00986 | doses of the antagonist.
+00987 | Acetaminophen
+00988 | 
+00989 | Gastric decontamination with activated charcoal should be administered just prior to N-acetylcysteine
+00990 | (NAC) to decrease systemic absorption if acetaminophen ingestion is known or suspected to have
+00991 | occurred within a few hours of presentation.
+00992 | Serum acetaminophen levels should be obtained immediately if the patient presents 4 hours or more
+00993 | after ingestion to assess potential risk of hepatotoxicity; acetaminophen levels drawn less than 4 hours
+00994 | post-ingestion may be misleading. To obtain the best possible outcome, (NAC) should be administered
+00995 | as soon as possible where impending or evolving liver injury is suspected. Intravenous NAC may be
+00996 | administered when circumstances preclude oral administration.
+00997 | Vigorous supportive therapy is required in severe intoxication. Procedures to limit the continuing
+00998 | absorption of the drug must be readily performed since the hepatic injury is dose-dependent and occurs
+00999 | early in the course of intoxication.
+01000 | DOSAGE AND ADMINISTRATION
+01001 | Important Dosage and Administration Instructions
+01002 | Use the lowest effective dosage for the shortest duration consistent with individual patient treatment
+01003 | goals [see WARNINGS].
+01004 | Initiate the dosing regimen for each patient individually, taking into account the patient's severity of pain,
+01005 | patient response, prior analgesic treatment experience, and risk factors for addiction, abuse, and misuse
+01006 | [see WARNINGS].
+01007 | Monitor patients closely for respiratory depression, especially within the first 24 to 72 hours of
+01008 | initiating therapy and following dosage increases with acetaminophen and codeine phosphate tablets and
+01009 | adjust the dosage accordingly [see WARNINGS].
+01010 | Initial Dosage
+01011 | Initiating Treatment with Acetaminophen and Codeine Phosphate Tablets
+01012 | Dosage should be adjusted according to severity of pain and response of the patient. However, it
+01013 | should be kept in mind that tolerance to codeine can develop with continued use and that the incidence of
+01014 | untoward effects is dose related. Adult doses of codeine higher than 60 mg are associated with an
+01015 | increased incidence of adverse reactions and are not associated with greater efficacy.
+01016 | The usual adult dosage is:
+01017 | Acetaminophen and Codeine Phosphate Tablets (codeine 30 mg and acetaminophen 300 mg): Take 1
+01018 | to 2 tablets every 4 hours as needed for pain.
+01019 | Acetaminophen and Codeine Phosphate Tablets (codeine 60 mg and acetaminophen 300 mg): Take
+01020 | one tablet every 4 hours as needed for pain.
+01021 | Single Doses 
+01022 | (Range)
+01023 | Maximum 
+01024 | 24-Hour Dose
+01025 | Codeine Phosphate
+01026 | 30 mg to 60 mg
+01027 | 360 mg
+01028 | Acetaminophen
+01029 | 300 mg to 1,000 mg
+01030 | 4,000 mg
+01031 | The prescriber must determine the number of tablets per dose, and the maximum number of tablets per
+01032 | 24 hours, based upon the above dosage guidance. This information should be conveyed in the
+01033 | prescription.
+01034 | Conversion from Other Opioids to Acetaminophen and Codeine Phosphate Tablets
+01035 | There is inter-patient variability in the potency of opioid drugs and opioid formulations. Therefore, a
+01036 | conservative approach is advised when determining the total daily dosage of acetaminophen and codeine
+01037 | 
+01038 | phosphate tablets. It is safer to underestimate a patient’s 24-hour acetaminophen and codeine phosphate
+01039 | tablets dosage than to overestimate the 24-hour acetaminophen and codeine phosphate tablets dosage
+01040 | and manage an adverse reaction due to overdose.
+01041 | Titration and Maintenance of Therapy
+01042 | Individually titrate acetaminophen and codeine phosphate tablets to a dose that provides adequate
+01043 | analgesia and minimizes adverse reactions. Continually reevaluate patients receiving acetaminophen and
+01044 | codeine phosphate tablets to assess the maintenance of pain control and the relative incidence of
+01045 | adverse reactions, as well as monitoring for the development of addiction, abuse, or misuse [see
+01046 | WARNINGS]. Frequent communication is important among the prescriber, other members of the
+01047 | healthcare team, the patient, and the caregiver/family during periods of changing analgesic
+01048 | requirements, including initial titration.
+01049 | If the level of pain increases after dosage stabilization, attempt to identify the source of increased pain
+01050 | before increasing the acetaminophen and codeine phosphate tablets dosage. If unacceptable opioid-
+01051 | related adverse reactions are observed, consider reducing the dosage. Adjust the dosage to obtain an
+01052 | appropriate balance between management of pain and opioid-related adverse reactions.
+01053 | Discontinuation of Acetaminophen and Codeine Phosphate Tablets
+01054 | When a patient who has been taking acetaminophen and codeine phosphate tablets regularly and may be
+01055 | physically dependent no longer requires therapy with acetaminophen and codeine phosphate tablets,
+01056 | taper the dose gradually, by 25% to 50% every 2 to 4 days, while monitoring carefully for signs and
+01057 | symptoms of withdrawal. If the patient develops these signs or symptoms, raise the dose to the previous
+01058 | level and taper more slowly, either by increasing the interval between decreases, decreasing the amount
+01059 | of change in dose, or both. Do not abruptly discontinue acetaminophen and codeine phosphate tablets in
+01060 | a physically-dependent patient [see WARNINGS, DRUG ABUSE AND DEPENDENCE].
+01061 | HOW SUPPLIED
+01062 | Acetaminophen and codeine phosphate tablets USP (white, round, unscored):
+01063 | List No. 0150, acetaminophen 300 mg and codeine phosphate 30 mg, debossed “3” on one side and
+01064 | “TV”-“150” on the other side of tablet.
+01065 | NDC 67046-903-07 blisterpacks of 7
+01066 | NDC 67046-903-14 blisterpacks of 14
+01067 | NDC 67046-903-15 blisterpacks of 15
+01068 | NDC 67046-903-20 blisterpacks of 20
+01069 | NDC 67046-903-21 blisterpacks of 21
+01070 | NDC 67046-903-28 blisterpacks of 28
+01071 | NDC 67046-903-30 blisterpacks of 30
+01072 | NDC 67046-903-60 blisterpacks of 60
+01073 | Store at 20° to 25°C (68° to 77°F) [See USP Controlled Room Temperature].
+01074 | Dispense in a tight, light-resistant container as defined in the USP, with a child-resistant closure (as
+01075 | required).
+01076 | KEEP THIS AND ALL MEDICATIONS OUT OF THE REACH OF CHILDREN.
+01077 | Distributed By:
+01078 | Teva Pharmaceuticals USA, Inc.
+01079 | North Wales, PA 19454
+01080 | 
+01081 | Rev. AN 7/2017
+01082 | Medication Guide
+01083 | Acetaminophen and Codeine Phosphate (a seet' a min' oh fen and koe' deen fos' fate) Tablets
+01084 | USP, CIII
+01085 | Acetaminophen and Codeine Phosphate Tablets are :
+01086 | A strong prescription pain medicine that contains an opioid (narcotic) that is used to manage mild to
+01087 | moderate pain, when other pain treatments such as non-opioid pain medicines do not treat your pain
+01088 | well enough or you cannot tolerate them.
+01089 | An opioid pain medicine that can put you at risk for overdose and death. Even if you take your dose
+01090 | correctly as prescribed, you are at risk for opioid addiction, abuse, and misuse that can lead to
+01091 | death.
+01092 | Important information about Acetaminophen and Codeine Phosphate Tablets:
+01093 | Get emergency help right away if you take too many acetaminophen and codeine phosphate
+01094 | tablets (overdose). When you first start taking acetaminophen and codeine tablets, when your dose
+01095 | is changed, or if you take too much (overdose), serious or life-threatening breathing problems that
+01096 | can lead to death may occur.
+01097 | Taking acetaminophen and codeine tablets with other opioid medicines, benzodiazepines, alcohol,
+01098 | or other central nervous system depressants (including street drugs) can cause severe drowsiness,
+01099 | decreased awareness, breathing problems, coma, and death.
+01100 | Never give anyone else your acetaminophen and codeine phosphate tablets. They could die from
+01101 | taking them. Store acetaminophen and codeine tablets away from children and in a safe place to
+01102 | prevent stealing or abuse. Selling or giving away acetaminophen and codeine phosphate tablets
+01103 | is against the law.
+01104 | Important Information Guiding Use in Pediatric Patients:
+01105 | Do not give acetaminophen and codeine phosphate tablets to a child younger than 12 years of age.
+01106 | Do not give acetaminophen and codeine phosphate tablets to a child younger than 18 years of age
+01107 | after surgery to remove the tonsils and/or adenoids.
+01108 | Avoid giving acetaminophen and codeine phosphate tablets to children between 12 to 18 years of
+01109 | age who have risk factors for breathing problems such as obstructive sleep apnea, obesity, or
+01110 | underlying lung problems.
+01111 | Do not take Acetaminophen and Codeine Phosphate Tablets if you have:
+01112 | severe asthma, trouble breathing, or other lung problems.
+01113 | a bowel blockage or narrowing of the stomach or intestines.
+01114 | previously had an allergic reaction to codeine or acetaminophen.
+01115 | Before taking Acetaminophen and Codeine Phosphate Tablets, tell your healthcare provider if
+01116 | you have a history of:
+01117 | head injury, seizures
+01118 | liver, kidney, thyroid problems
+01119 | problems urinating
+01120 | pancreas or gallbladder problems
+01121 | abuse of street or prescription drugs, alcohol addiction, or mental health problems.
+01122 | Have been told by your healthcare provider that you are a “rapid metabolizer” of certain medicines.
+01123 | Tell your healthcare provider if you are:
+01124 | pregnant or planning to become pregnant. Prolonged use of acetaminophen and codeine
+01125 | phosphate tablets during pregnancy can cause withdrawal symptoms in your newborn baby that could
+01126 | 
+01127 | be life-threatening if not recognized and treated.
+01128 | breastfeeding. Not recommended; may harm your baby.
+01129 | taking prescription or over-the-counter medicines, vitamins, or herbal supplements. Acetaminophen
+01130 | and codeine phosphate tablets with certain other medicines can cause serious side effects that could
+01131 | lead to death.
+01132 | When taking Acetaminophen and Codeine Phosphate Tablets:
+01133 | Do not change your dose. Take acetaminophen and codeine phosphate tablets exactly as prescribed
+01134 | by your healthcare provider. Use the lowest dose possible for the shortest time needed.
+01135 | Take your prescribed dose every 4 hours as needed. Do not take more than your prescribed dose. If
+01136 | you miss a dose, take your next dose when needed.
+01137 | Call your healthcare provider if the dose you are taking does not control your pain.
+01138 | If you have been taking acetaminophen and codeine phosphate tablets regularly, do not stop
+01139 | taking acetaminophen and codeine phosphate tablets without talking to your healthcare provider.
+01140 | After you stop taking acetaminophen and codeine phosphate tablets dispose of any unused tablets
+01141 | in accordance with local state guidelines and/or regulations.
+01142 | While taking Acetaminophen and Codeine Phosphate Tablets DO NOT:
+01143 | Drive or operate heavy machinery, until you know how acetaminophen and codeine tablets affect
+01144 | you. Acetaminophen and codeine phosphate tablets can make you sleepy, dizzy, or lightheaded.
+01145 | Drink alcohol or use prescription or over-the-counter medicines that contain alcohol. Using
+01146 | products containing alcohol during treatment with acetaminophen and codeine phosphate tablets may
+01147 | cause you to overdose and die.
+01148 | The possible side effects of Acetaminophen and Codeine Tablets:
+01149 | constipation, nausea, sleepiness, vomiting, tiredness, headache, dizziness, abdominal pain. Call your
+01150 | healthcare provider if you have any of these symptoms and they are severe.
+01151 | Get emergency medical help if you have:
+01152 | trouble breathing, shortness of breath, fast heartbeat, chest pain, swelling of your face, tongue, or
+01153 | throat, extreme drowsiness, light-headedness when changing positions, feeling faint, agitation, high
+01154 | body temperature, trouble walking, stiff muscles, or mental changes such as confusion.
+01155 | These are not all the possible side effects of acetaminophen and codeine phosphate tablets. Call your
+01156 | doctor for medical advice about side effects. You may report side effects to FDA at 1-800-FDA-1088.
+01157 | For more information go to dailymed.nlm.nih.gov.
+01158 | This Medication Guide has been approved by the U.S. Food and Drug Administration.
+01159 | Distributed By:
+01160 | Teva Pharmaceuticals USA, Inc.
+01161 | North Wales, PA 19454
+01162 | Rev. E 7/2017
+01163 | Repackaged by: 
+01164 | Contract Pharmacy Services-PA 
+01165 | 125 Titus Ave Suite 200 
+01166 | Warrington, PA 18976 USA
+01167 | Rev: Original—2017.09.28—NJW
+01168 | 
+01169 | Package/Label Display Panel
+01170 | Acetaminophen and Codeine Phosphate Tablets USP 300 mg/30 mg CIII 30s Label Text
+01171 | NDC 67046-903-30
+01172 | Acetaminophen and 
+01173 | Codeine Phosphate 
+01174 | Tablets, USP 
+01175 | 300 mg/30 mg
+01176 | CIII
+01177 | PHARMACIST: Dispense the accompanying 
+01178 | Medication Guide to each patient.
+01179 | Rx only
+01180 | 30 TABLETS
+01181 | TEVA
+01182 | ACETAMINOPHEN AND CODEINE PHOSPHATE 
+01183 | acetaminophen and codeine phosphate tablet
+01184 | Product Information
+01185 | Product T ype
+01186 | HUMAN
+01187 | PRESCRIPTION DRUG
+01188 | Item Code (Source)
+01189 | NDC:67046-
+01190 | 903(NDC:0093-0150)
+01191 | Route of Administration
+01192 | ORAL
+01193 | DEA Schedule
+01194 | CIII 
+01195 | Active Ingredient/Active Moiety
+01196 | 
+01197 | Ingredient Name
+01198 | Basis of Strength
+01199 | Strength
+01200 | ACETAMINOPHEN (UNII: 362O9ITL9D) (ACETAMINOPHEN - UNII:362O9ITL9D)
+01201 | ACETAMINOPHEN
+01202 | 300 mg
+01203 | CODEINE PHOSPHATE (UNII: GSL05Y1MN6) (CODEINE ANHYDROUS - UNII:UX6OWY2V7J)
+01204 | CODEINE PHOSPHATE 30 mg
+01205 | Inactive Ingredients
+01206 | Ingredient Name
+01207 | Strength
+01208 | STARCH, CORN (UNII: O8232NY3SJ)
+01209 |  
+01210 | SILICON DIOXIDE (UNII: ETJ7Z6XBU4)
+01211 |  
+01212 | CROSCARMELLOSE SODIUM (UNII: M28OL1HH48)
+01213 |  
+01214 | MAGNESIUM STEARATE (UNII: 70097M6I30)
+01215 |  
+01216 | MICROCRYSTALLINE CELLULOSE (UNII: OP1R32D61U)
+01217 |  
+01218 | Product Characteristics
+01219 | Color
+01220 | white
+01221 | Score
+01222 | no score
+01223 | Shape
+01224 | ROUND
+01225 | Size
+01226 | 10mm
+01227 | Flavor
+01228 | Imprint Code
+01229 | 3;TV;150
+01230 | Contains
+01231 |  
+01232 | Packaging
+01233 | #
+01234 | Item Code
+01235 | Package Description
+01236 | Marketing Start
+01237 | Date
+01238 | Marketing End Date
+01239 | 1 NDC:67046-903-07 7 in 1 BLISTER PACK; Type 0: Not a Combination Product
+01240 | 09/28/2017
+01241 | 2 NDC:67046-903-14 14 in 1 BLISTER PACK; Type 0: Not a Combination Product 09/28/2017
+01242 | 3 NDC:67046-903-15 15 in 1 BLISTER PACK; Type 0: Not a Combination Product 09/28/2017
+01243 | 4 NDC:67046-903-20 20 in 1 BLISTER PACK; Type 0: Not a Combination
+01244 | Product
+01245 | 09/28/2017
+01246 | 5 NDC:67046-903-21 21 in 1 BLISTER PACK; Type 0: Not a Combination Product 09/28/2017
+01247 | 6 NDC:67046-903-28 28 in 1 BLISTER PACK; Type 0: Not a Combination
+01248 | Product
+01249 | 09/28/2017
+01250 | 7 NDC:67046-903-30 30 in 1 BLISTER PACK; Type 0: Not a Combination
+01251 | Product
+01252 | 09/28/2017
+01253 | 8 NDC:67046-903-
+01254 | 60
+01255 | 60 in 1 BLISTER PACK; Type 0: Not a Combination
+01256 | Product
+01257 | 09/28/2017
+01258 | Marketing Information
+01259 | Marketing Category
+01260 | Application Number or Monograph Citation
+01261 | Marketing Start Date
+01262 | Marketing End Date
+01263 | ANDA
+01264 | ANDA088628
+01265 | 09/28/2017
+01266 | Labeler - Contract Pharmacy Services-PA (945429777)
+01267 | Establishment
+01268 | Name
+01269 | Address
+01270 | ID/FEI
+01271 | Business Operations
+01272 | Coupler Enterprises Inc.
+01273 | 945429777
+01274 | repack(67046-903)
+01275 | 
+01276 | Contract Pharmacy Services-PA
+01277 |  
+01278 | Revised: 9/2017
