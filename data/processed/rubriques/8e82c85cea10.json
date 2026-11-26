@@ -1,0 +1,57 @@
+{
+  "doc_id": "8e82c85cea10",
+  "medicament": "métronidazole",
+  "source": "bdpm",
+  "langue": "fr",
+  "url": "https://base-donnees-publique.medicaments.gouv.fr/medicament/69739292/extrait",
+  "date_collecte": "2026-11-15",
+  "date_extraction": "2026-11-26",
+  "chemin_texte": "data/processed/textes/8e82c85cea10.txt",
+  "rubriques": {
+    "indications": {
+      "trouve": true,
+      "raison": "",
+      "titre": "4.1. Indications thérapeutiques",
+      "methode": "numero+titre",
+      "debut": 447,
+      "fin": 902,
+      "passage": "4.1. Indications thérapeutiques\nTraitement local des infections canalaires après nécrose pulpaire et de leurs complications. Ce traitement doit être effectué après parage canalaire instrumental, dans le cas de dent ne répondant pas aux traitements locaux conventionnels appliqués lors du parage (hypochlorite et/ou hydroxyde de calcium).\nIl convient de tenir compte des recommandations officielles concernant l’utilisation appropriée des antibactériens."
+    },
+    "contre_indications": {
+      "trouve": true,
+      "raison": "",
+      "titre": "4.3. Contre-indications",
+      "methode": "numero+titre",
+      "debut": 1536,
+      "fin": 1932,
+      "passage": "4.3. Contre-indications\nHypersensibilité à la substance active et aux imidazolés ou à l’un des excipients mentionnés à la rubrique 6.1.\n\n4.4. Mises en garde spéciales et précautions d'emploi\nProcéder à un interrogatoire à la recherche d’antécédents d’allergie éventuels.\nCe médicament contient des « parahydroxybenzoates » et peut provoquer des réactions allergiques (éventuellement retardées)."
+    },
+    "posologie": {
+      "trouve": true,
+      "raison": "",
+      "titre": "4.2. Posologie et mode d'administration",
+      "methode": "numero+titre",
+      "debut": 902,
+      "fin": 1536,
+      "passage": "4.2. Posologie et mode d'administration\nPosologie\nAprès parage canalaire et persistance des signes cliniques infectieux, introduire à l'aide d'instruments rotatifs la pâte GRINAZOLE dans le canal et obturer à l'aide d'un ciment provisoire.\nRéintervenir 2 à 3 jours plus tard en éliminant la pâte du canal et en procédant à l'obturation canalaire classique.\nLes règles générales d’utilisation du métronidazole recommandent de ne pas prescrire pendant plus de 10 jours et de ne pas répéter le traitement plus de 2 à 3 fois par an.\nPopulation pédiatrique\nAucune donnée n’est disponible.\nMode d’administration\nVoie exclusivement locale."
+    },
+    "interactions": {
+      "trouve": true,
+      "raison": "",
+      "titre": "4.5. Interactions avec d'autres médicaments et autres formes d'interactions",
+      "methode": "numero+titre",
+      "debut": 1932,
+      "fin": 3508,
+      "passage": "4.5. Interactions avec d'autres médicaments et autres formes d'interactions\nCompte tenu de la dose utilisée (correspondant à 1 mg de métronidazole) pour le traitement d’une dent, le risque d’interaction médicamenteuse est négligeable.\n\n4.6. Fertilité, grossesse et allaitement\nGrossesse\nLes études chez l'animal n'ont pas mis en évidence d'effet tératogène. En l'absence d'effet tératogène chez l'animal, un effet malformatif dans l'espèce humaine n'est pas attendu. En effet, à ce jour, les substances responsables de malformations dans l'espèce humaine se sont révélées tératogènes chez l'animal au cours d'études bien conduites sur deux espèces.\nEn clinique, l'analyse d'un nombre élevé de grossesses exposées n'a apparemment révélé aucun effet malformatif ou foetotoxique particulier du métronidazole. Toutefois, seules des études épidémiologiques permettraient de vérifier l'absence de risque.\nEn conséquence, le métronidazole peut être prescrit par voie locale pendant la grossesse si besoin.\nAllaitement\nLe métronidazole est à l'origine d'un goût amer du lait maternel, ce qui peut provoquer des vomissements chez l'enfant allaité, associés à un refus d'alimentation.\nEn conséquence, il est préférable d'éviter l'administration de métronidazole pendant l'allaitement.\nCependant, si le traitement ne peut être différé, l'allaitement pourra être poursuivi à condition d'exercer une surveillance clinique du nouveau-né pendant le traitement et les 2 à 3 jours suivant son arrêt.\n\n4.7. Effets sur l'aptitude à conduire des véhicules et à utiliser des machines\nSans objet."
+    },
+    "effets_indesirables": {
+      "trouve": true,
+      "raison": "",
+      "titre": "4.8. Effets indésirables",
+      "methode": "numero+titre",
+      "debut": 3508,
+      "fin": 8279,
+      "passage": "4.8. Effets indésirables\n·\nRéactions d'hypersensibilité aux imidazolés et aux parahydroxybenzoates.\n·\nIrritation périapicale accentuant les complications desmodontales.\nDéclaration des effets indésirables suspectés\nLa déclaration des effets indésirables suspectés après autorisation du médicament est importante. Elle permet une surveillance continue du rapport bénéfice/risque du médicament. Les professionnels de santé déclarent tout effet indésirable suspecté via le système national de déclaration : Agence nationale de sécurité du médicament et des produits de santé (ANSM) et réseau des Centres Régionaux de Pharmacovigilance - Site internet :\nwww.signalement-sante.gouv.fr\n.\n\n4.9. Surdosage\nSans objet.\n\n5. COMMENT CONSERVER GRINAZOLE 100 mg/g, pâte pour usage dentaire ?\n\n5.1. Propriétés pharmacodynamiques\nClasse pharmacothérapeutique : PREPARATION STOMATOLOGIQUE, anti-infectieux pour traitement oral local, code ATC : A01AB17\n.\nLe métronidazole est un antimicrobien dérivé de l'imidazole, présentant une action sur les germes anaérobies.\nSpectre d’activité anti-microbienne\nLes concentrations critiques séparent les souches sensibles des souches de sensibilité intermédiaire et ces dernières, des résistantes : S ≤ 4 mg/l et R > 4 mg/l.\nLa prévalence de la résistance acquise peut varier en fonction de la géographie et du temps pour certaines espèces. Il est donc utile de disposer d’informations sur la prévalence de la résistance locale, surtout pour le traitement d’infections sévères. Ces données ne peuvent apporter qu’une orientation sur les probabilités de la sensibilité d’une souche bactérienne à cet antibiotique.\nLorsque la variabilité de la prévalence de la résistance en France est connue pour une espèce bactérienne, elle est indiquée dans le tableau ci-dessous :\nCatégories\nFréquence de résistance acquise en France\n(> 10 %) (valeurs extrêmes)\nESPECES SENSIBLES\nAérobies\nà Gram négatif\nHelicobacter\npylori\n30 %\nAnaérobies\nBacteroides fragilis\nBifidobacterium\n60 - 70 %\nBilophila\nClostridium\nClostridium difficile\nClostridium perfringens\nEubacterium\n20 - 30 %\nFusobacterium\nPeptostreptococcus\nPorphyromonas\nPrevotella\nVeillonella\nESPECES RESISTANTES\nAérobies à Gram positif\nActinomyces\nAnaérobies\nMobiluncus\nPropionibacterium acnes\nACTIVITE ANTIPARASITAIRE\nEntamoeba\nhistolytica\nGiardia intestinalis\nTrichomonas vaginalis\nRemarque\n: ce spectre correspond à celui des formes systémiques du métronidazole. Avec les présentations pharmaceutiques locales, les concentrations obtenues\nin situ\nsont très supérieures aux concentrations plasmatiques. Quelques incertitudes demeurent sur la cinétique des concentrations\nin situ\n, sur les conditions physico-chimiques locales qui peuvent modifier l’activité de l’antibiotique et sur la stabilité du produit\nin situ.\n\n5.2. Propriétés pharmacocinétiques\nSans objet.\n\n5.3. Données de sécurité préclinique\nLe métronidazole est positif dans les tests de génotoxicité. Le métronidazole s’est révélé cancérogène chez les rongeurs. Dans ce contexte, ce médicament devra faire l’objet d’une prescription encadrée (voir rubrique 4.2).\n\n6. CONTENU DE L’EMBALLAGE ET AUTRES INFORMATIONS\nImprimer\n\n6.1. Liste des excipients\nParahydroxybenzoate de propyle (E216), parahydroxybenzoate de méthyle (E218), monostéarate de glycérol, glycérol.\n\n6.2. Incompatibilités\nSans objet.\n\n6.3. Durée de conservation\n2 ans\n\n6.4. Précautions particulières de conservation\nPas de précaution particulière de conservation.\n\n6.5. Nature et contenu de l'emballage extérieur\nTube de 4,5 g en métalloplastique de type « polyfoil » avec bouchon en polypropylène.\n\n6.6. Précautions particulières d’élimination et de manipulation\nPas d’exigences particulières.\nTout médicament non utilisé ou déchet doit être éliminé conformément à la réglementation en vigueur.\n\n7. TITULAIRE DE L’AUTORISATION DE MISE SUR LE MARCHE\nRedirection vers le haut de page\nSEPTODONT\n58, RUE DU PONT DE CRETEIL\n94100 SAINT-MAUR-DES-FOSSES\n\n8. NUMERO(S) D’AUTORISATION DE MISE SUR LE MARCHE\nRedirection vers le haut de page\n·\nCIP 326 484-0 ou 3400932648405 : 4,5 g en tube (métalloplastique) – boîte de 1\n\n9. DATE DE PREMIERE AUTORISATION/DE RENOUVELLEMENT DE L’AUTORISATION\nRedirection vers le haut de page\n[à compléter ultérieurement par le titulaire]\n\n10. DATE DE MISE A JOUR DU TEXTE\nRedirection vers le haut de page\n[à compléter ultérieurement par le titulaire]\n\n11. DOSIMETRIE\nRedirection vers le haut de page\nSans objet.\n\n12. INSTRUCTIONS POUR LA PREPARATION DES RADIOPHARMACEUTIQUES\nRedirection vers le haut de page\nSans objet.\nCONDITIONS DE PRESCRIPTION ET DE DELIVRANCE\nListe I\nMédicament réservé à l’usage professionnel selon l’article R.5121-80 du code de la santé publique.\nSommaire de la notice\nDénomination du médicament\nEncadré\nQue contient cette notice ?"
+    }
+  }
+}

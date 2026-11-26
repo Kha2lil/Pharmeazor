@@ -1,0 +1,57 @@
+{
+  "doc_id": "c38ba278d9bb",
+  "medicament": "naproxène",
+  "source": "dailymed",
+  "langue": "en",
+  "url": "https://dailymed.nlm.nih.gov/dailymed/downloadpdffile.cfm?setId=4023f2a0-896b-45f9-9f62-6c12d318ec66",
+  "date_collecte": "2026-11-16",
+  "date_extraction": "2026-11-26",
+  "chemin_texte": "data/processed/textes/c38ba278d9bb.txt",
+  "rubriques": {
+    "indications": {
+      "trouve": true,
+      "raison": "",
+      "titre": "Uses",
+      "methode": "titre",
+      "debut": 265,
+      "fin": 1425,
+      "passage": "Uses\ntemporarily relieves minor aches and pains due to:\nheadache\nmuscular aches\nthe common cold\ntoothache\nmenstrual cramps\nbackache\nminor pain of arthritis\ntemporarily reduces fever\nWarnings\nAllergy alert: Naproxen sodium may cause a severe allergic reaction, especially in\npeople allergic to aspirin. Symptoms may include:\nasthma (wheezing)\nskin reddening\nshock\nblisters\nrash\nfacial swelling\nhives\nIf an allergic reaction occurs, stop use and seek medical help right away.\nStomach bleeding warning: This product contains an NSAID, which may cause\nsevere stomach bleeding. The chance is higher if you:\nare age 60 or older\nhave had stomach ulcers or bleeding problems\ntake a blood thinning (anticoagulant) or steroid drug\ntake other drugs containing prescription or nonprescription NSAIDs [aspirin,\n\nibuprofen, naproxen, or others]\ntake more or for a longer time than directed\nhave 3 or more alcoholic drinks every day while using this product\nHeart attack and stroke warning: NSAIDs, except aspirin, increase the risk of heart\nattack, heart failure, and stroke. These can be fatal. The risk is higher if you use more\nthan directed or for longer than directed."
+    },
+    "contre_indications": {
+      "trouve": true,
+      "raison": "",
+      "titre": "Do not use",
+      "methode": "titre",
+      "debut": 1425,
+      "fin": 3158,
+      "passage": "Do not use\nif you have ever had an allergic reaction to any other pain reliever/fever reducer\nright before or after heart surgery\nAsk a doctor before use if\nthe stomach bleeding warning applies to you\nyou have a history of stomach problems, such as heartburn\nyou have high blood pressure, heart disease, liver cirrhosis, kidney disease, asthma,\nor had a stroke\nyou have problems or serious side effects from taking pain relievers or fever\nreducers\nyou are taking a diuretic\nAsk a doctor or pharmacist before use if you are\nunder a doctor’s care for any serious condition\ntaking aspirin for heart attack or stroke, because naproxen may decrease this benefit\nof aspirin\ntaking any other drug\nWhen using this product\ntake with food or milk if stomach upset occurs\nStop use and ask a doctor if\nyou experience any of the following signs of stomach bleeding:\nfeel faint\nvomit blood\nhave bloody or black stools\nhave stomach pain that does not get better\nyou have symptoms of heart problems or stroke:\nleg swelling\nchest pain\nslurred speech\ntrouble breathing\nweakness in one part or side of body\npain gets worse or lasts more than 10 days\nfever gets worse or lasts more than 3 days\nyou have difficulty swallowing\nit feels like the pill is stuck in your throat\nredness or swelling is present in the painful area\nany new symptoms appear\n\nIf pregnant or breast-feeding,\nask a health professional before use. It is especially important not to use naproxen\nsodium at 20 weeks or later in pregnancy unless definitely directed to do so by a doctor\nbecause it may cause problems in the unborn child or complications during delivery.\nKeep out of reach of children.\nIn case of overdose, get medical help or contact a Poison Control Center right away."
+    },
+    "posologie": {
+      "trouve": true,
+      "raison": "",
+      "titre": "Directions",
+      "methode": "titre",
+      "debut": 3158,
+      "fin": 6311,
+      "passage": "Directions\ndo not take more than directed\nthe smallest effective dose should be used \ndrink a full glass of water with each dose\nadults and children 12 years and older\ntake 1 tablet every 8 to 12 hours while symptoms last\nfor the first dose you may take 2 tablets within the first hour\ndo not exceed 2 tablets in any 8- to 12-hour period\ndo not exceed 3 tablets in a 24-hour period\nchildren under 12 years: ask a doctor\nOther information\neach tablet contains: sodium 20 mg\nstore at 20°-25°C (68°-77°F). Avoid high humidity and excessive heat above 40°C\n(104°F)\nsee end flap for expiration date and lot number\nInactive ingredients\ncroscarmellose sodium, FD&C blue #2 aluminum lake, magnesium stearate,\nmicrocrystalline cellulose, polyethylene glycol, polyvinyl alcohol, povidone, silicon dioxide,\ntalc, titanium dioxide\nQuestions or comments?\nCall 1-800-426-9391 8:30 AM-4:00 PM ET, Monday-Friday\nPrincipal display panel\nGOOD\nNEIGHBOR\nPHARMACY\nCompare to ALEVE\nTablets active ingredient\nNDC 46122-562-71\nNaproxen \nnaproxen sodium tablets 220 mg (NSAID)\n®\n® \n†\n\nPain Reliever/Fever Reducer\nStrength to last 12 hours\nActual Size\n50 Tablets | 220 mg Each\nGood Neighbor Pharmacy 44-417\nNAPROXEN \nnaproxen sodium tablet, film coated\nProduct Information\n\nProduct Type\nHUMAN OTC DRUG\nItem Code (Source)\nNDC:46122-562\nRoute of Administration\nORAL\nActive Ingredient/Active Moiety\nIngredient Name\nBasis of Strength\nStrength\nNAPROXEN SODIUM (UNII: 9TN87S3A3C) (NAPROXEN - UNII:57Y76R9ATQ)\nNAPROXEN SODIUM\n220 mg\nInactive Ingredients\nIngredient Name\nStrength\nCROSCARMELLOSE SODIUM (UNII: M28OL1HH48)\n \nFD&C BLUE NO. 2 ALUMINUM LAKE (UNII: 4AQJ3LG584)\n \nMAGNESIUM STEARATE (UNII: 70097M6I30)\n \nMICROCRYSTALLINE CELLULOSE (UNII: OP1R32D61U)\n \nPOLYETHYLENE GLYCOL, UNSPECIFIED (UNII: 3WJQ0SDW1A)\n \nPOLYVINYL ALCOHOL, UNSPECIFIED (UNII: 532B59J990)\n \nPOVIDONE, UNSPECIFIED (UNII: FZ989GH94E)\n \nSILICON DIOXIDE (UNII: ETJ7Z6XBU4)\n \nTALC (UNII: 7SEV7J4R1U)\n \nTITANIUM DIOXIDE (UNII: 15FIX9V2JP)\n \nProduct Characteristics\nColor\nblue\nScore\nno score\nShape\nROUND\nSize\n10mm\nFlavor\nImprint Code\n44;417\nContains\n \nPackaging\n#\nItem Code\nPackage Description\nMarketing Start\nDate\nMarketing End\nDate\n1 NDC:46122-\n562-58\n1 in 1 CARTON\n02/01/2019\n1\n24 in 1 BOTTLE, PLASTIC; Type 0: Not a\nCombination Product\n2 NDC:46122-\n562-71\n1 in 1 CARTON\n02/01/2019\n2\n50 in 1 BOTTLE, PLASTIC; Type 0: Not a\nCombination Product\n3 NDC:46122-\n562-78\n1 in 1 CARTON\n02/01/2019\n3\n100 in 1 BOTTLE, PLASTIC; Type 0: Not a\nCombination Product\nMarketing Information\nMarketing\nCategory\nApplication Number or Monograph\nCitation\nMarketing Start\nDate\nMarketing End\nDate\n\nAmerisource Bergen\nANDA\nANDA204872\n02/01/2019\nLabeler - Amerisource Bergen (007914906)\nEstablishment\nName\nAddress\nID/FEI\nBusiness Operations\nLNK International, Inc.\n038154464\npack(46122-562)\nEstablishment\nName\nAddress\nID/FEI\nBusiness Operations\nLNK International, Inc.\n832867837\nmanufacture(46122-562)\nEstablishment\nName\nAddress\nID/FEI\nBusiness Operations\nLNK International, Inc.\n832867894\nmanufacture(46122-562)\nEstablishment\nName\nAddress\nID/FEI\nBusiness Operations\nLNK International, Inc.\n117025878\nmanufacture(46122-562)\n \nRevised: 9/2026"
+    },
+    "interactions": {
+      "trouve": false,
+      "raison": "titre introuvable",
+      "titre": "",
+      "methode": "",
+      "debut": null,
+      "fin": null,
+      "passage": ""
+    },
+    "effets_indesirables": {
+      "trouve": false,
+      "raison": "titre introuvable",
+      "titre": "",
+      "methode": "",
+      "debut": null,
+      "fin": null,
+      "passage": ""
+    }
+  }
+}

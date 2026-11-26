@@ -1,0 +1,57 @@
+{
+  "doc_id": "452b0083ce5b",
+  "medicament": "kétoprofène",
+  "source": "dailymed",
+  "langue": "en",
+  "url": "https://dailymed.nlm.nih.gov/dailymed/downloadpdffile.cfm?setId=c1b363d1-1926-4356-8e03-7ec2cb967e5b",
+  "date_collecte": "2026-11-16",
+  "date_extraction": "2026-11-26",
+  "chemin_texte": "data/processed/textes/452b0083ce5b.txt",
+  "rubriques": {
+    "indications": {
+      "trouve": true,
+      "raison": "",
+      "titre": "INDICATION",
+      "methode": "titre",
+      "debut": 1930,
+      "fin": 2077,
+      "passage": "INDICATION\nKetoMed(ketoprofen) is recommended for the alleviation of inflammation and pain\nassociated with musculoskeletal disorders in the horse."
+    },
+    "contre_indications": {
+      "trouve": true,
+      "raison": "",
+      "titre": "CONTRAINDICATIONS",
+      "methode": "titre",
+      "debut": 2342,
+      "fin": 3000,
+      "passage": "CONTRAINDICATIONS\nThere are no known contraindications to this drug when used as directed. Intra-arterial\ninjection should be avoided. Do not use in a horse if it has previously shown\nhypersensitivity to ketoprofen.\nCAUTION\nThis product should not be used in breeding animals since the effects of KetoMed on\nfertility, pregnancy or fetal health in horses have not been determined.\nPRECAUTIONS\nStudies to determine activity of KetoMed when administered concomitantly with other\ndrugs have not been conducted. Drug compatibility should be monitored closely in\npatients requiring\nadjunctive therapy.\nWARNING\nDo not use in horses intended for human consumption."
+    },
+    "posologie": {
+      "trouve": true,
+      "raison": "",
+      "titre": "DOSAGE AND ADMINISTRATION",
+      "methode": "titre",
+      "debut": 2077,
+      "fin": 2342,
+      "passage": "DOSAGE AND ADMINISTRATION\nThe recommended dosage is 1 mg/lb (1 mL/100 lbs) of body weight once daily.\nTreatment is administered by intravenous injection and may be repeated for up to five\ndays. Onset of activity is within two hours with peak response by 12 hours."
+    },
+    "interactions": {
+      "trouve": false,
+      "raison": "titre introuvable",
+      "titre": "",
+      "methode": "",
+      "debut": null,
+      "fin": null,
+      "passage": ""
+    },
+    "effets_indesirables": {
+      "trouve": true,
+      "raison": "",
+      "titre": "SIDE EFFECTS",
+      "methode": "titre",
+      "debut": 3000,
+      "fin": 4725,
+      "passage": "SIDE EFFECTS\nDuring investigational studies, no significant side effects were reported.\nTo report suspected adverse drug events, for technical assistance, or to obtain a copy\nof the Safety Data Sheet (SDS), contact Bimeda, Inc. at 1-888-524-6332. For additional\ninformation about adverse drug experience reporting for animal drugs, contact FDA at\n1-888-FDA-VETS or online at www.fda.gov/reportanimalae.\nHOW SUPPLIED\nKetoMed (ketoprofen) Solution 100 mg/mL is available in 50 mL and 100 mL multidose\n\nbottles.\nStore at 20°C - 25°C (68°F- 77°F); excursions permitted between 15°C - 30°C (59°F -\n86°F). Do not freeze.\nUse within 28 days of first puncture.\nApproved by FDA under ANADA # 200-625\nManufactured for:\nBimeda, Inc.\nLe Sueur, MN 56058\nwww.bimeda.com\n12/20\n\nKETOMED \n\nBimeda, Inc.\nketoprofen injection, solution\nProduct Information\nProduct Type\nPRESCRIPTION ANIMAL DRUG\nItem Code (Source)\nNDC:61133-4007\nRoute of Administration\nINTRAVENOUS\nActive Ingredient/Active Moiety\nIngredient Name\nBasis of Strength\nStrength\nKETOPROFEN (UNII: 90Y4QC304K) (KETOPROFEN - UNII:90Y4QC304K)\nKETOPROFEN\n100 mg in 1 mL\nInactive Ingredients\nIngredient Name\nStrength\nARGININE (UNII: 94ZLA3W45F)\n70 mg in 1 mL\nCITRIC ACID MONOHYDRATE (UNII: 2968PHW8QP)\n \nBENZYL ALCOHOL (UNII: LKG8494WBH)\n \nPackaging\n#\nItem Code\nPackage Description\nMarketing Start Date\nMarketing End Date\n1 NDC:61133-4007-1\n50 mL in 1 BOTTLE\n2 NDC:61133-4007-2\n100 mL in 1 BOTTLE\nMarketing Information\nMarketing\nCategory\nApplication Number or Monograph\nCitation\nMarketing Start\nDate\nMarketing End\nDate\nANADA\nANADA200625\n02/08/2021\nLabeler - Bimeda, Inc. (060492923)\nEstablishment\nName\nAddress\nID/FEI\nBusiness Operations\nBimeda- MTC\n256232216\nmanufacture\n \nRevised: 10/2024"
+    }
+  }
+}

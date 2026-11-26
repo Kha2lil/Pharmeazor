@@ -1,0 +1,519 @@
+PARACETAMOL AGUETTANT 10 mg/mL, solution pour perfusion
+
+Résumé des Caractéristiques du Produit
+ANSM - Mis à jour le : 05/05/2026
+
+1. QU’EST-CE QUE PARACETAMOL AGUETTANT 10 mg/mL solution pour perfusion ET DANS QUELS CAS EST-IL UTILISE ?
+
+2. QUELLES SONT LES INFORMATIONS A CONNAITRE AVANT D’UTILISER PARACETAMOL AGUETTANT 10 mg/mL solution pour perfusion ?
+
+3. COMMENT UTILISER PARACETAMOL AGUETTANT 10 mg/mL solution pour perfusion ?
+
+4. QUELS SONT LES EFFETS INDESIRABLES EVENTUELS ?
+
+4.1. Indications thérapeutiques
+PARACETAMOL AGUETTANT
+10 mg/mL solution pour perfusion est indiqué dans le traitement de courte durée des douleurs d’intensité modérée, en particulier en période post-opératoire et dans le traitement de courte durée de la fièvre, lorsque la voie intraveineuse est cliniquement justifiée par l’urgence de traiter la douleur ou l’hyperthermie et/ou lorsque d’autres voies d’administration ne sont pas possibles.
+PARACETAMOL AGUETTANT 10 mg/mL solution pour perfusion en poche de 10 mL est indiqué chez le nouveau-né à terme, le nourrisson et l'enfant dont le poids est inférieur ou égal à 10 kg.
+PARACETAMOL AGUETTANT 10 mg/mL solution pour perfusion en poche de 50 mL est indiqué chez le nourrisson et l’enfant dont le poids est supérieur à 10 kg et inférieur ou égal à 33 kg.
+PARACETAMOL AGUETTANT 10 mg/mL solution pour perfusion en poche de 100 mL est indiqué chez l’adulte, l’adolescent et l’enfant de plus de 33 kg.
+
+4.2. Posologie et mode d'administration
+Posologie
+La posologie est calculée en fonction du poids du patient.
+Poids du patient
+Dose
+par prise
+Volume
+par prise
+Volume maximal de Paracétamol 10 mg/mL par prise, basé sur les limites du poids supérieur du groupe (mL)***
+Dose journalière maximale**
+Poche de 10 mL
+£
+10 kg*
+7,5 mg/kg
+0,75 mL/kg
+7,5 mL
+30 mg/kg
+Poche de 50 mL
+> 10 kg à ≤ 33 kg
+15 mg/kg
+1,5 mL/kg
+49,5 mL
+60 mg/kg
+Sans dépasser 2 g
+Poche de 100 mL
+> 33 kg à
+£
+50 kg
+15 mg/kg
+1,5 mL/kg
+75 mL
+60 mg/kg
+Sans dépasser 3 g
+> 50 kg
+Avec facteurs de risque additionnels d’hépatotoxicité
+1 g
+100 mL
+100 mL
+3 g
+> 50 kg
+Sans facteurs de risque additionnels d’hépatotoxicité
+1 g
+100 mL
+100 mL
+4 g
+* Nouveau-nés prématurés :
+il n’y a pas de données d’efficacité et de tolérance disponibles chez les nouveau-nés prématurés (voir rubrique 5.2).
+** Dose journalière maximale :
+la dose journalière maximale présentée dans le tableau ci-dessus s’entend pour des patients ne recevant pas d’autres produits contenant du paracétamol et doit être ajustée en conséquence en tenant compte de ces produits.
+*** Des patients de plus petit poids doivent recevoir de plus petits volumes.
+L’intervalle minimum entre chaque administration doit être au moins de 4 heures.
+Ne pas administrer plus de 4 doses par 24 heures.
+Insuffisance rénale
+Chez les patients insuffisants rénaux, l'intervalle minimum entre chaque administration doit être modifié selon le schéma suivant
+:
+Clairance de la créatinine
+Intervalle d’administration
+ClCr ≥
+50 mL
+/min
+4 heures
+Clcr 10-50 mL/min
+6 heures
+ClCr < 10 mL/min
+8 heures
+Insuffisance hépatique
+Chez les patients adultes
+présentant une insuffisance hépatique chronique ou une pathologie hépatique active compensée, une
+insuffisance hépatocellulaire, un alcoolisme chronique, une malnutrition chronique (réserves basses en glutathion hépatique), une déshydratation,
+une maladie de Gilbert ou pesant moins de 50 kg,
+la dose maximale journalière ne doit pas dépasser 3 g (voir rubrique 4.4).
+Patients âgés
+Aucun ajustement de dose n'est requis chez les personnes âgées. Cependant, il faut prendre en compte le fait que l’insuffisance rénale et/ou hépatique est plus fréquente chez les patients âgés de plus de 65 ans (voir rubrique 5.2).
+Mode d’administration
+Voie intraveineuse.
+Précautions à prendre avant la manipulation ou l’administration du médicament (voir rubrique 6.6) :
+Faites attention lorsque vous prescrivez et administrez PARACETAMOL AGUETTANT 10 mg/mL solution pour perfusion pour éviter les erreurs de dosage dues à une confusion entre
+milligramme
+(
+mg
+) et
+millilitre
+(
+mL
+), qui pourraient entraîner un surdosage accidentel et la mort.
+Assurez-vous que la bonne dose soit communiquée et administrée. Lors de la prescription, indiquez la dose totale en mg et la dose totale en volume. Assurez-vous que la dose soit précisément mesurée et administrée.
+La solution de paracétamol est administrée en perfusion intraveineuse de 15 minutes.
+La solution de paracétamol peut éventuellement être diluée dans une solution de chlorure de sodium à 0,9 % ou une solution de glucose à 5 % jusqu’à un facteur 10. Dans ce cas, la solution diluée doit être utilisée dans les 2 heures qui suivent sa préparation (incluant le temps de perfusion).
+Pour les instructions concernant la dilution du produit avant administration, voir rubrique 6.6.
+Patients ≤ 10 kg
+(poche de 10 mL):
+·
+La poche de 10 mL ne doit pas être suspendue comme une perfusion étant donné le petit volume de médicament à administrer dans cette population.
+·
+La poche de 10 mL ne doit pas être utilisée pour une perfusion directe.
+Le volume à administrer doit être prélevé de la poche et peut être administré en l’état, ou dilué (dans un volume de 1 à 9) dans une solution de chlorure de sodium 0,9 % ou une solution de glucose à 5 %, et doit être administré en plus de 15 minutes.
+·
+Une seringue de 5 ou 10 mL doit être utilisée pour mesurer la dose appropriée au poids de l’enfant et le volume souhaité. Cependant, ce dernier ne doit jamais dépasser 7,5 mL par dose.
+·
+L’utilisateur doit se référer aux recommandations posologiques du résumé des caractéristiques du produit.
+
+4.3. Contre-indications
+·
+Hypersensibilité au paracétamol ou au chlorhydrate de propacétamol (prodrogue du paracétamol) ou à l’un des excipients
+mentionnés à la rubrique 6.1.
+·
+Insuffisance hépato-cellulaire sévère.
+
+4.4. Mises en garde spéciales et précautions d'emploi
+RISQUE D’ERREURS MEDICAMENTEUSES
+Veillez à éviter les erreurs de dosage dues à une confusion entre
+milligramme
+(
+mg
+) et
+millilitre
+(
+mL
+), qui pourraient entraîner un surdosage accidentel et la mort (voir rubrique 4.2).
+Il est recommandé d’utiliser un traitement antalgique adapté per os dès que cette voie d’administration est possible.
+Pour éviter un risque de surdosage, vérifier que les autres médicaments administrés ne contiennent pas du paracétamol ou du propacétamol.
+Des doses supérieures à celles recommandées entraînent un risque d’atteinte hépatique très sévère. Les symptômes et les signes cliniques de l’atteinte hépatique (incluant hépatite fulminante, insuffisance hépatique, hépatite cholestatique, hépatite cytolytique) sont généralement observés 2 jours après l’administration du traitement et atteignent habituellement un maximum après 4 à 6 jours. Un traitement avec antidote doit être donné dès que possible (voir rubrique 4.9).
+Facteurs de risque de troubles hépatiques
+La prudence est conseillée en cas des facteurs de risque suivants qui peuvent réduire le seuil d’hépatotoxicité. La dose doit être ajustée et la dose journalière maximale ne doit pas être dépassée chez ces patients :
+·
+insuffisance hépatocellulaire, maladie de Gilbert,
+·
+insuffisance rénale sévère,
+·
+alcoolisme chronique,
+·
+malnutrition chronique (réserves basses en glutathion hépatique),
+·
+déshydratation,
+·
+patients de moins de 50 kg,
+·
+déficit en glucose-6-phosphate déshydrogénase (pouvant conduire à une anémie hémolytique).
+Réactions cutanées graves
+Ce médicament peut causer des réactions cutanées graves. Les patients doivent être informés des signes précoces de réactions cutanées graves et l’utilisation du médicament doit être interrompu dès la première apparition d’une éruption ou d’un autre signe d'hypersensibilité.
+Utilisation concomitante avec d’autres médicaments
+Des cas d’acidose métabolique à trou anionique élevé (AMTAE) due à une acidose pyroglutamique ont été rapportés chez les patients atteints d’une maladie grave telle qu’une insuffisance rénale sévère et un sepsis, ou chez les patients souffrant de malnutrition ou d’autres sources de déficit en glutathion (par exemple alcoolisme chronique)
+qui ont été traités par du paracétamol à une dose thérapeutique pendant une période prolongée ou par une association de paracétamol et de flucloxacilline
+.
+En cas de suspicion d’AMTAE due à une acidose pyroglutamique, il est recommandé d’arrêter immédiatement le paracétamol et d’effectuer
+une surveillance étroite.
+La mesure de
+la 5-oxoproline urinaire
+peut être utile pour identifier l’acidose pyroglutamique comme cause sous-jacente de l’AMTAE chez les patients présentant de multiples facteurs de risque
+.
+Excipients à effet notoire
+Ce médicament contient 25,2 mg de sodium par poche de 10 mL, ce qui équivaut à 1,26 % de l'apport alimentaire quotidien maximal recommandé par l'OMS de 2 g de sodium par adulte.
+Ce médicament contient 126 mg de sodium par poche de 50 mL, ce qui équivaut à 6,3 % de l'apport alimentaire quotidien maximal recommandé par l'OMS de 2 g de sodium par adulte.
+Ce médicament contient 252 mg de sodium par poche de 100 mL, ce qui équivaut à 13 % de l'apport alimentaire quotidien maximal recommandé par l'OMS de 2 g de sodium par adulte.
+La dose journalière maximale de ce produit (correspondant par exemple à 4 poches de 100 mL) chez un individu de plus de 50 kg sans facteurs de risque additionnels d’hépatotoxicité équivaut à 50 % de la dose journalière maximale recommandée par l’OMS pour le sodium.
+Ce médicament est considéré comme riche en sodium. Cela devrait être particulièrement pris en compte pour ceux qui suivent un régime pauvre en sel.
+
+4.5. Interactions avec d'autres médicaments et autres formes d'interactions
+Précautions d’emploi
+·
+Le probénécide
+réduit la clairance du paracétamol
+de près de la moitié en inhibant sa conjugaison à l’acide glucuronique. Une diminution de la dose de paracétamol est à envisager en cas d’association au probénécide.
+·
+Le salicylamide peut allonger la demi-vie d’élimination du paracétamol.
+·
+Une attention particulière doit être exercée en cas de prise concomitante d’inducteurs enzymatiques.
+Ces substances incluent, mais pas seulement, les barbituriques, l’isoniazide, la carbamazépine, la rifampicine et l’éthanol
+(voir rubrique 4.9).
+·
+L’utilisation concomitante de paracétamol (4 g par jour pendant au moins 4 jours) et d’anticoagulants oraux peut conduire à de légères variations de l’INR. Dans ce cas, une surveillance accrue de l’INR est nécessaire pendant la période d’utilisation concomitante et 1 semaine après l’arrêt du paracétamol.
+·
+La prudence est requise lorsque le paracétamol est utilisé de façon concomitante avec la flucloxacilline parce que la prise simultanée a été associée à une acidose métabolique à trou anionique élevé
+due à une acidose pyroglutamique
+, en particulier chez les patients avec des facteurs de risque (voir rubrique 4.4).
+
+4.6. Fertilité, grossesse et allaitement
+Grossesse
+Un grand nombre de données chez la femme enceinte n'a mis en évidence aucun effet malformatif, ni toxique pour le fœtus ou le nouveau-né.
+Les études épidémiologiques sur le neurodéveloppement des enfants exposés au paracétamol in utero montrent des résultats non concluants. Si cela s’avère nécessaire d’un point de vue clinique, le paracétamol peut être utilisé pendant la grossesse ; cependant, il devra être utilisé à la dose efficace la plus faible, pendant la durée la plus courte possible et à la fréquence la plus réduite possible.
+Allaitement
+Après administration orale, le paracétamol passe en faible quantité dans le lait maternel. Aucun effet indésirable sur le nourrisson n’a été rapporté. En conséquence, ce médicament peut être utilisé pendant l’allaitement.
+
+4.7. Effets sur l'aptitude à conduire des véhicules et à utiliser des machines
+Le paracétamol n'a aucun effet ou qu'un effet négligeable sur l'aptitude à conduire des véhicules et à utiliser des machines.
+
+4.8. Effets indésirables
+Comme pour tous les médicaments à base de paracétamol, peu d’effets indésirables sont attendus aux doses thérapeutiques. Les effets indésirables sont mentionnés ci-dessous par classe de systèmes d’organes et par fréquence.
+La fréquence des effets indésirables est classée comme suit : Très fréquent (≥ 1/10) ; fréquent (≥ 1/100, < 1/10) ; peu fréquent (≥ 1/1 000 à < 1/100), rare (≥ 1/10 000 à <1/1 000), très rare (< 1/10 000), indéterminée (ne peut être estimée sur la base des données disponibles).
+Base de données MedDRA des classes de systèmes d’organes
+Rare
+Très rare
+Fréquence indéterminée
+> 1/10 000, < 1/1 000
+< 1/10 000
+Troubles généraux et anomalies au site d’administration
+Malaise
+Réaction au site d’administration voire douleur diffuse et sensation de brûlure
+Affections de la peau et des tissus sous-cutanés
+Rash, urticaire, réactions cutanées graves*
+Érythème, prurit
+Affections du système immunitaire
+Choc anaphylactique, réaction d’hypersensibilité*
+Affections cardiaques
+Tachycardie
+Affections vasculaires
+Hypotension
+Bouffées vasomotrices
+Affections hépatobiliaires
+Elévation des transaminases hépatiques
+Affections hématologiques et du système lymphatique
+Thrombocytopénie
+Leucopénie
+Neutropénie
+Troubles du métabolisme et de la nutrition
+Acidose métabolique à trou anionique élevé**
+*
+De très rares cas de réactions d’hypersensibilité,
+de réactions cutanées graves qui nécessitent l’arrêt du traitement ont été rapportés
+.
+**
+Acidose métabolique à trou anionique élevé
+Des cas d’acidose métabolique à trou anionique élevé due à une acidose pyroglutamique ont été observés chez des patients présentant des facteurs de risque et prenant du paracétamol (voir rubrique 4.4). Une acidose pyroglutamique peut survenir chez ces patients en raison des faibles taux de glutathion
+Déclaration des effets indésirables suspectés
+La déclaration des effets indésirables suspectés après autorisation du médicament est importante. Elle permet une surveillance continue du rapport bénéfice/risque du médicament. Les professionnels de santé déclarent tout effet indésirable suspecté via le système national de déclaration :
+Agence nationale de sécurité du médicament et des produits de santé (ANSM) et réseau des Centres Régionaux de Pharmacovigilance - Site internet :
+https://signalement.social-sante.gouv.fr/
+
+4.9. Surdosage
+Le surdosage en paracétamol peut entraîner des atteintes hépatiques, potentiellement fatales.
+Les symptômes apparaissent généralement dans les 24 premières heures et peuvent inclure : nausées, vomissements, anorexie, pâleur et douleurs abdominales
+, ou les patients peuvent être asymptomatiques.
+Un surdosage, à partir de 7,5 g de paracétamol en une seule prise chez l’adulte et 140 mg/kg de poids corporel en 1 seule prise chez l’enfant, peut provoquer une cytolyse hépatique susceptible d’aboutir à une nécrose complète et irréversible entraînant une insuffisance hépato-cellulaire, une acidose métabolique, une encéphalopathie pouvant entraîner le coma et la mort.
+Simultanément, on observe une augmentation des taux des transaminases hépatiques (ASAT, ALAT), de la lactate déshydrogénase, de la bilirubine, ainsi qu’une augmentation du taux de prothrombine pouvant apparaître 12 à 48 heures après administration.
+Risque d’atteinte hépatique :
+·
+hépatite fulminante,
+·
+insuffisance hépatique,
+·
+hépatite cholestatique,
+·
+hépatite cytolytique.
+L’atteinte hépatique est probable chez les patients qui ont pris plus que les quantités recommandées de paracétamol. On considère que des quantités excessives de métabolite toxique se lient de manière irréversible au tissu hépatique.
+Certains patients peuvent être exposés à un risque plus élevé d’atteinte hépatique due à la toxicité du paracétamol :
+Les facteurs de risque incluent :
+·
+Les patients avec une pathologie hépatique
+·
+Les patients âgés
+·
+Les jeunes enfants
+·
+Les patients recevant des inducteurs des enzymes hépatiques
+·
+Les patients souffrant d’alcoolisme chronique
+·
+Les patients souffrant de malnutrition chronique
+Les symptômes cliniques de l’atteinte hépatique sont généralement observés après deux jours, et atteignent un maximum après 4 à 6 jours.
+Une insuffisance rénale aiguë avec nécrose tubulaire peut aussi se développer.
+Des arythmies cardiaques et des pancréatites ont été également rapportés.
+Conduite d’urgence
+·
+Hospitalisation immédiate.
+·
+Avant de commencer le traitement, prélever un échantillon de sang pour faire le dosage plasmatique du paracétamol, dès que possible après le surdosage
+, si possible 4 heures après l’ingestion lors d’un surdosage aigüe unique
+.
+·
+Le traitement du surdosage comprend l’administration de l’antidote N-acétylcystéine (NAC) par voie intraveineuse ou voie orale, si possible avant la dixième heure. La NAC peut cependant apporter une certaine protection même après 10 heures, mais dans ce cas le traitement doit être prolongé.
+·
+Un traitement symptomatique doit être initié.
+·
+Des tests hépatiques doivent être effectués initialement et répétés toutes les 24 heures.
+·
+Habituellement les transaminases hépatiques se normalisent après une ou deux semaines avec récupération complète de la fonction hépatique. Cependant, dans les cas très sévères, une transplantation hépatique peut être nécessaire.
+
+5. COMMENT CONSERVER PARACETAMOL AGUETTANT 10 mg/mL solution pour perfusion ?
+
+5.1. Propriétés pharmacodynamiques
+Classe pharmacothérapeutique : AUTRES ANALGESIQUES ET ANTIPYRETIQUES
+Code ATC : N02BE01
+Mécanisme d’action
+Le mécanisme précis des propriétés antalgiques et antipyrétiques du paracétamol reste à établir pouvant impliquer des actions centrales et périphériques.
+Effets pharmacodynamiques
+Ce médicament permet un début de soulagement de la douleur dans les 5 à 10 minutes suivant le début de l’administration. Le pic de l’effet antalgique est obtenu en 1 heure et la durée de cet effet est habituellement de 4 à 6 heures.
+Le paracétamol réduit la fièvre dans les 30 minutes suivant le début de l’administration et la durée d’effet antipyrétique est d’au moins 6 heures.
+
+5.2. Propriétés pharmacocinétiques
+ADULTES
+Absorption
+La pharmacocinétique du paracétamol est linéaire jusqu’à 2 g en dose unique et après administration répétée sur 24 h.
+La biodisponibilité du paracétamol après perfusion de 500 mg et 1 g de paracétamol est similaire à celle observée après perfusion de 1 g et 2 g de propacétamol (contenant 500 mg et 1 g de paracétamol respectivement).
+La concentration plasmatique maximale (Cmax) de paracétamol observée à la fin des 15 minutes de perfusion intraveineuse de 500 mg et 1 g de paracétamol est de l’ordre de 15 µg/mL et 30 µg/mL respectivement.
+Distribution
+Le volume de distribution du paracétamol est approximativement de 1 l/kg.
+La liaison aux protéines plasmatiques est faible.
+Après perfusion de 1 g de paracétamol, des concentrations significatives de paracétamol (de l’ordre de 1,5 µg/mL) ont été retrouvées dans le liquide céphalo-rachidien dès la 20
+ème
+minute après la perfusion.
+Biotransformation
+Le paracétamol est métabolisé essentiellement au niveau du foie selon 2 voies hépatiques majeures : la glycuroconjugaison et la sulfoconjugaison. Cette dernière voie est rapidement saturable aux posologies supérieures aux doses thérapeutiques. Une faible proportion (moins de 4 %) est transformée par le cytochrome P 450 en un intermédiaire réactif (le N-acétyl benzoquinone imine) qui, dans les conditions normales d’utilisation, est rapidement détoxifié par le glutathion réduit et éliminé dans les urines après conjugaison à la cystéine et à l’acide mercaptopurique. En revanche, lors d’intoxications massives, la quantité de ce métabolite toxique est augmentée.
+Élimination
+L’élimination des métabolites du paracétamol est essentiellement urinaire. 90 % de la dose administrée est excrétée dans les urines en 24 heures, principalement sous forme glycuroconjuguée (60 à 80 %) et sulfoconjuguée (20 à 30 %).
+Moins de 5 % est éliminé sous forme inchangée.
+La demi-vie plasmatique est de 2,7 heures et la clairance corporelle totale est d’environ 18 l/h.
+NOUVEAU-NES A TERME, NOURRISSONS ET ENFANTS
+Les paramètres pharmacocinétiques du paracétamol observés chez le nourrisson et l’enfant sont similaires à ceux obtenus chez l’adulte, à l’exception de la demi-vie plasmatique qui est légèrement plus courte (1,5 à 2 heures). Chez le nouveau-né, la demi-vie plasmatique est plus longue que chez le nourrisson, à savoir environ 3,5 heures. Le nouveau-né, le nourrisson et l’enfant jusqu'à 10 ans éliminent significativement moins de dérivés glycuroconjugués et plus de dérivés sulfoconjugués que l’adulte.
+Tableau. Les valeurs pharmacocinétiques en fonction de l’âge (clairance standardisée*CL
+std
+/F
+orale
+(l.h-1 70 kg-1) sont présentées ci-dessous.
+Age
+Poids (kg)
+CL
+std
+/F
+orale
+(l.h
+-1
+70 kg
+-1
+)
+40 semaines d'aménorrhée
+3,3
+5,9
+3 mois
+6
+8,8
+6 mois
+7,5
+11,1
+1 an
+10
+13,6
+2 ans
+12
+15,6
+5 ans
+20
+16,3
+8 ans
+25
+16,3
+*CL
+std
+est l’estimation de la CL pour la population.
+POPULATIONS PARTICULIERES
+Insuffisant rénal
+En cas d’insuffisance rénale sévère (clairance de la créatinine 10-30 mL/min), l'élimination du paracétamol est légèrement retardée, la demi-vie d’élimination variant de 2 à 5,3 h. La vitesse d’élimination des dérivés glycuro et sulfoconjugués est 3 fois plus lente chez l’insuffisant rénal sévère que chez le sujet sain.
+Il est recommandé d’augmenter l’intervalle entre les prises chez l’insuffisant rénal sévère (voir rubrique 4.2).
+Sujet âgé
+La pharmacocinétique et le métabolisme du paracétamol ne sont pas modifiés chez le sujet âgé. Aucun ajustement de dose n’est requis dans cette population.
+
+5.3. Données de sécurité préclinique
+Les données précliniques n’indiquent aucun autre risque particulier en dehors de l’information déjà incluse dans les autres rubriques du RCP.
+Aucune étude conventionnelle s’appuyant sur les normes actuellement admises pour évaluer la toxicité pour la reproduction et le développement n’est disponible.
+Des études de tolérance locale effectuées chez le rat et le lapin ont montré une bonne tolérance de ce médicament.
+L’absence d’hypersensibilité retardée de contact a été testée chez le cobaye.
+
+6. CONTENU DE L’EMBALLAGE ET AUTRES INFORMATIONS
+Imprimer
+
+6.1. Liste des excipients
+Acétate de sodium trihydraté
+Acide acétique glacial
+Hydroxyde de sodium 1N (pour ajustement du pH)
+Eau pour préparations injectables
+
+6.2. Incompatibilités
+PARACETAMOL AGUETTANT ne doit pas être mélangé avec d’autres médicaments à l’exception de ceux mentionnés dans la rubrique 6.6.
+
+6.3. Durée de conservation
+2 ans.
+Après ouverture du suremballage : une utilisation immédiate est recommandée.
+La stabilité chimique et physique en cours d'utilisation a été démontrée pendant 24 heures entre 15 °C et 25 °C.
+Après dilution, la stabilité chimique et physique en cours d'utilisation de la solution diluée dans du chlorure de sodium à 0,9 % ou du glucose à 5 % a été démontrée pendant 2 heures (incluant le temps de perfusion).
+D’un point de vue microbiologique, le produit doit être utilisé immédiatement.
+En cas d’utilisation non immédiate, les durées et conditions de conservation
+en cours d’utilisation et avant l’utilisation
+relèvent de la seule responsabilité de l’utilisateur.
+
+6.4. Précautions particulières de conservation
+Ne pas mettre au réfrigérateur. Ne pas congeler.
+Pour les conditions de conservation du médicament après première ouverture ou dilution, voir rubrique 6.3.
+
+6.5. Nature et contenu de l'emballage extérieur
+Poches de 10 mL en polyoléfine suremballées, munies d’un site de prélèvement.
+Poches de 50 et 100 mL en polyoléfine suremballées, munies d’un site de perfusion.
+Poches de 50 et 100 mL en polyoléfine suremballées COSINUS ou COSINUS EMBASE, munies d’un site de prélèvement et d’un site de perfusion
+Poches de 10 mL : boîtes de 1 ou 50 poches.
+Poches de 50 mL : boîtes de 1 ou 50 poches.
+Poches de 100 mL : boîtes 1 ou 50 poches.
+Toutes les présentations peuvent ne pas être commercialisées.
+
+6.6. Précautions particulières d’élimination et de manipulation
+Utilisation dans la population pédiatrique :
+Précautions de manipulation chez les patients ≤ 10 kg ; voir section 4.2.
+Instructions de manipulation pour les professionnels de santé :
+·
+La date de péremption doit être vérifiée.
+·
+Vérifier que la poche ne présente pas des fuites, et éliminer toute poche endommagée ou partiellement utilisée, ou, pour les poches de 50 et de 100 mL, celles dont l’anneau de suspension ne serait pas ouvert.
+·
+Retirer la poche du suremballage après avoir vérifié son intégrité.
+·
+Utiliser immédiatement après ouverture.
+·
+Avant toute administration, le produit doit être visuellement contrôlé pour détecter toute particule.
+·
+A usage unique.
+·
+Toute solution non utilisée doit être éliminée.
+·
+La solution diluée, dans du chlorure de sodium à 0,9 % ou du glucose à 5 %, doit être contrôlée visuellement et ne doit pas être utilisée en présence d’opalescence, de particules visibles ou de précipité.
+Pour les Poches de 50 et 100 mL :
+·
+Ne pas utiliser de prise d’air, ne pas connecter en série.
+·
+Enlever le protecteur du site de perfusion.
+·
+Connecter le perfuseur à la poche.
+Tout médicament non utilisé ou déchet doit être éliminé conformément à la réglementation en vigueur.
+
+7. TITULAIRE DE L’AUTORISATION DE MISE SUR LE MARCHE
+Redirection vers le haut de page
+LABORATOIRE AGUETTANT
+1, RUE ALEXANDER FLEMING
+69007 LYON
+
+8. NUMERO(S) D’AUTORISATION DE MISE SUR LE MARCHE
+Redirection vers le haut de page
+·
+34009 586 685 6 2 : 10 mL en poche (polyoléfine) suremballée avec un site de prélèvement.
+·
+Boîte de 1.
+·
+34009 586 689 1 3 : 10 mL en poche (polyoléfine) suremballée avec un site de prélèvement.
+·
+Boîte de 50.
+·
+34009 576 882 3 3 : 50 mL en poche (polyoléfine) suremballée avec un site de perfusion.
+·
+Boîte de 1.
+·
+34009 576 888 1 3 : 50 mL en poche (polyoléfine) suremballée avec un site de perfusion.
+·
+Boîte de 50.
+·
+34009 576 890 6 3 : 100 mL en poche (polyoléfine) suremballée avec un site de perfusion.
+·
+Boîte de 1.
+·
+34009 576 895 8 2 : 100 mL en poche (polyoléfine) suremballée avec un site de perfusion.
+·
+Boîte de 50.
+·
+34009 576 897 0 4 : 50 mL
+en poche (polyoléfine) suremballée avec un site d'injection et un site de perfusion. Boîte de 1.
+·
+34009 576 902 4 3 : 50 mL en poche COSINUS (polyoléfine) suremballée avec un site d'injection et un site de perfusion. Boîte de 50.
+·
+34009 551 049 3 3 : 50 mL en poche COSINUS EMBASE (polyoléfine) suremballée avec un site d'injection et un site de perfusion. Boîte de 50.
+·
+34009 576 904 7 2 : 100 mL en poche (polyoléfine) suremballée avec un site d'injection et un site de perfusion. Boîte de 1.
+·
+34009 576 910 7 3 : 100 mL en poche COSINUS (polyoléfine) suremballée avec un site d'injection et un site de perfusion. Boîte de 50.
+·
+34009 551 049 4 0 : 100 mL en poche COSINUS EMBASE (polyoléfine) suremballée avec un site d'injection et un site de perfusion. Boîte de 50.
+
+9. DATE DE PREMIERE AUTORISATION/DE RENOUVELLEMENT DE L’AUTORISATION
+Redirection vers le haut de page
+[à compléter ultérieurement par le titulaire]
+
+10. DATE DE MISE A JOUR DU TEXTE
+Redirection vers le haut de page
+[à compléter ultérieurement par le titulaire]
+
+11. DOSIMETRIE
+Redirection vers le haut de page
+Sans objet.
+
+12. INSTRUCTIONS POUR LA PREPARATION DES RADIOPHARMACEUTIQUES
+Redirection vers le haut de page
+Sans objet.
+CONDITIONS DE PRESCRIPTION ET DE DELIVRANCE
+Liste I
+Médicament réservé à l’usage hospitalier.
+Médicament pouvant être administré par tout médecin dans les cas où il intervient en situation d'urgence ou dans le cadre d'une structure d'assistance médicale mobile ou de rapatriement sanitaire (article R. 5121-96 du code de la santé publique).
+Informations
+importantes
+Redirection vers le haut de page
+Les informations importantes disponibles pour ce médicament sont les suivantes :
+Il n'existe pas de lien démontré entre le paracétamol et l'autisme
+Sommaire de la notice
+Dénomination du médicament
+Encadré
+Que contient cette notice ?

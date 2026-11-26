@@ -1,0 +1,57 @@
+{
+  "doc_id": "aadcee2c796e",
+  "medicament": "paracétamol",
+  "source": "dailymed",
+  "langue": "en",
+  "url": "https://dailymed.nlm.nih.gov/dailymed/downloadpdffile.cfm?setId=b16ed4ef-689c-4df2-ab6c-207aa8b9925d",
+  "date_collecte": "2026-11-16",
+  "date_extraction": "2026-11-26",
+  "chemin_texte": "data/processed/textes/aadcee2c796e.txt",
+  "rubriques": {
+    "indications": {
+      "trouve": true,
+      "raison": "",
+      "titre": "Uses",
+      "methode": "titre",
+      "debut": 186,
+      "fin": 823,
+      "passage": "Uses\ntemporarily relieves minor aches and pains due to:\nheadache\nthe common cold\nbackache\nminor pain of arthritis\ntoothache\nmuscular aches\npremenstrual and menstrual cramps\ntemporarily reduces fever\nWarnings\nLiver warning: This product contains acetaminophen. Severe liver damage may occur\nif you take\nmore than 4,000 mg of acetaminophen in 24 hours\nwith other drugs containing acetaminophen\n3 or more alcoholic drinks every day while using this product\nAllergy alert: Acetaminophen may cause severe skin reactions. Symptoms may\ninclude:\nskin reddening\nblisters\nrash\nIf a skin reaction occurs, stop use and seek medical help right away."
+    },
+    "contre_indications": {
+      "trouve": true,
+      "raison": "",
+      "titre": "Do not use",
+      "methode": "titre",
+      "debut": 823,
+      "fin": 1758,
+      "passage": "Do not use\nif you are allergic to acetaminophen or any of the inactive ingredients in this product\nwith any other drug containing acetaminophen (prescription or nonprescription). If\nyou are not sure whether a drug contains acetaminophen, ask a doctor or\npharmacist.\n\nAsk a doctor before use if you have\nliver disease.\nAsk a doctor or pharmacist before use if you are\ntaking the blood thinning drug warfarin.\nStop use and ask a doctor if\npain gets worse or lasts more than 10 days\nfever gets worse or lasts more than 3 days\nnew symptoms occur\nredness or swelling is present\nThese could be signs of a serious condition.\nIf pregnant or breast-feeding,\nask a health professional before use.\nKeep out of reach of children.\nIn case of accidental overdose, get medical help or contact a Poison Control Center right\naway. Prompt medical attention is critical for adults as well as for children even if you do\nnot notice any signs or symptoms."
+    },
+    "posologie": {
+      "trouve": true,
+      "raison": "",
+      "titre": "Directions",
+      "methode": "titre",
+      "debut": 1758,
+      "fin": 4404,
+      "passage": "Directions\ndo not take more than directed\nadults and children 12 years and over\ntake 2 caplets every 6 hours while symptoms last\ndo not take more than 6 caplets in 24 hours, unless directed by a doctor\ndo not take for more than 10 days unless directed by a doctor\nchildren under 12 years: ask a doctor\nOther information\nstore at 25°C (77°F); excursions permitted between 15°-30°C (59°-86°F)\nuse by expiration date on package\nInactive ingredients\ncastor oil, hypromellose, povidone, sodium starch glycolate, starch, stearic acid\nQuestions or comments?\n1-800-426-9391\nPrincipal Display Panel\n\nRugby®\nNDC 0536-1413-48\nExtra Strength\nAcetaminophen\n500 mg\nPain Reliever/Fever Reducer\nContains no aspirin\nActual size\nInstitutional Dispensing Only\n100 Caplets\n(50 pouches of 2 caplets each)\n\nRugby 44-175 Institutional Dispensing\n\nACETAMINOPHEN \nacetaminophen tablet, film coated\nProduct Information\nProduct Type\nHUMAN OTC DRUG\nItem Code (Source)\nNDC:0536-1413\nRoute of Administration\nORAL\nActive Ingredient/Active Moiety\nIngredient Name\nBasis of Strength\nStrength\nACETAMINOPHEN (UNII: 362O9ITL9D) (ACETAMINOPHEN - UNII:362O9ITL9D)\nACETAMINOPHEN\n500 mg\nInactive Ingredients\nIngredient Name\nStrength\nCASTOR OIL (UNII: D5340Y2I9G)\n \nHYPROMELLOSE, UNSPECIFIED (UNII: 3NXW29V3WO)\n \nPOVIDONE, UNSPECIFIED (UNII: FZ989GH94E)\n \nSODIUM STARCH GLYCOLATE TYPE A POTATO (UNII: 5856J3G2A2)\n \nSTARCH, CORN (UNII: O8232NY3SJ)\n \nSTEARIC ACID (UNII: 4ELV7Z65AP)\n \nProduct Characteristics\nColor\nwhite\nScore\nno score\nShape\nOVAL\nSize\n17mm\nFlavor\nImprint Code\n44;175\nContains\n \nPackaging\n#\nItem Code\nPackage Description\nMarketing Start\nDate\nMarketing End\nDate\n1 NDC:0536-1413-\n48\n50 in 1 CARTON\n10/03/2024\n1 NDC:0536-1413-\n47\n2 in 1 POUCH; Type 0: Not a Combination\nProduct\nMarketing Information\nMarketing\nCategory\nApplication Number or Monograph\nCitation\nMarketing Start\nDate\nMarketing End\nDate\nOTC Monograph Drug\nM013\n10/03/2024\nLabeler - Rugby Laboratories (079246066)\n\nRugby Laboratories\nEstablishment\nName\nAddress\nID/FEI\nBusiness Operations\nLNK International, Inc.\n038154464\npack(0536-1413)\nEstablishment\nName\nAddress\nID/FEI\nBusiness Operations\nLNK International, Inc.\n832867837\nmanufacture(0536-1413) , pack(0536-1413)\nEstablishment\nName\nAddress\nID/FEI\nBusiness Operations\nLNK International, Inc.\n832867894\nmanufacture(0536-1413)\nEstablishment\nName\nAddress\nID/FEI\nBusiness Operations\nLNK International, Inc.\n868734088\nmanufacture(0536-1413)\nEstablishment\nName\nAddress\nID/FEI\nBusiness Operations\nLNK International, Inc.\n967626305\npack(0536-1413)\nEstablishment\nName\nAddress\nID/FEI\nBusiness Operations\nLNK International, Inc.\n117597853\npack(0536-1413)\n \nRevised: 11/2026"
+    },
+    "interactions": {
+      "trouve": false,
+      "raison": "titre introuvable",
+      "titre": "",
+      "methode": "",
+      "debut": null,
+      "fin": null,
+      "passage": ""
+    },
+    "effets_indesirables": {
+      "trouve": false,
+      "raison": "titre introuvable",
+      "titre": "",
+      "methode": "",
+      "debut": null,
+      "fin": null,
+      "passage": ""
+    }
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "doc_id": "aa90fdd33c03",
+  "medicament": "gentamicine",
+  "source": "dailymed",
+  "langue": "en",
+  "url": "https://dailymed.nlm.nih.gov/dailymed/downloadpdffile.cfm?setId=e2fd1885-afad-dcc8-ad64-27d45f63c00f",
+  "date_collecte": "2026-11-16",
+  "date_extraction": "2026-11-26",
+  "chemin_texte": "data/processed/textes/aa90fdd33c03.txt",
+  "rubriques": {
+    "indications": {
+      "trouve": true,
+      "raison": "",
+      "titre": "INDICATIONS AND USAGE",
+      "methode": "titre",
+      "debut": 1508,
+      "fin": 2961,
+      "passage": "INDICATIONS AND USAGE\nPrimary skin infections: Impetigo contagiosa, superficial folliculitis, ecthyma, furunculosis, sycosis\nbarbae, and pyoderma gangrenosum. Secondary skin infections: Infectious eczematoid dermatitis,\npustular acne, pustular psoriasis, infected seborrheic dermatitis, infected contact dermatitis (including\npoison ivy), infected excoriations, and bacterial superinfections of fungal or viral infections. NOTE:\nGentamicin Sulfate is a bactericidal agent that is not effective against viruses or fungi in skin infections.\nIt is useful in the treatment of infected skin cysts and certain other skin abscesses when preceded by\nincision and drainage to permit adequate contact between the antibiotic and the infecting bacteria. Good\nresults have been obtained in the treatment of infected stasis and other skin ulcers, infected superficial\nburns, paronychia, infected insect bites and stings, infected lacerations and abrasions and wounds from\nminor surgery. Patients sensitive to neomycin can be treated with Gentamicin Sulfate, although regular\nobservation of patients sensitive to topical antibiotics is advisable when such patients are treated with\nany topical antibiotic. Gentamicin Sulfate Ointment USP, 0.1% helps retain moisture and has been useful\nin infection on dry eczematous or psoriatic skin. Gentamicin Sulfate Ointment USP, 0.1% has been used\nsuccessfully in infants over one year of age as well as in adults and children."
+    },
+    "contre_indications": {
+      "trouve": true,
+      "raison": "",
+      "titre": "CONTRAINDICATIONS",
+      "methode": "titre",
+      "debut": 2961,
+      "fin": 3423,
+      "passage": "CONTRAINDICATIONS\nGentamicin Sulfate Ointment USP, 0.1% is contraindicated in individuals with a history of sensitivity\nreactions to any of its components.\n\nPRECAUTIONS\nUse of topical antibiotics occasionally allows overgrowth of nonsusceptible organisms, including\nfungi. If this occurs, or if irritation, sensitization, or superinfection develops, treatment with Gentamicin\nSulfate Ointment USP, 0.1% should be discontinued and appropriate therapy instituted."
+    },
+    "posologie": {
+      "trouve": true,
+      "raison": "",
+      "titre": "DOSAGE AND ADMINISTRATION",
+      "methode": "titre",
+      "debut": 4116,
+      "fin": 6309,
+      "passage": "DOSAGE AND ADMINISTRATION\nA small amount of Gentamicin Sulfate Ointment USP, 0.1% should be applied gently to lesions three to\nfour times a day. The area treated may be covered with a gauze dressing, if desired. In impetigo\ncontagiosa, the crusts should be removed before application of Gentamicin Sulfate Ointment USP, 0.1%\nto permit maximum contact between the antibiotic and the infection. Care should be exercised to avoid\nfurther contamination of the infected skin. Infected stasis ulcers have responded well to Gentamicin\nSulfate under gelatin packing.\nHOW SUPPLIED\nGentamicin Sulfate Ointment USP, 0.1% is available as follows:\n15 g tube (NDC 52565-090-15)\n30 g tube (NDC 52565-090-30)\nSTORAGE\nStore at 20 to 25˚C (68 to 77˚F) [see USP Controlled Room Temperature].\nManufactured By:\nTeligent Pharma, Inc.\nBuena, NJ 08310\nRevised: 04/2018\nPrincipal Display Panel - Carton\nNDC 52565-090-15\nGentamicin Sulfate\nOintment USP, 0.1%*\nNet Wt. 15 grams\n\nRx only\nFor External Use Only\nNot For Ophthalmic Use\nGENTAMICIN SULFATE \ngentamicin sulfate ointment\nProduct Information\nProduct T ype\nHUMAN PRESCRIPTION DRUG\nItem Code (Source)\nNDC:52565-090\nRoute of Administration\nTOPICAL\nActive Ingredient/Active Moiety\nIngredient Name\nBasis of Strength\nStrength\nGENTAMICIN SULFATE (UNII: 8X7386QRLV) (GENTAMICIN - UNII:T6Z9V48IKG)\nGENTAMICIN\n1 mg in 1 g\nInactive Ingredients\nIngredient Name\nStrength\nLIGHT MINERAL OIL (UNII: N6K5787QVP)\n \nPETROLATUM (UNII: 4T6H12BN9U)\n \nMETHYLPARABEN (UNII: A2I8C7HI9T)\n \n\nTeligent Pharma, Inc.\nPROPYLPARABEN (UNII: Z8IX2SC1OH)\n \nPackaging\n#\nItem Code\nPackage Description\nMarketing Start Date\nMarketing End Date\n1 NDC:52565-090-15\n1 in 1 CARTON\n12/31/2018\n1\n15 g in 1 TUBE; Type 0: Not a Combination Product\n2 NDC:52565-090-30\n1 in 1 CARTON\n12/31/2018\n2\n30 g in 1 TUBE; Type 0: Not a Combination Product\nMarketing Information\nMarketing Category\nApplication Number or Monograph Citation\nMarketing Start Date\nMarketing End Date\nANDA\nANDA209233\n12/31/2018\nLabeler - Teligent Pharma, Inc. (011036910)\nRegistrant - Teligent Pharma, Inc. (011036910)\nEstablishment\nName\nAddress\nID/FEI\nBusiness Operations\nTeligent Pharma, Inc.\n011036910\nmanufacture(52565-090)\n \nRevised: 4/2018"
+    },
+    "interactions": {
+      "trouve": false,
+      "raison": "titre introuvable",
+      "titre": "",
+      "methode": "",
+      "debut": null,
+      "fin": null,
+      "passage": ""
+    },
+    "effets_indesirables": {
+      "trouve": true,
+      "raison": "",
+      "titre": "ADVERSE REACTIONS",
+      "methode": "titre",
+      "debut": 3423,
+      "fin": 4116,
+      "passage": "ADVERSE REACTIONS\nIn patients with dermatoses treated with Gentamicin Sulfate, irritation (erythema and pruritus) that did not\nusually require discontinuance of treatment has been reported in a small percentage of cases. There was\nno evidence of irritation or sensitization, however, in any of these patients patch-tested subsequently\nwith gentamicin on normal skin. Possible photosensitization has been reported in several patients but\ncould not be elicited in these patients by reapplication of gentamicin followed by exposure to\nultraviolet radiation.\nTo report SUSPECTED ADVERSE REACTIONS, contact Teligent Pharma, Inc. at 1-856-697-1441,\nor FDA at 1-800-FDA-1088 or www.fda.gov/medwatch."
+    }
+  }
+}

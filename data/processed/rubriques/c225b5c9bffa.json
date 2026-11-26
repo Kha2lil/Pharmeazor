@@ -1,0 +1,57 @@
+{
+  "doc_id": "c225b5c9bffa",
+  "medicament": "paracétamol",
+  "source": "dailymed",
+  "langue": "en",
+  "url": "https://dailymed.nlm.nih.gov/dailymed/downloadpdffile.cfm?setId=35483db0-d6b8-4b37-8113-1dbe51e42ae5",
+  "date_collecte": "2026-11-16",
+  "date_extraction": "2026-11-26",
+  "chemin_texte": "data/processed/textes/c225b5c9bffa.txt",
+  "rubriques": {
+    "indications": {
+      "trouve": true,
+      "raison": "",
+      "titre": "Uses",
+      "methode": "titre",
+      "debut": 174,
+      "fin": 811,
+      "passage": "Uses\ntemporarily relieves minor aches and pains due to:\nthe common cold\nheadache\nbackache\nminor pain of arthritis\ntoothache\nmuscular aches\npremenstrual and menstrual cramps\ntemporarily reduces fever\nWarnings\nLiver warning: This product contains acetaminophen. Severe liver damage may occur\nif you take\nmore than 4,000 mg of acetaminophen in 24 hours\nwith other drugs containing acetaminophen\n3 or more alcoholic drinks every day while using this product\nAllergy alert: Acetaminophen may cause severe skin reaction. Symptoms may\ninclude:\nskin reddening \nblisters\nrash\nIf a skin reaction occurs, stop use and seek medical help right away."
+    },
+    "contre_indications": {
+      "trouve": true,
+      "raison": "",
+      "titre": "Do not use",
+      "methode": "titre",
+      "debut": 811,
+      "fin": 1770,
+      "passage": "Do not use\nwith any other drug containing acetaminophen (prescription or nonprescription). If\nyou are not sure whether a drug contains acetaminophen, ask a doctor or\npharmacist.\nif you are allergic to acetaminophen or any of the inactive ingredients in this product\n\nAsk a doctor before use if you have\nliver disease.\nAsk a doctor or pharmacist before use if you are\ntaking the blood thinning drug warfarin.\nStop use and ask a doctor if\npain gets worse or lasts more than 10 days\nfever gets worse or lasts more than 3 days\nnew symptoms occur\nredness or swelling is present\nThese could be signs of a serious condition.\nIf pregnant or breast-feeding,\nask a health professional before use.\nKeep out of reach of children.\nOverdose warning:\nIn case of overdose, get medical help or contact a Poison Control Center (1-800-222-\n1222) right away. Quick medical attention is critical for adults as well as for children even\nif you do not notice any signs or symptoms."
+    },
+    "posologie": {
+      "trouve": true,
+      "raison": "",
+      "titre": "Directions",
+      "methode": "titre",
+      "debut": 1770,
+      "fin": 4010,
+      "passage": "Directions\ndo not take more than directed (see overdose warning)\nadults and children 12 years and over: take 2 caplets every 6 hours while\nsymptoms last; do not take more than 6 caplets in 24 hours, unless directed by a\ndoctor; do not take for more than 10 days unless directed by a doctor\nchildren under 12 years: ask a doctor\nOther information\nstore between 20˚ to 25˚C (68˚ to 77˚F)\nDO NOT USE IF PRINTED SEAL UNDER CAP IS MISSING OR DAMAGED\nInactive ingredients\nhypromellose, magnesium stearate, microcrystalline cellulose, polyethylene glycol,\npovidone, pregelatinized starch, stearic acid, talc, titanium dioxide\nQuestions? \ncall toll-free 1-844-912-4012\nDistributed by:\n\nBI-MART\nEugene, OR 97402\nPRINCIPAL DISPLAY PANEL-100 Count\nPRINCIPAL DISPLAY PANEL-250 Count\nPRINCIPAL DISPLAY PANEL-500 Count\n\nACETAMINOPHEN EXTRA STRENGTH \nacetaminophen tablet\nProduct Information\nProduct Type\nHUMAN OTC DRUG\nItem Code (Source)\nNDC:37835-507\nRoute of Administration\nORAL\nActive Ingredient/Active Moiety\nIngredient Name\nBasis of Strength\nStrength\nACETAMINOPHEN (UNII: 362O9ITL9D) (ACETAMINOPHEN - UNII:362O9ITL9D)\nACETAMINOPHEN\n500 mg\nInactive Ingredients\nIngredient Name\nStrength\nSTARCH, PREGELATINIZED CORN (UNII: O8232NY3SJ)\n \nHYPROMELLOSES (UNII: 3NXW29V3WO)\n \nMAGNESIUM STEARATE (UNII: 70097M6I30)\n \nPOLYETHYLENE GLYCOL, UNSPECIFIED (UNII: 3WJQ0SDW1A)\n \nCELLULOSE, MICROCRYSTALLINE (UNII: OP1R32D61U)\n \nPOVIDONE (UNII: FZ989GH94E)\n \nTITANIUM DIOXIDE (UNII: 15FIX9V2JP)\n \nSTEARIC ACID (UNII: 4ELV7Z65AP)\n \nTALC (UNII: 7SEV7J4R1U)\n \nProduct Characteristics\nColor\nwhite ((white to off white))\nScore\nno score\nShape\nCAPSULE\nSize\n18mm\nFlavor\nImprint Code\nS500\n\nBi-Mart\nContains\n \nPackaging\n#\nItem Code\nPackage Description\nMarketing Start\nDate\nMarketing End\nDate\n1 NDC:37835-507-\n01\n100 in 1 BOTTLE; Type 0: Not a Combination\nProduct\n05/01/2025\n2 NDC:37835-507-\n25\n250 in 1 BOTTLE; Type 0: Not a Combination\nProduct\n05/01/2025\n3 NDC:37835-507-\n05\n500 in 1 BOTTLE; Type 0: Not a Combination\nProduct\n05/01/2025\nMarketing Information\nMarketing\nCategory\nApplication Number or Monograph\nCitation\nMarketing Start\nDate\nMarketing End\nDate\nOTC Monograph Drug\nM013\n05/01/2025\nLabeler - Bi-Mart (027630078)\nRegistrant - Bi-Mart (027630078)\n \nRevised: 10/2026"
+    },
+    "interactions": {
+      "trouve": false,
+      "raison": "titre introuvable",
+      "titre": "",
+      "methode": "",
+      "debut": null,
+      "fin": null,
+      "passage": ""
+    },
+    "effets_indesirables": {
+      "trouve": false,
+      "raison": "titre introuvable",
+      "titre": "",
+      "methode": "",
+      "debut": null,
+      "fin": null,
+      "passage": ""
+    }
+  }
+}

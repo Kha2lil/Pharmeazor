@@ -1,0 +1,57 @@
+{
+  "doc_id": "f6d0160fa899",
+  "medicament": "métronidazole",
+  "source": "bdpm",
+  "langue": "fr",
+  "url": "https://base-donnees-publique.medicaments.gouv.fr/medicament/63815096/extrait",
+  "date_collecte": "2026-11-15",
+  "date_extraction": "2026-11-26",
+  "chemin_texte": "data/processed/textes/f6d0160fa899.txt",
+  "rubriques": {
+    "indications": {
+      "trouve": true,
+      "raison": "",
+      "titre": "4.1. Indications thérapeutiques",
+      "methode": "numero+titre",
+      "debut": 415,
+      "fin": 596,
+      "passage": "4.1. Indications thérapeutiques\nTraitement local de la rosacée.\nIl convient de tenir compte des recommandations officielles concernant l'utilisation appropriée des antibactériens."
+    },
+    "contre_indications": {
+      "trouve": true,
+      "raison": "",
+      "titre": "4.3. Contre-indications",
+      "methode": "numero+titre",
+      "debut": 874,
+      "fin": 1544,
+      "passage": "4.3. Contre-indications\nHypersensibilité à la substance active ou à l’un des excipients mentionnés à la rubrique 6.1.\n\n4.4. Mises en garde spéciales et précautions d'emploi\nEviter le contact avec les yeux.\nInterrompre totalement ou momentanément le traitement en cas d'intolérance locale.\nLa zone traitée par le métronidazole ne doit pas être exposée au soleil, ni aux rayonnements ultra-violets.\nCe médicament contient 30 mg de propylène glycol par g de gel et peut provoquer des irritations cutanées.\nCe médicament contient du parahydroxybenzoate de méthyle et du parahydroxybenzoate de propyle et peut provoquer des réactions allergiques (éventuellement retardées)."
+    },
+    "posologie": {
+      "trouve": true,
+      "raison": "",
+      "titre": "4.2. Posologie et mode d'administration",
+      "methode": "numero+titre",
+      "debut": 596,
+      "fin": 874,
+      "passage": "4.2. Posologie et mode d'administration\nPosologie\nAppliquer le gel en couche mince sur toute la surface à traiter, deux fois par jour après la toilette.\nLa durée habituelle du traitement est de 3 à 4 mois.\nPopulation pédiatrique\nSans objet.\nMode d’administration\nVoie cutanée."
+    },
+    "interactions": {
+      "trouve": true,
+      "raison": "",
+      "titre": "4.5. Interactions avec d'autres médicaments et autres formes d'interactions",
+      "methode": "numero+titre",
+      "debut": 1544,
+      "fin": 2683,
+      "passage": "4.5. Interactions avec d'autres médicaments et autres formes d'interactions\nSans objet.\n\n4.6. Fertilité, grossesse et allaitement\nGrossesse\nLes études chez l'animal n'ont pas mis en évidence d'effet tératogène. En l'absence d'effet tératogène chez l'animal, un effet malformatif dans l'espèce humaine n'est pas attendu. En effet, à ce jour, les substances responsables de malformations dans l'espèce humaine se sont révélées tératogènes chez l'animal au cours d'études bien conduites sur deux espèces.\nEn clinique, l'analyse d'un nombre élevé de grossesses exposées n'a apparemment révélé aucun effet malformatif ou fœtotoxique particulier du métronidazole. Toutefois, seules études épidémiologiques permettraient de vérifier l'absence de risque.\nEn conséquence, le métronidazole peut être prescrit pendant la grossesse si besoin.\nAllaitement\nL'administration de ROZAGEL peut être envisagée pendant l'allaitement.\n\n4.7. Effets sur l'aptitude à conduire des véhicules et à utiliser des machines\nROZAGEL, gel pour application locale n’a aucun effet ou un effet négligeable sur l’aptitude à conduire des véhicules et à utiliser des machines"
+    },
+    "effets_indesirables": {
+      "trouve": true,
+      "raison": "",
+      "titre": "4.8. Effets indésirables",
+      "methode": "numero+titre",
+      "debut": 2683,
+      "fin": 8194,
+      "passage": "4.8. Effets indésirables\nLes réactions secondaires imputables au métronidazole gel sont mineures et consistent essentiellement en des symptômes d'irritation locale tels que picotements, prurit et sensations de brûlure.\nEn raison de la présence de propylèneglycol, de parahydroxybenzoates de méthyle et de propyle, risque d'eczéma de contact ; exceptionnellement, réactions immédiates avec urticaire et bronchospasmes.\nDéclaration des effets indésirables suspectés\nLa déclaration des effets indésirables suspectés après autorisation du médicament est importante. Elle permet une surveillance continue du rapport bénéfice/risque du médicament. Les professionnels de santé déclarent tout effet indésirable suspecté via le système national de déclaration : Agence nationale de sécurité du médicament et des produits de santé (ANSM) et réseau des Centres Régionaux de Pharmacovigilance – Site internet :\nwww.signalement-sante.gouv.fr\n.\n\n4.9. Surdosage\nSans objet.\n\n5. COMMENT CONSERVER ROZAGEL, gel pour application locale ?\n\n5.1. Propriétés pharmacodynamiques\nClasse pharmacothérapeutique : antibiotiques et chimiothérapie à usage dermatologique, autres chimiothérapies, code ATC : D06BX01.\nLe métronidazole est un antiparasitaire et un antibactérien actif contre de nombreux germes pathogènes. Le métronidazole est particulièrement efficace contre la composante inflammatoire papulo-pustuleuse de la maladie.\nSon mécanisme d'action semble vraisemblablement impliquer un effet anti-inflammatoire.\nSPECTRE D'ACTIVITE ANTIMICROBIENNE\nLes concentrations critiques séparent les souches sensibles des souches de sensibilité intermédiaire et ces dernières, des résistantes :\nS\n£\n4 mg/l et R > 4 mg/l\nLa prévalence de la résistance acquise peut varier en fonction de la géographie et du temps pour certaines espèces. Il est donc utile de disposer d'informations sur la prévalence de la résistance locale, surtout pour le traitement d'infections sévères. Ces données ne peuvent apporter qu'une orientation sur les probabilités de la sensibilité d'une souche bactérienne à cet antibiotique.\nLorsque la variabilité de la prévalence de la résistance en France est connue pour une espèce bactérienne, elle est indiquée dans le tableau ci-dessous :\nCatégories\nFréquence de résistance acquise en France (> 10%) (valeurs extrêmes)\nESPÈCES SENSIBLES\nAérobies à Gram négatif\nHelicobacter pylori\n30 %\nAnaérobies\nBacteroides fragilis\nBifidobacterium\n60 - 70 %\nBilophila\nClostridium\nClostridium difficile\nClostridium perfringens\nEubacterium\n20 - 30 %\nFusobacterium\nPeptostreptococcus\nPorphyromonas\nPrevotella\nVeillonella\nESPÈCES RÉSISTANTES\nAérobies à Gram positif\nActinomyces\nAnaérobies\nMobiluncus\nPropionibacterium acnes\nACTIVITÉ ANTIPARASITAIRE\nEntamoeba histolytica\nGiardia intestinalis\nTrichomonas vaginalis\nRemarque\n: ce spectre correspond à celui des formes systémiques du métronidazole. Avec les présentations pharmaceutiques locales, les concentrations obtenues\nin situ\nsont très supérieures aux concentrations plasmatiques. Quelques incertitudes demeurent sur la cinétique des concentrations\nin situ\n, sur les conditions physico-chimiques locales qui peuvent modifier l’activité de l’antibiotique et sur la stabilité du produit\nin situ\n.\n\n5.2. Propriétés pharmacocinétiques\nLes études de biodisponibilité avec ROZAGEL sur des patients atteints de rosacée, traités avec 7,5 mg de métronidazole appliqué localement sur le visage, montrent un maximum de concentration sérique de 66 ng/ml, approximativement 100 fois moins que celui atteint par une dose orale unique de 250 mg.\nLe passage systémique du métronidazole après application locale de gel est variable suivant les sujets. Chez la plupart des patients, les concentrations sériques ont été en dessous des limites de détection (25 ng/ml) ; quand elles étaient dosables, il était de l'ordre de 2 %.\n\n5.3. Données de sécurité préclinique\nUne apparition plus précoce des tumeurs cutanées induites par rayonnement UV chez la souris nue traitée par le métronidazole par voie intrapéritonéale a été observée.\n\n6. CONTENU DE L’EMBALLAGE ET AUTRES INFORMATIONS\nImprimer\n\n6.1. Liste des excipients\nPropylèneglycol, carbomère 940 (Carbopol 980), édétate de sodium, parahydroxybenzoate de méthyle, parahydroxybenzoate de propyle, hydroxyde de sodium, eau purifiée.\n\n6.2. Incompatibilités\nSans objet.\n\n6.3. Durée de conservation\n3 ans.\n\n6.4. Précautions particulières de conservation\nA conserver à une température ne dépassant pas 25°C.\n\n6.5. Nature et contenu de l'emballage extérieur\n30 g en tube (aluminium verni).\n\n6.6. Précautions particulières d’élimination et de manipulation\nPas d’exigences particulières.\n\n7. TITULAIRE DE L’AUTORISATION DE MISE SUR LE MARCHE\nRedirection vers le haut de page\nLABORATOIRES BAILLEUL S.A.\n10-12, AVENUE PASTEUR\nL-2310 LUXEMBOURG\nLUXEMBOURG\n\n8. NUMERO(S) D’AUTORISATION DE MISE SUR LE MARCHE\nRedirection vers le haut de page\n·\n34009 334 721 8 4 : 30 g en tube (aluminium verni).\n\n9. DATE DE PREMIERE AUTORISATION/DE RENOUVELLEMENT DE L’AUTORISATION\nRedirection vers le haut de page\n[à compléter ultérieurement par le titulaire]\n\n10. DATE DE MISE A JOUR DU TEXTE\nRedirection vers le haut de page\n[à compléter ultérieurement par le titulaire]\n\n11. DOSIMETRIE\nRedirection vers le haut de page\nSans objet.\n\n12. INSTRUCTIONS POUR LA PREPARATION DES RADIOPHARMACEUTIQUES\nRedirection vers le haut de page\nSans objet.\nCONDITIONS DE PRESCRIPTION ET DE DELIVRANCE\nListe I\nSommaire de la notice\nDénomination du médicament\nEncadré\nQue contient cette notice ?"
+    }
+  }
+}

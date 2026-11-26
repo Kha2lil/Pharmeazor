@@ -1,0 +1,750 @@
+1/14
+RÉSUMÉ DES CARACTÉRISTIQUES DU PRODUIT
+
+Résumé des Caractéristiques du Produit
+2/14
+1. 
+DÉNOMINATION DU MÉDICAMENT
+Amlodipine besilate Viatris 5 mg comprimés
+Amlodipine besilate Viatris 10 mg comprimés
+2. 
+COMPOSITION QUALITATIVE ET QUANTITATIVE
+Chaque comprimé contient 5 mg d’amlodipine (sous la forme de bésilate
+d’amlodipine)
+Chaque comprimé contient 10 mg d’amlodipine (sous la forme de bésilate
+d’amlodipine)
+Pour la liste complète des excipients, voir rubrique 6.1.
+3. 
+FORME PHARMACEUTIQUE
+Comprimé.
+Comprimé à 5 mg
+Comprimés blancs, ronds, biconvexes, portant l'inscription « 5 » sur une face et une
+barre de cassure sur l'autre.
+Comprimé à 10 mg
+Comprimés blancs, ronds, biconvexes, portant l’inscription « 10 » sur une face et une
+barre de cassure sur l’autre.
+Le comprimé peut être divisé en doses égales.
+4. 
+INFORMATIONS CLINIQUES
+4.1 
+Indications thérapeutiques
+
+Hypertension
+
+Angor chronique stable
+
+Angor spastique (de Prinzmetal)
+4.2 
+Posologie et mode d’administration
+Posologie
+Adultes
+Tant pour l’hypertension que pour l’angor, la posologie de départ habituelle est de 5
+mg d’Amlodipine besilate Viatris une fois par jour ; elle peut être augmentée jusqu’à
+un maximum de 10 mg par jour en fonction de la réaction personnelle du patient.
+Chez les patients hypertendus, l’amlodipine s’utilise en association avec un
+diurétique thiazidique, un alphabloquant, un bêtabloquant ou un inhibiteur de
+l'enzyme de conversion de l'angiotensine. Dans le traitement de l'angor, l’amlodipine
+peut être utilisée en monothérapie ou en association avec d'autres antiangoreux chez
+les patients qui présentent un angor résistant aux nitrés et/ou à des doses adéquates
+de bêtabloquants.
+
+Résumé des Caractéristiques du Produit
+3/14
+Aucun ajustement posologique de l'amlodipine ne s'impose en cas d'administration
+concomitante de diurétiques thiazidiques, de bêtabloquants et d'inhibiteurs de
+l'enzyme de conversion de l'angiotensine.
+Populations particulières
+Patients âgés
+Utilisé à des doses similaires chez des patients âgés ou plus jeunes, l’amlodipine est
+tout aussi bien toléré. Les schémas posologiques normaux sont recommandés chez
+les personnes âgées, mais toute augmentation de la posologie doit se faire avec
+prudence (voir rubriques 4.4 et 5.2).
+Patients atteints d’insuffisance hépatique
+Aucune recommandation posologique n'a été établie chez les patients présentant une
+insuffisance hépatique légère à modérée ; dès lors, la dose sera choisie avec
+prudence en commençant par la limite inférieure de l'éventail des doses (voir
+rubriques 4.4 et 5.2). La pharmacocinétique de l'amlodipine n'a pas été étudiée en
+cas d'insuffisance hépatique sévère. La posologie initiale d'amlodipine sera la plus
+faible possible, avant d'être ajustée lentement chez les patients qui présentent une
+insuffisance hépatique sévère.
+Patients atteints d’insuffisance rénale
+Il n'y a pas de corrélation entre les modifications de la concentration plasmatique
+d'amlodipine et le degré d'insuffisance rénale ; dès lors, la posologie habituelle est
+recommandée. L’amlodipine n’est pas dialysable.
+Population pédiatrique
+Enfants et adolescents hypertendus âgés de 6 à 17 ans.
+La posologie orale antihypertensive recommandée chez les patients pédiatriques
+âgés de 6 à 17 ans est de 2,5 mg une fois par jour au départ et peut être portée à 5
+mg une fois par jour si la tension artérielle cible n’est pas atteinte après 4 semaines.
+Les posologies supérieures à 5 mg par jour n’ont pas été étudiées chez des patients
+pédiatriques (voir rubriques 5.1 et 5.2).
+Enfants de moins de 6 ans
+Aucune donnée n’est disponible.
+Mode d’administration
+Comprimé par voie orale.
+4.3 
+Contre-indications
+L’amlodipine est contre-indiquée dans les cas suivants:
+
+hypersensibilité à la substance active, aux dérivés de la dihydropyridine ou à l’un
+des excipients mentionnés à la rubrique 6.1
+
+hypotension profonde
+
+choc (y compris choc cardiogénique)
+
+obstruction à l’éjection ventriculaire gauche (p. ex. sténose aortique de haut
+grade)
+
+insuffisance cardiaque instable sur le plan hémodynamique dans les suites
+immédiates d’un infarctus du myocarde
+4.4 
+Mises en garde spéciales et précautions d’emploi
+La sécurité et l’efficacité de l’amlodipine dans la poussée d’hypertension ne sont pas
+établies.
+
+Résumé des Caractéristiques du Produit
+4/14
+Patients atteints d’insuffisance cardiaque:
+Les patients souffrant d’insuffisance cardiaque doivent être traités avec prudence.
+Dans une étude contre placebo, consacrée au suivi à long terme de l’insuffisance
+cardiaque grave (grades III et IV de la NYHA), l’incidence des œdèmes pulmonaires
+était plus élevée dans le groupe amlodipine que dans le groupe placebo (voir
+rubrique 5.1).
+Les inhibiteurs calciques, y compris l’amlodipine, seront utilisés avec prudence chez
+les patients atteints d'insuffisance cardiaque congestive, car ils peuvent augmenter le
+risque d'événements cardiovasculaires futurs et de mortalité.
+Patients atteints d’insuffisance hépatique:
+La demi-vie de l’amlodipine est prolongée et les valeurs de l'ASC sont plus élevées
+chez les patients qui présentent une insuffisance hépatique; aucune recommandation
+posologique n’a été établie dans cette situation. Le traitement par Amlodipine besilate
+Viatris sera donc instauré à la limite inférieure de l'éventail des doses ; la prudence
+s'impose à l'instauration du traitement et lors de toute augmentation de la posologie.
+Un lent ajustement de la posologie et une surveillance attentive peuvent s'avérer
+nécessaires chez les patients atteints d'insuffisance hépatique sévère.
+Patients âgés:
+Chez les personnes âgées, l'augmentation de la posologie doit s’effectuer avec
+prudence (voir rubriques 4.2 et 5.2).
+Patients atteints d’insuffisance rénale:
+Amlodipine besilate Viatris peut être utilisé aux posologies normales chez ces
+patients. Les variations des concentrations plasmatiques en amlodipine ne sont pas
+corrélées au degré d’insuffisance rénale. L’amlodipine n’est pas dialysable.
+Sodium
+Ce médicament contient moins de 1 mmol (23 mg) de sodium par comprimé, c.-à-d.
+qu’il est essentiellement « sans sodium ».
+4.5 
+Interactions avec d’autres médicaments et autres formes d’interactions
+Effets d’autres médicaments sur l’amlodipine
+Inhibiteurs du CYP3A4
+L'utilisation concomitante d’amlodipine et d'inhibiteurs puissants ou modérés du
+CYP3A4 (inhibiteurs de protéases, antifongiques azolés, macrolides comme
+l'érythromycine ou la clarithromycine, vérapamil ou diltiazem) peut entraîner une
+augmentation significative de l'exposition à l'amlodipine, résultant en un risque accru
+d’hypotension. Sur le plan clinique, ces variations pharmacocinétiques peuvent se
+manifester de manière plus prononcée chez les patients âgés. Dès lors, une
+surveillance clinique et un ajustement de la posologie peuvent s’avérer nécessaires.
+Inducteurs du CYP3A4
+Lors de la co-administration d’inducteurs connus du CYP3A4, la concentration
+plasmatique d’amlodipine peut varier. Par conséquent, la pression artérielle doit être
+surveillée et une adaptation posologique doit être envisagée pendant et après la prise
+concomitante d’un médicament, en particulier avec des inducteurs puissants du
+CYP3A4 (par exemple, rifampicine,
+millepertuis [hypericum perforatum]).
+L'administration d'amlodipine avec du pamplemousse ou du jus de pamplemousse
+n'est pas recommandée, car la biodisponibilité peut se trouver augmentée chez
+certains patients et entraîner un renforcement des effets hypotenseurs.
+
+Résumé des Caractéristiques du Produit
+5/14
+Dantrolène (en perfusion)
+Chez l'animal, des cas fatals de fibrillation ventriculaire et de collapsus
+cardiovasculaire associés à une hyperkaliémie ont été observés après
+l'administration de vérapamil et de dantrolène par voie intraveineuse. Vu le risque
+d'hyperkaliémie, il est recommandé d'éviter de coadministrer des inhibiteurs calciques
+comme l'amlodipine aux patients à risque d'hyperthermie maligne et lors de la prise
+en charge de l'hyperthermie maligne.
+Effets de l’amlodipine sur d’autres médicaments
+Les effets hypotenseurs de l’amlodipine s’ajoutent à ceux d’autres médicaments qui
+ont un effet antihypertenseur.
+Tacrolimus
+Il y a un risque d’élévation des taux sanguins de tacrolimus en cas d’administration
+concomitante avec l’amlodipine, mais le mécanisme pharmacocinétique de cette
+interaction n’est pas clairement élucidé. Pour éviter toute toxicité du tacrolimus,
+l’administration d’amlodipine à un patient traité par tacrolimus requiert une
+surveillance des taux sanguins de tacrolimus et, le cas échéant, une adaptation de la
+dose de tacrolimus.
+Cible mécanistique des inhibiteurs de la rapamycine (mTOR)
+Les inhibiteurs du mTOR tels que le sirolimus, le temsirolimus et l’évérolimus sont
+des substrats du CYP3A. L’amlodipine est un inhibiteur faible du CYP3A. Lors d’une
+utilisation concomitante avec des inhibiteurs de mTOR, l’amlodipine peut augmenter
+l’exposition des inhibiteurs de mTOR.
+Ciclosporine
+Aucune étude d’interaction n’a été réalisée avec la ciclosporine et l’amlodipine parmi
+des volontaires sains ou d’autres populations, à l’exception de patients ayant
+bénéficié d’une transplantation rénale, chez qui les investigateurs ont observé des
+augmentations variables (de 0 à 40 % en moyenne) des concentrations minimales de
+ciclosporine.
+Une surveillance des concentrations de ciclosporine doit être envisagée chez les
+patients sous amlodipine qui ont bénéficié d’une transplantation rénale. Au besoin, la
+dose de ciclosporine devra être réduite.
+Simvastatine
+L’administration concomitante de doses multiples de 10 mg d’amlodipine et 80 mg de
+simvastatine a entraîné une augmentation de l’exposition à la simvastatine de 77%
+par rapport à la simvastatine seule. Limiter la dose de simvastatine chez les patients
+sous amlodipine à 20 mg par jour.
+Dans les études cliniques d’interaction, l’amlodipine n’affectait pas la
+pharmacocinétique de l’atorvastatine, de la digoxine ou de la warfarine.
+4.6 
+Fertilité, grossesse et allaitement
+Grossesse
+La sécurité d'utilisation de l’amlodipine au cours de la grossesse n’a pas été établie
+chez l'être humain.
+Les études effectuées chez l'animal ont mis en évidence une toxicité sur la
+reproduction lors de l’utilisation de doses élevées (voir rubrique 5.3).
+
+Résumé des Caractéristiques du Produit
+6/14
+L’utilisation au cours de la grossesse n’est recommandée qu’en l'absence d’une
+solution plus sûre et quand la maladie entraîne, par elle-même, un risque plus élevé
+pour la mère et le fœtus.
+Allaitement
+L’amlodipine a été identifiée chez des nourrissons allaités. L’amlodipine est excrétée
+dans le lait maternel. La proportion de dose maternelle reçue par le nourrisson a été
+estimée à un intervalle interquartile de 3 à 7 %, avec un maximum de 15 %. L’effet de
+l’amlodipine sur les nourrissons est inconnu. La décision de poursuivre ou d’arrêter
+l’allaitement ou, au contraire, la thérapie par amlodipine doit être prise en tenant
+compte des avantages de l’allaitement pour l'enfant et de ceux de l’amlodipine pour la
+mère.
+Fertilité
+Des modifications biochimiques réversibles de la tête des spermatozoïdes ont été
+signalées chez certains patients traités par des inhibiteurs calciques. Les données
+cliniques sont insuffisantes pour pouvoir évaluer l'effet possible de l'amlodipine sur la
+fertilité. Dans une étude menée chez le rat, des effets indésirables sur la fertilité des
+mâles ont été observés (voir rubrique 5.3).
+4.7 
+Effets sur l’aptitude à conduire des véhicules et à utiliser des machines
+L’amlodipine peut avoir une influence mineure ou modérée sur l’aptitude à conduire
+des véhicules et à utiliser des machines. Un étourdissement, une céphalée, une
+fatigue ou des nausées peuvent altérer les capacités de réaction des patients qui
+prennent de l’amlodipine. La prudence s'impose, en particulier au début du
+traitement.
+4.8 
+Effets indésirables
+Résumé du profil de sécurité
+Les effets indésirables les plus fréquemment rapportés pendant le traitement sont la
+somnolence, les étourdissements, les céphalées, les palpitations, les bouffées
+vasomotrices, les douleurs abdominales, les nausées, le gonflement des chevilles,
+l'œdème et la fatigue.
+
+Résumé des Caractéristiques du Produit
+7/14
+Tableau synoptique des effets indésirables
+Les effets indésirables suivants ont été observés aux fréquences suivantes et notifiés
+au cours d'un traitement par amlodipine :
+Très fréquent: (≥1/10) ; Fréquent: (≥1/100 à <1/10) ; Peu fréquent: (≥1/1.000 à
+<1/100) ; Rare: (≥1/10.000 à <1/1.000) ; Très rare: (<1/10.000) ; fréquence
+indéterminée (ne peut être estimée sur la base des données disponibles).
+Au sein de chaque groupe de fréquence, les effets indésirables sont présentés par
+ordre décroissant de gravité.
+Classe de systèmes
+d'organes
+Fréquence
+Effets indésirables
+Affections hématologiques
+et du système lymphatique
+Très rare
+Leucopénie, thrombocytopénie
+Affections du système
+immunitaire
+Très rare
+Réactions allergiques
+Troubles du métabolisme et
+de la nutrition
+Très rare
+Hyperglycémie
+Affections psychiatriques
+Peu fréquent
+Dépression, changements
+d'humeur (y compris anxiété),
+insomnie
+Rare
+Confusion
+Affections du système
+nerveux
+Fréquent
+Somnolence, étourdissement,
+céphalée (en particulier au début
+du traitement)
+Peu fréquent
+Tremblement, dysgueusie,
+syncope, hypoesthésie,
+paresthésie
+Très rare
+Hypertonie,
+neuropathie périphérique
+Fréquence
+indéterminée
+Trouble extrapyramidal#
+Affections oculaires
+Fréquent
+Trouble visuel (y compris diplopie)
+Affections de l'oreille et du
+labyrinthe
+Peu fréquent
+Acouphène
+Affections cardiaques
+Fréquent
+Palpitations
+Peu fréquent
+Arythmie (y compris bradycardie,
+tachycardie ventriculaire et
+fibrillation auriculaire)
+Très rare
+Infarctus du myocarde
+Affections vasculaires
+Fréquent
+Bouffées vasomotrices
+Peu fréquent
+Hypotension
+Très rare
+Vascularite
+Affections respiratoires,
+thoraciques et médiastinales
+Fréquent
+Dyspnée
+Peu fréquent
+Toux, rhinite
+Affections gastro-
+intestinales
+Fréquent
+Douleur abdominale, nausées,
+dyspepsie, troubles du transit
+intestinal (y compris diarrhée et
+constipation)
+Peu fréquent
+Vomissements, bouche sèche
+Très rare
+Pancréatite, gastrite, hyperplasie
+gingivale
+Affections hépatobiliaires
+Très rare
+Hépatite, ictère, élévation des
+enzymes hépatiques*
+
+Résumé des Caractéristiques du Produit
+8/14
+Affections de la peau et du
+tissu sous-cutané
+Peu fréquent
+Alopécie, purpura, changement de
+couleur de la peau, hyperhidrose,
+prurit, éruption cutanée,
+exanthème, urticaire
+Très rare
+Angio-œdème, érythème
+polymorphe, dermatite exfoliatrice,
+syndrome de Stevens-Johnson,
+œdème de Quincke,
+photosensibilité
+Fréquence
+indéterminée
+Nécrolyse épidermique toxique
+Affections musculo-
+squelettiques et
+systémiques
+Fréquent
+Gonflement des chevilles, crampes
+musculaires
+Peu fréquent
+Arthralgie, myalgie, douleur dorsale
+Affections du rein et des
+voies urinaires
+Peu fréquent
+Trouble de la miction, nycturie,
+pollakiurie
+Affections des organes de
+reproduction et du sein
+Peu fréquent
+Impuissance, gynécomastie
+Troubles généraux et
+anomalies au site
+d’administration
+Très fréquent
+Œdème
+Fréquent
+Fatigue, asthénie
+Peu fréquent
+Douleur thoracique, douleurs,
+malaise
+Investigations
+Peu fréquent
+Prise de poids, perte de poids
+*élévation généralement liée à une cholestase
+#des cas exceptionnels de syndrome extrapyramidal ont été rapportés.
+Déclaration des effets indésirables suspectés
+La déclaration des effets indésirables suspectés après autorisation du médicament
+est importante. Elle permet une surveillance continue du rapport bénéfice/risque du
+médicament. Les professionnels de santé déclarent tout effet indésirable suspecté
+via:
+Agence fédérale des médicaments et des produits de santé
+ Division Vigilance
+ Boîte Postale 97
+ 1000 Bruxelles
+ Madou
+ Site internet : www.notifieruneffetindesirable.be
+e-mail : adr@afmps.be
+4.9 
+Surdosage
+Chez l'homme, l'expérience concernant les surdosages intentionnels est limitée.
+Symptômes
+Selon les données disponibles, un surdosage massif pourrait entraîner une
+vasodilatation périphérique excessive et, peut-être, une tachycardie réflexe. Une
+hypotension systémique profonde et probablement prolongée, pouvant aller jusqu’à
+un choc d’issue fatale, a été signalée.
+Des cas d’œdème pulmonaire non cardiogénique ont été rarement signalés à la suite
+d'un surdosage en amlodipine qui peut apparaître de façon retardée (24-48 heures
+après l'ingestion) et nécessiter une assistance ventilatoire. Des mesures de
+réanimation précoces (y compris une surcharge liquidienne) pour maintenir la
+perfusion et le débit cardiaque peuvent être des facteurs déclenchants.
+
+Résumé des Caractéristiques du Produit
+9/14
+Traitement
+Une hypotension cliniquement significative liée à un surdosage en amlodipine exige
+des mesures de soutien cardiovasculaire actives, y compris un contrôle fréquent des
+fonctions cardiaque et respiratoire, une élévation des membres et une surveillance du
+volume sanguin circulant ainsi que du débit urinaire.
+L'administration d’un vasoconstricteur peut utilement rétablir le tonus vasculaire et la
+tension artérielle, du moins en l'absence de contre-indication à son utilisation.
+L'administration intraveineuse de gluconate de calcium peut s’avérer bénéfique en
+supprimant les effets liés au blocage des canaux calciques.
+Un lavage gastrique peut être utile dans certains cas. Chez des volontaires en bonne
+santé, l’utilisation de charbon activé dans un délai maximal de 2 heures après
+l'administration de 10 mg d'amlodipine réduisait la vitesse d'absorption d’amlodipine.
+Comme l’amlodipine est très fortement liée aux protéines, la dialyse ne devrait pas
+s’avérer utile.
+5. 
+PROPRIÉTÉS PHARMACOLOGIQUES
+5.1 
+Propriétés pharmacodynamiques
+Classe pharmacothérapeutique: inhibiteurs calciques, inhibiteurs calciques sélectifs à
+effets vasculaires prédominants, dérivés de la dihydropyridine, code ATC: C08CA01
+Mécanisme d’action
+L’amlodipine est un inhibiteur de l’influx d’ions calcium du groupe de la
+dihydropyridine (inhibiteur des canaux lents ou antagoniste des ions calcium) et de
+l’influx transmembranaire des ions calcium dans le muscle cardiaque et les muscles
+lisses vasculaires.
+Le mécanisme de l’effet antihypertenseur de l’amlodipine est lié à un effet relaxant
+direct au niveau des muscles lisses vasculaires. Le mécanisme précis par lequel
+l’amlodipine soulage l’angor n’a pas été entièrement déterminé, mais l’amlodipine
+réduit la charge ischémique totale par les deux actions suivantes :
+1.
+L’amlodipine dilate les artérioles périphériques et par conséquent réduit la
+résistance périphérique totale (postcharge) contre laquelle le cœur agit. Dans la
+mesure où la fréquence cardiaque reste stable, cette réduction du travail du cœur
+diminue la consommation d’énergie et les besoins en oxygène myocardiques.
+2.
+Le mécanisme d’action de l’amlodipine comporte aussi probablement la dilatation
+des principales artères coronaires et artérioles coronaires, dans les régions
+normales et ischémiques. Cette dilatation augmente la délivrance d’oxygène au
+niveau du myocarde chez les patients présentant un spasme des artères
+coronaires (angor de Prinzmetal).
+Effets pharmacodynamiques
+Chez les patients hypertendus, l’administration en une prise unique journalière
+apporte des réductions cliniquement significatives de la pression artérielle à la fois en
+décubitus dorsal et en position debout pendant un intervalle de 24 heures. Grâce au
+délai d’action lent, une hypotension aiguë n’est pas associée à l’administration
+d’amlodipine.
+
+Résumé des Caractéristiques du Produit
+10/14
+Chez les patients atteints d’angor, l’administration en une prise unique journalière
+d’amlodipine augmente la durée totale de l’effort, le délai d’apparition de l’angor et
+d’un sous-décalage du segment ST de 1 mm, et elle diminue à la fois la fréquence
+des crises d’angor et la consommation de comprimés de trinitrate de glycéryle.
+L’amlodipine n’a pas été associée à des effets métaboliques indésirables ou des
+changements des lipides plasmatiques, et convient aux patients atteints d’asthme, de
+diabète et de goutte.
+Efficacité et sécurité cliniques
+Utilisation chez les patients qui présentent une maladie coronarienne
+L'efficacité de l'amlodipine en matière de prévention des événements cliniques chez
+les patients qui présentent une maladie coronarienne a été évaluée dans le cadre
+d'une étude indépendante, multicentrique, randomisée, en double aveugle, contrôlée
+par placebo portant sur 1997 patients et intitulée « Comparison of amlodipine vs.
+Enalapril to Limit Occurrences of Thrombosis » (CAMELOT). Parmi ces patients, 663
+ont reçu 5 à 10 mg d'amlodipine, 673 ont reçu 10 à 20 mg d'énalapril et 655 un
+placebo pendant 2 ans, en plus de leur traitement normal par statines, bêtabloquants,
+diurétiques et aspirine. Les principaux résultats d'efficacité sont présentés dans le
+Tableau 1. Ces résultats indiquent que le traitement par amlodipine était associé à un
+nombre plus réduit d'hospitalisations pour angor et de procédures de
+revascularisation chez les patients présentant une maladie coronarienne.
+Tableau 1. Incidence des événements cliniques significatifs dans l'étude CAMELOT
+Événements cardiovasculaires,
+Nbre (%)
+Amlopidine contre placebo
+Événements
+Amlopidin
+e
+Plac
+ebo
+Énalapril
+Rapport de
+risque (IC à 95
+%)
+Valeur de p
+Critère d'évaluation principal
+Événements
+cardiovasculaires
+indésirables
+110 (16,6)
+151
+(23,1)
+136
+(20,2)
+0,69 (0,54-
+0,88)
+0,003
+Événements détaillés
+Revascularisation
+coronarienne
+78 (11,8)
+103
+(15,7)
+95 (14,1)
+0,73 (0,54-
+0,98)
+0,03
+Hospitalisation pour angor
+51 (7,7)
+84
+(12,8)
+86 (12,8)
+0,58 (0,41-
+0,82)
+0,002
+IDM non fatal
+14 (2,1)
+19 (2,9)
+11 (1,6)
+0,73 (0,37-
+1,46)
+0,37
+Accident vasculaire cérébral
+ou AIT
+6 (0,9)
+12 (1,8)
+8 (1,2)
+0,50 (0,19-
+1,32)
+0,15
+Décès d'origine
+cardiovasculaire
+5 (0,8)
+2 (0,3)
+5 (0,7)
+2,46 (0,48-
+12,7)
+0,27
+Hospitalisation pour ICC
+3 (0,5)
+5 (0,8)
+4 (0,6)
+0,59 (0,14-
+2,47)
+0,46
+Réanimation après arrêt
+cardiaque
+0
+4 (0,6)
+1 (0,1)
+NA
+0,04
+Maladie vasculaire
+périphérique nouvellement
+apparue
+5 (0,8)
+2 (0,3)
+8 (1,2)
+2,6 (0,50-13,4)
+0,24
+Abréviations : ICC, insuffisance cardiaque congestive ; IC, intervalle de confiance ;
+IDM, infarctus du myocarde ; AIT, accident ischémique transitoire.
+
+Résumé des Caractéristiques du Produit
+11/14
+Utilisation chez les patients atteints d’insuffisance cardiaque
+Des études hémodynamiques et des essais cliniques contrôlés, qui s’appuyaient sur
+des tests d’effort, ont été menés sur des patients souffrant d’une insuffisance
+cardiaque de classe NYHA II à IV et ont montré que l’amlodipine n’entraînait aucune
+détérioration de l’état clinique, tel qu’évalué par la tolérance à l'effort, la fraction
+d'éjection du ventricule gauche et la symptomatologie clinique.
+L’étude PRAISE, contrôlée par placebo et conçue de façon à évaluer l’état de
+patients recevant de la digoxine, des diurétiques et des IECA pour une insuffisance
+cardiaque de classe NYHA III à IV, a montré que l’amlodipine n’augmentait ni le
+risque de décès ni le taux combiné de mortalité et de morbidité des patients atteints
+d’insuffisance cardiaque.
+Dans PRAISE-2, étude de suivi à long terme contre placebo, qui portait sur
+l'administration d’amlodipine à des patients traités par des doses stables d’IECA, de
+digitaliques et de diurétiques pour une insuffisance cardiaque de classe NYHA III ou
+IV sans symptômes cliniques ni signes objectifs suggérant la présence d’une maladie
+ischémique sous-jacente, l’amlodipine n’exerçait aucun effet sur les taux de mortalité
+d'origine cardiovasculaire. Dans cette même population, la prise d’amlodipine était
+associée à une multiplication des notifications d’œdème pulmonaire.
+Essai sur les traitements de prévention de la crise cardiaque (ALLHAT)
+Une étude de morbidité/mortalité randomisée en double aveugle baptisée
+« Antihypertensive and Lipid-Lowering Treatment to Prevent Heart Attack Trial »
+(ALLHAT) a été menée en vue de comparer les traitements médicamenteux les plus
+récents, à savoir l’amlodipine 2,5-10 mg/j (antagoniste du calcium) ou le lisinopril 10-
+40 mg/j (inhibiteur de l'ECA) en traitements de première intention, comparés à la
+chlorthalidone (12,5-25 mg/j), un diurétique thiazidique, pour le traitement de
+l'hypertension légère à modérée.
+Au total, 33357 patients hypertendus âgés de 55 ou plus ont été randomisés et suivis
+pendant 4,9 ans en moyenne. Ces patients présentaient au moins un autre facteur de
+risque de coronaropathie parmi les suivants : antécédent d'infarctus du myocarde ou
+d'accident vasculaire cérébral (survenu au moins 6 mois avant l'inclusion) ou autre
+maladie cardiovasculaire athérosclérotique documentée (51,5 %), diabète de type 2
+(36,1 %), HDL-C < 35 mg/dl (11,6 %), hypertrophie ventriculaire gauche
+diagnostiquée par électrocardiogramme ou échocardiographie (20,9 %), tabagisme
+actuel (21,9 %).
+Le critère d'évaluation principal était un indice composé tenant compte des
+coronaropathies fatales et des infarctus du myocarde non fatals. Pour ce critère
+d'évaluation principal, aucune différence significative n'a été observée entre le
+traitement à base d'amlodipine et celui à base de chlorthalidone : RR 0,98 IC à 95%
+(0,90-1,07) p=0,65. Parmi les critères d'évaluation secondaires, l'incidence de
+l'insuffisance cardiaque (l'un des éléments du critère d'évaluation composé des
+événements cardiovasculaires conjugués) était significativement plus élevée dans le
+groupe amlodipine que dans le groupe chlorthalidone (10,2% contre 7,7%, RR 1,38,
+IC à 95 % [1,25-1,52] p <0,001). Toutefois, aucune différence significative entre les
+deux traitements n'a été mise en évidence au niveau de la mortalité toutes causes
+confondues. RR 0,96 IC à 95% [0,89-1,02] p=0,20.
+
+Résumé des Caractéristiques du Produit
+12/14
+Utilisation chez les enfants (âgés de 6 ans et plus)
+Dans une étude portant sur 268 enfants âgés de 6 à 17 ans et dont la majorité
+présentait une hypertension secondaire, la comparaison des doses de 2,5 et 5,0 mg
+d’amlodipine à un placebo a montré que ces deux doses réduisaient la tension
+artérielle systolique de façon significativement plus ample que le placebo. La
+différence entre les deux doses n’était pas statistiquement significative.
+Les effets à long terme de l’amlodipine sur la croissance, la puberté et les
+caractéristiques générales du développement n’ont pas été étudiés. L'efficacité à long
+terme de l’administration d’amlodipine au cours de l'enfance pour réduire la morbidité
+et la mortalité cardiovasculaires à l’âge adulte n’a pas non plus été établie.
+5.2 
+Propriétés pharmacocinétiques
+Absorption
+Après l’administration orale de doses thérapeutiques, l’amlodipine est bien absorbée, 
+la concentration sanguine maximale étant atteinte 6 à 12 heures après
+l’administration. La biodisponibilité absolue se situe entre 64 et 80 %. 
+La biodisponibilité de l’amlodipine n'est pas influencée par l'ingestion de nourriture.
+Distribution
+Le volume de distribution avoisine les 21 l/kg. D'après les études in vitro, environ
+97,5% de l'amlodipine circulante se lie aux protéines plasmatiques.
+Biotransformation
+L'amlodipine est largement métabolisée par le foie en métabolites inactifs ; 10% de la
+substance mère et 60% des métabolites sont excrétés dans l'urine.
+Élimination
+La demi-vie d’élimination plasmatique terminale oscille entre 35 et 50 heures ; elle est
+constante en cas d'administration uniquotidienne.
+Insuffisance hépatique
+Les données cliniques disponibles sur l'utilisation de l'amlodipine chez les insuffisants
+hépatiques sont très limitées. Chez ces patients, la clairance de l'amlodipine est
+réduite ; par conséquent, la demi-vie est plus longue et l'ASC augmentée d'environ
+40 à 60 %.
+Population gériatrique
+Le délai d'obtention des concentrations plasmatiques maximales en amlodipine est
+similaire chez les sujets jeunes et âgés. La clairance de l’amlodipine tend à diminuer
+avec l’âge, avec pour résultat une augmentation de l’aire sous la courbe (ASC) et de
+la demi-vie d’élimination. L'accroissement de l’ASC et de la demi-vie d’élimination
+observé chez les patients atteints d’insuffisance cardiaque congestive était celui
+attendu dans la tranche d’âge étudiée.
+Population pédiatrique
+Une étude pharmacocinétique de population a été menée sur 74 enfants hypertendus
+âgés d’un an à 17 ans (dont 34 âgés de 6 à 12 ans, et 28 de 13 à 17 ans) et traités
+par 1,25 à 20 mg d’amlodipine en une ou deux prises quotidiennes. Chez les enfants
+de 6 à 12 ans et les adolescents de 13 à 17 ans, la clairance orale moyenne (CL/F)
+était, respectivement, de 22,5 et 27,4 l/h chez les garçons, et de 16,4 et 21,3 l/h chez
+les filles. On observait toutefois une large variabilité de l’exposition d’un individu à
+l'autre. Les données recueillies chez les enfants de moins de 6 ans sont limitées.
+
+Résumé des Caractéristiques du Produit
+13/14
+5.3 
+Données de sécurité préclinique
+Toxicité sur la reproduction
+Les études sur la reproduction menées chez le rat et la souris ont permis d'observer
+des retards de la date de mise bas, un allongement de la durée du travail et une baisse
+de la survie des jeunes à des doses environ 50 fois supérieures à la dose maximale
+recommandée chez l'homme en mg/kg.
+Impact sur la fertilité
+Aucun effet n'a été observé sur la fertilité de rats traités par amlodipine (pendant 64
+jours chez les mâles et pendant 14 jours avant l'accouplement chez les femelles) à des
+doses allant jusqu'à 10 mg/kg/jour (8 fois la dose maximale de 10 mg/m2
+recommandée chez l'homme*). Dans une autre étude menée chez le rat, les mâles ont
+reçu du bésilate d'amlodipine pendant 30 jours à une dose comparable à celle utilisée
+chez l'homme en mg/kg ; on a observé une réduction des concentrations plasmatiques
+de folliculostimuline et de testostérone ainsi qu'une baisse de la densité du sperme et
+du nombre de spermatides matures et de cellules de Sertoli.
+Cancérogenèse, mutagenèse
+Les rats et les souris traités pendant deux ans par amlodipine dans l'alimentation, à
+des concentrations calculées pour fournir des doses quotidiennes de 0,5, 1,25, et 2,5
+mg/kg/jour n'ont montré aucun signe de cancérogenèse. La dose la plus élevée (chez
+la souris, comparable et, chez le rat, deux fois supérieure à la dose clinique maximale
+de 10 mg/m2 recommandée*) était proche de la dose maximale tolérée chez la souris,
+mais pas chez le rat.
+Les études de mutagénicité n'ont mis en évidence aucun effet lié au médicament, que
+ce soit au niveau des gènes ou des chromosomes.
+*Pour un patient de 50 kg
+6. 
+DONNÉES PHARMACEUTIQUES
+6.1 
+Liste des excipients
+Hydrogénophosphate de calcium
+Cellulose microcristalline
+Glycolate d’amidon sodique (de type A)
+Stéarate de magnésium
+6.2 
+Incompatibilités
+Sans objet.
+6.3 
+Durée de conservation
+2 ans.
+6.4 
+Précautions particulières de conservation
+À conserver dans l’emballage extérieur d’origine, à l’abri de la lumière.
+6.5 
+Nature et contenu de l’emballage extérieur
+-
+boîtes de plaquettes en PVC/PVdC/Al contenant 10, 14, 28, 30, 50, 56, 60, 90,
+100, 180 comprimés
+
+Résumé des Caractéristiques du Produit
+14/14
+-
+flacons en PEHD muni d’un bouchon à visser en PEHD et contenant 28, 30, 56,
+100, 180, 500 comprimés
+Toutes les présentations peuvent ne pas être commercialisées.
+6.6 
+Précautions particulières d’élimination
+Tout médicament non utilisé ou déchet doit être éliminé conformément à la
+réglementation en vigueur.
+7. 
+TITULAIRE DE L’AUTORISATION DE MISE SUR LE MARCHÉ
+Viatris GX
+Terhulpsesteenweg 6A
+B-1560 Hoeilaart
+8. 
+NUMÉROS D’AUTORISATION DE MISE SUR LE MARCHÉ
+Amlodipine besilate Viatris 5 mg comprimés (plaquettes): BE369083
+Amlodipine besilate Viatris 5 mg comprimés (flacons): BE369092
+Amlodipine besilate Viatris 10 mg comprimés (plaquettes): BE369101
+Amlodipine besilate Viatris 10 mg comprimés (flacons): BE369117
+9. 
+DATE DE PREMIÈRE AUTORISATION/DE RENOUVELLEMENT DE
+L’AUTORISATION
+Date de première autorisation: 17/05/2010.
+Date du dernier renouvellement : 19/04/2017.
+10. 
+DATE DE MISE À JOUR DU TEXTE
+04/2023
+Date d’approbation : 06/2023

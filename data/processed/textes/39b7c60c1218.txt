@@ -1,0 +1,552 @@
+PERINDOPRIL ZYDUS 8 mg, comprimé
+
+Résumé des Caractéristiques du Produit
+ANSM - Mis à jour le : 20/02/2023
+
+1. QU’EST-CE QUE PERINDOPRIL ZYDUS 8 mg, comprimé, ET DANS QUELS CAS EST-IL UTILISE ?
+
+2. QUELLES SONT LES INFORMATIONS A CONNAITRE AVANT DE PRENDRE PERINDOPRIL ZYDUS 8 mg comprimé ?
+
+3. COMMENT PRENDRE PERINDOPRIL ZYDUS 8 mg, comprimé ?
+
+4. QUELS SONT LES EFFETS INDESIRABLES EVENTUELS ?
+
+4.1. Indications thérapeutiques
+Hypertension
+Traitement de l’hypertension.
+Maladie coronaire stable
+Réduction du risque d'événements cardiaques chez les patients ayant des antécédents d'infarctus du myocarde et/ou de revascularisation.
+
+4.2. Posologie et mode d'administration
+Posologie
+La posologie doit être adaptée individuellement en fonction du profil du patient (voir rubrique 4.4) et de la réponse tensionnelle.
+Hypertension
+Le périndopril peut être utilisé en monothérapie ou en association avec d'autres classes de médicaments antihypertenseurs (voir rubriques 4.3, 4.4, 4.5 et 5.1).
+La dose initiale recommandée est de 4 mg en une prise par jour le matin.
+Les patients présentant une stimulation importante du système rénine-angiotensine-aldostérone (en particulier en cas d'hypertension rénovasculaire, de déplétion sodée et/ou hydrique, de décompensation cardiaque ou d’hypertension sévère) peuvent éprouver une chute tensionnelle trop importante à l’occasion de la première prise. Une prise initiale de 2 mg est recommandée chez ces patients et l’instauration du traitement se fera sous surveillance médicale.
+Après 1 mois de traitement, la posologie peut être augmentée à 8 mg par jour en une prise.
+Une hypotension symptomatique peut survenir après initiation du traitement par périndopril ; en particulier chez les patients traités parallèlement par diurétiques. Une attention particulière est donc recommandée chez ces patients car ils peuvent présenter une déplétion hydrique et/ou sodée.
+Si possible, le diurétique doit être arrêté 2 à 3 jours avant l'initiation du traitement par périndopril (voir rubrique 4.4).
+Chez les patients hypertendus, pour lesquels le diurétique ne peut pas être interrompu, le traitement par périndopril doit être initié avec une prise de 2 mg. La fonction rénale et la kaliémie doivent être surveillées. La posologie de périndopril sera ensuite adaptée en fonction de la réponse tensionnelle. Si besoin, le traitement par diurétique sera réintroduit.
+Le traitement des patients âgés doit être instauré à une dose de 2 mg qui pourra être augmentée progressivement à 4 mg après un mois de traitement puis jusqu’à 8 mg si nécessaire, suivant l’état de la fonction rénale (voir tableau ci-dessous).
+Maladie coronaire stable
+Périndopril doit être introduit à la dose de 4 mg une fois par jour pendant deux semaines puis augmenté à 8 mg une fois par jour, selon la fonctionnalité rénale et seulement si la dose à 4 mg est bien tolérée.
+Les patients âgés doivent recevoir 2 mg une fois par jour pendant une semaine, puis 4 mg une fois par jour la semaine suivante, avant d’augmenter la dose jusqu’à 8 mg une fois par jour selon la fonctionnalité rénale. (Voir tableau 1 : « Ajustement posologique en cas d’insuffisance rénale »).
+La posologie ne sera augmentée que si la tolérance de la dose précédente est bonne.
+Population particulière
+Patients atteints d'insuffisance rénale :
+La posologie chez l’insuffisant rénal doit être adaptée en fonction de la clairance de la créatinine comme indiqué dans le tableau 1 ci-dessous :
+Tableau 1 : Ajustement posologique en cas d’insuffisance rénale
+Clairance de la créatinine (ml/min)
+Dose recommandée
+ClCr≥ 60
+4 mg/jour
+30< ClCr <60
+2 mg/jour
+15 < ClCr < 30
+2 mg un jour sur deux
+Patient hémodialysé*
+ClCr <15
+2 mg le jour de la dialyse
+* La clairance de dialyse du périndoprilate est de 70 ml/min. Les patients sous hémodialyse doivent prendre la dose après la séance de dialyse.
+Patients atteints d’insuffisance hépatique :
+Aucune adaptation posologique n’est nécessaire chez l’insuffisant hépatique (voir rubrique 4.4 et 5.2).
+Population pédiatrique
+La sécurité et l’efficacité du périndopril n’ont pas été établies chez l’enfant et l’adolescent de moins de 18 ans. Les données actuellement disponibles sont décrites en rubrique 5.1 ; cependant aucune posologie ne peut être recommandée.
+Par conséquent, l’utilisation chez l’enfant et l’adolescent n’est pas recommandée.
+Mode d’administration
+Voie orale.
+Il est recommandé de prendre le périndopril en une prise par jour le matin avant le repas.
+
+4.3. Contre-indications
+·
+Hypersensibilité à la substance active, à l’un des excipients ou à tout autre inhibiteur de l’enzyme de conversion (IEC) ;
+·
+Antécédent d’angiœdème associé à un traitement antérieur par IEC (voir rubrique 4.4) ;
+·
+Angiœdème héréditaire ou idiopathique ;
+·
+Deuxième et troisième trimestres de la grossesse (voir rubriques 4.4 et 4.6) ;
+·
+L’association de périndopril à des médicaments contenant de l’aliskirène est contre-indiquée chez les patients présentant un diabète ou une insuffisance rénale (DFG [débit de filtration glomérulaire] < 60 ml/min/1,73 m
+2
+) (voir rubriques 4.5 et 5.1).
+·
+Utilisation concomitante de sacubitril/valsartan. Périndopril ne doit pas être initié moins de 36 heures après la dernière dose de sacubitril/valsartan (voir rubriques 4.4 et 4.5).
+·
+Traitement par circulation extra-corporelle entraînant un contact du sang avec des surfaces chargées négativement (voir rubrique 4.5),
+·
+Sténose bilatérale importante de l'artère rénale ou sténose de l'artère rénale sur rein fonctionnellement unique, (voir rubrique 4.4).
+
+4.4. Mises en garde spéciales et précautions d'emploi
+Maladie coronaire stable
+Si un épisode d’angor instable (majeur ou non) survient au cours du premier mois de traitement par le périndopril, le rapport bénéfice/risque doit être soigneusement déterminé avant de poursuivre le traitement.
+Hypotension
+Les IEC peuvent induire une chute de la pression artérielle. Une hypotension symptomatique peut survenir rarement chez les patients présentant une hypertension sans complications et plus fréquemment chez les patients présentant une hypovolémie résultant d’un traitement diurétique, d’un régime hyposodé, d’une dialyse, d’une diarrhée ou de vomissements, ou qui présente une hypertension sévère rénine-dépendante (voir rubriques 4.5 et 4.8). Chez les patients ayant une insuffisance cardiaque symptomatique, avec ou sans insuffisance rénale associée, une hypotension symptomatique a été observée. Elle est plus probable chez les patients atteints d’une insuffisance cardiaque avancée, en rapport avec l’administration d’un diurétique de l’anse à dose élevée, une hyponatrémie ou une altération de la fonction rénale. Chez les patients exposés à un risque élevé d’hypotension symptomatique, l’initiation du traitement et les adaptations de dose doivent être étroitement surveillés (voir rubriques 4.2 et 4.8). Une prudence similaire s’applique aux patients ayant une cardiopathie ischémique ou une affection vasculaire cérébrale chez qui une diminution excessive de la pression artérielle pourrait conduire à un infarctus du myocarde ou à un accident vasculaire cérébral.
+Si une hypotension survient, le patient doit être placé en décubitus ventral et, si nécessaire, doit recevoir une perfusion intraveineuse de chlorure de sodium à 9 mg/ml (0,9 %). La survenue d'une hypotension transitoire n'est pas une contre-indication à la poursuite du traitement ; il peut généralement être poursuivi sans difficulté après augmentation de la pression artérielle et correction de la volémie.
+Chez certains patients avec insuffisance cardiaque congestive qui présentent habituellement une pression artérielle normale ou basse, une baisse supplémentaire de la pression artérielle peut survenir avec le périndopril. Cet effet est prévisible et ne constitue généralement pas un motif d'arrêt du traitement. Si l'hypotension devient symptomatique, une diminution de la posologie, ou un arrêt du traitement par le périndopril peuvent être nécessaires.
+Sténose valvulaire aortique ou mitrale/ cardiomyopathie hypertrophique.
+Comme les autres IEC, le périndopril doit être administré avec précaution aux patients présentant une sténose de la valve mitrale ou une obstruction du débit ventriculaire gauche telle que sténose aortique ou cardiomyopathie hypertrophique.
+Insuffisance rénale
+En cas d'insuffisance rénale (Clairance de la Créatinine < 60 ml/min), la posologie initiale de périndopril doit être adaptée en fonction de la clairance de la créatinine du patient (voir rubrique 4.2) et ensuite ajustée en fonction de la réponse du patient au traitement. Chez ces patients, le suivi médical de routine comprend une surveillance périodique du potassium et de la créatinine (voir rubrique 4.8.).
+Chez les patients avec insuffisance cardiaque symptomatique, une chute tensionnelle suivant l'initiation du traitement par IEC peut majorée l’altération de la fonction rénale. Des cas d'insuffisance rénale aiguë, habituellement réversibles, ont été rapportés dans cette situation.
+Chez certains patients présentant une sténose bilatérale des artères rénales ou une sténose de l'artère rénale sur rein unique ayant été traités par IEC, des élévations de l'urémie et de la créatininémie, habituellement réversibles à l'arrêt du traitement, ont été décrites. Ce risque augmente en cas d’insuffisance rénale. En cas d'hypertension rénovasculaire concomitante, le risque d'hypotension sévère et d'insuffisance rénale est accru. Chez ces patients, le traitement doit alors être instauré à posologie faible sous surveillance médicale étroite et dosage attentif. Etant donné que le traitement avec les diurétiques peut contribuer aux effets ci-dessus, ils doivent donc être interrompus et la fonction rénale doit être surveillée au cours des premières semaines de traitement par le périndopril.
+Certains patients hypertendus sans maladie vasculaire rénale pré-existante apparente ont présenté une augmentation de l'urémie et de la créatininémie, habituellement mineures et transitoires, en particulier lorsque le périndopril était associé à un diurétique. Ceci est plus probable chez les patients avec une insuffisance rénale pré-existante. Une réduction de la posologie et/ou un arrêt du diurétique et/ou du périndopril peuvent être nécessaires.
+Patients hémodialysés
+Des réactions anaphylactoïdes ont été rapportées chez des patients dialysés avec des membranes de haute perméabilité et conjointement traités par un IEC. Il doit être envisagé chez ces patients l’utilisation d’un autre type de membrane de dialyse ou d’un antihypertenseur de classe différente.
+Transplantation rénale
+Il n’existe aucune expérience de l’administration du périndopril chez des patients ayant récemment reçu une transplantation rénale.
+Hypertension rénovasculaire
+Chez les patients atteints de sténose artérielle rénale bilatérale ou de sténose artérielle rénale sur rein fonctionnellement unique traités par un IEC, le risque d’hypotension et d’insuffisance rénale est majoré (voir rubrique 4.3). Le traitement par diurétiques peut être un facteur contributif. Une perte de la fonction rénale peut survenir avec seulement des modifications mineures de la créatinine sérique, même chez les patients atteints de sténose artérielle rénale unilatérale.
+Hypersensibilité/ angiœdème
+Un angiœdème de la face, des extrémités, des lèvres, des muqueuses, de la langue, de la glotte et/ou du larynx a été rarement observé chez des patients traités par un IEC, y compris par le périndopril (voir rubrique 4.8). Cet effet peut survenir à tout moment au cours du traitement. Dans ces cas, l’administration du périndopril doit être immédiatement arrêtée, et une surveillance adéquate doit être instaurée et poursuivie jusqu'à disparition complète des symptômes. Dans ce cas, lorsque l’œdème est limité à la face et aux lèvres, il disparaît habituellement sans traitement, néanmoins des antihistaminiques se sont avérés utiles dans le soulagement de ces troubles.
+Un angiœdème associé à un œdème du larynx peut être fatal. En cas d’atteinte de la langue, de la glotte ou du larynx, pouvant conduire à une obstruction des voies aériennes, un traitement d'urgence doit être administré rapidement. Il peut s’agir de l’administration d’adrénaline et/ou de mesures destinées à maintenir le dégagement des voies aériennes. Le patient doit être maintenu sous étroite surveillance médicale jusqu’à la disparition complète et confirmée des symptômes.
+Les patients ayant un antécédent d'angiœdème non lié à la prise d'un IEC peuvent présenter un risque accru d'angiœdème sous IEC (voir rubrique 4.3).
+Un angiœdème intestinal a été rarement signalé chez des patients traités par inhibiteur de l'enzyme de conversion. Ces patients présentaient des douleurs abdominales (avec ou sans nausées ou vomissements) ; dans certains cas, ce n'était pas précédé d'un angiœdème facial et les taux de C-1 estérase étaient normaux. Le diagnostic a été effectué par un scanner abdominal, une échographie, ou lors d'une chirurgie et les symptômes ont disparu à l'arrêt de l'IEC. L'angiœdème intestinal doit faire partie du diagnostic différentiel en cas de douleur abdominale chez un patient sous IEC.
+L’utilisation concomitante d’IEC avec du
+sacubitril/valsartan est contre-indiquée en raison d’un risque accru d’angiœdème (voir rubrique 4.3). Le sacubitril/valsartan ne doit être initié que 36 heures après la prise de la dernière dose de périndopril. En cas d’arrêt de traitement par sacubitril/valsartan, le traitement par périndopril ne devra être initié que 36 heures après la dernière dose de sacubitril/valsartan (voir rubriques 4.3 et 4.5). L’utilisation concomitante d’autres inhibiteurs de la NEP (par exemple : racécadotril) avec un IEC peut également accroître le risque d’angiœdème (voir rubrique 4.5). Par conséquent, une évaluation prudente du rapport bénéfice / risque est nécessaire avant d'initier un traitement avec des inhibiteurs de la NEP (par exemple racécadotril) chez des patients recevant du périndopril.
+L’utilisation concomitante d’inhibiteurs de mTOR (par exemple sirolimus, évérolimus, temsirolimus) et vildagliptine peut entrainer un risque accru d’angiœdème (par exemple gonflement des voies respiratoires ou de la langue, avec ou sans insuffisance respiratoire) (voir rubrique 4.5). Le traitement par le racécadotril, les inhibiteurs de mTOR (sirolimus, évérolimus, temsirolimus) et la vildagliptine doivent être pris avec prudence chez un patient prenant déjà un IEC.
+Réactions anaphylactoïdes au cours de l’aphérèse des lipoprotéines de basse densité (LDL)
+Rarement, les patients traités par IEC au cours d’une aphérèse des LDL utilisant du sulfate de dextran ont présentés des réactions anaphylactoïdes potentiellement fatales. Ces réactions ont été évitées par l’interruption temporaire du traitement par IEC avant chaque aphérèse.
+Réaction anaphylactoïde au cours d’une désensibilisation
+Les patients traités par un IEC au cours d’une désensibilisation (par exemple : venin d’hyménoptère) ont présenté des réactions anaphylactoïdes.
+Chez ces mêmes patients, ces réactions ont pu être évitées par l’interruption transitoire du traitement par IEC, mais elles sont réapparues lors de la reprise accidentelle du traitement.
+Insuffisance hépatique
+Rarement, les IEC ont été associés à un syndrome commençant par un ictère cholestatique et évoluant vers une hépatite nécrosante fulminante et (parfois) le décès. La physiopathologie de ce syndrome n’est pas connue. Les patients traités par IEC qui développent un ictère ou d’une élévation importante des enzymes hépatiques doivent arrêter le traitement par IEC et recevoir un suivi médical adéquate (voir rubrique 4.8).
+Neutropénie/ agranulocytose/ thrombopénie/anémie
+Des cas de neutropénie/agranulocytose, thrombocytopénie et anémie ont été rapportées chez des patients recevant un IEC. Il est rare d'observer une neutropénie chez un patient à fonction rénale normale, sans autre facteur de complications. Le périndopril doit être administré avec une prudence extrême chez les patients avec collagénose vasculaire, traitement concomitant par immunosuppresseur, allopurinol ou procaïnamide, ou lorsque plusieurs de ces facteurs sont associés, surtout en cas d’altération pré-existante de la fonction rénale. Certains de ces patients ont développé des infections sévères, qui, dans quelques cas ne répondaient pas à une antibiothérapie intensive. Si le périndopril est administré chez de tels patients, une surveillance périodique des leucocytes est recommandée il doit être demandé aux patients de signaler tout signe d'infection (exemple mal de gorge, fièvre).
+Race
+Les IEC entrainent un taux plus élevé de survenue d'angiœdème chez les patients de race noire que chez les autres patients.
+Comme avec d’autres IEC, le périndopril peut être moins efficace pour abaisser la tension artérielle chez les personnes de race noire que chez les autres patients, probablement à cause d'une prévalence supérieure des états à faible activité rénine dans la population noire hypertendue.
+Toux
+La survenue de toux a été rapportée lors de l'utilisation des IEC. Elle est caractérisée par son aspect non productif, sa persistance, ainsi que par sa disparition à l'arrêt du traitement.
+La toux induite par les IEC doit être prise en compte lors de l'établissement d'un diagnostic différentiel de toux.
+Intervention chirurgicale / anesthésie
+Chez les patients devant subir une intervention chirurgicale majeure ou une anesthésie par des agents provoquant une hypotension, le périndopril peut bloquer la production de l'angiotensine II secondaire à la libération de rénine. L’administration du périndopril doit donc être interrompue avant l’intervention En cas de survenue d’une hypotension considérée comme liée à ce mécanisme, celle-ci peut être prise en charge par correction de la volémie.
+Potassium sérique
+Les IEC peuvent provoquer une hyperkaliémie car ils inhibent la libération d'aldostérone. L'effet n'est généralement pas significatif chez les patients ayant une fonction rénale normale. Cependant, chez les patients souffrant d'insuffisance rénale et/ou chez les patients prenant des suppléments de potassium (y compris les substituts du sel), diurétiques épargnants potassiques, triméthoprime ou co-trimoxazole également connu sous le nom de triméthoprime/sulfaméthoxazole et surtout les antagonistes de l'aldostérone ou les antagonistes des récepteurs de l'angiotensine, l'hyperkaliémie peut survenir. Les diurétiques épargneurs de potassium et les antagonistes des récepteurs de l'angiotensine doivent être utilisés avec prudence chez les patients recevant des IEC, et la fonction rénale et le potassium sérique doivent être surveillés (voir la section 4,5).
+Patients diabétiques
+Chez les patients diabétiques traités par antidiabétiques oraux ou insuline, un contrôle glycémique étroit doit être effectué au cours du 1er mois de traitement par IEC (voir rubrique 4.5).
+Lithium
+L'association du périndopril avec le lithium est généralement déconseillée (voir rubrique 4.5).
+Les épargneurs de potassium, suppléments potassiques et substituts contenant des sels de potassium
+L’association du périndopril à des épargneurs potassiques, des suppléments potassiques et des substituts contenant un sel de potassium n’est généralement pas recommandée (voir rubrique 4.5).
+Double blocage du système rénine-angiotensine-aldostérone (SRAA)
+Il est établi que l’association d’inhibiteurs de l’enzyme de conversion (IEC), d’antagonistes des récepteurs de l’angiotensine-II (ARA II) ou d’aliskirène augmente le risque d’hypotension, d’hyperkaliémie et d’altération de la fonction rénale (incluant le risque d’insuffisance rénale aiguë). En conséquence, le double blocage du SRAA par l’association d’IEC, d’ARA II ou d’aliskirène n’est pas recommandé (voir rubriques 4.5 et 5.1).
+Néanmoins, si une telle association est considérée comme absolument nécessaire, elle ne pourra se faire que sous la surveillance d’un spécialiste et avec un contrôle étroit et fréquent de la fonction rénale, de l’ionogramme sanguin et de la pression artérielle. Les IEC et les ARA II ne doivent pas être associés chez les patients atteints d’une néphropathie diabétique.
+Hyperaldostéronisme primaire
+Les patients atteints d’hyperaldostéronisme primaire ne répondent généralement pas aux traitements antihypertenseurs agissant par inhibition du système rénine-angiotensine. De ce fait, l’utilisation de ce médicament n’est pas recommandée chez ces patients.
+Grossesse
+Les IEC ne doivent pas être débutés au cours de la grossesse. A moins que le traitement par IEC ne soit considéré comme essentiel, il est recommandé aux patientes qui envisagent une grossesse de modifier leur traitement antihypertenseur pour un médicament ayant un profil de sécurité bien établi pendant la grossesse. En cas de diagnostic de grossesse, le traitement par IEC doit être arrêté immédiatement et si nécessaire un traitement alternatif sera débuté (Voir rubriques 4.3. et 4.6).
+Excipients :
+Ce produit contient du lactose. Les patients présentant des maladies telles qu’une intolérance au galactose, un déficit en lactase ou une malabsorption du glucose-galactose ne doivent pas utiliser ce médicament
+
+4.5. Interactions avec d'autres médicaments et autres formes d'interactions
+Médicaments augmentant le risque d'angiœdème
+L'utilisation concomitante d’IEC avec le sacubitril/Valsartan est contre-indiquée car cela accroît le risque d'angiœdème (voir les sections 4.3 et 4.4).
+L'utilisation concomitante d’IEC avec le racécadotril, les inhibiteurs du mTOR (par exemple le sirolimus, l'everolimus, le temsirolimus) et la vildagliptine peut entraîner un risque accru d'angiœdème (voir la section 4.4).
+Double blocage du système rénine-angiotensine-aldostérone (SRAA)
+Les données issues des essais cliniques ont montré que le double blocage du système rénine-angiotensine-aldostérone (SRAA) par l’utilisation concomitante d’inhibiteurs de l’enzyme de conversion , d’antagonistes des récepteurs de l’angiotensine II ou d’aliskirène est associé à une fréquence plus élevée d’événements indésirables tels que l’hypotension, l’hyperkaliémie et l’altération de la fonction rénale (incluant l’insuffisance rénale aiguë) en comparaison à l’utilisation d’un seul médicament agissant sur le SRAA (voir rubriques 4.3, 4.4 et 5.1).
+Médicaments entrainant une hyperkaliémie
+Certains médicaments ou certaines classes thérapeutiques peuvent augmenter l’apparition d’hyperkaliémie comme : l’aliskirène, les sels de potassium, les diurétiques épargneurs de potassium, les IEC, les ARA II, les anti-inflammatoires non stéroïdiens (AINS), les héparines, les immunosuppresseurs tels que la ciclosporine ou le tacrolimus et le triméthoprime. L’association de ces médicaments augmente le risque d’hyperkaliémie.
+Associations contre-indiquées (voir rubrique 4.3)
+Aliskirène
+Le risque d’hyperkaliémie, de dégradation de la fonction rénale et de la morbi-mortalité cardiovasculaire augmente chez les patients diabétiques ou insuffisants rénaux.
+Traitements par circulation extra-corporelle
+Les traitements par circulation extra-corporelle entrainant un contact avec des surfaces chargées négativement, tels que la dialyse ou l’hémofiltration avec certaines membranes de haute perméabilité (ex. membranes de polyacrylonitrile) et l’aphérèse des lipoprotéines de faible densité avec le sulfate de dextran, sont contre-indiqués, en raison d’un risque de réactions anaphylactoïdes (voir rubrique 4.3). Si ce type de traitement est nécessaire, l’utilisation d’un autre type de membrane de dialyse ou d’une classe d’agent antihypertenseur différente doit être envisagée.
+Sacubitril/valsartan
+L’utilisation concomitante de périndopril avec du sacubitril/valsartan est contre-indiquée car l’inhibition concomitante de la néprilysine et de l’enzyme de conversion de l’angiotensine peut accroître le risque d’angiœdème. Le traitement par sacubitril/valsartan ne doit être initié que 36 heures après la prise de la dernière dose de périndopril. Le traitement par périndopril ne doit être initié que 36 heures après la dernière dose de sacubitril/valsartan (voir rubriques 4.3 et 4.4).
+Associations non recommandées (voir rubrique 4.4)
+Aliskirène
+Le risque d’hyperkaliémie, de dégradation de la fonction rénale et de la morbi-mortalité cardiovasculaire augmente chez les patients autres que les patients diabétiques ou insuffisants rénaux.
+Traitement associant un IEC avec un ARA II
+Il a été rapporté dans la littérature que chez les patients atteints d’athérosclérose diagnostiquée, d’insuffisance cardiaque ou chez les patients diabétiques ayant des lésions organiques, le traitement concomitant par IEC et ARA II est associé à une fréquence plus élevée d’hypotension, de syncope, d’hyperkaliémie et de dégradation de la fonction rénale (incluant l’insuffisance rénale aigue) en comparaison au traitement en monothérapie par une molécule agissant sur le système rénine-angiotensine-aldostérone. Le double blocage (ex : association d’un IEC avec un ARA II) doit être limité à des cas individuels et définis, avec une surveillance renforcée de la fonction rénale, du taux de potassium et de la pression artérielle.
+Estramustine
+Risque d’augmentation des effets indésirables tel qu’un œdème angioneurotique (angio-œdème).
+Diurétiques épargneurs de potassium, suppléments potassiques ou substituts du sel contenant du potassium.
+Bien que le potassium sérique reste habituellement dans les limites normales, l'hyperkaliémie peut survenir chez certains patients traités par le périndopril. Les diurétiques épargneurs de potassium (par ex. spironolactone, triamtérène ou amiloride), suppléments potassiques ou substituts de sels contenant du potassium peuvent entraîner des augmentations significatives du potassium sérique. Une attention doit être portée lorsque le périndopril est co-administré avec d'autres agents qui augmentent le potassium sérique, tels que le triméthoprime et le cotrimoxazole (triméthoprime/sulfaméthoxazole), car le triméthoprime est connu pour agir comme un diurétique épargneurs de potassium comme amiloride. Par conséquent, l’association de périndopril avec les médicaments mentionnés ci-dessus n'est pas recommandée. Si une utilisation concomitante est indiquée, ces médicaments doivent être utilisés avec précaution et un contrôle périodique du potassium sérique doit être effectué.
+Lithium
+Des augmentations réversibles des concentrations sériques du lithium et donc de sa toxicité ont été rapportées pendant l’administration concomitante de lithium avec des IEC. L’utilisation de périndopril avec le lithium n’est pas recommandée, mais si l’association s’avère nécessaire, un suivi attentif des taux de lithémie devra être réalisé (voir rubrique 4.4).
+Associations déconseillées
+Ciclosporine
+L'hyperkaliémie peut survenir pendant l'utilisation concomitante d’IEC avec la ciclosporine. La surveillance du potassium sérique est recommandée.
+Héparine
+L'hyperkaliémie peut survenir pendant l'utilisation concomitante d’IEC avec l'héparine. La surveillance du potassium sérique est recommandée.
+Antidiabétiques (insulines, hypoglycémiants oraux)
+Des études épidémiologiques ont suggéré que l’association d’IEC et d’antidiabétiques (insulines, hypoglycémiants oraux) peut provoquer une majoration de l’effet hypoglycémiant avec un risque d’hypoglycémie. Ce phénomène semble se produire plus particulièrement au cours des premières semaines de l’association de ces traitements et chez les patients présentant une insuffisance rénale.
+Baclofène
+Augmentation de l’effet antihypertenseur. Si nécessaire, surveiller la tension artérielle et adapter la posologie de l’antihypertenseur.
+Diurétiques non-épargneurs de potassium
+Les patients traités par diurétiques, et en particulier ceux présentant une hypovolémie et/ou une déplétion hydrosodée, peuvent être sujets à une forte diminution de la pression sanguine après l’instauration du traitement par un IEC. L’effet hypotenseur peut être diminué en interrompant le diurétique, en augmentant le volume ou la prise de sel avant d’instaurer le traitement par des doses faibles et progressives de périndopril.
+Dans l'hypertension artérielle, lorsqu'un traitement diurétique antérieur peut avoir causé une hypovolémie et/ou une déplétion hydrosodée, le diurétique doit être interrompu avant d’instaurer un IEC ; dans ce cas, un diurétique non épargneur de potassium peut être ensuite réintroduit ou l’IEC doit être instauré à une dose faible augmentée progressivement.
+Dans le traitement diurétique de l’insuffisance cardiaque congestive, l’IEC doit être instauré à une dose très faible et après avoir réduit la dose du diurétique non épargneur de potassium associé.
+Dans tous les cas, la fonction rénale (taux de créatinine) doit être surveillée lors des premières semaines de traitement par IEC.
+Anti-inflammatoires non-stéroïdiens (AINS) y compris l’aspirine
+≥
+3 g/jour
+Quand les IEC sont administrés simultanément à des AINS (tels que acétylsalicylique utilisé comme anti-inflammatoire, inhibiteurs COX-2 et AINS non sélectifs) une atténuation de l’effet antihypertenseur peut se produire.
+La prise concomitante d’IEC et d’AINS peut conduire à un risque accru d’aggravation de la fonction rénale, incluant un risque d’insuffisance rénale aiguë, et à une augmentation de la kaliémie, notamment chez les patients avec une altération pré-existante de la fonction rénale. L’association doit être administrée avec prudence, particulièrement chez les sujets âgés. Les patients doivent être correctement hydratés et des mesures doivent être prises pour contrôler la fonction rénale, en début de traitement, puis périodiquement.
+Associations faisant l'objet de précautions d’emploi
+Antihypertenseurs et vasodilatateurs
+L’utilisation concomitante de ces agents peut augmenter les effets hypotenseurs de périndopril. L’utilisation concomitante de nitroglycérine et d’autres dérivés nitrés, ou autres vasodilatateurs, peut diminuer la pression artérielle.
+Gliptines (linagliptine, saxagliptine, sitagliptine, vildagliptine)
+Augmentation du risque d’angiœdème imputable à la diminution de l’activité de la dipeptidylpeptidase IV (DPP-IV) causée par la gliptine, chez les patients co-traités avec un IEC.
+Antidépresseurs tricycliques/Antipsychotiques/Anesthésiques
+L’utilisation concomitante de certains anesthésiques, antidépresseurs tricycliques et antipsychotiques avec les IEC peut conduire à une accentuation de la diminution de la pression artérielle (voir rubrique 4.4).
+Sympathomimétiques
+Les sympathomimétiques peuvent réduire les effets antihypertenseurs des IEC.
+Or
+Des réactions nitritoïdes (symptômes comprenant flush facial, nausées, vomissement et hypotension) ont été rarement rapportées chez des patients recevant des injections d’or (aurothiomalate de sodium) et un IEC (dont périndopril) de façon concomitante.
+
+4.6. Fertilité, grossesse et allaitement
+Grossesse
+L’utilisation des IEC est déconseillée pendant le 1
+er
+trimestre de la grossesse (voir rubrique 4.4). L’utilisation des IEC est contre-indiquée aux 2
+ème
+et 3
+ème
+trimestres de la grossesse (voir rubriques 4.3 et 4.4).
+Les données épidémiologiques disponibles concernant le risque de malformation après exposition aux IEC au premier trimestre de la grossesse ne permettent pas de conclure ; cependant une petite augmentation du risque de malformations congénitales ne peut être exclue. A moins que le traitement par IEC ne soit considéré comme essentiel, il est recommandé aux patientes qui envisagent une grossesse de modifier leur traitement antihypertenseur pour un médicament ayant un profil de sécurité bien établi pendant la grossesse. En cas de diagnostic de grossesse le traitement par IEC doit être arrêté immédiatement et si nécessaire un traitement alternatif sera débuté.
+L’exposition aux IEC au cours des deuxièmes et troisièmes trimestres de la grossesse est connue pour entraîner une fœtotoxicité (diminution de la fonction rénale, oligohydramnios, retard d’ossification des os du crâne) et une toxicité chez le nouveau-né (insuffisance rénale, hypotension, hyperkaliémie) (voir rubrique 5.3). En cas d’exposition aux IEC à partir du deuxième trimestre de grossesse, il est recommandé d’effectuer une échographie fœtale afin de vérifier la fonction rénale et les os de la voute du crâne. Les nouveau-nés de mère traitée par IEC doivent être surveillés sur le plan tensionnel (voir rubriques 4.3 et 4.4).
+Allaitement
+En raison de l’absence d’information disponible sur l’utilisation de PERINDOPRIL ZYDUS 8 mg, comprimé, au cours de l’allaitement, PERINDOPRIL ZYDUS 8 mg, comprimé, est déconseillé. Il est préférable d’utiliser d’autres traitements ayant un profil de sécurité bien établi pendant l’allaitement, particulièrement chez le nouveau-né ou le prématuré.
+Fertilité
+Il n’y a pas d’effet sur les fonctions de reproduction ou sur la fertilité.
+
+4.7. Effets sur l'aptitude à conduire des véhicules et à utiliser des machines
+PERINDOPRIL ZYDUS 8 mg, comprimé, n'affecte pas directement l'aptitude à conduire des véhicules ou à utiliser des machines, mais des réactions individuelles en relation avec une baisse de la pression artérielle peuvent survenir chez certains patients, particulièrement en début de traitement ou en association avec d’autres antihypertenseurs.
+En conséquence, l’aptitude à conduire des véhicules ou à utiliser des machines peut être altérée.
+
+4.8. Effets indésirables
+a. Résumé du profil de sécurité
+Le profil de sécurité du périndopril correspond à celui des autres IEC.
+Les effets indésirables les plus fréquemment rapportés dans les essais cliniques et observés avec le périndopril sont : étourdissement, céphalée, paresthésie, vertige, troubles visuels, acouphène, hypotension, toux, dyspnée, douleurs abdominales, constipation, diarrhée, dysgueusie, dyspepsie, nausée, vomissement, prurit, rash, crampes musculaires et asthénie.
+b. Tableau des effets indésirables
+Les effets indésirables suivants ont été observés lors des essais cliniques et/ou de l’utilisation post-AMM du périndopril et sont classés en fonction de leur fréquence.
+Très fréquents (>1/10) ; fréquents (≥1/100 - <1/10) ; peu fréquents (≥1/1000 - <1/100) ; rares (≥1/10000 - <1/1000) ; très rares (<1/10000)), non connus (ne peuvent pas être estimés à partir des données disponibles)
+Classification MedDRA
+Système Organe Classe
+Effets indésirables
+Fréquence
+Affections hématologiques et du système lymphatique
+Éosinophilie
+Peu fréquent*
+Agranulocytose ou pancytopénie
+Très rare
+Diminution de l’hémoglobine et de l’hématocrite
+Très rare
+Leucopénie/neutropénie
+Très rare
+Anémie hémolytique chez les patients ayant un déficit congénital en G6P-DH (voir rubrique 4.4)
+Très rare
+Thrombocytopénie
+Très rare
+Affections du métabolisme et de la nutrition
+Hypoglycémie (voir rubriques 4.4 et 4.5)
+Peu fréquent*
+Hyperkaliémie, réversible à l’arrêt du traitement (voir rubrique 4.4)
+Peu fréquent*
+Hyponatrémie
+Peu fréquent*
+Affections psychiatriques
+Troubles de l’humeur
+Peu fréquent
+Troubles du sommeil
+Peu fréquent
+Dépression
+Peu fréquent
+Affections du système nerveux
+Céphalée
+Fréquent
+Étourdissement
+Fréquent
+Vertige
+Fréquent
+Paresthésie
+Fréquent
+Somnolence
+Peu fréquent*
+Syncope
+Peu fréquent*
+Confusion
+Très rare
+Affections oculaires
+Troubles visuels
+Fréquent
+Affections de l’oreille et du labyrinthe
+Acouphène
+Fréquent
+Affections cardiaques
+Palpitations
+Peu fréquent*
+Tachycardie
+Peu fréquent*
+Angine de poitrine (voir rubrique 4.4)
+Très rare
+Arythmie
+Très rare
+Infarctus du myocarde, éventuellement consécutif à une forte hypotension chez les patients à haut risque (voir rubrique 4.4)
+Très rare
+Affections vasculaires
+Hypotension et effets liés à une hypotension
+Fréquent
+Vascularite
+Peu fréquent*
+Accident vasculaire cérébral, éventuellement secondaire à une hypotension excessive chez des patients à haut risque (voir rubrique 4.4)
+Très rare
+Syndrome de Raynaud
+Non connu
+Bouffée congestive
+Rare
+Affections respiratoires, thoraciques et médiastinales
+Toux
+Fréquent
+Dyspnée
+Fréquent
+Bronchospasme
+Peu fréquent
+Pneumonie à éosinophiles
+Très rare
+Rhinite
+Très rare
+Affections gastro-intestinales
+Douleurs abdominales
+Fréquent
+Constipation
+Fréquent
+Diarrhée
+Fréquent
+Dysgueusie
+Fréquent
+Dyspepsie
+Fréquent
+Nausée
+Fréquent
+Vomissement
+Fréquent
+Sécheresse buccale
+Peu fréquent
+Pancréatite
+Très rare
+Affections hépatobiliaires
+Hépatite cytolytique ou cholestatique (voir rubrique 4.4)
+Très rare
+Affections de la peau et du tissu sous-cutané
+Prurit
+Fréquent
+Rash
+Fréquent
+Urticaire (voir rubrique 4.4)
+Peu fréquent
+Angiœdème de la face, des extrémités, des lèvres, des muqueuses, de la langue, de la glotte et/ou du larynx
+Peu fréquent
+Réactions de photosensibilité
+Peu fréquent*
+Pemphigoïde
+Peu fréquent*
+Hyperhidrose
+Peu fréquent
+Érythème multiforme
+Très rare
+Affections musculo-squelettiques et systémiques
+Crampes musculaires
+Fréquent
+Arthralgie
+Peu fréquent*
+Myalgie
+Peu fréquent*
+Affections du rein et des voies urinaires
+Insuffisance rénale
+Peu fréquent
+Insuffisance rénale aiguë
+Rare
+Anurie/oligurie
+Rare
+Affections des organes de reproduction et du sein
+Impuissance
+Peu fréquent
+Troubles généraux et anomalies au site d’administration
+Asthénie
+Fréquent
+Douleur thoracique
+Peu fréquent*
+Malaise
+Peu fréquent*
+Œdème périphérique
+Peu fréquent*
+Fièvre
+Peu fréquent*
+Investigations
+Élévation de la bilirubinémie
+Rare
+Élévation des enzymes hépatiques
+Rare
+Augmentation de l'urée sanguine
+Peu fréquent*
+Augmentation de la créatinine plasmatique
+Peu fréquent*
+Blessure, empoisonnement et complications d'une intervention
+Chute
+Peu fréquent*
+Troubles endocriniens
+Syndrome de sécrétion inappropriée d'hormone anti-diurétique (SIADH)
+Rare
+* Fréquence estimée à partir des données des essais cliniques pour les effets indésirables rapportés après la commercialisation (notifications spontanées).
+Essais cliniques
+Pendant la période de randomisation de l’étude EUROPA, seuls les effets indésirables graves ont été collectés. Peu de patients ont présenté des effets indésirables graves : 16 (0,3 %) des 6 122 patients sous périndopril et 12 (0,2 %) des 6 107 patients sous placebo. Chez les patients traités par le périndopril, une hypotension a été observée chez 6 patients, un angiœdème chez 3 patients et un arrêt cardiaque chez 1 patient. L’arrêt du traitement en raison d’une toux, d’une hypotension ou d’une autre intolérance a été observé chez plus de patients sous périndopril que sous placebo, respectivement 6 % (n= 366) versus 2,1 % (n=129).
+Déclaration des effets indésirables suspectés
+La déclaration des effets indésirables suspectés après autorisation du médicament est importante. Elle permet une surveillance continue du rapport bénéfice/risque du médicament. Les professionnels de santé déclarent tout effet indésirable suspecté via le système national de déclaration : Agence nationale de sécurité du médicament et des produits de santé (ANSM) et réseau des Centres Régionaux de Pharmacovigilance - Site internet :
+www.signalement-sante.gouv.fr
+.
+
+4.9. Surdosage
+Peu de données sont disponibles en cas de surdosage chez l’homme. Les symptômes liés au surdosage en IEC peuvent comporter : hypotension, choc circulatoire, perturbations électrolytiques, insuffisance rénale, hyperventilation, tachycardie, palpitations, bradycardie, étourdissements, anxiété et toux.
+Le traitement recommandé en cas de surdosage est une perfusion intraveineuse de chlorure de sodium à 9 mg/ml (0,9 %). En cas d’hypotension, le patient doit être mis en position allongée. Si disponible, l’administration d’angiotensine II en perfusion et/ou de catécholamines par voie IV pourra être envisagée. Le périndopril peut être éliminé de la circulation sanguine par hémodialyse (voir rubrique 4.4). La pose de pacemaker est indiquée en cas de bradycardie résistante au traitement. Un contrôle des signes vitaux, des électrolytes plasmatiques et de la créatininémie devra être effectué continuellement.
+
+5. COMMENT CONSERVER PERINDOPRIL ZYDUS 8 mg, comprimé ?
+
+5.1. Propriétés pharmacodynamiques
+Classe pharmacothérapeutique : Inhibiteurs de l'Enzyme de Conversion (IEC), code ATC : C09AA04
+Mécanisme d’action :
+Le périndopril est un inhibiteur de l’enzyme qui convertit l’angiotensine I en angiotensine II (enzyme de conversion de l’angiotensine ; ECA). L’enzyme de conversion, ou kinase, est une exopeptidase qui permet la conversion de l’angiotensine I en angiotensine II vasoconstrictrice et induit également la dégradation de la bradykinine vasodilatatrice en un heptapeptide inactif.
+L’inhibition de l’ECA résulte en une réduction de la concentration plasmatique en angiotensine II, ce qui aboutit à une augmentation de l’activité rénine plasmatique (par inhibition du rétrocontrôle négatif de la libération de rénine) et en une atténuation de la sécrétion d'aldostérone.
+Puisque l’ECA inactive la bradykinine, l’inhibition de l’ECA aboutit également à un accroissement de l'activité des systèmes kallikréine-kinine circulants et locaux (et active ainsi le système des prostaglandines). Ce mécanisme pourrait contribuer à l’action hypotensive des IEC et est partiellement responsable de certains des effets secondaires de ces produits (toux par exemple).
+Le périndopril agit par l’intermédiaire de son métabolite actif, le périndoprilate. Les autres métabolites n’inhibent pas l’ECA in vitro.
+Efficacité clinique et sécurité d’emploi
+Hypertension
+Le périndopril est actif dans les hypertensions de tout grade : légère, modérée, sévère ; une réduction de la pression artérielle systolique et diastolique en décubitus comme en position debout est observée.
+Le périndopril réduit les résistances vasculaires périphériques, conduisant à une diminution de la pression artérielle. En conséquence, le débit sanguin périphérique augmente sans aucune modification de la fréquence cardiaque.
+Le débit sanguin rénal augmente, en règle générale, tandis que le débit de filtration glomérulaire (DFG) demeure habituellement inchangé.
+L’activité antihypertensive est maximale de 4 à 6 heures après une dose unique et persiste pendant au moins 24 heures : l’effet à la vallée est d’environ 87 à 100% de l’effet au pic.
+La diminution de la pression artérielle est rapide. Chez les patients répondeurs, la normalisation est obtenue en un mois et persiste sans apparition de tachyphylaxie.
+L’arrêt du traitement ne conduit pas à un effet rebond.
+Le périndopril réduit l’hypertrophie ventriculaire gauche.
+Chez l'homme, le périndopril a démontré des propriétés vasodilatatrices. Il améliore l’élasticité des gros troncs artériels et diminue le rapport média/lumière des petites artères.
+Un traitement concomitant à un diurétique thiazidique exerce une synergie additive. L’association d’un IEC et d’un thiazidique réduit aussi le risque d’hypokaliémie lié au traitement diurétique.
+Insuffisance cardiaque
+Le périndopril réduit le travail cardiaque en diminuant la précharge et la postcharge.
+Des études menées chez des insuffisants cardiaques ont démontré :
+·
+Une diminution des pressions de remplissage ventriculaire gauche et droit,
+·
+Une réduction des résistances vasculaires périphériques totales,
+·
+Une augmentation du débit cardiaque et une amélioration de l'index cardiaque.
+Dans des études comparatives, une dose initiale de 2 mg de périndopril chez les patients présentant une insuffisance cardiaque de sévérité légère à modérée n’a pas été associée à aucune diminution significative de la pression artérielle en comparaison avec le placébo.
+Patients avec maladie coronaire stable
+L’étude EUROPA était un essai multicentrique, international, randomisé, en double aveugle, et contrôlé contre placebo sur une durée de quatre ans.
+Douze mille deux cent dix-huit (12218) patients âgés de plus de 18 ans ont été affectés par randomisation au périndopril 8 mg (équivalent à 10mg de périndopril tert-butylamine) (n = 6110) ou à un placebo (n = 6108).
+Cette population présentait une maladie coronaire sans signe clinique d’insuffisance cardiaque. Au total, 90% des patients avaient des antécédents d’infarctus du myocarde et/ou revascularisation. La plupart des patients ont reçu le produit à l’étude en association à un traitement conventionnel, incluant des antiagrégants plaquettaires, des hypolipémiants et des bêta-bloquants. Le critère principal d’efficacité était composite et portait sur la mortalité d’origine cardiovasculaire, les infarctus du myocarde non fatal et/ou les arrêts cardiaques avec réanimation réussie. Le traitement par 8 mg de périndopril (équivalent à 10mg de périndopril tert-butylamine) une fois par jour a résulté en une réduction absolue significative du critère principal de 1,9% à une réduction relative du risque de 20% (IC95% [9,4 ; 28,6] – p<0,001).
+Chez les patients ayant des antécédents d’infarctus du myocarde et/ou de revascularisation, une réduction absolue de 2,2% du critère principal correspondant à une réduction relative du risque de 22,4% (IC95% [12,0 ; 31,6] – p<0,001) a été observé en comparaison avec le placebo.
+Utilisation pédiatrique
+La sécurité d’emploi et l’efficacité du périndopril n’ont pas été établies chez les enfants et adolescents de moins de 18 ans.
+Dans une étude clinique en ouvert, non comparative, 62 enfants hypertendus âgés de 2 à 15 ans et ayant un débit de filtration glomérulaire > 30 ml/min/1.73 m2 ont reçu du périndopril à la dose moyenne de 0.07 mg/kg.
+La dose était adaptée pour chaque patient en fonction de son profil et de sa réponse tensionnelle jusqu’à une dose maximale de 0.135 mg/kg/jour.
+59 patients ont terminé la phase initiale des 3 mois de traitement et 36 patients ont terminé la phase d’extension de l’étude, correspondant à un suivi d’au moins 24 mois (duré moyenne de l’étude : 44 mois).
+La pression artérielle systolique et diastolique est restée stable de l’inclusion à la dernière évaluation chez les patients précédemment traités par d’autres traitements antihypertenseurs et a diminué chez les patients n’ayant jamais reçu de traitement antihypertenseurs.
+Plus de 75% des enfants avaient une pression artérielle systolique et diastolique inférieure au 95ème percentile lors de leur dernière évaluation.
+La sécurité d’emploi était conforme au profil de sécurité d’emploi connu du périndopril.
+Double blocage du système rénine-angiotensine-aldostérone (SRAA)
+L’utilisation de l’association d’un inhibiteur de l’enzyme de conversion (IEC) avec un antagoniste des récepteurs de l’angiotensine II (ARA II) a été analysée au cours de deux larges essais randomisés et contrôlés (ONTARGET (ONgoing Telmisartan Alone and in combination with Ramipril Global Endpoint Trial) et VA NEPHRON-D (The Veterans Affairs Nephropathy in Diabetes).
+L’étude ONTARGET a été réalisée chez des patients ayant des antécédents de maladie cardiovasculaire ou de maladie vasculaire cérébrale, ou atteints d’un diabète de type 2 avec atteinte des organes cibles. L’étude VA NEPHRON-D a été réalisée chez des patients diabétiques de type 2 et atteints de néphropathie diabétique.
+Ces études n’ont pas mis en évidence d’effet bénéfique significatif sur l’évolution des atteintes rénales et/ou cardiovasculaires et sur la mortalité, alors qu’il a été observé une augmentation du risque d’hyperkaliémie, d’insuffisance rénale aiguë et/ou d’hypotension en comparaison à une monothérapie.
+Compte tenu de la similarité de leurs propriétés pharmacodynamiques, ces résultats sont également applicables aux autres IEC et ARA II..
+Les IEC et les ARA II ne doivent donc pas être associés chez les patients atteints de néphropathie diabétique.
+L’étude ALTITUDE (Aliskiren Trial in Type 2 Diabetes Using Cardiovascular and Renal Disease Endpoints) a été réalisée dans le but d’évaluer le bénéfice de l’ajout d’aliskirène à un traitement standard par IEC ou un ARAII chez des patients atteints d’un diabète de type 2 et d’une insuffisance rénale chronique, avec ou sans troubles cardiovasculaires. Cette étude a été arrêtée prématurément en raison d’une augmentation du risque d’événements indésirables. Les décès d’origine cardiovasculaire et les accidents vasculaires cérébraux ont été plus fréquents dans le groupe aliskirène que dans le groupe placebo ; de même les événements indésirables et certains événements indésirables graves tels que l’hyperkaliémie, l’hypotension et l’insuffisance rénale ont été rapportés plus fréquemment dans le groupe aliskirène que dans le groupe placebo.
+
+5.2. Propriétés pharmacocinétiques
+Absorption
+Après administration orale, l'absorption du périndopril est rapide et le pic de concentration atteint sa valeur maximale en 1 heure.
+La demi-vie plasmatique du périndopril est de 1 heure.
+Périndopril est une prodrogue.
+27 % de la dose administrée de périndopril est retrouvé dans le compartiment sanguin sous forme de périndoprilate métabolite actif. En plus du périndoprilate actif, périndopril produit 5 métabolites, tous inactifs. Le pic de concentration plasmatique du périndoprilate est atteint en 3 à 4 heures.
+La prise d’aliments diminuant la transformation en périndoprilate, et donc sa biodisponibilité, périndopril arginine doit être administré par voie orale, en une prise quotidienne unique le matin avant le repas.
+Une relation linéaire a été démontrée entre la dose de périndopril et sa concentration plasmatique
+Distribution
+Le volume de distribution est approximativement de 0,2 l/kg pour la forme libre du périndoprilate. La liaison du périndoprilate aux protéines plasmatiques est de 20 %, principalement à l’enzyme de conversion de l’angiotensine, et est concentration-dépendante.
+Elimination
+Le périndoprilate est éliminé dans l’urine et la demi-vie terminale de la fraction libre est d’environ 17 heures, permettant d’obtenir un état d’équilibre en 4 jours.
+Population particulière
+L’élimination du périndoprilate est diminuée chez le sujet âgé, ainsi que chez les insuffisants cardiaques et rénaux. Une adaptation posologique en cas d’insuffisance rénale est souhaitable en fonction du degré de cette insuffisance (clairance de la créatinine).
+La clairance de dialyse du périndoprilate est de 70 ml/min.
+Les cinétiques de périndopril sont modifiées chez les cirrhotiques : la clairance hépatique de la molécule-mère est réduite de moitié. Cependant, la quantité de périndoprilate formée n’est pas réduite et, par conséquent, aucune adaptation posologique n’est nécessaire (voir rubriques 4.2 et 4.4).
+
+5.3. Données de sécurité préclinique
+Lors des études de toxicité chronique (rats et singes), l’organe cible et le rein, avec des lésions réversibles.
+Aucun effet mutagène n'a été observé lors des études in vitro ou in vivo.
+Les études sur la toxicité de la reproduction (rats, souris, lapins et singes) n'ont montré aucun signe d'embryotoxicité ou de tératogénicité. Il est cependant établi que les Inhibiteurs de l’enzyme de conversion de l’angiotensine, en tant que classe, exercent des effets indésirables aux derniers stades du développement fœtal résultants en une mort fœtale et en des anomalies congénitales chez les rongeurs et le lapin : des lésions rénales ainsi qu’un accroissement de la mortalité périnatale et postnatale ont été observées. La fertilité n’a pas été altérée chez les rats mâles ou femelles.
+Aucune carcinogénicité n'a été observé lors des études à long terme chez le rat et la souris.
+
+6. CONTENU DE L’EMBALLAGE ET AUTRES INFORMATIONS
+Imprimer
+
+6.1. Liste des excipients
+Silice colloïdale anhydre, cellulose microcristalline, lactose monohydraté, stéarate de magnésium.
+
+6.2. Incompatibilités
+Sans objet.
+
+6.3. Durée de conservation
+2 ans.
+
+6.4. Précautions particulières de conservation
+A conserver à une température ne dépassant pas +30°C.
+
+6.5. Nature et contenu de l'emballage extérieur
+14, 20, 28, 30, 56, 60, 90 ou 100 comprimés sous plaquettes thermoformées (Aluminium/Aluminium).
+Toutes les présentations peuvent ne pas être commercialisées.
+
+6.6. Précautions particulières d’élimination et de manipulation
+Pas d’exigences particulières pour l’élimination.
+Tout médicament non utilisé ou déchet doit être éliminé conformément à la réglementation en vigueur.
+
+7. TITULAIRE DE L’AUTORISATION DE MISE SUR LE MARCHE
+Redirection vers le haut de page
+ZYDUS FRANCE
+ZAC LES HAUTES PATURES
+PARC D’ACTIVITES DES PEUPLIERS
+
+25 RUE DES PEUPLIERS
+92000 NANTERRE
+
+8. NUMERO(S) D’AUTORISATION DE MISE SUR LE MARCHE
+Redirection vers le haut de page
+·
+34009 389 514 4 8 : 14 comprimés sous plaquettes thermoformées (Aluminium/Aluminium)
+·
+34009 389 515 0 9 : 20 comprimés sous plaquettes thermoformées (Aluminium/Aluminium)
+·
+34009 389 516 7 7 : 28 comprimés sous plaquettes thermoformées (Aluminium/Aluminium)
+·
+34009 389 517 3 8 : 30 comprimés sous plaquettes thermoformées (Aluminium/Aluminium)
+·
+34009 389 519 6 7 : 56 comprimés sous plaquettes thermoformées (Aluminium/Aluminium)
+·
+34009 389 520 4 9 : 60 comprimés sous plaquettes thermoformées (Aluminium/Aluminium)
+·
+34009 499 121 7 9 : 90 comprimés sous plaquettes thermoformées (Aluminium/Aluminium)
+·
+34009 269 088 8 1 : 100 comprimés sous plaquettes thermoformées (Aluminium/Aluminium).
+
+9. DATE DE PREMIERE AUTORISATION/DE RENOUVELLEMENT DE L’AUTORISATION
+Redirection vers le haut de page
+[à compléter ultérieurement par le titulaire]
+
+10. DATE DE MISE A JOUR DU TEXTE
+Redirection vers le haut de page
+[à compléter ultérieurement par le titulaire]
+
+11. DOSIMETRIE
+Redirection vers le haut de page
+Sans objet.
+
+12. INSTRUCTIONS POUR LA PREPARATION DES RADIOPHARMACEUTIQUES
+Redirection vers le haut de page
+Sans objet.
+CONDITIONS DE PRESCRIPTION ET DE DELIVRANCE
+Liste I.
+Sommaire de la notice
+Dénomination du médicament
+Encadré
+Que contient cette notice ?

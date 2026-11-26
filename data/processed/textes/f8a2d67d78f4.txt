@@ -1,0 +1,1348 @@
+1/20
+RESUME DES CARACTERISTIQUES DU PRODUIT
+1.
+DENOMINATION DU MEDICAMENT
+Azithromycine Sandoz 200 mg/5 ml poudre pour suspension buvable
+2.
+COMPOSITION QUALITATIVE ET QUANTITATIVE
+Chaque 5 ml de suspension reconstituée contient 209,6 mg d’azithromycine dihydratée, équivalant à
+200 mg d’azithromycine.
+Chaque 1 ml de suspension reconstituée contient 41,92 mg d’azithromycine dihydratée, équivalant à
+40 mg d’azithromycine.
+Excipients à effet notoire :
+Chaque 5 ml de suspension reconstituée contient 3,71 g de saccharose, 0,030 g d’aspartam (E 951),
+jusqu’à 410 nanogrammes d’alcool benzylique et jusqu’à 85 nanogrammes de sulfites.
+Pour la liste complète des excipients, voir rubrique 6.1.
+3.
+FORME PHARMACEUTIQUE
+Poudre pour suspension buvable.
+Poudre cristalline blanche à blanc cassée.
+4.
+DONNEES CLINIQUES
+4.1 Indications thérapeutiques
+Azithromycine Sandoz est indiqué dans le traitement des infections suivantes (voir rubriques 4.4 et
+5.1) :
+Patients pédiatriques âgés de 6 mois et plus, et pesant moins de 45 kg
+-
+Angine aiguës streptococciques et pharyngite
+-
+Sinusite aiguë bactérienne
+-
+Otite moyenne aiguë bactérienne
+-
+Pneumonie communautaire (Community-acquired pneumonia, CAP)
+-
+Infection bactérienne aiguë de la peau et des tissus mous (IBAPTM)
+Adultes et adolescents pesant au moins de 45 kg et ne pouvant pas avaler les formes pharmaceutiques
+solides :
+En plus des indications mentionnées ci-dessus, ce médicament est également indiqué dans le
+traitement des infections suivantes :
+-
+Urétrite et cervicite dues à Chlamydia trachomatis
+-
+Patients adultes présentant une exacerbation aiguë de bronchite chronique
+Il convient de tenir compte des recommandations officielles concernant l’utilisation appropriée des
+antibactériens.
+
+4.2 Posologie et mode d’administration
+Posologie
+Patients pédiatriques âgés de 6 mois et plus, pesant moins de 45 kg
+L’azithromycine doit être administrée en une prise unique journalière (voir Tableau 1).
+Tableau 1 : Recommandations posologiques chez les patients pédiatriques âgés de 6 mois et plus,
+pesant moins de 45 kg
+Indication
+Schéma posologique d’azithromycine
+Sinusite aiguë bactérienne
+Pneumonie communautaire
+Infection bactérienne aiguë de la
+peau et des tissus mous
+10 mg/kg/jour pendant 3 jours
+ou
+10 mg/kg le jour 1, puis 5 mg/kg/jour du jour 2 au jour 5
+Otite moyenne aiguë bactérienne
+dose unique de 30 mg/kg
+ou
+10 mg/kg/jour pendant 3 jours
+ou
+10 mg/kg le jour 1, puis 5 mg/kg/jour du jour 2 au jour 5
+Angine aiguës streptococciques
+et pharyngite
+20 mg/kg/jour pendant 3 jours
+ou
+12 mg/kg/jour pendant 5 jours
+Il convient de tenir compte des schémas thérapeutiques, des posologies et de la durée du traitement tels
+que mentionnés dans les recommandations en vigueur pour chaque indication.
+La dose quotidienne d’azithromycine ne doit pas dépasser la dose quotidienne de 500 mg chez
+l’adulte, à l’exception du traitement d’une journée (dose unique) pour l’otite moyenne aiguë
+bactérienne, pour lequel la dose totale maximale de 1 500 mg ne doit pas être dépassée. La dose totale
+maximale recommandée pour tout traitement chez les patients pédiatriques pesant moins de 45 kg est
+de 1 500 mg, sauf dans le cas du schéma posologique sur 5 jours pour l’angine aiguës streptococciques
+et pharyngite. Voir Tableau 2.
+
+Tableau 2 : Doses quotidiennes maximales recommandées d'azithromycine par schéma posologique
+Poids du
+Dose maximale d’azitromycine par jour
+patient
+5 mg/kg
+(schéma
+posologique
+sur 5 jours, du
+jour 2 au jour
+5)
+10 mg/kg
+(schéma
+posologique
+sur 3 jours ou
+schéma
+posologique
+sur 5 jours,
+le jour 1)
+12 mg/kg
+(schéma
+posologique sur 5
+jours pour la
+pharyngite/-
+amygdalite
+streptococcique)
+20 mg/kg
+(schéma posologique
+sur 3 jours pour la
+pharyngite/amygdalite
+streptococcique)
+30 mg/kg
+(schéma
+posologique
+à dose unique
+pour l’otite
+moyenne
+aiguë)
+(kg)
+7
+35 mg
+70 mg
+84 mg
+140 mg
+210 mg
+8
+40 mg
+80 mg
+96 mg
+160 mg
+240 mg
+9
+45 mg
+90 mg
+108 mg
+180 mg
+270 mg
+10
+50 mg
+100 mg
+120 mg
+200 mg
+300 mg
+11
+55 mg
+110 mg
+132 mg
+220 mg
+330 mg
+12
+60 mg
+120 mg
+144 mg
+240 mg
+360 mg
+13
+65 mg
+130 mg
+156 mg
+260 mg
+390 mg
+14
+70 mg
+140 mg
+168 mg
+280 mg
+420 mg
+15
+75 mg
+150 mg
+180 mg
+300 mg
+450 mg
+16 – 25
+100 mg
+200 mg
+250 mg
+400 mg
+600 mg
+26 – 35
+150 mg
+300 mg
+350 mg
+500 mg#
+900 mg
+36 – < 45
+200 mg
+400 mg
+450 mg
+500 mg#
+1 200 mg
+# Ne pas dépasser la dose quotidienne de 500 mg chez l’adulte
+Le volume à administrer pour obtenir les doses ci-dessus est indiqué dans le Tableau 3.
+Tableau 3 : Recommandations relatives à la dose quotidienne maximale et aux volumes
+correspondants de la suspension buvable (40 mg/mL) chez les patients pédiatriques âgés de 6 mois et
+plus, pesant moins de 45 kg
+Poids
+du
+patient
+(kg)
+Dose maximale d’azitromycine par jour
+5 mg/kg
+10 mg/kg
+12 mg/kg
+20 mg/kg
+30 mg/kg
+7
+1,00 mL
+(40 mg)+*
+1,75 mL
+(70 mg)*
+2,25 mL (90
+mg)++
+3,50 mL
+(140 mg)
+5,25 mL 
+(210 mg)
+8
+1,00 mL
+(40 mg)*
+2,00 mL
+(80 mg)*
+2,50 mL
+(100 mg)++
+4,00 mL
+(160 mg)
+6,00 mL 
+(240 mg)
+9
+1,25 mL
+(50 mg)+*
+2,25 mL 
+(90 mg)
+2,75 mL
+(110 mg)++
+4,50 mL
+(180 mg)
+6,75 mL 
+(270 mg)
+10
+1,25 mL
+(50 mg)*
+2,50 mL
+(100 mg)
+3,00 mL
+(120 mg)
+5,00 mL
+(200 mg)
+7,50 mL 
+(300 mg)
+11
+1,50 mL
+(60 mg)+*
+2,75 mL
+(110 mg)
+3,25 mL
+(130 mg)++
+5,50 mL
+(220 mg)
+8,25 mL 
+(330 mg)
+12
+1,50 mL
+(60 mg)*
+3,00 mL
+(120 mg)
+3,75 mL
+(150 mg)++
+6,00 mL
+(240 mg)
+9,00 mL 
+(360 mg)
+13
+1,75 mL
+(70 mg)+*
+3,25 mL
+(130 mg)
+4,00 mL
+(160 mg)++
+6,50 mL
+(260 mg)
+9,75 mL 
+(390 mg)
+14
+1,75 mL
+(70 mg)*
+3,50 mL
+(140 mg)
+4,25 mL
+(170 mg)++
+7,00 mL
+(280 mg)
+10,50 mL
+(420 mg)
+15
+2,00 mL
+(80 mg)+*
+3,75 mL
+(150 mg)
+4,50 mL
+(180 mg)
+7,50 mL
+(300 mg)
+11,25 mL
+(450 mg)
+16 – 25
+2,50 mL
+(100 mg)
+5,00 mL
+(200 mg)
+6,25 mL
+(250 mg)
+10,00 mL
+(400 mg)
+15,00 mL
+(600 mg)
+
+26 – 35
+3,75 mL
+(150 mg)
+7,50 mL
+(300 mg)
+8,75 mL
+(350 mg)
+12,50 mL
+(500 mg)#
+22,50 mL
+(900 mg)
+36 – <45
+5,00 mL
+(200 mg)
+10,00 mL
+(400 mg)
+11,25 mL
+(450 mg)
+12,50 mL
+(500 mg)#
+30,00 mL
+(1 200 mg)
++ 5 mg/kg : les doses recommandées sont de 0,875 mL (35 mg), 1,125 mL (45 mg), 1,375 mL (55 mg),
+1,625 mL (65 mg) et 1,875 mL (75 mg). Ces valeurs ont été arrondies afin d’obtenir une dose appropriée
+à administrer.
+++ 12 mg/kg : les doses recommandées sont de 2,10 mL (84 mg), 2,40 mL (96 mg), 2,70 mL (108 mg),
+3,30 mL (132 mg), 3,60 mL (144 mg), 3,9 mL (156 mg) et 4,2 mL (168 mg). Ces valeurs ont été
+arrondies afin d’obtenir une dose appropriée à administrer.
+* L’azithromycine 20 mg/mL (100 mg/5 mL) en poudre pour suspension buvable est la formulation la
+plus appropriée pour traiter ces patients.
+# Ne pas dépasser la dose quotidienne de 500 mg chez l’adulte
+Adultes et adolescents pesant au moins 45 kg et ne pouvant pas avaler les formes pharmaceutiques
+solides
+L’azithromycine doit être administrée en une prise unique journalière (voir Tableau 4).
+Tableau 4 : Recommandations posologiques pour les adultes et les adolescents pesant au moins 45 kg
+et ne pouvant pas avaler les formes pharmaceutiques solides
+Indication
+Schéma posologique d’azithromycine
+Angine aiguës streptococciques et pharyngite
+Sinusite aiguë bactérienne
+Otite moyenne aiguë bactérienne
+Exacerbations aiguës de bronchite chronique*
+Pneumonie communautaire#
+Infection bactérienne aiguë de la peau et des
+tissus mous
+500 mg/jour pendant 3 jours
+ou
+500 mg le jour 1, puis 250 mg/jour du jour 2 au
+jour 5
+Urétrite et cervicite dues à Chlamydia
+trachomatis
+1 000 mg en dose unique
+* pour le traitement de l’adulte uniquement
+# chez l’adulte, un traitement par voie orale peut également être instauré en relais d’un traitement
+par voie intraveineuse, si indiqué cliniquement, afin de compléter un schéma de traitement d’une
+durée totale de 7 à 10 jours (pour plus de détails, se référer au résumé des caractéristiques du
+produit des formulations intraveineuses (IV) de l’azithromycine).
+Il convient de tenir compte des schémas thérapeutiques, des posologies et de la durée du traitement
+tels que mentionnés dans les recommandations en vigueur pour chaque indication.
+Dose oubliée
+Si 12 heures ou moins se sont écoulées depuis la dose oubliée, le patient doit être informé de la
+prendre le plus rapidement possible et de prendre la dose suivante à l’heure habituelle. Si plus de 12
+heures se sont écoulées depuis l’heure habituelle de prise de la dose, le patient doit être informé
+d’attendre la prochaine dose programmée.
+
+Populations particulières
+Insuffisance rénale
+Aucune adaptation posologique n’est nécessaire chez les patients présentant un DFG ≥ 10 mL/min.
+Chez les patients présentant un DFG < 10 mL/min, l’azithromycine doit être administrée avec
+prudence (voir rubrique 5.2).
+Insuffisance hépatique
+Aucune adaptation posologique n’est nécessaire chez les patients présentant une insuffisance
+hépatique légère (classe A de Child-Pugh) ou modérée (classe B de Child-Pugh) (voir rubrique 5.2).
+Aucune donnée n’est disponible chez les patients présentant une insuffisance hépatique sévère (classe
+C de Child-Pugh). Par conséquent, l’azithromycine doit être administrée avec prudence chez ces
+patients (voir rubrique 4.4).
+Personnes âgées
+Aucune adaptation posologique n’est nécessaire chez les patients âgés (voir rubrique 5.2). Les
+personnes âgées étant plus susceptibles de présenter des états pro-arythmiques, une prudence
+particulière est recommandée en raison du risque de développer une arythmie cardiaque et des torsades
+de pointes (voir rubrique 4.4).
+Population pédiatrique
+La sécurité et l’efficacité de l’azithromycine n’ont pas été établies chez les enfants âgés de moins de 6
+mois, quelle que soit l’indication mentionnée à la rubrique 4.1.
+Il n’a pas été identifié de situation qui justifierait l’utilisation de l’Azithromycine Sandoz dans le
+traitement des exacerbations aiguës de bronchite chronique chez les patients pédiatriques.
+Mode d’administration
+Par voie orale après reconstitution.
+La poudre pour suspension buvable doit être prise en une prise unique journalière, avec ou sans
+nourriture.
+L’administration immédiatement avant un repas peut améliorer la tolérance gastro-intestinale.
+Il convient d’informer les patients qu’ils doivent agiter le flacon de la suspension buvable reconstituée
+avant chaque nouvelle prise.
+Pour des instructions concernant la reconstitution du médicament avant administration, voir la
+rubrique 6.6.
+4.3 Contre-indications
+Hypersensibilité à la substance active, à l’érythromycine, à tout antibiotique de la famille des
+macrolides ou des kétolides, ou à l’un des excipients mentionnés à la rubrique 6.1.
+4.4 Mises en garde spéciales et précautions d’emploi
+Risque de résistance
+L’azithromycine peut favoriser le développement d’une résistance compte tenu de concentrations
+décroissantes et durables dans le plasma et les tissus après la fin du traitement (voir rubrique 5.2). Le
+traitement par azithromycine ne doit être instauré qu’après une évaluation approfondie du rapport
+bénéfice/risque, en tenant compte de la prévalence de la résistance locale, et uniquement lorsque les
+schémas thérapeutiques de première intention ne sont pas indiqués.
+
+Réactions cutanées et d’hypersensibilité sévères
+De rares cas de réactions allergiques graves, y compris angiœdème et anaphylaxie (rarement fatals), de
+réactions indésirables cutanées sévères (SCARs), y compris syndrome de Stevens-Johnson (SJS),
+nécrolyse épidermique toxique (NET), réaction médicamenteuse avec éosinophilie et symptômes
+systémiques (syndrome DRESS), pustulose exanthématique aiguë généralisée (PEAG), pouvant mettre
+en jeu le pronostic vital ou entraîner le décès, ont été rapportés en association avec le traitement par
+azithromycine (voir rubrique 4.8). Au moment de la prescription, les patients doivent être informés des
+signes et symptômes et faire l’objet d’une surveillance étroite pour détecter la survenue de réactions
+cutanées. Certaines de ces réactions à l’azithromycine ont entraîné des symptômes récurrents et ont
+nécessité une période d’observation et de traitement plus longue.
+En cas de réaction allergique, l’administration d’azithromycine doit être interrompue et un traitement
+approprié doit être instauré. Les médecins doivent tenir compte du fait que les symptômes d’allergie
+peuvent réapparaître à l’arrêt du traitement symptomatique.
+Allongement de l’intervalle QT
+Des cas de prolongation de la repolarisation cardiaque et d’allongement de l’intervalle QT, impliquant
+un risque de survenue d’arythmie cardiaque et de torsades de pointes, ont été observés lors du
+traitement avec les macrolides, dont l’azithromycine (voir rubrique 4.8). Par conséquent, dans la
+mesure où les situations suivantes peuvent amener à un risque accru d’arythmie ventriculaire (incluant
+des torsades de pointes) susceptible d’entraîner un arrêt cardiaque, la prudence est de rigueur lors du
+traitement par azithromycine de patients présentant des états pro-arythmiques (en particulier les
+femmes et les personnes âgées), notamment les patients :
+•
+présentant un allongement de l’intervalle QT congénital ou documenté
+•
+recevant actuellement un traitement par d’autres substances actives connues pour allonger
+l’intervalle QT (voir rubrique 4.5)
+•
+présentant un déséquilibre électrolytique, en particulier dans les cas d’hypokaliémie et
+d’hypomagnésémie
+•
+présentant une bradycardie cliniquement significative, une arythmie cardiaque ou une insuffisance
+cardiaque sévère
+•
+Patients âgés : les patients âgés peuvent être plus sensibles aux effets médicamenteux sur
+l’intervalle QT
+Hépatotoxicité
+Le foie constituant la principale voie d’élimination de l’azithromycine, l’utilisation de l’azithromycine
+doit se faire avec prudence chez les patients présentant une maladie hépatique significative. Des cas
+d’hépatite fulminante pouvant conduire à une insuffisance hépatique menaçant le pronostic vital ont
+été rapportés avec l’azithromycine. Des cas d’hépatite, d’ictère cholestatique, de nécrose hépatique et
+d’insuffisance hépatique ont également été rapportés avec l’azithromycine, dont certains ont entraîné
+le décès (voir rubrique 4.8). Certains patients pouvaient avoir eu une maladie hépatique préexistante
+ou avoir pris d’autres médicaments hépatotoxiques. Les patients doivent être informés d’arrêter
+l’azithromycine et de contacter leur médecin en cas d’apparition de signes et symptômes évocateurs
+d’un dysfonctionnement hépatique, tels qu’une asthénie rapidement progressive associée à un ictère,
+des urines sombres, une tendance aux saignements ou une encéphalopathie hépatique. Dans de tels
+cas, un bilan hépatique doit être réalisé immédiatement.
+Diarrhées associées à Clostridioides difficile (DACD), colite pseudomembraneuse
+Des cas de DACD et de colite pseudomembraneuse ont été rapportés avec l’azithromycine. Leur
+sévérité peut aller d’une diarrhée légère à une colite d’issue fatale (voir rubrique 4.8). La présence
+d’une DACD et d’une colite pseudomembraneuse doit être envisagée chez les patients développant
+une diarrhée pendant ou après l’administration d’azithromycine. L’arrêt du traitement par
+azithromycine et le recours à un traitement symptomatique en plus de l’administration d’un traitement
+spécifiquement dirigé contre C. difficile doivent être envisagés. Ne pas administrer de médicaments
+inhibant le péristaltisme.
+
+Infections sexuellement transmissibles
+Il est très probable que Neisseria gonorrhoeae présente une résistance aux macrolides, y compris à
+l’azithromycine, qui appartient à la classe des azalides (voir rubrique 5.1). Par conséquent,
+l’azithromycine n’est pas recommandée pour le traitement de la gonorrhée non compliquée ni de
+l’infection génitale haute, à moins que des résultats d’analyses de laboratoire aient confirmé la
+sensibilité de la bactérie à l’azithromycine. En l’absence de traitement ou en cas de traitement
+suboptimal, cette maladie peut entraîner des complications tardives telles qu’une infertilité et une
+grossesse extra-utérine.
+De plus, si un traitement par azithromycine en dose unique est envisagé pour une urétrite ou une
+cervicite dues à N. gonorrhoeae ou C. trachomatis (voir rubrique 4.2), une infection urogénitale
+concomitante à Mycoplasma genitalium doit être exclue, en raison du risque élevé d’émergence de
+résistance de cette bactérie.
+En outre, une infection concomitante par Treponema pallidum doit être écartée car les symptômes
+d’une syphilis en cours d’incubation pourraient être masqués, entraînant un retard de diagnostic.
+Pour tous les patients présentant des infections urogénitales sexuellement transmissibles, un traitement
+antibiotique et un suivi microbiologique appropriés doivent être mis en place.
+Myasthénie grave
+Des exacerbations des symptômes de myasthénie grave et la survenue d’un syndrome myasthénique
+ont été rapportées chez des patients sous azithromycine (voir rubrique 4.8).
+Micro-organismes non sensibles
+L’utilisation d’azithromycine peut entraîner une prolifération de micro-organismes non sensibles. En
+cas de surinfection, l’interruption du traitement ou d’autres mesures appropriées peuvent être
+nécessaires.
+Dérivés de l’ergot de seigle
+Chez les patients recevant des dérivés de l’ergot de seigle, l’ergotisme a été précipité par la co-
+administration de certains antibiotiques macrolides. Il n’existe aucune donnée étayant une éventuelle
+interaction entre l’ergot de seigle et l’azithromycine. Cependant, en raison du risque théorique
+d’ergotisme, l’azithromycine et les dérivés de l’ergot de seigle ne doivent pas être administrés de
+façon concomitante.
+Population pédiatrique
+Sténose hypertrophique du pylore (SHP)
+Des cas de sténose hypertrophique du pylore ont été rapportés après administration d’azithromycine au
+cours des 42 premiers jours de vie. Il convient de demander aux parents et aux soignants de contacter
+leur médecin en cas de vomissements en jet ou d’irritabilité lors de l’alimentation.
+Excipients à effet notoire :
+Azithromycine Sandoz contient du saccharose, du sodium, de l’aspartame, de l’alcool benzylique
+et des sulfites
+Prudence chez les patients diabétiques : 5 ml de suspension reconstituée contiennent 3,71 g de
+saccharose.
+Les patients présentant une intolérance au fructose, un syndrome de malabsorption du glucose et du
+galactose ou un déficit en sucrase/isomaltase (maladies héréditaires rares) ne doivent pas prendre ce
+médicament.
+Azithromycine Sandoz contient 0,030 g d'aspartame par 5 ml de suspension.
+
+L’aspartam contient une source de phénylalanine. Il n’existe aucune donnée clinique ou non clinique
+concernant l’utilisation de l’aspartam chez les enfants âgés de moins de 12 semaines.
+Azithromycine Sandoz contient moins de 1 mmol (23 mg) de sodium par dose, c.-à-d. qu’il est
+essentiellement « sans sodium ».
+Azithromycine Sandoz contient jusqu’à 410 nanogrammes d’alcool benzylique par 5 ml de
+suspension.
+L’alcool benzylique peut provoquer des réactions allergiques.
+L’alcool benzylique est associé à un risque d’effets secondaires graves y compris des problèmes
+respiratoires (appelés « syndrome de suffocation ») chez les nouveau-nés. Par conséquent, il ne doit
+pas être utilisé chez un nouveau-né (jusqu’à 4 semaines).
+En raison d’un risque accru d’accumulation, il ne doit pas être utilisé pendant plus d’une semaine chez
+les jeunes enfants (moins de 3 ans).
+Les volumes élevés doivent être utilisés avec prudence et en cas de nécessité uniquement, en
+particulier chez les personnes atteintes d’insuffisance hépatique ou rénale ou chez les femmes
+enceintes ou allaitantes en raison du risque d’accumulation et de toxicité (acidose métabolique).
+Azithromycine Sandoz contient jusqu’à 85 nanogrammes de sulfites par 5 ml de suspension.
+Il peut, dans de rares cas, provoquer des réactions d’hypersensibilité sévères et des bronchospasmes.
+Pour la liste complète des excipients, voir rubrique 6.1. 
+4.5 Interaction avec d’autres médicaments et autres formes d’interaction
+Bien que l’azithromycine soit un inhibiteur faible du CYP450 et qu’elle n’interagisse pas de façon
+significative avec les substrats du CYP450, une inhibition du CYP3A4 ne peut être totalement exclue.
+Par conséquent, la prudence est recommandée en cas de co-administration avec des substrats du
+CYP3A4 ayant une marge thérapeutique étroite.
+L’azithromycine est un inhibiteur du transporteur glycoprotéine P (P-gp). La co-administration
+d’azithromycine avec des substrats de la P-gp, tels que la digoxine ou la colchicine, peut augmenter
+leur exposition. En cas de traitement par des médicaments à marge thérapeutique étroite, une
+surveillance clinique et/ou un suivi thérapeutique pharmacologique, ainsi qu’un ajustement
+posologique si nécessaire, sont recommandés. La demi-vie relativement longue de l’azithromycine
+doit être prise en compte dans ce contexte (voir rubrique 5.2).
+Médicaments connus pour provoquer un allongement de l’intervalle QT
+L’azithromycine doit être utilisée avec précaution chez les patients recevant des médicaments connus
+pour allonger l’intervalle QT (voir rubrique 4.4), tels que des antiarythmiques des classes IA (par
+exemple, quinidine et procaïnamide) et III (par exemple, dofétilide, amiodarone et sotalol), des
+antipsychotiques (par exemple, pimozide), des antidépresseurs (par exemple, citalopram), des
+fluoroquinolones (par exemple, moxifloxacine et lévofloxacine), du cisapride, de la chloroquine et de
+l’hydroxychloroquine.
+ 
+Les informations relatives aux interactions médicamenteuses entre l’azithromycine et des
+médicaments concomitants potentiels sont résumées dans le tableau et les mentions suivantes. Les
+interactions médicamenteuses décrites sont basées sur les études cliniques d’interactions
+médicamenteuses menées avec l’azithromycine ou, lorsque cela est indiqué, constituent des
+interactions médicamenteuses potentielles susceptibles de se produire avec l’azithromycine.
+Tableau 5 : Interactions médicamenteuses cliniquement significatives entre l’azithromycine et d’autres
+médicaments
+Médicament (aire
+thérapeutique)
+Effet de
+l’interaction sur
+l’exposition
+Mécanisme
+Recommandation
+concernant la co-
+administration
+
+Atorvastatine (inhibiteur 
+de la HMG CoA
+réductase)
+Azithromycine 500 mg
+une fois par jour par voie
+orale pendant 3 jours.
+Atorvastatine 10 mg une
+fois par jour par voie
+orale.
+Azithromycine : ND
+Atorvastatine :
+↔ de l’ASC
+↔ de la Cmax
+L’atorvastatine est un
+substrat du CYP3A4 et
+de la P-gp.
+La prudence est de
+rigueur car des cas de
+rhabdomyolyse ont été
+rapportés post-
+commercialisation chez 
+des patients recevant de 
+l’azithromycine
+associée à des statines.
+Ciclosporine
+(immunosuppresseur)
+Azithromycine 500 mg
+une fois par jour par voie
+orale pendant 3 jours.
+Ciclosporine 10 mg/kg
+par voie orale en dose
+unique.
+Azithromycine : ND
+Ciclosporine :
+↔ de l’ASC
+↑ de la Cmax de 24 %
+La ciclosporine est
+un substrat du
+CYP3A4 et de la P-
+gp à marge
+thérapeutique étroite 
+et/ou entre en
+compétition pour
+l’excrétion biliaire.
+Une surveillance
+clinique et un suivi
+thérapeutique
+pharmacologique
+appropriés doivent
+être réalisés pendant
+et après le traitement
+par azithromycine. La 
+dose de ciclosporine
+doit être ajustée si
+nécessaire.
+Colchicine (goutte)
+Azithromycine : ND
+Colchicine :
+↑ 57 % de l’ASC0-t
+↑ 22 % de la Cmax
+La colchicine est un
+substrat de la P-gp à
+marge thérapeutique
+étroite.
+Une surveillance
+clinique est nécessaire
+pendant et après le
+traitement par
+azithromycine.
+Dabigatran (anticoagulant
+oral)
+ND
+Attendu :
+↑ du dabigatran
+Le dabigatran est un
+substrat de la P-gp à
+marge thérapeutique
+étroite.
+La prudence est de
+rigueur car des
+données post-
+commercialisation
+suggèrent un risque
+accru d’hémorragie
+chez les patients
+recevant
+l’azithromycine
+associée au
+dabigatran.
+Digoxine (glycosides
+cardiaques)
+ND
+Attendu :
+↑ de la digoxine
+La digoxine est un
+substrat de la P-gp à 
+marge thérapeutique 
+étroite.
+Une surveillance
+clinique, et
+possiblement une
+surveillance des
+concentrations de
+digoxine, est
+nécessaire pendant et
+après le traitement par
+azithromycine.
+
+Warfarine (anticoagulant 
+oral)
+Azithromycine 500 mg
+une fois par jour par voie
+orale pendant 1 jour,
+puis 250 mg une fois par
+jour 
+par 
+voie 
+orale
+pendant 4 jours.
+Warfarine 15 mg par
+voie orale en dose
+unique.
+Azithromycine : ND
+Warfarine : ND
+Aucune variation du
+temps de prothrombine
+lors de l’étude clinique
+d’interaction
+médicamenteuse mais
+des rapports post-
+commercialisation ont
+fait état d’une
+potentialisation de
+l’effet des
+anticoagulants oraux de
+type coumarine lors de
+la co-administration
+avec l’azithromycine.
+Inconnu.
+Une augmentation de
+la fréquence des
+contrôles du temps
+de prothrombine doit
+être envisagée pendant
+et après le traitement
+par azithromycine.
+Remarque : « ↑ » et « ↓ » indiquent des variations statistiquement significatives de plus de 10 %,
+« ↔ » indique une absence de variation et « ND » indique un effet non déterminé.
+Aucune variation cliniquement significative de l’exposition à l’azithromycine ou aux médicaments co-
+administrés n’a été observée lors des études cliniques évaluant les interactions médicamenteuses
+potentielles entre l’azithromycine et les antiacides oraux (hydroxyde d’aluminium/hydroxyde de
+magnésium), la carbamazépine, la cétirizine, la cimétidine, l’éfavirenz, le fluconazole, la
+méthylprednisolone, le midazolam, la rifabutine, le sildénafil, la théophylline, le triazolam, le
+triméthoprime/sulfaméthoxazole et la zidovudine.
+Population pédiatrique
+Les études d’interaction n’ont été réalisées que chez l’adulte.
+4.6 Fertilité, grossesse et allaitement
+Grossesse
+Les études sur la reproduction chez l’animal ont été réalisées à des doses allant jusqu’à des
+concentrations modérément toxiques pour la mère. Dans ces études, aucun effet tératogène n’a été mis
+en évidence. Cependant, il n’existe aucune étude appropriée et bien contrôlée sur la femme enceinte.
+On dispose d’une grande quantité de données provenant d’études observationnelles sur l’exposition à
+l’azithromycine au cours de la grossesse (plus de 7 000 grossesses exposées à l’azithromycine). La
+plupart de ces études ne suggèrent pas de risque accru d’effets indésirables pour le fœtus tels que des
+malformations congénitales majeures ou des malformations cardiovasculaires.
+Les données épidémiologiques relatives au risque de fausse couche après une exposition à
+l’azithromycine au début de la grossesse ne sont pas concluantes. Les études effectuées chez l’animal
+n’ont pas mis en évidence de toxicité sur la reproduction (voir rubrique 5.3).
+L’azithromycine ne doit être utilisée pendant la grossesse qu’en cas de nécessité clinique.
+Allaitement
+L’azithromycine est excrétée de façon substantielle dans le lait maternel. Aucun effet indésirable grave
+de l’azithromycine n’a été observé chez des nourrissons allaités, mais des effets tels qu’une diarrhée,
+une infection fongique des muqueuses ainsi qu’une hypersensibilité peuvent survenir chez des
+nouveau- nés/nourrissons allaités même à des doses sub-thérapeutiques. Une décision doit être prise
+
+soit d’interrompre l’allaitement soit d’interrompre ou de s’abstenir du traitement par azithromycine en
+prenant en compte le bénéfice de l’allaitement pour l’enfant au regard du bénéfice du traitement pour
+la femme.
+ 
+Fertilité
+Lors des études sur la fertilité menées chez le rat, des taux de grossesse réduits ont été notés après
+l’administration d’azithromycine. La pertinence de ces observations pour l’être humain est inconnue.
+4.7 Effets sur l’aptitude à conduire des véhicules et à utiliser des machines
+Azithromycine Sandoz a une influence modérée sur l’aptitude à conduire des véhicules et à utiliser des
+machines. Des sensations vertigineuses, une somnolence et des convulsions ont été rapportées chez
+certains patients prenant de l’azithromycine et certains patients ont présenté des troubles de la vue
+et/ou de l’audition. Ceci doit être pris en compte pour évaluer l’aptitude d’un patient à conduire des
+véhicules et à utiliser des machines (voir rubrique 4.8).
+4.8 Effets indésirables
+Résumé du profil de sécurité
+Les réactions indésirables les plus fréquemment rapportées au cours du traitement incluent : diarrhée,
+céphalée, vomissements, douleur abdominale, nausée et résultats anormaux aux tests de laboratoire.
+Les autres réactions indésirables importantes incluent des réactions anaphylactiques, des torsades de
+pointes, une arythmie incluant une tachycardie ventriculaire, une colite pseudomembraneuse et une
+insuffisance hépatique (voir rubrique 4.4). Des réactions indésirables cutanées sévères (SCARs), y
+compris syndrome de Stevens-Johnson (SJS), nécrolyse épidermique toxique (NET), réaction
+médicamenteuse avec éosinophilie et symptômes systémiques (syndrome DRESS) et pustulose
+exanthématique aiguë généralisée (PEAG), ont été rapportées en association avec le traitement par
+azithromycine (voir rubrique 4.4).
+Tableau mentionnant les effets indésirables
+Le tableau ci-dessous présente les effets indésirables identifiés au cours des essais cliniques et après la
+mise sur le marché par classe de systèmes d’organes et fréquence.
+Les fréquences de survenue des réactions indésirables sont établies selon les conventions suivantes :
+très fréquent (≥ 1/10) ; fréquent (≥ 1/100, < 1/10) ; peu fréquent (≥ 1/1 000, < 1/100) ;
+rare (≥ 1/10 000, < 1/1 000) ; très rare (< 1/10 000) ; et fréquence indéterminée (ne peut être estimée
+sur la base des données disponibles). Au sein de chaque groupe de fréquence, les effets indésirables
+sont présentés par ordre décroissant de gravité.
+Tableau 6 : Tableau des effets indésirables
+Très
+fréquent
+Fréquent
+Peu fréquent
+Rare
+Indéterminée
+Infections et
+infestations
+Infection à
+Candida
+Pneumonie
+Infection fongique
+Infection bactérienne
+Infection vaginale
+Pharyngite
+Gastroentérite
+Rhinite
+Candidose orale
+Affections
+hématologiques
+et du système
+lymphatique
+Numération de
+lymphocytes
+diminuée
+Numération des
+éosinophiles
+Leucopénie
+Neutropénie
+Éosinophilie
+Numération
+plaquettaire
+Thrombocytopénie
+Anémie hémolytique
+
+Très
+fréquent
+Fréquent
+Peu fréquent
+Rare
+Indéterminée
+augmentée
+Numération des
+basophiles
+augmentée
+Numération des
+monocytee
+augmentés
+Numération des
+neutrophiles
+augmentée
+augmentée
+Hématocrite diminué
+Affections du système
+immunitaire
+Angioœdème
+Hypersensibilité (voir
+rubrique 4.4)
+Réaction
+anaphylactique
+Troubles
+du métabolisme
+et de la nutrition
+Appétit diminué
+Affections
+psychiatriques
+Nervosité
+Insomnie
+Agitation
+Anxiété
+Délire
+Hallucination
+Agression
+Affections du
+système nerveux
+Céphalées
+Sensation vertigineuse
+Dysgueusie
+Paresthésie
+Somnolence
+Myasthénie grave (voir
+rubrique 4.4)
+Crise convulsive
+Anosmie
+Agueusie
+Hypoesthésie
+Hyperactivité
+psychomotrice
+Parosmie
+Syncope
+Affections oculaires
+Troubles visuels
+Vision floue
+Affections
+de l'oreille
+et du labyrinthe
+Trouble de l’oreille
+Vertige
+Surdité
+Hypoacousie
+Acouphène
+Affections
+cardiaques
+Palpitations
+Torsades de pointes
+(voir rubrique 4.4)
+Arythmie incluant
+tachycardie
+ventriculaire (voir
+rubrique 4.4)
+Intervalle QT prolongé
+à
+l’électrocardiogramme
+(voir rubrique 4.4)
+Affections
+vasculaires
+Bouffées de chaleur
+Hypotension
+Affections
+respiratoires,
+thoraciques et
+médiastinales
+Dyspnée,
+Trouble respiratoire
+Épistaxis
+Affections
+gastro-intestinales
+Diarrhée
+Vomissements
+Douleur
+abdominale
+Nausée
+Gastrite
+Constipation
+Dyspepsie
+Dysphagie
+Distension
+abdominale
+Bouche sèche
+Ulcération buccale
+Hypersalivation
+Éructation
+Flatulence
+Pancréatite
+Colite pseudo-
+membraneuse (voir
+rubrique 4.4)
+Coloration anormale de
+la langue
+Affections
+hépatobiliaires
+Aspartate
+aminotransférase
+Fonction
+hépatique
+Insuffisance hépatique
+(voir rubrique 4.4)
+
+Très
+fréquent
+Fréquent
+Peu fréquent
+Rare
+Indéterminée
+augmentée
+Alanine
+aminotransférase
+augmentée
+Bilirubine sanguine
+augmentée
+Phosphatases alcalines
+sanguines augmentées
+anormale
+Ictère
+cholestatique
+Hépatite fulminante
+Nécrose hépatique
+Affections de la peau
+et du tissu
+sous-cutané
+Rash
+Prurit
+Urticaire
+Dermatite
+Sécheresse
+cutanée
+Hyperhidrose
+Pustulose
+exanthématique
+aiguë généralisée
+(PEAG)
+Réaction
+médicamenteuse
+avec éosinophilie
+et symptômes
+systémiques
+(syndrome
+DRESS)
+Réaction de
+photosensibilité
+Nécrolyse épidermique
+toxique
+Syndrome de Stevens-
+Johnson
+Érythème polymorphe
+Affections
+musculosquelettiques
+et du tissu conjonctif
+Ostéoarthrite
+Myalgie
+Dorsalgie
+Cervicalgie
+Arthralgie
+Affections
+du rein et des
+voies urinaires
+Dysurie
+Douleur rénale
+Urée sanguine
+augmentée
+Créatinine sanguine
+augmentée
+Insuffisance rénale
+aiguë
+Néphrite tubulo-
+interstitielle
+Affections des
+organes de
+reproduction et du
+sein
+Hémorragie
+intermenstruelle
+Trouble testiculaire
+Troubles généraux
+et anomalies au site
+d’administration
+Œdème
+Asthénie
+Malaise
+Fatigue
+Œdème de la face
+Douleur thoracique
+Fièvre
+Douleur
+Œdème périphérique
+Investigations
+Bicarbonate
+sanguin diminué
+Potassium sanguin
+anormal
+Chlorure sanguin
+augmenté
+Glucose sanguin
+augmenté
+Bicarbonate sanguin
+augmenté
+Sodium sanguin
+anormal
+Lésions, intoxications
+et complications
+d’interventions
+Complication
+post-opératoire
+Déclaration des effets indésirables suspectés
+
+La déclaration des effets indésirables suspectés après autorisation du médicament est importante.
+Elle permet une surveillance continue du rapport bénéfice/risque du médicament. Les professionnels
+de santé déclarent tout effet indésirable suspecté via l’Agence fédérale des médicaments et des
+produits de santé, www.afmps.be, Division Vigilance : Site internet :
+www.notifieruneffetindesirable.be, e-mail : adr@fagg-afmps.be.
+4.9 Surdosage
+Symptômes
+Les réactions indésirables survenues à des doses supérieures aux doses recommandées étaient
+similaires à celles observées à des doses normales (voir rubrique 4.8). Les symptômes typiques de
+surdosage avec l’azithromycine sont notamment des symptômes gastro-intestinaux, c’est-à-dire des
+vomissements, des diarrhées, une douleur abdominale et des nausées.
+Traitement
+En cas de surdosage, un traitement symptomatique et le maintien des fonctions vitales sont indiquées
+ainsi que, si nécessaire, l’administration de charbon médicinal ou d’un lavage gastrique.
+Il n’existe pas de données sur les effets de la dialyse sur l’élimination de l’azithromycine. Néanmoins,
+en raison du mécanisme d’élimination de l’azithromycine, il est peu probable que la dialyse entraîne
+une élimination significative de la substance active.
+5.
+PROPRIETES PHARMACOLOGIQUES
+5.1 Propriétés pharmacodynamiques
+Classe pharmacothérapeutique : Antibactériens à usage systémique ; macrolides
+Code ATC : J01FA10
+Mécanisme d’action
+Le mécanisme d’action de l’azithromycine est basé sur l’inhibition de la synthèse des protéines
+bactériennes en se liant à la sous-unité 50S du ribosome et en empêchant la translocation peptidique.
+Relations pharmacocinétique/pharmacodynamique
+L’efficacité dépend principalement du rapport entre l’ASC (aire sous la courbe) et la CMI
+(concentration minimale inhibitrice) de la bactérie en cause.
+Mécanismes de résistance
+La résistance à l’azithromycine peut être basée sur les mécanismes suivants :
+-
+Efflux : la résistance peut être causée par une augmentation du nombre de pompes d’efflux
+dans la membrane cytoplasmique. Seuls les macrolides ayant un cycle à 14 ou 15 carbones
+sont concernés (phénotype M).
+-
+Changement de la structure cible : l’affinité aux sites de liaison du ribosome est diminuée
+par la méthylation de l’ARNr 23S qui entraîne une résistance aux macrolides (M), aux
+lincosamides (L) et aux streptogramines du groupe B (SB) (phénotype MLSB). Les
+méthylases conférant une résistance sont codées par les gènes erm. L’affinité aux sites de
+liaison du ribosome est également diminuée par les mutations de la structure cible de
+l’ARNr 23S ou par les mutations des protéines de la grande sous-unité du ribosome. 
+-
+L’inactivation enzymatique des macrolides a seulement un intérêt clinique mineur.
+Avec le phénotype M, on observe une résistance croisée complète entre l’azithromycine, la
+clarithromycine, l’érythromycine et la roxithromycine. Le phénotype MLSB présente une résistance
+croisée supplémentaire avec la clindamycine et la streptogramine B. Une résistance croisée partielle est 
+observée avec la spiramycine, un macrolide ayant un cycle à 16 carbones.
+
+En raison de la faible perméabilité de leur membrane externe, la plupart des espèces à Gram négatif
+présentent une résistance inhérente aux macrolides.
+Points critiques d’interprétation des tests de sensibilité
+Les critères d’interprétation de la CMI (concentration minimale inhibitrice) pour les tests de sensibilité 
+ont été établis par le Comité européen d’évaluation de la sensibilité aux antimicrobiens (EUCAST,
+European Committee on Antimicrobial Susceptibility Testing) pour l’azithromycine et sont listés ici :
+https://www.ema.europa.eu/documents/other/minimum-inhibitory-concentration-mic-
+breakpoints_en.xlsx
+Prévalence de la résistance acquise
+La prévalence de la résistance acquise peut varier en fonction de la région géographique et du temps
+pour certaines espèces. Il est donc utile de disposer d’informations sur la résistance locale, en
+particulier dans le traitement d’infections sévères. Si nécessaire, il convient d’obtenir un avis
+spécialisé lorsque l’intérêt du médicament dans certains types d’infections peut être mis en cause du
+fait du niveau de la prévalence de la résistance locale. En particulier en cas d’infections sévères ou
+d’échec thérapeutique, il convient d’effectuer un diagnostic microbiologique avec identification de
+l’agent pathogène et détermination de sa sensibilité à l’azithromycine.
+Tableau 7 : Prévalence de la résistance acquise
+Espèces habituellement sensibles
+Bactéries aérobies à Gram positif
+Streptococcus pyogenes
+Bactéries aérobies à Gram négatif
+Haemophilus influenzae
+Legionella pneumophila°
+Moraxella catarrhalis
+Autres microorganismes
+Chlamydophila pneumoniae°
+Chlamydia trachomatis°
+Chlamydophila psittaci
+Mycoplasma pneumoniae°
+Espèces inconstamment sensibles
+Bactéries aérobies à Gram positif
+Staphylococcus aureus+
+Staphylococcus epidermidis
+Staphylococcus haemolyticus
+Staphylococcus hominis
+Streptococcus pneumoniae++
+Bactéries aérobies à Gram négatif
+Neisseria gonorrhoeae
+Espèces naturellement résistantes
+Bactéries aérobies à Gram négatif
+Escherichia coli
+Pseudomonas aeruginosa
+Klebsiella spp.
+
+°Des données actualisées n’étaient pas disponibles au moment de la publication de ces tableaux. Les
+données sources dans la littérature, la littérature scientifique générale et les recommandations
+thérapeutiques laissent présager une sensibilité.
++Au moins une région présente des taux de résistance du Staphylococcus aureus résistant à la
+méticilline supérieurs à 50 %.
+++Les souches de Streptococcus pneumoniae sensibles à la pénicilline sont plus susceptibles d’être
+sensibles à l’azithromycine que les souches de Streptococcus pneumoniae résistantes à la pénicilline.
+5.2 Propriétés pharmacocinétiques
+Absorption
+Les concentrations sériques maximales (Cmax) d’azithromycine après administration de 500 mg
+(40 mg/mL) en suspension buvable, 1 000 mg en poudre pour suspension buvable, 500 mg (2 x 250
+mg) en comprimés et 1 000 mg (4 x 250 mg) en gélules à des volontaires sains à jeun étaient
+respectivement de 0,29, 0,75, 0,34 et 1,07 mg/L. Le délai d’obtention des concentrations plasmatiques
+maximales (Tmax) d’azithromycine après administration orale est de 2 à 3 heures. La biodisponibilité
+absolue moyenne chez des volontaires sains à jeun après administration de 500 mg en suspension
+buvable et 1 000 mg en poudre pour suspension buvable en sachet était respectivement de 37 % et
+44 %.
+L’effet de la nourriture sur la biodisponibilité orale relative de l’azithromycine dépend de la
+formulation. Après administration d’une dose orale d’azithromycine de 500 mg en suspension buvable
+(40 mg/mL), 1 000 mg en poudre pour suspension buvable et 500 mg en comprimés (2 x 250 mg), une
+exposition similaire a été obtenue avec un repas riche en graisses et à jeun. Après administration d’une
+dose unique de 500 mg (2 x 250 mg) en gélule avec un repas riche en graisses, le rapport moyen de la
+Cmax et l’ASC0-24 étaient inférieurs de 52 % et 43 % par rapport à l’administration à jeun.
+Le tableau 8 mentionne les paramètres pharmacocinétiques moyens (ET) chez les volontaires adultes
+sains selon les schémas posologiques standards avec les comprimés et les gélules.
+Tableau 8 : ASC0-24 et Cmax de l’azithromycine pour le schéma posologique sur 3 jours et 5 jours le
+dernier jour du traitement
+Schéma posologique,
+formulation
+ASC0-24 (µg•h/mL)
+Cmax (µg/mL)
+Schéma sur 3 jours (500 mg
+par jour), comprimé
+1,88 (0,96)
+0,42 (0,21)
+Schéma sur 5 jours (500 mg
+J1, 250 mg
+J2 à J5), comprimé
+0,80 (0,42)
+0,18 (0,10)
+Schéma sur 5 jours (500 mg
+J1, 250 mg
+J2 à J5), gélule
+2,1 (0,6)
+0,24 (0,08)
+Distribution
+L’azithromycine est largement et rapidement distribuée du plasma au compartiment extravasculaire, y
+compris dans des tissus tels que les amygdales, les poumons et les tissus gynécologiques ainsi que
+dans le compartiment intracellulaire, en particulier aux leucocytes polynucléaires, aux macrophages et
+aux monocytes. Les études pharmacocinétiques ont mis en évidence des concentrations
+considérablement plus élevées d’azithromycine dans certains tissus (jusqu’à 50 fois la concentration
+maximale observée dans le plasma), reflétant une forte liaison à ces tissus (avec un volume de
+distribution à l’état d’équilibre allant de 23 à 31 L/kg). La phase de redistribution du compartiment
+
+intracellulaire au compartiment extracellulaire et au plasma, peut entraîner des concentrations faibles
+prolongées après l’arrêt du traitement.
+L’azithromycine montre une faible liaison aux protéines plasmatiques, principalement à la
+glycoprotéine acide alpha-1, qui décroit à mesure que les concentrations d’antibiotique augmentent :
+50 %, 23 % et 7 % de liaison aux protéines à des concentrations respectives de 0,05, 0,1 et 1 mg/L.
+Biotransformation
+Le métabolisme de l’azithromycine dans le foie est minime. La voie de biotransformation principale
+est la N-déméthylation du sucre désosamine. Les autres voies incluent la O-déméthylation, l’hydrolyse
+du cladinose (déconjugaison du sucre cladinose) et l’hydroxylation du sucre désosamine et du cycle
+macrolide.
+Il n’y a pas de preuve d’induction ou d’inhibition cliniquement pertinente du cytochrome CYP 3A4
+hépatique via la formation d’un complexe cytochrome-métabolite. D’autre part, aucun métabolisme
+auto-induit de l’azithromycine par cette voie n’a été détecté.
+Elimination
+L’azithromycine est principalement éliminée par excrétion biliaire (active), essentiellement sous forme
+de médicament inchangé, mais également sous forme de métabolites dépourvus d’activité
+antibactérienne. L’excrétion urinaire représente une voie d’élimination mineure dans la mesure où
+moins de 6 % d’une dose orale et environ 20 % du médicament qui atteint la circulation systémique
+sont excrétés dans l’urine. Plus de 50 % de l’excrétion fécale et 12 % de l’excrétion urinaire
+s’effectuent sous forme de molécule inchangée.
+Après administration d’une dose unique de 500 mg d’azithromycine, une clairance plasmatique de
+630 mL/min a été estimée avec une demi-vie terminale d’environ 68 heures. La clairance rénale se
+situe généralement dans l’intervalle de 100 – 189 mL/min, substantiellement inférieure à la clairance
+plasmatique comme attendue compte tenu de la contribution relativement faible de la voie rénale à
+l’élimination.
+Linéarité/non-linéarité
+Après administration orale d’une formulation à libération immédiate, la proportionnalité à la dose de
+l’ASC0-24 et de la Cmax a été démontrée dans l’intervalle allant de 250 mg à 1 000 mg.
+Populations particulières
+Insuffisance rénale
+La pharmacocinétique de l’azithromycine a été étudiée chez 43 adultes (âgés de 21 à 85 ans) après
+administration orale d’une dose unique de 1,0 g d’azithromycine (4 gélules de 250 mg) à des sujets
+ayant un DFG > 80 mL/min (n = 12), des sujets ayant un DFG compris entre 10 et 80 mL/min (n = 12)
+et des sujets ayant un DFG < 10 mL/min t (n = 19).
+La pharmacocinétique de l’azithromycine chez les sujets ayant un DFG compris entre 10 et
+80 mL/min n’a pas été affectée (Cmax et ASC0-120 moyennes augmentées respectivement de 5,1 % et
+4,2 % par rapport aux sujets ayant un DFG > 80 mL/min). La Cmax et l’ASC0-120 moyennes étaient
+augmentées de 61 % et 35 % respectivement chez les sujets ayant un DFG < 10 mL/min par rapport
+aux sujets ayant un DFG > 80 mL/min.
+Aucune donnée n’est disponible concernant les sujets dialysés. Néanmoins, en raison du mécanisme
+d’élimination de l’azithromycine, il est peu probable que la dialyse entraîne une élimination
+significative de la substance active.
+Insuffisance hépatique
+La pharmacocinétique de l’azithromycine a été étudiée chez 22 adultes après administration orale
+d’une dose unique de 500 mg d’azithromycine (2 gélules de 250 mg) à des sujets ayant une fonction
+
+hépatique normale (n = 6), de classe A de Child-Pugh (n = 10) et de classe B de Child-Pugh (n = 6).
+La pharmacocinétique de l’azithromycine chez les sujets catégorisés dans les classes A et B de Child-
+Pugh était respectivement inférieure de 3 % et de 19 % pour l’ASC0-inf et supérieure de 34 % et 72 %
+pour la Cmax, par rapport aux sujets présentant une fonction hépatique normale.
+Personnes âgées
+Chez des volontaires âgés (> 65 ans) ayant reçu 500 mg d’azithromycine (2 gélules de 250 mg) le jour
+1, puis 250 mg du jour 2 au jour 5 à jeun, l’ASC0-24 était respectivement de 3,0 et 2,7 μg•h/mL les
+jours 1 et 5. Une ASC0-24 29 % plus élevée, une Cmax 8 % plus élevée et un Tmax 37,5 % plus élevé ont
+été observées le jour 5 par rapport aux volontaires plus jeunes (< 40 ans). Dans la mesure où ces
+différences ne sont pas considérées comme cliniquement pertinentes, aucune adaptation posologique
+n’est nécessaire pour les sujets âgés ayant des fonctions rénales et hépatiques normales.
+Population pédiatrique
+La pharmacocinétique de la suspension buvable d’azithromycine a été étudiée chez 14 enfants âgés de
+6 à 15 ans présentant une pharyngite, et chez 7 enfants âgés de 1 à 5 ans présentant une otite moyenne.
+Dans ces deux études, l’azithromycine en suspension buvable a été administrée à la dose de 10 mg/kg
+le jour 1, suivie de 5 mg/kg du jour 2 au jour 5. Après 5 jours de traitement, les valeurs moyennes de
+l’ASC0-24 étaient respectivement de 3,1 µg•h/mL et 1,8 µg•h/mL. La valeur moyenne de la Cmax était
+de 0,38 µg/mL et celle du Tmax correspondante était de 2,4 heures chez les enfants âgés de 6 à 15 ans,
+contre 0,22 µg/mL et 1,9 heure chez les enfants âgés de 1 à 5 ans. Les valeurs moyennes de la Cmax et
+de l’ASC0- 24 chez les enfants de 6 à 15 ans étaient 1,7 fois supérieures à celles observées chez les
+enfants de 1 à 4 ans.
+La pharmacocinétique d’un schéma de traitement de 3 jours d’azithromycine en suspension buvable à
+la dose de 10 mg/kg/jour a également été évaluée chez 16 enfants âgés de 6 mois à 10 ans présentant
+des infections bactériennes. L’ASC0-24 moyenne était de 2,90 µg•h/mL chez 7 enfants âgés de 2 à
+4 ans, et de 2,08 µg•h/mL chez 8 enfants âgés de 5 à 10 ans. Une faible valeur d’ASC0-24 de
+0,74 µg•h/mL a été observée chez un seul enfant du groupe des 6 mois à 2 ans.
+La pharmacocinétique d’une dose unique de 30 mg/kg d’azithromycine chez des patients pédiatriques
+n’a pas été étudiée.
+5.3 Données de sécurité précliniques
+Les données non cliniques issues des études conventionnelles de pharmacologie de sécurité,
+toxicologie en administration répétée et génotoxicité n’ont pas révélé de réactions indésirables
+clairement pertinentes pour l’être humain qui ne sont pas déjà évoquées dans d’autres rubriques du
+RCP.
+Cependant, une phospholipidose (accumulation de phospholipides intracellulaires) a été observée dans
+plusieurs tissus chez des souris, des rats et des chiens qui avaient reçu plusieurs doses
+d’azithromycine. Une phospholipidose a été observée à un degré similaire dans les tissus de rats et de
+chiens nouveau-nés. L’effet était réversible après l’arrêt du traitement par azithromycine. La
+pertinence de cette observation pour l’être humain est globalement inconnue.
+Les études d’embryotoxicité chez l’animal réalisées jusqu’à des doses modérément toxiques pour la
+mère (2 à 3 fois la dose quotidienne maximale recommandée de 500 mg chez l’adulte sur la base de la
+surface corporelle) n’ont pas mis en évidence d’effet tératogène chez la souris et le rat. Il a été montré
+que l’azithromycine traverse le placenta. Chez le rat, des doses d’azithromycine de 100 et 200 mg/kg
+de poids corporel/jour (2 à 3 fois la dose quotidienne maximale recommandée de 500 mg chez l’adulte
+sur la base de la surface corporelle) ont entraîné un léger retard d’ossification chez le fœtus et un gain
+pondéral chez la mère. Dans les études péri- et postnatales chez le rat, un léger retard a été observé
+après un traitement par des doses d’azithromycine de 200 mg/kg/jour (3 fois la dose quotidienne
+maximale recommandée de 500 mg chez l’adulte sur la base de la surface corporelle).
+
+6.
+DONNEES PHARMACEUTIQUES
+6.1 Liste des excipients
+Saccharose
+Gomme xanthique (E 415)
+Hydroxypropylcellulose
+Triphosphate de sodium anhydre
+Silice colloïdale anhydre (E 551)
+Aspartame (E 951)
+Arôme banane (contient des sulfites)
+Arôme crème vanille (contient de l'alcool benzylique)
+Arôme cerise (contient des sulfites)
+6.2 Incompatibilités
+Sans objet.
+6.3 Durée de conservation
+Flacon contenant la poudre sèche (avant ouverture) : 3 ans.
+Suspension reconstituée : 10 jours.
+Stabilité de la suspension reconstituée : à conserver à une température ne dépassant pas 25°C.
+6.4 Précautions particulières de conservation
+Flacon avant ouverture : A conserver à une température ne dépassant pas 30°C.
+Pour les conditions de conservation du médicament après reconstitution, voir la rubrique 6.3.
+6.5 Nature et contenu de l’emballage extérieur
+Flacons en HDPE, munis d’une fermeture en PP / PE et d’un anneau de retenue.
+Seringue (10 ml) en PE / PP, graduée tous les 0,25 ml.
+Emballages de poudre équivalents à 600 mg d'azithromycine. Contenu du flacon après reconstitution :
+15 ml.
+Emballages de poudre équivalents à 900 mg d'azithromycine. Contenu du flacon après reconstitution :
+22,5 ml.
+Emballages de poudre équivalents à 1500 mg d'azithromycine. Contenu du flacon après
+reconstitution : 37,5 ml.
+Toutes les présentations peuvent ne pas être commercialisées.
+6.6 Précautions particulières d’élimination et manipulation
+Préparation de la suspension :
+Agiter la poudre sèche pour la dégager. Ajouter la quantité d’eau purifiée à la poudre, comme
+mentionnée ci-dessous.
+Pour la suspension reconstituée de 15 ml (600 mg) : ajoutez 8,0 ml d’eau.
+Pour la suspension reconstituée de 22,5 ml (900 mg) : ajoutez 11,0 ml d’eau.
+Pour la suspension reconstituée de 37,5 ml (1500 mg) : ajoutez 18,5 ml d’eau.
+
+ 
+Bien agiter jusqu’à obtention d’une suspension homogène, de couleur blanche à blanc cassé. Pour
+l’administration, l’adaptateur de seringue doit être inséré dans le col du flacon et le bouchon doit être
+ouvert.
+Tout médicament non utilisé ou déchet doit être éliminé conformément à la réglementation en vigueur.
+7.
+TITULAIRE DE L’AUTORISATION DE MISE SUR LE MARCHE
+Sandoz nv/sa, Hermeslaan 1H, 1831 Machelen
+8.
+NUMERO D’AUTORISATION DE MISE SUR LE MARCHE
+BE311017
+9.
+DATE DE PREMIERE AUTORISATION/DE RENOUVELLEMENT DE
+L'AUTORISATION
+Date de première autorisation : 7 janvier 2008
+Date de dernier renouvellement : 9 juillet 2012
+10. DATE DE MISE A JOUR/D’APPROBATION DU TEXTE
+Date de mise à jour du texte : 02/2026
+Date d’approbation du texte : 02/2026

@@ -1,0 +1,231 @@
+Les Direct Healthcare Professional Communications (DHPC) sont 
+des courriers envoyés aux professionnels de la santé par les firmes 
+pharmaceutiques, afin de les informer de risques potentiels 
+apparus lors de l’utilisation de certains médicaments ainsi que des 
+mesures ou des recommandations pour limiter ces risques. Le but 
+de ce type de communication est d’informer au mieux les 
+professionnels de la santé afin d’améliorer la sécurité d’emploi 
+dans le cadre du bon usage des médicaments. Avant toute 
+diffusion, les firmes doivent soumettre leur projet de DHPC aux 
+autorités compétentes pour approbation. 
+ 
+Ces DHPC sont spécifiquement destinées aux médecins et aux 
+pharmaciens. Les DHPC étant néanmoins accessibles au public, 
+nous demandons aux patients qui auraient des questions après 
+avoir lu ces informations de consulter leur médecin ou leur 
+pharmacien. 
+
+ 
+ 
+ 
+Bruxelles, 8 mai 2018 
+ 
+ 
+Information transmise sous l’autorité de l’AFMPS 
+ 
+Communication directe aux professionnels de la santé 
+ 
+ 
+Azithromycine: taux accru de récidives de malignités hématologiques et de mortalité chez 
+les patients ayant subi une greffe de cellules souches hématopoïétiques (GCSH) et traités 
+par azithromycine 
+ 
+Cher Professionnel de la santé, 
+ 
+En accord avec l’Agence Européenne des Médicaments (EMA: European Medicines Agency) 
+et l’Agence Fédérale des Médicaments et des Produits de Santé (AFMPS), les titulaires 
+d’Autorisation de Mise sur le Marché mentionnés dans le tableau joint en annexe souhaitent 
+vous informer de ce qui suit: 
+ 
+Résumé 
+• 
+Un essai clinique ALLOZITHRO1 qui a étudié le traitement à long terme par 
+azithromycine afin de prévenir le syndrome de bronchiolite oblitérante (SBO) chez 
+des patients ayant subi une greffe allogénique de cellules souches hématopoïétiques 
+(GCSH) pour des malignités hématologiques, a été achevé précocement après qu’un 
+risque accru de récidives eut été remarqué chez des patients prenant de 
+l’azithromycine comparé au placebo. 
+ 
+• 
+Bien que la contribution de l’azithromycine dans l’accroissement du taux de 
+récidives hématologiques observé lors de l’essai ne soit pas claire, il a été conclu 
+qu’une exposition à long terme à l’azithromycine après une GCSH peut comporter 
+des risques qui l’emportent sur les bénéfices attendus. 
+ 
+• 
+L’azithromycine n’est pas autorisée pour la prophylaxie du SBO chez des patients 
+subissant une GCSH. 
+ 
+Informations complémentaires sur la problématique de sécurité 
+L’essai clinique français, appelé ALLOZITHRO “Evaluation of the efficacy of azithromycin to 
+prevent bronchiolitis obliterans syndrome after allogenic hematopoietic stem cell 
+transplantation” (N° EudraCT: 2013-000499) subventionné par l’institut académique français 
+appartenant aux Hôpitaux à Paris, "Assistance publique des hôpitaux de Paris", a étudié si un 
+traitement prophylactique précoce par azithromycine améliorerait la survie à 2 ans sans perte de 
+la capacité respiratoire après une GCSH. 
+ 
+ 
+ 
+1 Bergeron A et al. Effect of Azithromycin on Airflow Decline-Free Survival After Allogeneic Hematopoietic 
+Stem Cell Transplant: The ALLOZITHRO Randomized Clinical Trial. JAMA. 2017 Aug 8;318(6):557-566. 
+
+BEL ZITR DHPC 18E03 FR 
+ 
+ 
+ 
+Page 2 of 4 
+Protocole de l’étude: Cette étude était un essai en groupe parallèle, randomisé contrôlé par 
+placebo, conduit dans 19 centres académiques de transplantation en France. Les patients 
+enrôlés étaient âgés de 16 ans ou plus et subissaient une GCSH à cause d’une malignité 
+hématologique. La période d’enrôlement s’étalait de février 2014 à août 2015. 480 patients au 
+total étaient randomisés: 243 patients recevaient de l’azithromycine (250 mg) 3 fois par 
+semaine pendant 2 ans; 237 patients avaient reçu un placebo pendant deux ans, à partir du 
+traitement préparatoire. Les effets immunomodulateurs de la thérapie par azithromycine étaient 
+évalués lorsque l’azithromycine était utilisée pour la prévention à long terme de SBO. 
+ 
+Principaux résultats et mesures: Le critère primaire d’évaluation de l’efficacité de l’essai 
+ALLOZITHRO était la survie à 2 ans sans perte de la capacité respiratoire après la 
+randomisation. Les principaux critères secondaires d’évaluation étaient la survie globale et le 
+syndrome de bronchiolite oblitérante à 2 ans. 
+ 
+Résultats: Les traitements de l’étude ALLOZITHRO (azithromycine/placebo) se sont achevés 
+le 26 décembre 2016, c.-à-d. treize mois après la fin du recrutement. Lors de l’analyse des 
+données anonymisées, le comité indépendant de surveillance des données et de la sécurité 
+(DSMB : Data and Safety Monitoring Board) a découvert un déséquilibre inattendu dans les 
+groupes anonymisés pour le nombre de récidives hématologiques (77 contre 48 patients; HR 
+ajusté (95% IC) = 1,6 (1,12-2,4) pour l’azithromycine et le placebo). Les données disponibles 
+au 26 avril 2017 ont été analysées. Les auteurs ont conclu que parmi les patients subissant une 
+GCSH allogénique pour malignité hématologique, l’administration précoce d’azithromycine 
+comme prophylaxie provoquait une survie sans perte de la capacité respiratoire qui était moins 
+bonne qu’avec le placebo. Les auteurs remarquaient que les résultats sont limités par l’arrêt 
+précoce du traitement étudié et par d’autres facteurs. Les auteurs ont conclu que la possibilité 
+d’effets délétères liés à la récidive requièrent une investigation plus approfondie. 
+ 
+L’analyse de toutes les données disponibles pertinentes ne suggère pas que ce risque s’applique 
+aux autres populations de patients ou aux indications approuvées pour l’utilisation à court ou à 
+long terme. 
+ 
+Bien que le mécanisme possible exact reste non identifié, et malgré l’absence d’autres données 
+probantes, les éléments de preuve découlant de cet essai clinique randomisé sont considérés 
+comme assez solides pour supposer que l’exposition à long terme à l’azithromycine après une 
+GCSH (en dehors des indications autorisées) peut être associée à un risque accru de récidive de 
+malignités hématologiques. 
+ 
+L’exposition à long terme à l’azithromycine après une GCSH peut comporter des risques qui 
+dépassent les bénéfices attendus. La sécurité d’un traitement prophylactique à long terme par 
+azithromycine dans ce groupe de patients est remise en cause. 
+ 
+ 
+
+BEL ZITR DHPC 18E03 FR 
+ 
+ 
+ 
+Page 3 of 4 
+Notification d’effets indésirables 
+Les professionnels de la santé sont invités à notifier les effets indésirables liés à l’utilisation de 
+azithromycine à la division Vigilance de l’AFMPS. La notification peut se faire en ligne via 
+www.fichejaune.be ou à l’aide de la « fiche jaune papier » disponible sur demande à l’AFMPS 
+ou imprimable à partir du site internet de l’AFMPS www.afmps.be. La « fiche jaune papier » 
+remplie peut être envoyée par la poste à l’adresse AFMPS – Division Vigilance – Eurostation II 
+– Place Victor Horta 40/40 – 1060 Bruxelles, par fax au numéro 02/528.40.01, ou encore par 
+email à: adversedrugreactions@afmps.be. 
+ 
+Les effets indésirables peuvent également être notifiés au service de Pharmacovigilance des 
+sociétés concernées (Voir table I). 
+Demande d’informations complémentaires 
+Si vous avez des questions supplémentaires ou si vous souhaitez recevoir des informations 
+complémentaires, vous pouvez contacter le service d’information médicale des sociétés 
+responsables mentionnées dans le table I. 
+ 
+Information transmise sous l’autorité de l’AFMPS en collaboration avec les titulaires 
+d’Autorisation de Mise sur le Marché. 
+ 
+Salutations distinguées, 
+ 
+ 
+Dr. Danny D’Hulster 
+Medical Director 
+Pfizer NV/SA 
+ 
+Corinne Parr 
+Drug Safety Manager 
+Sandoz NV/SA 
+ 
+Ann Osselaere 
+Drug Safety Officer 
+EG NV/SA 
+ 
+ 
+ 
+Frank de Vries 
+Head of RA, EMEA 
+Apotex Europe B.V. 
+ 
+Dr. Annemie Mertens 
+Medical Director 
+Teva Pharma Belgium NV/SA 
+ 
+ 
+ 
+Dr. Olivier Vandeputte 
+Regulatory Affairs Risk Manager 
+Mylan bvba/sprl 
+ 
+ 
+ 
+
+BEL ZITR DHPC 18E03 FR 
+ 
+ 
+ 
+Page 4 of 4 
+ 
+Table 1: List des titulaires, produits concernés, coordonnées 
+Firme 
+Produit 
+Pharmacovigilance 
+Service d’information 
+médicale 
+Pfizer NV/SA 
+Zitromax 
+BEL.AEReporting@pfizer.co
+m 
+Fax: 0800 78 614 
+Tel: +32 (0)2 554 62 11 
+ 
+Teva Pharma 
+NV/SA 
+Azithromycine Teva 
+safety.belgium@tevabelgium.be 
+medinfo.belgium@tevabel
+gium.be 
+Sandoz Belgium 
+NV/SA 
+Azithromycine 
+Sandoz 
+drug.safety_belgium@novartis.co
+m 
+Tel: 0800 94 368 
+Fax: +32 2 722 97 90 
+Tel.: +32 2 738 77 36 
+ 
+Apotex Europe 
+B.V. 
+Azithromycin Apotex 
+RABelgium@apotex.com 
+Tel.: +32 2 475 35 40 
+Mylan 
+Azithromycine Mylan 
+Phv.belgium@mylan.be 
+Tel: +32 2 658 61 00 
+Fax: + 32 2 658 61 10 
+qa@mylan.be 
+Tel: +32 2 658 61 00 
+ 
+Eurogenerics 
+Azithromycine EG 
+phvig@eg.be 
+Tel : +32 2 479 78 78 
+Fax: +32 2 479 45 45 
+Tel: +32 2 479 78 78

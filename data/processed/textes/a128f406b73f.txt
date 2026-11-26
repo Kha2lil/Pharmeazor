@@ -1,0 +1,396 @@
+PARACETAMOL PANPHARMA 10 mg/ml, solution pour perfusion
+
+Résumé des Caractéristiques du Produit
+ANSM - Mis à jour le : 09/04/2025
+
+1. QU’EST-CE QUE PARACETAMOL PANPHARMA 10 mg/ml, solution pour perfusion ET DANS QUELS CAS EST-IL UTILISE ?
+
+2. QUELLES SONT LES INFORMATIONS A CONNAITRE AVANT D’UTILISER PARACETAMOL PANPHARMA 10 mg/ml, solution pour perfusion ?
+
+3. COMMENT UTILISER PARACETAMOL PANPHARMA 10 mg/ml, solution pour perfusion ?
+
+4. QUELS SONT LES EFFETS INDESIRABLES EVENTUELS ?
+
+4.1. Indications thérapeutiques
+PARACETAMOL PANPHARMA est indiqué dans le traitement de courte durée des douleurs d’intensité modérée, en particulier en période post-opératoire et dans le traitement de courte durée de la fièvre, lorsque la voie intraveineuse est cliniquement justifiée par l’urgence de traiter la douleur ou l’hyperthermie et/ou lorsque d’autres voies d’administration ne sont pas possibles.
+
+4.2. Posologie et mode d'administration
+Voie intraveineuse.
+Flacon en verre de 10 ml : réservé aux nouveau-nés nés à terme et aux nourrissons de moins de 10 kg.
+Poche ou flacon en verre de 50 ml : réservé aux nourrissons et aux enfants de plus de 10 kg et de moins de 33 kg.
+Poche ou flacon en verre de 100 ml : réservée aux adultes, aux adolescents et aux enfants de plus de 33 kg (environ 11 ans).
+Posologie
+La posologie est basée sur le poids du patient (voir le tableau des posologies ci-dessous)
+Poids du patient
+Dose par administration
+Volume par administration
+Volume maximal de PARACETAMOL PANPHARMA 10 mg/ml par administration selon les limites supérieures de poids du groupe (ml)***
+Dose maximale journalière**
+≤10 kg *
+7,5 mg/kg
+0,75 ml/kg
+7,5 ml
+30 mg/kg
+>10 kg à ≤33 kg
+15 mg/kg
+1,5 ml/kg
+49,5 ml
+60 mg/kg sans dépasser 2 g
+>33 kg à ≤50 kg
+15 mg/kg
+1,5 ml/kg
+75 ml
+60 mg/kg sans dépasser 3 g
+>50 kg avec facteurs de risque supplémentaires d’hépatotoxicité
+1 g
+100 ml
+100 ml
+3 g
+>50 kg sans facteur de risque supplémentaire d’hépatotoxicité
+1 g
+100 ml
+100 ml
+4 g
+*
+Nouveau-nés prématurés
+: Aucune donnée de sécurité et d’efficacité n’est disponible pour les nouveau-nés prématurés (voir rubrique 5.2).
+**
+Dose maximale journalière
+: la dose maximale journalière telle que présentée dans le tableau ci-dessus concerne les patients qui ne reçoivent pas d’autres produits contenant du paracétamol ; elle doit être ajustée en conséquence en tenant compte de tels produits.
+*** Les patients pesant moins nécessiteront des volumes inférieurs.
+L’intervalle minimal entre chaque administration doit être d’au moins 4 heures.
+Chez les patients atteints d’insuffisance rénale sévère, l’intervalle minimal entre chaque administration doit être d’au moins 6 heures.
+Le nombre de doses administrées sur 24 heures ne doit pas dépasser 4 g.
+Insuffisance rénale sévère
+Il est recommandé d’augmenter l’intervalle entre 2 administrations à 6 heures au moins lors de l’administration du paracétamol chez l’insuffisant rénal sévère (clairance de la créatinine ≤ 30 ml/min)
+(voir rubrique 5.2)
+.
+Chez les adultes présentant une
+insuffisance hépato-cellulaire
+, un alcoolisme chronique, une malnutrition chronique (réserves basses en gluthathion hépatique), une déshydratation : la dose maximale journalière ne doit pas dépasser 3 g (voir rubrique 4.4).
+Mode d’administration
+Prenez soin, lors de la prescription et de l'administration du PARACETAMOL PANPHARMA, à éviter les erreurs de dosage dues à une confusion entre milligrammes (mg) et millilitres (ml), qui pourraient provoquer un surdosage accidentel et un décès. Assurez-vous que la dose correcte est communiquée et administrée. Lorsque vous rédigez les prescriptions, inscrivez la dose totale en mg, ainsi que la dose totale en termes de volume. Assurez-vous que la dose est précisément mesurée et administrée.
+La solution de paracétamol est administrée en perfusion intraveineuse de 15 minutes.
+Patients pesant ≤10 kg :
+·
+Le flacon de PARACETAMOL PANPHARMA ne doit pas être accroché comme une perfusion, en raison du petit volume de médicament devant être administré chez cette population
+·
+Le volume à administrer doit être retiré de la poche et dilué dans une solution de chlorure de sodium à 0,9% ou une solution de glucose à 5% jusqu’à un facteur 10 (un volume de PARACETAMOL PANPHARMA dans neuf volumes de diluant), puis administré pendant 15 minutes.
+·
+Une seringue de 5 ou 10 ml doit être utilisée pour mesurer la dose en fonction du poids de l'enfant et du volume souhaité. Ce dernier ne doit toutefois jamais dépasser 7,5 ml par dose.
+·
+L'utilisateur doit pouvoir se reporter aux informations sur le produit pour les recommandations posologiques.
+Pour prélever la solution des flacons, utiliser une aiguille de 0,8 mm (aiguille de calibre 21) et perforer le bouchon en position verticale à l’endroit indiqué.
+Le PARACETAMOL PANPHARMA des poches/flacons de 50 ml peut également être dilué dans une solution de chlorure de sodium à 0,9 % ou une solution de glucose à 5% jusqu'à un facteur 10 (un volume de PARACETAMOL PANPHARMA pour neuf volumes de diluant). Dans ce cas, la solution diluée doit être utilisée dans l’heure qui suit sa préparation (incluant le temps de perfusion).
+
+4.3. Contre-indications
+PARACETAMOL PANPHARMA est contre-indiqué :
+·
+en cas d’hypersensibilité au paracétamol ou au chlorhydrate de propacétamol (prodrogue du paracétamol) ou à l’un des excipients.
+·
+en cas d’insuffisance hépato-cellulaire sévère.
+
+4.4. Mises en garde spéciales et précautions d'emploi
+Mises en garde
+RISQUE D'ERREURS MÉDICAMENTEUSES
+Prenez soin à éviter les erreurs de dosage dues à une confusion entre milligrammes (mg) et millilitres (ml), qui pourraient provoquer un surdosage accidentel et un décès
+(voir rubrique 4.2).
+Il est recommandé d’avoir recours à un traitement antalgique adapté per os dès que cette voie d’administration est possible.
+Pour éviter un risque de surdosage, vérifier l’absence de paracétamol
+ou de propacétamol
+dans la composition d’autres médicaments associés.
+Des doses supérieures à celles recommandées entraînent un risque d’atteinte hépatique très sévère. Les symptômes et les signes cliniques de l’atteinte hépatique
+(incluant hépatite fulminante, insuffisance hépatique, hépatite cholestatique, hépatite cytolytique)
+surviennent généralement après deux jours suivant l’administration du médicament et atteignent habituellement un pic après 4 à 6 jours. Un traitement avec antidote doit être donné dès que possible (voir rubrique 4.9).
+Des cas d’acidose métabolique à trou anionique élevé (AMTAE) due à une acidose pyroglutamique ont été rapportés chez les patients atteints d’une maladie grave telle qu’une insuffisance rénale sévère, et un sepsis, ou de malnutrition et d'autres sources de déficit en glutathion (par exemple, alcoolisme chronique) qui ont été traités par du paracétamol à une dose thérapeutique pendant une période prolongée ou par une association de paracétamol et de flucloxacilline. En cas de suspicion d’AMTAE due à une acidose pyroglutamique, il est recommandé d’arrêter immédiatement le paracétamol et d’effectuer une surveillance étroite. La mesure de la 5-oxoproline urinaire peut être utile pour identifier l’acidose pyroglutamique comme cause sous-jacente de l’AMTAE chez les patients présentant de multiples facteurs de risque.
+Ce médicament contient 7.9 mg de sodium par flacon de 10 ml, ce qui équivaut à 0.4 % de l’apport alimentaire quotidien maximal recommandé par l’OMS de 2 g de sodium par adulte.
+Après dilution dans une solution de chlorure de sodium à 0,9 % au dixième, ce médicament contient jusqu'à 613,4 mg de sodium (composant principal du sel de cuisine/table) par dose administrée. Cela équivaut à 31,05 % de l'apport alimentaire quotidien maximal recommandé en sodium pour un adulte.
+Ce médicament contient 39.1 mg de sodium par flacon ou poche de 50 ml, ce qui équivaut à respectivement 2 % de l’apport alimentaire quotidien maximal recommandé par l’OMS de 2 g de sodium par adulte.
+Après dilution dans une solution de chlorure de sodium à 0,9 % au dixième, ce médicament contient jusqu'à 4049 mg de sodium (composant principal du sel de cuisine/table) par dose administrée. Cela équivaut à 205 % de l'apport alimentaire quotidien maximal recommandé en sodium pour un adulte.
+Ce médicament contient 79 mg de sodium par poche de 100 ml, soit 4 % de l'apport quotidien maximal recommandé par l'OMS de 2 g de sodium pour un adulte.
+Ce médicament contient 1,65 g de glucose par poche ou flacon de 50 ml. Ceci doit être pris en compte chez les patients atteints de diabète sucré.
+Ce médicament contient 3,3 g de glucose par poche ou flacon de 100 ml. Ceci doit être pris en compte chez les patients atteints de diabète sucré
+Précautions d’emploi
+Le paracétamol est à utiliser avec précaution en cas :
+·
+d’insuffisance hépato-cellulaire,
+·
+d’insuffisance rénale sévère (clairance de la créatinine ≤ 30 ml/min (voir rubriques 4.2 et 5.2),
+·
+d’alcoolisme chronique,
+·
+de malnutrition chronique (réserves basses en glutathion hépatique),
+·
+de déshydratation.
+·
+de déficit en enzyme glucose-6-phosphate déshydrogénase (pouvant conduire à une anémie hémolytique).
+
+4.5. Interactions avec d'autres médicaments et autres formes d'interactions
+Le probénécide entraîne une diminution de près de la moitié de la clairance du paracétamol en inhibant sa conjugaison à l’acide glucuronique. Une diminution de la dose de paracétamol est à envisager en cas d’association au probénécide.
+Le salicylamide peut allonger la demi-vie d’élimination du paracétamol.
+Une attention particulière doit être exercée en cas de prise concomitante d’inducteurs enzymatiques (voir rubrique 4.9).
+L’utilisation concomitante de paracétamol (4 g par jour pendant au moins 4 jours) et d’anticoagulants oraux peut conduire à de légères variations de l’INR. Dans ce cas, une surveillance accrue de l’INR est nécessaire pendant la période d’utilisation concomitante et 1 semaine après l’arrêt du paracétamol.
+Il convient d'être prudent lors de l'utilisation concomitante de paracétamol et de flucloxacilline, car la prise simultanée a été associée à une acidose métabolique à trou anionique élevé due à une acidose pyroglutamique, en particulier chez les patients présentant des facteurs de risque (voir rubrique 4.4).
+
+4.6. Fertilité, grossesse et allaitement
+Grossesse
+L’expérience clinique de l’administration intraveineuse de paracétamol est limitée.
+Une vaste quantité de données portant sur les femmes enceintes démontrent l’absence de toute malformation ou de toute toxicité foetale/néonatale. Les études épidémiologiques consacrées au neurodéveloppement des enfants exposés au paracétamol in utero produisent des résultats non concluants. Si cela s’avère nécessaire d’un point de vue clinique, le paracétamol peut être utilisé pendant la grossesse; cependant, il devra être utilisé à la dose efficace la plus faible, pendant la durée la plus courte possible et à la fréquence la plus réduite possible.
+Néanmoins, PARACETAMOL PANPHARMA ne doit être utilisé pendant la grossesse qu’après une évaluation soigneuse du rapport bénéfice/risque. Dans ce cas, la posologie et la durée de traitement recommandées doivent être strictement respectées.
+Allaitement
+Après administration orale, le paracétamol passe en faible quantité dans le lait maternel. Aucun effet indésirable sur le nourrisson n’a été rapporté. En conséquence, PARACETAMOL PANPHARMA peut être utilisé pendant l’allaitement.
+
+4.7. Effets sur l'aptitude à conduire des véhicules et à utiliser des machines
+Sans objet.
+
+4.8. Effets indésirables
+Comme avec tous les médicaments contenant du paracétamol, les réactions secondaires sont rares (> 1/10 000, < 1/1000), très rares (< 1/10 000) ou indéterminée (ne peut être estimée à partir des données disponibles), elles sont décrites ci-dessous :
+Système
+Rare
+> 1/10 000, < 1/1000
+Très rare
+< 1/10 000
+Indéterminée
+(ne peut être estimée à partir des données disponibles)
+Troubles généraux et anomalies au site d'administration
+Malaise
+Affections du système immunitaire
+Réaction d'hypersensibilité
+Affections vasculaires
+Hypotension
+Affections hépatobiliaires
+Elévation des transaminases hépatiques
+Affections hématologiques et du système lymphatique
+Thrombocytopénie
+Leucopénie
+Neutropénie
+Troubles du métabolisme et de la nutrition
+Acidose métabolique à trou anionique élevé
+Description des effets indésirables sélectionnés
+Des cas de sensations de douleur et de brulure au point d’injection ont été rapportés, pouvant être liés à une vitesse initiale de perfusion trop rapide, ne disparaissant pas nécessairement après la diminution du débit.
+Des cas d'érythème, bouffées vasomotrices, prurit et tachycardie ont été rapportés.
+De très rares cas de réactions cutanées graves ont été signalés.
+De très rares cas de réactions d’hypersensibilité allant du simple rash cutané ou urticaire au choc anaphylactique ont été rapportés et nécessitent l’arrêt du traitement.
+Acidose métabolique à trou anionique élevé :
+Des cas d’acidose métabolique à trou anionique élevé due à une acidose pyroglutamique ont été observés chez des patients présentant des facteurs de risque et prenant du paracétamol (voir rubrique 4.4). Une acidose pyroglutamique peut survenir chez ces patients en raison des faibles taux de glutathion.
+Déclaration des effets indésirables suspectés
+La déclaration des effets indésirables suspectés après autorisation du médicament est importante. Elle permet une surveillance continue du rapport bénéfice/risque du médicament. Les professionnels de santé déclarent tout effet indésirable suspecté via le système national de déclaration : Agence nationale de sécurité du médicament et des produits de santé (ANSM) et réseau des Centres Régionaux de Pharmacovigilance - Site internet :
+:
+https://signalement.social-sante.gouv.fr/
+.
+
+4.9. Surdosage
+Le risque d'atteinte hépatique (incluant hépatite fulminante, insuffisance hépatique, hépatite cholestatique, hépatite cytolytique) est particulièrement à craindre chez les sujets âgés, chez les jeunes enfants, chez les patients avec atteinte hépatique, en cas d’alcoolisme chronique, chez les patients souffrant de malnutrition chronique, et chez les patients recevant des inducteurs enzymatiques. Dans ces cas, l’intoxication peut être mortelle.
+Les symptômes apparaissent généralement dans les 24 premières heures et comprennent : nausées, vomissements, anorexie, pâleur et douleurs abdominales.
+Un surdosage, à partir de 7,5 g de paracétamol en une seule prise chez l’adulte et 140 mg/kg de poids corporel en 1 seule prise chez l’enfant provoque une cytolyse hépatique susceptible d’aboutir à une nécrose complète et irréversible se traduisant par une insuffisance hépato-cellulaire, une acidose métabolique, une encéphalopathie pouvant aller jusqu’au coma et à la mort.
+Simultanément, on observe une augmentation des transaminases hépatiques (ASAT, ALAT), de la lactico-déshydrogénase, de la bilirubine, ainsi qu’une diminution du taux de prothrombine pouvant apparaître 12 à 48 heures après administration.
+Les symptômes cliniques de l’atteinte hépatique sont généralement observés après deux jours, et atteignent un maximum après 4 à 6 jours.
+Conduite d’urgence
+·
+Hospitalisation immédiate.
+·
+Avant de commencer le traitement, prélever un tube de sang pour faire le dosage plasmatique du paracétamol, dès que possible après le surdosage.
+·
+Le traitement du surdosage comprend l’administration de l’antidote N-acétylcystéine (NAC) par voie intraveineuse ou voie orale, si possible
+avant
+la dixième heure. La NAC peut cependant apporter une certaine protection même après 10 heures, mais dans ce cas un traitement prolongé est donné.
+·
+Traitement symptomatique.
+·
+Des tests hépatiques doivent être effectués au début et répétés toutes les 24 heures.
+·
+Habituellement les transaminases hépatiques se normalisent après une ou deux semaines avec récupération complète de la fonction hépatique. Cependant, dans les cas très sévères, une transplantation hépatique peut être nécessaire.
+
+5. COMMENT CONSERVER PARACETAMOL PANPHARMA 10 mg/ml, solution pour perfusion ?
+
+5.1. Propriétés pharmacodynamiques
+Classe pharmacothérapeutique : AUTRES ANALGESIQUES ET ANTIPYRETIQUES, Code ATC : N02BE01
+Mécanisme d’action
+Le mécanisme précis des propriétés antalgiques et antipyrétiques du paracétamol reste à établir pouvant impliquer des actions centrales et périphériques.
+PARACETAMOL PANPHARMA permet un début de soulagement de la douleur dans les 5 à 10 minutes suivant le début de l’administration. Le pic de l’effet antalgique est obtenu en 1 heure et la durée de cet effet est habituellement de 4 à 6 heures.
+PARACETAMOL PANPHARMA réduit la fièvre dans les 30 minutes suivant le début de l’administration et la durée d’effet antipyrétique est d’au moins 6 heures.
+
+5.2. Propriétés pharmacocinétiques
+ADULTES
+Absorption
+La pharmacocinétique du paracétamol est linéaire jusqu’à 2 g en dose unique et après administration répétée sur 24 h.
+La biodisponibilité du paracétamol après perfusion de 500 mg et 1 g de PARACETAMOL PANPHARMA est similaire à celle observée après perfusion de 1 g et 2 g de propacétamol (contenant 500 mg et 1 g de paracétamol respectivement).
+La concentration plasmatique maximale (Cmax) de paracétamol observée à la fin des 15 minutes de perfusion intraveineuse de 500 mg et 1 g de PARACETAMOL PANPHARMA est de l’ordre de 15 µg/ml et 30 µg/ml respectivement.
+Distribution
+·
+Le volume de distribution du paracétamol est approximativement de 1 l/kg.
+·
+La liaison aux protéines plasmatiques est faible.
+Après perfusion de 1 g de paracétamol, des concentrations significatives de paracétamol (de l’ordre de 1,5 µg/ml) ont été retrouvées dans le liquide céphalo-rachidien dès la 20
+ème
+minute après la perfusion.
+Biotransformation
+Le paracétamol est métabolisé essentiellement au niveau du foie selon 2 voies hépatiques majeures : la glycuroconjugaison et la sulfoconjugaison. Cette dernière voie est rapidement saturable aux posologies supérieures aux doses thérapeutiques. Une faible proportion (moins de 4 %) est transformée par le cytochrome P 450 en un intermédiaire réactif (le N-acétyl benzoquinone imine) qui, dans les conditions normales d’utilisation, est rapidement détoxifié par le glutathion réduit et éliminé dans les urines après conjugaison à la cystéine et à l’acide mercaptopurique. En revanche, lors d’intoxications massives, la quantité de ce métabolite toxique est augmentée.
+Élimination
+L’élimination des métabolites du paracétamol est essentiellement urinaire. 90 % de la dose administrée est excrétée dans les urines en 24 heures, principalement sous forme glycuroconjuguée (60 à 80 %) et sulfoconjuguée (20 à 30 %).
+Moins de 5 % est éliminé sous forme inchangée.
+La demi-vie plasmatique est de 2,7 heures et la clairance corporelle totale est d’environ 18 l/h.
+NOUVEAU-NES A TERME, NOURRISSONS ET ENFANTS
+Les paramètres pharmacocinétiques du paracétamol observés chez le nourrisson et l’enfant sont similaires à ceux obtenus chez l’adulte, à l’exception de la demi-vie plasmatique qui est légèrement plus courte (1,5 à 2 heures). Chez le nouveau-né, la demi-vie plasmatique est plus longue que chez le nourrisson, à savoir environ 3,5 heures. Le nouveau-né, le nourrisson et l’enfant jusqu'à 10 ans éliminent significativement moins de dérivés glycuroconjugués et plus de dérivés sulfoconjugués que l’adulte.
+Tableau. Les valeurs pharmacocinétiques en fonction de l’âge (clairance standardisée*CL
+std
+/F
+orale
+(l.h
+-1
+70 kg
+-1
+) sont présentées ci-dessous :
+Age
+Poids (kg)
+CL
+std
+/F
+orale
+(l.h
+-1
+70 kg
+-1
+)
+40 semaines d'aménorrhée
+3,3
+5,9
+3 mois
+6
+8.8
+6 mois
+7,5
+11,1
+1 an
+10
+13,6
+2 ans
+12
+15,6
+5 ans
+20
+16,3
+8 ans
+25
+16,3
+*CL
+std
+est l’estimation de la CL pour la population.
+Précautions particulières
+Insuffisant rénal
+En cas d’insuffisance rénale sévère (clairance de la créatinine 10-30 ml/min), l'élimination du paracétamol est légèrement retardée, la demi-vie d’élimination variant de 2 à 5,3 h. La vitesse d’élimination des dérivés glycuro et sulfoconjugués est 3 fois plus lente chez l’insuffisant rénal sévère que chez le sujet sain.
+En conséquence, il est recommandé de respecter un intervalle d’au moins 6 heures entre deux administrations chez l’insuffisant rénal sévère (clairance de la créatinine ≤ 30 ml/min) (voir rubrique 4.2).
+Sujet âgé
+La pharmacocinétique et le métabolisme du paracétamol ne sont pas modifiés chez le sujet âgé. Aucun ajustement de dose n’est requis dans cette population.
+
+5.3. Données de sécurité préclinique
+Les données précliniques n’indiquent aucun autre risque particulier en dehors de l’information déjà incluse dans les autres rubriques du RCP.
+Des études de tolérance locale effectuées chez le rat et le lapin ont montré une bonne tolérance de PARACETAMOL PANPHARMA 10 mg/ml, solution pour perfusion.
+L’absence d’hypersensibilité retardée de contact a été testée chez le cobaye.
+Aucune étude conventionnelle s’appuyant sur les normes actuellement admises pour évaluer la toxicité pour la reproduction et le développement n’est disponible.
+
+6. CONTENU DE L’EMBALLAGE ET AUTRES INFORMATIONS
+Imprimer
+
+6.1. Liste des excipients
+Glucose monohydraté, acide acétique glacial, acétate de sodium trihydraté, citrate de sodium dihydraté, hydroxyde de sodium ou acide chlorhydrique (pour ajustement du pH), eau pour préparations injectables.
+
+6.2. Incompatibilités
+En l’absence d’études de compatibilité, ce médicament ne doit pas être mélangé avec d’autres médicaments.
+
+6.3. Durée de conservation
+18 mois pour les flacons en verre
+18 mois pour les poches
+Après dilution
+: la stabilité physico-chimique de la solution diluée dans du chlorure de sodium à 0,9 % ou du glucose à 5 % a été démontrée pendant 2 heures à 25°C.
+Toutefois, du point de vue microbiologique, le produit doit être utilisé immédiatement.
+
+6.4. Précautions particulières de conservation
+Conditions de conservation particulières pour les flacons en verre :
+A conserver à une température ne dépassant 25°C. Garder le flacon dans l’emballage extérieur (boîte).
+Conditions de conservation particulières pour les poches en PVC :
+Avant ouverture du suremballage
+: à conserver à une température ne dépassant pas 25°C. Conserver la poche dans l’étui cartonné.
+Après ouverture du suremballage
+: une utilisation immédiate est recommandée. Toutefois, la stabilité du produit à la lumière a été démontrée pendant au moins 24 heures.
+Pour les conditions de conservation du médicament dilué, voir rubrique 6.3.
+
+6.5. Nature et contenu de l'emballage extérieur
+Flacons en verre incolore de type II de 10 ml. Boîtes de 10 et 50 flacons en verre.
+Flacons en verre incolore de type II de 50 ou 100 ml. Boîtes de 10 et 12 flacons en verre.
+Poches (PVC) de 50 ou 100 ml. Boîtes de 10, 12 et 50 poches.
+Les flacons en verre de 10, 50 et 100 ml sont fermés par un bouchon en caoutchouc butyle halogéné.
+Toutes les présentations peuvent ne pas être commercialisées.
+
+6.6. Précautions particulières d’élimination et de manipulation
+Avant toute administration, le produit doit être visuellement contrôlé pour détecter toute particule. A usage unique. Toute solution non utilisée doit être éliminée.
+
+7. TITULAIRE DE L’AUTORISATION DE MISE SUR LE MARCHE
+Redirection vers le haut de page
+PANMEDICA
+406 BUREAUX DE LA COLLINE
+92213 SAINT-CLOUD CEDEX
+FRANCE
+
+8. NUMERO(S) D’AUTORISATION DE MISE SUR LE MARCHE
+Redirection vers le haut de page
+·
+585 640-9 ou 34009 585 640 9 3 : 10 flacons en verre de 10 ml.
+·
+585 641-5 ou 34009 585 641 5 4 : 50 flacons en verre de 10 ml.
+·
+585 642-1 ou 34009 585 642 1 5 : 10 flacons en verre de 50 ml.
+·
+585 643-8 ou 34009 585 643 8 3 : 12 flacons en verre de 50 ml.
+·
+585 644-4 ou 34009 585 644 4 4 : 10 flacons en verre de 100 ml.
+·
+585 645-0 ou 34009 585 645 0 5 : 12 flacons en verre de 100 ml.
+·
+585 646-7 ou 34009 585 646 7 3 : 10 poche(s) PVC de 100 ml (mono-accès)
+·
+585 647-3 ou 34009 585 647 3 4 : 12 poche(s) PVC de 100 ml (mono-accès)
+·
+585 649-6 ou 34009 585 649 6 3 : 50 poche(s) PVC de 100 ml (mono-accès)
+·
+571 860-1 ou 34009 571 860 1 2 : 10 poche(s) PVC de 50 ml
+·
+571 861-8 ou 34009 571 861 8 0 : 12 poche(s) PVC de 50 ml
+·
+571 862-4 ou 34009 571 862 4 1 : 10 poche(s) PVC de 100 ml
+·
+571 863-0 ou 34009 571 863 0 2 : 12 poche(s) PVC de 100 ml
+·
+572 996-4 ou 34009 572 996 4 4 : 50 poche(s) PVC de 50 ml
+·
+572 997-0 ou 34009 572 997 0 5 : 50 poche(s) PVC de 100 ml
+
+9. DATE DE PREMIERE AUTORISATION/DE RENOUVELLEMENT DE L’AUTORISATION
+Redirection vers le haut de page
+[à compléter ultérieurement par le titulaire]
+
+10. DATE DE MISE A JOUR DU TEXTE
+Redirection vers le haut de page
+[à compléter ultérieurement par le titulaire]
+
+11. DOSIMETRIE
+Redirection vers le haut de page
+Sans objet.
+
+12. INSTRUCTIONS POUR LA PREPARATION DES RADIOPHARMACEUTIQUES
+Redirection vers le haut de page
+Sans objet.
+CONDITIONS DE PRESCRIPTION ET DE DELIVRANCE
+Médicament réservé à l’usage hospitalier.
+Ce médicament n'est ou ne sera bientôt plus disponible sur le marché.
+Si vous prenez actuellement ce médicament, il vous est recommandé d'en parler avec votre médecin
+ou avec votre pharmacien qui pourra vous orienter vers un autre traitement.
+Informations
+importantes
+Redirection vers le haut de page
+Les informations importantes disponibles pour ce médicament sont les suivantes :
+Il n'existe pas de lien démontré entre le paracétamol et l'autisme
+Sommaire de la notice
+Dénomination du médicament
+Encadré
+Que contient cette notice ?

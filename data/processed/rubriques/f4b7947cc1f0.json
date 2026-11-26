@@ -1,0 +1,57 @@
+{
+  "doc_id": "f4b7947cc1f0",
+  "medicament": "interactions (référentiel)",
+  "source": "thesaurus",
+  "langue": "fr",
+  "url": "https://ansm.sante.fr/uploads/2023/09/15/20230915-thesaurus-index-des-substances-septembre-2023.pdf",
+  "date_collecte": "2026-11-15",
+  "date_extraction": "2026-11-26",
+  "chemin_texte": "data/processed/textes/f4b7947cc1f0.txt",
+  "rubriques": {
+    "indications": {
+      "trouve": false,
+      "raison": "document de référence, pas une notice/RCP",
+      "titre": "",
+      "methode": "",
+      "debut": null,
+      "fin": null,
+      "passage": ""
+    },
+    "contre_indications": {
+      "trouve": false,
+      "raison": "document de référence, pas une notice/RCP",
+      "titre": "",
+      "methode": "",
+      "debut": null,
+      "fin": null,
+      "passage": ""
+    },
+    "posologie": {
+      "trouve": false,
+      "raison": "document de référence, pas une notice/RCP",
+      "titre": "",
+      "methode": "",
+      "debut": null,
+      "fin": null,
+      "passage": ""
+    },
+    "interactions": {
+      "trouve": false,
+      "raison": "document de référence, pas une notice/RCP",
+      "titre": "",
+      "methode": "",
+      "debut": null,
+      "fin": null,
+      "passage": ""
+    },
+    "effets_indesirables": {
+      "trouve": false,
+      "raison": "document de référence, pas une notice/RCP",
+      "titre": "",
+      "methode": "",
+      "debut": null,
+      "fin": null,
+      "passage": ""
+    }
+  }
+}

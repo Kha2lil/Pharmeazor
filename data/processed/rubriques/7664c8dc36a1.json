@@ -1,0 +1,57 @@
+{
+  "doc_id": "7664c8dc36a1",
+  "medicament": "gentamicine",
+  "source": "dailymed",
+  "langue": "en",
+  "url": "https://dailymed.nlm.nih.gov/dailymed/downloadpdffile.cfm?setId=c08321a0-4961-9d3b-8e17-728470f5d653",
+  "date_collecte": "2026-11-16",
+  "date_extraction": "2026-11-26",
+  "chemin_texte": "data/processed/textes/7664c8dc36a1.txt",
+  "rubriques": {
+    "indications": {
+      "trouve": true,
+      "raison": "",
+      "titre": "INDICATIONS AND USAGE",
+      "methode": "titre",
+      "debut": 1550,
+      "fin": 3123,
+      "passage": "INDICATIONS AND USAGE\nPrimary skin infections: Impetigo contagiosa, superficial folliculitis, ecthyma, furunculosis, sycosis\nbarbae, and pyoderma gangrenosum. Secondary skin infections: Infectious eczematoid dermatitis,\npustular acne, pustular psoriasis, infected seborrheic dermatitis, infected contact dermatitis (including\npoison ivy), infected excoriations, and bacterial super-infections of fungal or viral infections. Please\nNote: Gentamicin sulfate is a bactericidal agent that is not effective against viruses or fungi in skin\ninfections. Gentamicin sulfate is useful in the treatment of infected skin cysts and certain other skin\nabscesses when preceded by incision and drainage to permit adequate contact between the antibiotic and\nthe infecting bacteria. Good results have been obtained in the treatment of infected stasis and other skin\nulcers , infected superficial burns, paronychia, infected insect bites and stings, infected lacerations and\nabrasions, and wounds from minor surgery. Patients sensitive to neomycin can be treated with gentamicin\nsulfate, although regular observation of patients sensitive to topical antibiotics is advisable when such\npatients are treated with any topical antibiotic. Gentamicin sulfate cream is recommended for wet,\noozing primary infections, and greasy, secondary infections, such as pustular acne or infected\nseborrheic dermatitis. If a water-washable preparation is desired, the cream is preferable. Gentamicin\nsulfate cream has been used successfully in infants over one year of age, as well as in adults and\nchildren."
+    },
+    "contre_indications": {
+      "trouve": true,
+      "raison": "",
+      "titre": "CONTRAINDICATIONS",
+      "methode": "titre",
+      "debut": 3123,
+      "fin": 3549,
+      "passage": "CONTRAINDICATIONS\nThis drug product is contraindicated in individuals with a history of sensitivity to any of its components.\n\nPRECAUTIONS\nThe use of topical antibiotics occasionally allows overgrowth of nonsusceptible organisms, including\nfungi. If this condition occurs, or if irritation, sensitization or superinfection develops, treatment with\ngentamicin sulfate should be discontinued and appropriate therapy instituted."
+    },
+    "posologie": {
+      "trouve": true,
+      "raison": "",
+      "titre": "DOSAGE AND ADMINISTRATION",
+      "methode": "titre",
+      "debut": 4259,
+      "fin": 6592,
+      "passage": "DOSAGE AND ADMINISTRATION\nA small amount of gentamicin sulfate cream should be applied gently to the lesions three or four times\ndaily. The area treated may be covered with a gauze dressing if desired. In impetigo contagiosa, the\ncrusts should be removed before application of gentamicin sulfate to permit maximum contact between\nthe antibiotic and the infection. Care should be exercised to avoid further contamination of the infected\nskin. Infected stasis ulcers have responded well to treatment with gentamicin sulfate under gelatin\npacking.\nHOW SUPPLIED\nGentamicin Sulfate Cream USP, 0.1% is supplied as follows:\n15 gram tube (NDC 52565-085-15)\n30 gram tube (NDC 52565-085-30)\nSTORAGE\nStore at controlled room temperature 15° to 30°C (59° to 86°F).\nManufactured by:\nTeligent Pharma, Inc.\nBuena, NJ 08310\nRev 04/2018\nPACKAGE LABEL – PRINCIPAL DISPLAY PANEL – 15 G CARTON\nNDC 52565-085-15\nGENTAMICIN SULFATE \nCREAM USP, 0.1% *\nRx only\nNet Wt. 15 g\n\nFOR EXTERNAL USE ONLY. \nNOT FOR OPHTHALMIC USE. \n \nGENTAMICIN SULFATE \ngentamicin sulfate cream\nProduct Information\nProduct T ype\nHUMAN PRESCRIPTION DRUG\nItem Code (Source)\nNDC:52565-085\nRoute of Administration\nTOPICAL\nActive Ingredient/Active Moiety\nIngredient Name\nBasis of Strength\nStrength\nGENTAMICIN SULFATE (UNII: 8X7386QRLV) (GENTAMICIN - UNII:T6Z9V48IKG)\nGENTAMICIN\n1 mg in 1 g\nInactive Ingredients\nIngredient Name\nStrength\nSTEARIC ACID (UNII: 4ELV7Z65AP)\n \n\nTeligent Pharma, Inc.\nPROPYLENE GLYCOL MONOPALMITOSTEARATE (UNII: F76354LMGR)\n \nISOPROPYL MYRISTATE (UNII: 0RE8K4LNJS)\n \nPOLYSORBATE 40 (UNII: STI11B5A2X)\n \nPROPYLENE GLYCOL (UNII: 6DC9Q167V3)\n \nSORBITOL (UNII: 506T60A25R)\n \nWATER (UNII: 059QF0KO0R)\n \nMETHYLPARABEN (UNII: A2I8C7HI9T)\n \nBUTYLPARABEN (UNII: 3QPI1U3FV8)\n \nPackaging\n#\nItem Code\nPackage Description\nMarketing Start Date\nMarketing End Date\n1 NDC:52565-085-15\n1 in 1 CARTON\n10/18/2019\n1\n15 g in 1 TUBE; Type 0: Not a Combination Product\n2 NDC:52565-085-30\n1 in 1 CARTON\n10/18/2019\n2\n30 g in 1 TUBE; Type 0: Not a Combination Product\nMarketing Information\nMarketing Category\nApplication Number or Monograph Citation\nMarketing Start Date\nMarketing End Date\nANDA\nANDA209304\n10/18/2019\nLabeler - Teligent Pharma, Inc. (011036910)\nEstablishment\nName\nAddress\nID/FEI\nBusiness Operations\nTeligent Pharma, Inc.\n011036910\nmanufacture(52565-085)\n \nRevised: 10/2019"
+    },
+    "interactions": {
+      "trouve": false,
+      "raison": "titre introuvable",
+      "titre": "",
+      "methode": "",
+      "debut": null,
+      "fin": null,
+      "passage": ""
+    },
+    "effets_indesirables": {
+      "trouve": true,
+      "raison": "",
+      "titre": "ADVERSE REACTIONS",
+      "methode": "titre",
+      "debut": 3549,
+      "fin": 4259,
+      "passage": "ADVERSE REACTIONS\nIn patients with dermatoses treated with gentamicin sulfate, irritation (erythema and pruritis) that did not\nusually require discontinuance of treatment has been reported in a small percentage of cases. There was\nno evidence of irritation or sensitization, however, in any of these patients patch-tested subsequently\nwith gentamicin sulfate on normal skin. Possible photosensitization has been reported in several patients\nbut could not be elicited in these patients by reapplication of gentamicin sulfate followed by exposure\nto ultraviolet radiation.\nTo report SUSPECTED ADVERSE REACTIONS, contact Teligent Pharma, Inc. at 1-856-697-1441,\nor FDA at 1-800-FDA-1088 or www.fda.gov/medwatch."
+    }
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "doc_id": "45d8653158e7",
+  "medicament": "paracétamol",
+  "source": "dailymed",
+  "langue": "en",
+  "url": "https://dailymed.nlm.nih.gov/dailymed/downloadpdffile.cfm?setId=58780980-a5b2-5d1f-e063-6294a90a5a92",
+  "date_collecte": "2026-11-16",
+  "date_extraction": "2026-11-26",
+  "chemin_texte": "data/processed/textes/45d8653158e7.txt",
+  "rubriques": {
+    "indications": {
+      "trouve": false,
+      "raison": "titre introuvable",
+      "titre": "",
+      "methode": "",
+      "debut": null,
+      "fin": null,
+      "passage": ""
+    },
+    "contre_indications": {
+      "trouve": true,
+      "raison": "",
+      "titre": "Do not use",
+      "methode": "titre",
+      "debut": 1111,
+      "fin": 2215,
+      "passage": "Do not use\n\n■ with any other drug containing acetaminophen (prescription or nonprescription). If\nyou are not sure \nwhether a drug contains acetaminophen, ask a doctor or pharmacist. \n■ if you are allergic to acetaminophen or any of the inactive ingredients in this product\nAsk a doctor before use if the user ■ has liver disease ■ is a child with pain of\narthritis\nAsk a doctor or pharmacist before use if the user is taking the blood thinning \ndrug warfarin.\nStop use and ask a doctor if \n■ pain gets worse or lasts more than 10 days in adults \n■ pain gets worse or lasts more than 5 days in children under 12 years \n■ fever gets worse or lasts more than 3 days\n■ new symptoms occur \n■ redness or swelling is present.\nThese could be signs of a serious condition\nIf pregnant or breast-feeding, ask a health professional before use.\nKeep out of reach of children.\nOverdose warning\nIn case of overdose, get medical help or contact a Poison Control Center right \naway (1-800-222-1222). Quick medical attention is critical for adults as well as for\nchildren even if \nyou do not notice any signs or symptoms."
+    },
+    "posologie": {
+      "trouve": true,
+      "raison": "",
+      "titre": "Directions",
+      "methode": "titre",
+      "debut": 2215,
+      "fin": 4549,
+      "passage": "Directions \n■ do not take more than directed (see overdose warning)\nadults and children 12 years\nand over\n■ take 2 tablets every 4 to 6 hours while symptoms last \n■ do not take more than 10 tablets in 24 hours, unless\ndirected by a doctor \n■ do not use for more than 10 days unless directed by a\ndoctor\nchildren 6 years to under 12\nyears\n■ take 1 tablet every 4 to 6 hours while symptoms last \n■ do not take more than 5 tablets in 24 hours \n■ do not use for more than 5 days unless directed by a\ndoctor\nchildren under 6 years\nask a doctor\nOther information \n■ store between 20–25°C (68–77°F)\nInactive ingredients hypromellose, magnesium stearate, microcrystalline cellulose,\npolyethylene glycol, \npolyvinylpyrrolidone, pre-gelatinized starch, stearic acid, talc, titanium dioxide.\n\nQuestions or comments? Call 833-358-6431 Mon to Fri 9:00am to 7:00pm EST\nPRINCIPLE DISPLAY PANEL\nFOSTER AND THRIVE REGULAR STRENGTH PAIN RELIEF\nACETAMINOPHEN 325MG \nacetaminophen 325mg tablet\nProduct Information\nProduct Type\nHUMAN OTC DRUG\nItem Code (Source)\nNDC:70677-1302\nRoute of Administration\nORAL\nActive Ingredient/Active Moiety\nIngredient Name\nBasis of Strength\nStrength\nACETAMINOPHEN (UNII: 362O9ITL9D) (ACETAMINOPHEN - UNII:362O9ITL9D)\nACETAMINOPHEN\n325 mg\nInactive Ingredients\nIngredient Name\nStrength\nMICROCRYSTALLINE CELLULOSE (UNII: OP1R32D61U)\n \nPOLYETHYLENE GLYCOL 400 (UNII: B697894SGQ)\n \nTITANIUM DIOXIDE (UNII: 15FIX9V2JP)\n \nHYPROMELLOSE, UNSPECIFIED (UNII: 3NXW29V3WO)\n \nSTEARIC ACID (UNII: 4ELV7Z65AP)\n \nPOVIDONE K30 (UNII: U725QWY32X)\n \nTALC (UNII: 7SEV7J4R1U)\n \nMAGNESIUM STEARATE (UNII: 70097M6I30)\n \nSTARCH, PREGELATINIZED CORN (UNII: O8232NY3SJ)\n \nProduct Characteristics\nColor\nwhite\nScore\nno score\nShape\nROUND\nSize\n10mm\n\nSTRATEGIC SOURCING SERVICES LLC\nFlavor\nImprint Code\nS99\nContains\n \nPackaging\n#\nItem Code\nPackage Description\nMarketing Start\nDate\nMarketing End\nDate\n1 NDC:70677-\n1302-3\n1000 in 1 BOTTLE; Type 0: Not a Combination\nProduct\n10/07/2026\n2 NDC:70677-\n1302-2\n10 in 1 CARTON\n10/07/2026\n2\n10 in 1 BLISTER PACK\n2 NDC:70677-\n1302-4\n1 in 1 BLISTER PACK; Type 0: Not a Combination\nProduct\nMarketing Information\nMarketing\nCategory\nApplication Number or Monograph\nCitation\nMarketing Start\nDate\nMarketing End\nDate\nOTC Monograph Drug\nM013\n10/07/2026\nLabeler - STRATEGIC SOURCING SERVICES LLC (116956644)\n \nRevised: 11/2026"
+    },
+    "interactions": {
+      "trouve": false,
+      "raison": "titre introuvable",
+      "titre": "",
+      "methode": "",
+      "debut": null,
+      "fin": null,
+      "passage": ""
+    },
+    "effets_indesirables": {
+      "trouve": false,
+      "raison": "titre introuvable",
+      "titre": "",
+      "methode": "",
+      "debut": null,
+      "fin": null,
+      "passage": ""
+    }
+  }
+}

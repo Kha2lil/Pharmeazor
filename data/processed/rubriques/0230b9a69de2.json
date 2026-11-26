@@ -1,0 +1,57 @@
+{
+  "doc_id": "0230b9a69de2",
+  "medicament": "métronidazole",
+  "source": "ansm_notice",
+  "langue": "fr",
+  "url": "https://base-donnees-publique.medicaments.gouv.fr/medicament/69739292/extrait",
+  "date_collecte": "2026-11-18",
+  "date_extraction": "2026-11-26",
+  "chemin_texte": "data/processed/textes/0230b9a69de2.txt",
+  "rubriques": {
+    "indications": {
+      "trouve": true,
+      "raison": "",
+      "titre": "1. QU’EST-CE QUE GRINAZOLE 100 mg/g, pâte pour usage dentaire ET DANS QUELS CAS EST-IL UTILISE ?",
+      "methode": "numero+titre",
+      "debut": 1877,
+      "fin": 3164,
+      "passage": "1. QU’EST-CE QUE GRINAZOLE 100 mg/g, pâte pour usage dentaire ET DANS QUELS CAS EST-IL UTILISE ?\nRedirection vers le haut de page\nClasse pharmacothérapeutique - code ATC : Préparation stomatologique, anti-infectieux pour traitement oral local - A01AB17\nTraitement local des infections canalaires après nécrose pulpaire et de leurs complications.\n2. QUELLES SONT LES INFORMATIONS A CONNAITRE AVANT D’UTILISER GRINAZOLE 100 mg/g, pâte pour usage dentaire ?\nRedirection vers le haut de page\nCe médicament est strictement réservé à l’usage professionnel dentaire.\nN’utilisez jamais GRINAZOLE 100 mg/g, pâte pour usage dentaire :\n·\nsi vous êtes allergique au métronidazole ou à l’un des autres composants contenus dans ce médicament, mentionnés dans la rubrique 6.\n·\nsi vous avez déjà eu une allergie à un médicament de la même famille (les imidazolés).\nAvertissements et précautions\nAdressez-vous à votre dentiste avant d’utiliser\nGRINAZOLE 100 mg/g, pâte pour usage dentaire\n.\nInformez votre dentiste si vous avez déjà eu une allergie quelle qu’elle soit.\nCe médicament contient du métronidazole et des parahydroxybenzoates de propyle et de méthyle. Ceux-ci ainsi que les dérivés du nitroinidazole peuvent provoquer des réactions allergiques (éventuellement retardées).\nEnfants\nSans objet."
+    },
+    "contre_indications": {
+      "trouve": false,
+      "raison": "titre introuvable",
+      "titre": "",
+      "methode": "",
+      "debut": null,
+      "fin": null,
+      "passage": ""
+    },
+    "posologie": {
+      "trouve": true,
+      "raison": "",
+      "titre": "3. COMMENT UTILISER GRINAZOLE 100 mg/g, pâte pour usage dentaire ?",
+      "methode": "numero+titre",
+      "debut": 4469,
+      "fin": 8234,
+      "passage": "3. COMMENT UTILISER GRINAZOLE 100 mg/g, pâte pour usage dentaire ?\nRedirection vers le haut de page\nVotre dentiste est la seule personne à vous administrer GRINAZOLE 100 mg/g, pâte pour usage dentaire.\nVotre dentiste utilisera GRINAZOLE 100 mg/g localement dans la ou les dents à traiter selon un mode d’emploi bien déterminé.\nSi vous avez utilisé plus de GRINAZOLE 100 mg/g, pâte pour usage dentaire que vous n’auriez dû\nSans objet.\nSi vous oubliez d’utiliser GRINAZOLE 100 mg/g, pâte pour usage dentaire\nSans objet.\nSi vous arrêtez d’utiliser GRINAZOLE 100 mg/g, pâte pour usage dentaire\nSans objet.\n4. QUELS SONT LES EFFETS INDESIRABLES EVENTUELS ?\nRedirection vers le haut de page\nComme tous les médicaments, ce médicament peut provoquer des effets indésirables, mais ils ne surviennent pas systématiquement chez tout le monde.\nVous devez informer votre dentiste ou votre pharmacien si l’un des effets indésirables suivants survient :\n-\nEffet général : réaction allergique\n-\nEffet sur la dent : irritation du tissu entourant la racine de la dent (irritation périapicale) qui accentue les complications (complications desmodontales).\nDéclaration des effets secondaires\nSi vous ressentez un quelconque effet indésirable, parlez-en à votre dentiste ou à votre stomatologiste. Ceci s’applique aussi à tout effet indésirable qui ne serait pas mentionné dans cette notice. Vous pouvez également déclarer les effets indésirables directement via le système national de déclaration : Agence nationale de sécurité du médicament et des produits de santé (ANSM) et réseau des Centres Régionaux de Pharmacovigilance - Site internet:\nwww.signalement-sante.gouv.fr\n.\nEn signalant les effets indésirables, vous contribuez à fournir davantage d’informations sur la sécurité du médicament.\n5. COMMENT CONSERVER GRINAZOLE 100 mg/g, pâte pour usage dentaire ?\nRedirection vers le haut de page\nTenir ce médicament hors de la vue et de la portée des enfants.\nN’utilisez pas ce médicament après la date de péremption indiquée sur l’emballage. La date de péremption fait référence au dernier jour de ce mois.\nNe jetez aucun médicament au tout-à-l’égout\nou avec\nles ordures ménagères. Demandez à votre pharmacien d’éliminer les médicaments que vous n’utilisez plus. Ces mesures contribueront à protéger l’environnement.\n6. CONTENU DE L’EMBALLAGE ET AUTRES INFORMATIONS\nRedirection vers le haut de page\nCe que contient GRINAZOLE 100 mg/g, pâte pour usage dentaire\n·\nLa substance active est :\nMétronidazole....................................................................................................................... 100 mg\nPour 1 g de pâte pour usage dentaire\n·\nLes autres composants sont : le parahydroxybenzoate de propyle (E216), le parahydroxybenzoate de méthyle (E218), le monostéarate de glycérol, le glycérol.\nQu’est-ce que GRINAZOLE 100 mg/g, pâte pour usage dentaire et contenu de l’emballage extérieur\nPâte dentaire contenue dans un tube de 4,5 g.\nTitulaire de l’autorisation de mise sur le marché\nSEPTODONT\n58, RUE DU PONT DE CRETEIL\n94100 SAINT-MAUR-DES-FOSSES\nExploitant de l’autorisation de mise sur le marché\nSEPTODONT\n58, RUE DU PONT DE CRETEIL\n94100 SAINT-MAUR-DES-FOSSES\nFabricant\nSEPTODONT\n58, RUE DU PONT DE CRETEIL\n94100 SAINT-MAUR-DES-FOSSES\nNoms du médicament dans les Etats membres de l'Espace Economique Européen\nSans objet.\nLa dernière date à laquelle cette notice a été révisée est :\nÀ compléter ultérieurement par le titulaire.\nAutres\nDes informations détaillées sur ce médicament sont disponibles sur le site Internet de l’ANSM (France).\nConseil / éducation sanitaire\nQue savoir sur les antibiotiques ?\nLes antibiotiques sont efficaces pour combattre les infections dues aux bactéries. Ils ne sont pas efficaces contre les infections dues aux virus."
+    },
+    "interactions": {
+      "trouve": true,
+      "raison": "",
+      "titre": "Autres médicaments et GRINAZOLE 100 mg/g, pâte pour usage dentaire",
+      "methode": "titre",
+      "debut": 3164,
+      "fin": 4469,
+      "passage": "Autres médicaments et GRINAZOLE 100 mg/g, pâte pour usage dentaire\nCompte tenu de la dose utilisée (correspondant à 1 mg de métronidazole) pour le traitement d’une dent, le risque d’interaction médicamenteuse est négligeable.\nInformez votre dentiste si vous prenez, avez récemment pris ou pourriez prendre tout autre médicament.\nGRINAZOLE 100 mg/g, pâte pour usage dentaire avec des aliments et boissons\nSans objet.\nGrossesse et allaitement\nVotre dentiste peut utiliser GRINAZOLE 100 mg/g pendant votre grossesse s’il le juge nécessaire.\nSi vous allaitez, il serait préférable d'éviter l'administration de ce médicament car la substance active (le métronidazole) est à l’origine d’un goût amer du lait maternel. Cependant, l’allaitement est possible à condition de surveiller le nouveau-né pendant le traitement et les 2 à 3 jours suivants l’arrêt de GRINAZOLE 100 mg/g.\nSi vous êtes enceinte ou que vous allaitez, si vous pensez être enceinte ou planifiez une grossesse, demandez conseil à votre dentiste ou pharmacien avant de prendre ce médicament.\nConduite de véhicules et utilisation de machines\nSans objet.\nGRINAZOLE 100 mg/g, pâte pour usage dentaire contient du parahydroxybenzoate de propyle (E216) et du parahydroxybenzoate de méthyle (E218).\nVoir la rubrique « Avertissements et précautions »."
+    },
+    "effets_indesirables": {
+      "trouve": false,
+      "raison": "titre introuvable",
+      "titre": "",
+      "methode": "",
+      "debut": null,
+      "fin": null,
+      "passage": ""
+    }
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "doc_id": "2269411a56c5",
+  "medicament": "paracétamol",
+  "source": "dailymed",
+  "langue": "en",
+  "url": "https://dailymed.nlm.nih.gov/dailymed/downloadpdffile.cfm?setId=6ec12573-03d6-40c1-9945-d345b401e062",
+  "date_collecte": "2026-11-16",
+  "date_extraction": "2026-11-26",
+  "chemin_texte": "data/processed/textes/2269411a56c5.txt",
+  "rubriques": {
+    "indications": {
+      "trouve": true,
+      "raison": "",
+      "titre": "Uses",
+      "methode": "titre",
+      "debut": 231,
+      "fin": 1127,
+      "passage": "Uses\ntemporarily relieves minor aches and pains due to:\nheadache\nmuscular aches\nbackache\nminor pain of arthritis\nthe common cold\ntoothache\npremenstrual and menstrual cramps\ntemporarily reduces fever\nWarnings\nLiver warning: This product contains acetaminophen. Severe liver damage may occur\nif:\nadult takes more than 6 doses in 24 hours, which is the maximum daily amount\nchild takes more than 5 doses in 24 hours\ntaken with other drugs containing acetaminophen\nadult has 3 or more alcoholic drinks every day while using this product\nAllergy alert:Acetaminophen may cause severe skin reactions. Symptoms may\ninclude: \nskin reddening\nblisters\nrash\nIf a skin reaction occurs, stop use and seek medical help right away.\n\nSore throat warning: If sore throat is severe, persists for more than 2 days, is\naccompanied or followed by fever, headache, rash, nausea, or vomiting, consult a\ndoctor promptly."
+    },
+    "contre_indications": {
+      "trouve": true,
+      "raison": "",
+      "titre": "Do not use",
+      "methode": "titre",
+      "debut": 1127,
+      "fin": 2176,
+      "passage": "Do not use\nwith any other drug containing acetaminophen (prescription or nonprescription).\nif you are not sure whether a drug contains acetaminophen, ask a doctor or\npharmacist.\nfor more than 10 days for pain unless directed by a doctor\nfor more than 3 days for fever unless directed by a doctor\nif you are allergic to acetaminophen or any of the inactive ingredients of this product\nAsk a doctor before use if the user has liver disease\nAsk a doctor or pharmacist before use if the user is taking the blood thining drug\nwarfarin.\nStop use and ask a doctor if\nsymptoms do not improve\nnew symptoms occur\npain or fever persists or gets worse\nIf pregnant or breast-feeding,ask a health professional before use.\nKeep out of reach of children.\nOverdose warning: Taking more than the recommended dose (overdose) may cause\nliver damage. In case of overdose, get medical help or contact a Poison Control Center\nright away. (1-800-222-1222). Quick medical attention is critical for adults as well as\nchildren even if you do not notice any signs or symptoms."
+    },
+    "posologie": {
+      "trouve": true,
+      "raison": "",
+      "titre": "Directions",
+      "methode": "titre",
+      "debut": 2176,
+      "fin": 8751,
+      "passage": "Directions\ndo not take more than directed (see overdose warning)\nage\ndose\nadults and children 12 years of age and over 20.3 mL (650 mg) every 4 to 6 hours \nnot to exceed 6 doses in a 24-hour period\nchildren 6 to under 12 years of age\n10.15 mL (325 mg) every 4 hours \nnot to exceed 5 doses in a 24-hour period\nchildren 4 to under 6 years of age\n7.5 mL (240 mg) every 4 hours \nnot to exceed 5 doses in a 24-hour period\nchildren 2 to under 4 years of age\n5 mL (160 mg) every 4 hours \nnot to exceed 5 doses in a 24-hour period\nchildren under 2 years of age\nconsult a doctor\nOther information\n\n■ ﻿Each 5 mL contains: sodium 2 mg\n■ store at 20° to 25°C (68° to 77°F). [See USP Controlled Room Temperature]\n■ keep tightly closed ■ protect from light\n■ a red, cherry flavored solution supplied in the following oral dosage forms:\nNDC 0121-0657-05: 5 mL unit dose cup\nNDC 0121-0657-00: Case contains 100 unit dose cups of 5 mL (0121-0657-05)\npackaged in 10 trays of 10 unit dose cups each.\nNDC 0121-1314-11: 10.15 mL unit dose cup\nNDC 0121-1314-00: Case contains 100 unit dose cups of 10.15 mL (0121-1314-11)\npackaged in 10 trays of 10 unit dose cups each.\nNDC 0121-1971-21: 20.3 mL unit dose cup\nNDC 0121-1971-00: Case contains 100 unit dose cups of 20.3 mL (0121-1971-21)\npackaged in 10 trays of 10 unit dose cups each.\nInactive ingredients:\nCitric acid, FD&C Red No. 40, flavoring, glycerin, polyethylene glycol, propylene glycol,\npurified water, sodium benzoate, sodium citrate, sorbitol and sucrose.\nQuestions or comments?\nCall 1-800-845-8210. You may also report serious side effects to this phone number.\nMANUFACTURED BY:\nPharmaceutical Associates, Inc.\nGreenville, SC 29605\nwww.paipharma.com\nR10/20\nPRINCIPAL DISPLAY PANEL - 5 mL Cup\nDelivers 5 mL\nNDC 0121-0657-05\nAcetaminophen Oral Solution USP\n160 mg/5 mL\nALCOHOL FREE\nPackage Not Child-Resistant\nPHARMACEUTICAL ASSOCIATES, INC. \n\nGREENVILLE, SC 29605\nSEE INSERT\nF0657051020\nPRINCIPAL DISPLAY PANEL - 10 mL Cup\nDelivers 10.15 mL\nNDC 0121-1314-11\nAcetaminophen Oral Solution USP\n325 mg/10.15 mL\nALCOHOL FREE\nPackage Not Child-Resistant \n\nPHARMACEUTICAL ASSOCIATES, INC. \nGREENVILLE, SC 29605\nSEE INSERT\nF0657111020\nPRINCIPAL DISPLAY PANEL - 20.3 mL Cup\nDelivers 20.3 mL\nNDC 0121-1971-21\nAcetaminophen Oral Solution USP\n650 mg/20.3 mL\nALCOHOL FREE\n\nPackage Not Child-Resistant\nPHARMACEUTICAL ASSOCIATES, INC. \nGREENVILLE, SC 29605\nSEE INSERT\nF0657211020\nACETAMINOPHEN \nacetaminophen solution\nProduct Information\nProduct Type\nHUMAN OTC DRUG\nItem Code (Source)\nNDC:0121-0657\n\nRoute of Administration\nORAL\nActive Ingredient/Active Moiety\nIngredient Name\nBasis of Strength\nStrength\nACETAMINOPHEN (UNII: 362O9ITL9D) (ACETAMINOPHEN - UNII:362O9ITL9D)\nACETAMINOPHEN\n160 mg in 5 mL\nInactive Ingredients\nIngredient Name\nStrength\nANHYDROUS CITRIC ACID (UNII: XF417D3PSL)\n \nFD&C RED NO. 40 (UNII: WZB9127XOA)\n \nGLYCERIN (UNII: PDC6A3C0OX)\n \nPOLYETHYLENE GLYCOL, UNSPECIFIED (UNII: 3WJQ0SDW1A)\n \nPROPYLENE GLYCOL (UNII: 6DC9Q167V3)\n \nWATER (UNII: 059QF0KO0R)\n \nSODIUM BENZOATE (UNII: OJ245FE5EU)\n \nSODIUM CITRATE (UNII: 1Q73Q2JULR)\n \nSORBITOL (UNII: 506T60A25R)\n \nSUCROSE (UNII: C151H8M554)\n \nProduct Characteristics\nColor\nred (clear, red liquid)\nScore\n \nShape\nSize\nFlavor\nCHERRY\nImprint Code\nContains\n \nPackaging\n# Item Code\nPackage Description\nMarketing Start\nDate\nMarketing End\nDate\n1 NDC:0121-\n0657-00\n10 in 1 CASE\n08/01/2007\n1\n10 in 1 TRAY\n1 NDC:0121-\n0657-05\n5 mL in 1 CUP, UNIT-DOSE; Type 0: Not a Combination\nProduct\n2 NDC:0121-\n0657-11\n10 in 1 CASE\n08/01/2007\n2\n10 in 1 TRAY\n2\n10.15 mL in 1 CUP, UNIT-DOSE; Type 0: Not a\nCombination Product\n3 NDC:0121-\n0657-21\n10 in 1 CASE\n08/01/2007\n3\n10 in 1 TRAY\n3\n20.3 mL in 1 CUP, UNIT-DOSE; Type 0: Not a\nCombination Product\nMarketing Information\n\nMarketing\nCategory\nApplication Number or Monograph\nCitation\nMarketing Start\nDate\nMarketing End\nDate\nOTC Monograph Drug\nM013\n08/01/2007\nACETAMINOPHEN \nacetaminophen solution\nProduct Information\nProduct Type\nHUMAN OTC DRUG\nItem Code (Source)\nNDC:0121-1314\nRoute of Administration\nORAL\nActive Ingredient/Active Moiety\nIngredient Name\nBasis of\nStrength\nStrength\nACETAMINOPHEN (UNII: 362O9ITL9D) (ACETAMINOPHEN -\nUNII:362O9ITL9D)\nACETAMINOPHEN\n325 mg\n in 10.15 mL\nInactive Ingredients\nIngredient Name\nStrength\nFD&C RED NO. 40 (UNII: WZB9127XOA)\n \nGLYCERIN (UNII: PDC6A3C0OX)\n \nPOLYETHYLENE GLYCOL, UNSPECIFIED (UNII: 3WJQ0SDW1A)\n \nPROPYLENE GLYCOL (UNII: 6DC9Q167V3)\n \nWATER (UNII: 059QF0KO0R)\n \nSODIUM BENZOATE (UNII: OJ245FE5EU)\n \nSODIUM CITRATE (UNII: 1Q73Q2JULR)\n \nSORBITOL (UNII: 506T60A25R)\n \nSUCROSE (UNII: C151H8M554)\n \nANHYDROUS CITRIC ACID (UNII: XF417D3PSL)\n \nProduct Characteristics\nColor\nred\nScore\n \nShape\nSize\nFlavor\nCHERRY\nImprint Code\nContains\n \nPackaging\n# Item Code\nPackage Description\nMarketing Start\nDate\nMarketing End\nDate\n1 NDC:0121-\n1314-00\n10 in 1 CASE\n08/01/2007\n1\n10 in 1 TRAY\n1 NDC:0121-\n1314-11\n10.15 mL in 1 CUP, UNIT-DOSE; Type 0: Not a\nCombination Product\n\nMarketing Information\nMarketing\nCategory\nApplication Number or Monograph\nCitation\nMarketing Start\nDate\nMarketing End\nDate\nOTC Monograph Drug\nM013\n08/01/2007\nACETAMINOPHEN \nacetaminophen solution\nProduct Information\nProduct Type\nHUMAN OTC DRUG\nItem Code (Source)\nNDC:0121-1971\nRoute of Administration\nORAL\nActive Ingredient/Active Moiety\nIngredient Name\nBasis of\nStrength\nStrength\nACETAMINOPHEN (UNII: 362O9ITL9D) (ACETAMINOPHEN -\nUNII:362O9ITL9D)\nACETAMINOPHEN\n650 mg in 20.3 mL\nInactive Ingredients\nIngredient Name\nStrength\nANHYDROUS CITRIC ACID (UNII: XF417D3PSL)\n \nFD&C RED NO. 40 (UNII: WZB9127XOA)\n \nGLYCERIN (UNII: PDC6A3C0OX)\n \nPOLYETHYLENE GLYCOL, UNSPECIFIED (UNII: 3WJQ0SDW1A)\n \nPROPYLENE GLYCOL (UNII: 6DC9Q167V3)\n \nWATER (UNII: 059QF0KO0R)\n \nSODIUM BENZOATE (UNII: OJ245FE5EU)\n \nSODIUM CITRATE (UNII: 1Q73Q2JULR)\n \nSORBITOL (UNII: 506T60A25R)\n \nSUCROSE (UNII: C151H8M554)\n \nProduct Characteristics\nColor\nred\nScore\n \nShape\nSize\nFlavor\nCHERRY\nImprint Code\nContains\n \nPackaging\n#\nItem Code\nPackage Description\nMarketing Start\nDate\nMarketing End\nDate\nNDC 0121\n\nPAI Holdings, LLC dba PAI Pharma\n1 NDC:0121-\n1971-00\n10 in 1 CASE\n08/01/2007\n1\n10 in 1 TRAY\n1 NDC:0121-\n1971-21\n20.3 mL in 1 CUP, UNIT-DOSE; Type 0: Not a\nCombination Product\nMarketing Information\nMarketing\nCategory\nApplication Number or Monograph\nCitation\nMarketing Start\nDate\nMarketing End\nDate\nOTC Monograph Drug\nM013\n08/01/2007\nLabeler - PAI Holdings, LLC dba PAI Pharma (044940096)\nEstablishment\nName\nAddress\nID/FEI\nBusiness Operations\nPAI Holdings, LLC dba Pharmaceutical Associates, Inc. and\ndba PAI Pharma\n097630693 manufacture(0121-0657, 0121-\n1314, 0121-1971)\n \nRevised: 10/2026"
+    },
+    "interactions": {
+      "trouve": false,
+      "raison": "titre introuvable",
+      "titre": "",
+      "methode": "",
+      "debut": null,
+      "fin": null,
+      "passage": ""
+    },
+    "effets_indesirables": {
+      "trouve": false,
+      "raison": "titre introuvable",
+      "titre": "",
+      "methode": "",
+      "debut": null,
+      "fin": null,
+      "passage": ""
+    }
+  }
+}

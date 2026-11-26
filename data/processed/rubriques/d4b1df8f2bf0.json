@@ -1,0 +1,57 @@
+{
+  "doc_id": "d4b1df8f2bf0",
+  "medicament": "clindamycine",
+  "source": "dailymed",
+  "langue": "en",
+  "url": "https://dailymed.nlm.nih.gov/dailymed/downloadpdffile.cfm?setId=39c00714-331d-49b1-a675-653b82b10c98",
+  "date_collecte": "2026-11-16",
+  "date_extraction": "2026-11-26",
+  "chemin_texte": "data/processed/textes/d4b1df8f2bf0.txt",
+  "rubriques": {
+    "indications": {
+      "trouve": true,
+      "raison": "",
+      "titre": "INDICATIONS",
+      "methode": "titre",
+      "debut": 3178,
+      "fin": 4771,
+      "passage": "INDICATIONS\nANTIROBE (clindamycin hydrochloride capsules) is (for use in dogs only) indicated for\nthe treatment of infections caused by susceptible strains of the designated\nmicroorganisms in the specific conditions listed below:\nSkin infections (wounds and abscesses) due to coagulase positive staphylococci\n(Staphylococcus aureus or Staphylococcus intermedius).\nDeep wounds and abscesses due to Bacteroides fragilis, Prevotella melaninogenicus,\nFusobacterium necrophorum and Clostridium perfringens.\nDental infections due to Staphylococcus aureus, Bacteroides fragilis, Prevotella\n\nmelaninogenicus, Fusobacterium necrophorum and Clostridium perfringens.\nOsteomyelitis due to Staphylococcus aureus, Bacteroides fragilis, Prevotella\nmelaninogenicus, Fusobacterium necrophorum and Clostridium perfringens.\nCONTRAINDICATIONS\nANTIROBE (clindamycin hydrochloride capsules) is contraindicated in animals with a\nhistory of hypersensitivity to preparations containing clindamycin or lincomycin.\nBecause of potential adverse gastrointestinal effects, do not administer to rabbits,\nhamsters, guinea pigs, horses, chinchillas or ruminating animals.\nWARNINGS\nKeep out of reach of children. Not for human use.\nPRECAUTIONS\nDuring prolonged therapy of one month or greater, periodic liver and kidney function\ntests and blood counts should be performed.\nThe use of ANTIROBE occasionally results in overgrowth of non-susceptible organisms\nsuch as clostridia and yeasts. Therefore, the administration of ANTIROBE should be\navoided in those species sensitive to the gastrointestinal effects of clindamycin (see"
+    },
+    "contre_indications": {
+      "trouve": true,
+      "raison": "",
+      "titre": "CONTRAINDICATIONS). Should superinfections occur, appropriate measures should",
+      "methode": "titre",
+      "debut": 4771,
+      "fin": 5439,
+      "passage": "CONTRAINDICATIONS). Should superinfections occur, appropriate measures should\nbe taken as indicated by the clinical situation.\nPatients with very severe renal disease and/or very severe hepatic disease accompanied\nby severe metabolic aberrations should be dosed with caution, and serum clindamycin\nlevels monitored during high-dose therapy.\nClindamycin hydrochloride has been shown to have neuromuscular blocking properties\nthat may enhance the action of other neuromuscular blocking agents. Therefore,\nANTIROBE should be used with caution in animals receiving such agents.\nSafety in gestating bitches or breeding male dogs has not been established.\nADVERSE REACTIONS"
+    },
+    "posologie": {
+      "trouve": true,
+      "raison": "",
+      "titre": "DOSAGE AND ADMINISTRATION",
+      "methode": "titre",
+      "debut": 5611,
+      "fin": 10740,
+      "passage": "DOSAGE AND ADMINISTRATION\nInfected Wounds, Abscesses, and Dental Infections\nOral: 2.5-15.0 mg/lb body weight every 12 hours\nDuration: Treatment with ANTIROBE products may be continued up to a maximum of\n28 days if clinical judgment indicates. Treatment of acute infections should not be\n\ncontinued for more than three or four days if no response to therapy is seen\nDosage Schedule\nANTIROBE 25 mg, administer 1-6 capsules every 12 hours for each 10 pounds of\nbody weight.\nANTIROBE 75 mg, administer 1-6 capsules every 12 hours for each 30 pounds of\nbody weight.\nANTIROBE 150 mg, administer 1-6 capsules every 12 hours for each 60 pounds of\nbody weight.\nOsteomyelitis\nOral: 5.0-15.0 mg/lb body weight every 12 hours\nDuration: Treatment with ANTIROBE is recommended for a minimum of 28 days.\nTreatment should not be continued for longer than 28 days if no response to therapy is\nseen.\nDosage Schedule:\nANTIROBE 25 mg, administer 2-6 capsules every 12 hours for each 10 pounds of\nbody weight.\nANTIROBE 75 mg, administer 2-6 capsules every 12 hours for each 30 pounds of\nbody weight.\nANTIROBE 150 mg, administer 2-6 capsules every 12 hours for each 60 pounds of\nbody weight.\nANIMAL SAFETY SUMMARY\n Rat and Dog Data: One year oral toxicity studies in rats and dogs at doses of 30, 100\nand 300 mg/kg/day (13.6, 45.5 and 136.4 mg/lb/day) have shown clindamycin\nhydrochloride capsules to be well tolerated. Differences did not occur in the parameters\nevaluated to assess toxicity when comparing groups of treated animals with\ncontemporary controls. Rats administered clindamycin hydrochloride at 600 mg/kg/day\n(272.7 mg/lb/day) for six months tolerated the drug well; however, dogs orally dosed at\n600 mg/kg/day (272.7 mg/lb/day) vomited, had anorexia, and subsequently lost weight.\nAt necropsy these dogs had erosive gastritis and focal areas of necrosis of the mucosa\nof the gallbladder.\n Safety in gestating bitches or breeding males has not been established.\nSTORAGE\nStore at controlled room temperature 20° to 25°C (68° to 77°F).\nHOW SUPPLIED\nANTIROBE Capsules are available as:\n25 mg - bottles of 600\n75 mg - bottles of 200\n150 mg - bottles of 100.\n\nCONTACT INFORMATION\nTo report suspected adverse events, for technical assistance or to obtain a copy of the\nSafety Data Sheet (SDS), contact Zoetis Inc. at 1-888-963-8471 or www.zoetis.com.\nFor additional information about adverse drug experience reporting for animal drugs,\ncontact FDA at 1-888-FDA-VETS or online at http://www.fda.gov/reportanimalae.\nApproved by FDA under NADA # 120-161\nzoetis \nManufactured by:\nFareva Amboise, France\nDistributed by:\nZoetis Inc., Kalamazoo, MI 49007\nProduct of China\nPRINCIPAL DISPLAY PANEL - 25 mg Capsule Bottle Label\n8718312\nPRINCIPAL DISPLAY PANEL - 75 mg Capsule Bottle Label\n\n8718292\nPRINCIPAL DISPLAY PANEL - 150 mg Capsule Bottle Label\n8718302\nANTIROBE \nclindamycin hydrochloride capsule\nProduct Information\nProduct Type\nPRESCRIPTION ANIMAL DRUG\nItem Code (Source)\nNDC:54771-3043\nRoute of Administration\nORAL\nActive Ingredient/Active Moiety\nIngredient Name\nBasis of\nStrength\nStrength\nCLINDAMYCIN HYDROCHLORIDE (UNII: T20OQ1YN1W) (CLINDAMYCIN -\nUNII:3U02EL437C)\nCLINDAMYCIN\n25 mg\nProduct Characteristics\n\nColor\nyellow, white\nScore\nno score\nShape\nCAPSULE\nSize\n16mm\nFlavor\nImprint Code\nANTIROBE;25;MG\nContains\n \nPackaging\n#\nItem Code\nPackage Description\nMarketing Start Date\nMarketing End Date\n1 NDC:54771-3043-1\n600 in 1 BOTTLE, PLASTIC\nMarketing Information\nMarketing\nCategory\nApplication Number or Monograph\nCitation\nMarketing Start\nDate\nMarketing End\nDate\nNADA\nNADA120161\n05/31/1984\nANTIROBE \nclindamycin hydrochloride capsule\nProduct Information\nProduct Type\nPRESCRIPTION ANIMAL DRUG\nItem Code (Source)\nNDC:54771-3044\nRoute of Administration\nORAL\nActive Ingredient/Active Moiety\nIngredient Name\nBasis of\nStrength\nStrength\nCLINDAMYCIN HYDROCHLORIDE (UNII: T20OQ1YN1W) (CLINDAMYCIN -\nUNII:3U02EL437C)\nCLINDAMYCIN\n75 mg\nProduct Characteristics\nColor\ngreen\nScore\nno score\nShape\nCAPSULE\nSize\n16mm\nFlavor\nImprint Code\nANTIROBE;75;MG\nContains\n \nPackaging\n#\nItem Code\nPackage Description\nMarketing Start Date\nMarketing End Date\n1 NDC:54771-3044-1\n200 in 1 BOTTLE, PLASTIC\nMarketing Information\nMarketing\nCategory\nApplication Number or Monograph\nCitation\nMarketing Start\nDate\nMarketing End\nDate\n\nZoetis Inc.\ng\ny\nNADA\nNADA120161\n05/31/1984\nANTIROBE \nclindamycin hydrochloride capsule\nProduct Information\nProduct Type\nPRESCRIPTION ANIMAL DRUG\nItem Code (Source)\nNDC:54771-3045\nRoute of Administration\nORAL\nActive Ingredient/Active Moiety\nIngredient Name\nBasis of\nStrength\nStrength\nCLINDAMYCIN HYDROCHLORIDE (UNII: T20OQ1YN1W) (CLINDAMYCIN -\nUNII:3U02EL437C)\nCLINDAMYCIN\n150 mg\nProduct Characteristics\nColor\nblue (light blue) , green\nScore\nno score\nShape\nCAPSULE\nSize\n20mm\nFlavor\nImprint Code\nANTIROBE;150;MG\nContains\n \nPackaging\n#\nItem Code\nPackage Description\nMarketing Start Date\nMarketing End Date\n1 NDC:54771-3045-1\n100 in 1 BOTTLE, PLASTIC\nMarketing Information\nMarketing\nCategory\nApplication Number or Monograph\nCitation\nMarketing Start\nDate\nMarketing End\nDate\nNADA\nNADA120161\n05/31/1984\nLabeler - Zoetis Inc. (828851555)\n \nRevised: 10/2026"
+    },
+    "interactions": {
+      "trouve": false,
+      "raison": "titre introuvable",
+      "titre": "",
+      "methode": "",
+      "debut": null,
+      "fin": null,
+      "passage": ""
+    },
+    "effets_indesirables": {
+      "trouve": true,
+      "raison": "",
+      "titre": "Side effects occasionally observed in either clinical trials or during clinical use were",
+      "methode": "titre",
+      "debut": 5439,
+      "fin": 5611,
+      "passage": "Side effects occasionally observed in either clinical trials or during clinical use were\nvomiting and diarrhea.\nTo report a suspected adverse reaction call 1-888-963-8471."
+    }
+  }
+}

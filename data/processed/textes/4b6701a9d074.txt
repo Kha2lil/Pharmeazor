@@ -1,0 +1,933 @@
+Résumé des caractéristiques du produit
+RESUME DES CARACTERISTIQUES DU PRODUIT
+1.
+DENOMINATION DU MEDICAMENT
+Doxycycline EG 100 mg comprimés
+2.
+COMPOSITION QUALITATIVE ET QUANTITATIVE
+Chaque comprimé Doxycycline EG 100 mg contient 100 mg de doxycycline équivalent à 104,1 mg de
+doxycycline monohydraté.
+Pour la liste complète des excipients, voir rubrique 6.1.
+3.
+FORME PHARMACEUTIQUE
+Comprimés.
+4.
+DONNEES CLINIQUES
+4.1
+Indications thérapeutiques
+La doxycycline, un antibiotique à large spectre, est efficace dans le traitement des affections suivantes:
+-
+Infections provoquées par le Chlamydia:
+-
+lymphogranulome vénérien
+-
+urétrite non compliquée / cervicite, épididymite et orchite provoquée par chlamydia
+trachomatis
+-
+Syphilis en cas d’allergie à la pénicilline
+-
+Infections provoquées par des mycoplasmes: surtout pneumonie par mycoplasmes pneumoniques.
+-
+Rickettsies: typhus exanthématique
+-
+Infections provoquées par des bacilles: 
+
+Infections gastro-intestinales: traitement adjuvant du choléra
+-
+Infections de la peau et des tissus mous: les acnés vulgaires papulo-pustuleuses
+-
+Maladie de Lyme: au moment de l’infection cutanée (érythème migrant) et dans l’arthrite au
+stade I.
+-
+Malaria provoqué par le Plasmodium falciparum
+Exceptionnellement, la doxycycline peut être utilisée dans la prophylaxie de la malaria lors de
+séjours brefs dans des régions spécifiques où les souches sont résistantes à la méfloquine et à la
+chloroquine.
+La doxycycline peut également être utilisée, le plus souvent en association avec de la quinine,
+dans le traitement de la malaria, provoquée par des souches multi-résistantes
+Compte tenu du grand nombre de souches à staphylocoques et à streptocoques résistantes, la
+sensibilité des souches doit être connue avant le traitement.
+Il convient de tenir compte des recommandations officielles concernant l’utilisation appropriée des
+antibactériens.
+4.2
+Posologie et mode d’administration
+Posologie
+Adultes et enfants âgés de plus de 12 ans
+1/16
+
+- Infections des voies respiratoires : 200 mg le premier jour (en une seule prise ou en 2 x 100 mg à
+ 12 h d’intervalle), la dose subséquente d’entretien est de 100 mg par jour pendant 5 à 10 jours
+- Uréthrite/cervicite due à Chlamydia trachomatis : 2 x 100 mg par jour pendant 7 jours
+- Epididymo-orchite due à Chlamydia trachomatis : 2 x 100 mg par jour pendant 10 jours
+- Syphilis primaire et secondaire : 2 x 100 mg par jour pendant 14 jours
+- Lymphogranuloma venereum : 2 x 100 mg par jour pendant 21 jours
+- Affection pelvienne aiguë: 2 x 100 mg par jour pendant 10 jours. Toujours en association avec un
+ antibiotique actif sur le N. gonorrhoeae, les anaérobies, les bactéries Gram-négatif facultatives et
+ les streptocoques
+- Traitement adjuvant du cholera : 300 mg en dose unique
+- Arthrite de Lyme au stade I (y compris la forme cutanée ou erythema migrans) : 100-200 mg par
+ jour pendant 10-20 jours
+- Acnés vulgaires papulo-pustuleuses : 50 mg par jour jusqu’à 12 semaines
+- Traitement du paludisme a P. falciparum, provenant des régions où existent des souches
+ chloroquinorésistantes : 200 mg par jour (en une seule prise ou en 2 x 100 mg a 12 h d’intervalle)
+ pendant 7 jours au moins. Il faut toujours associer un schizonticide à effet rapide
+- Prophylaxie du paludisme : uniquement pour des régions où existent des souches de P. falciparum
+ résistantes à la chloroquine, en cas d’intolerance ou de contre-indication à la méfloquine ou à la
+ combinaison atovaquone/proguanil ainsi que pour les voyages de courte durée (< 4 mois). La
+ posologie s’élève à 100 mg par jour. La prophylaxie commence 1 à 2 jours avant le départ, elle
+ continue pendant le sejour (moins de 4 mois) jusqu’à 4 semaines après avoir quitté la zone
+ impaludée.
+- Rickettsioses : groupe de la fièvre pourpree (la fièvre pourprée des montagnes Rocheuses et autres
+ rickettsioses responsables de la fièvre pourprée), le typhus et le groupe du typhus des broussailles :
+ 100 mg toutes les 12 heures. Les patients doivent être traités pendant au moins 3 jours après la fin
+ de la fièvre et jusqu’à ce qu’il y ait des signes d’amelioration clinique. La durée minimale de
+ traitement est de 5-7 jours.
+Enfants âgés entre 8 et 12 ans (rubrique 4.4)
+L’utilisation de doxycycline dans le traitement d’infections aiguës chez les enfants âgés entre 8 et 12
+ans doit être soigneusement justifiée dans les situations où d’autres médicaments ne sont pas
+indisponibles, ne sont pas susceptibles d’être efficaces ou sont contre-indiqués.
+Pour les enfants de 45 kg ou moins - dose initiale 
+Traitement des infections aiguës: 4,4 mg/kg (soit en une seule prise, soit en deux prises
+fractionnées) avec une dose d'entretien de 2,2 mg/kg (soit en une seule prise, soit en deux prises
+fractionnées). Dans le traitement des infections plus graves, une dose maximale de 4,4 mg/kg doit
+être administrée tout au long du traitement.
+Rickettsioses : groupe de la fièvre pourprée (la fièvre pourprée des montagnes Rocheuses et autres
+rickettsioses responsables de la fièvre pourprée), le typhus et le groupe du typhus des broussailles: 
+2.2 mg/kg deux fois par jour. Les patients doivent etre surveilles pendant au moins 3 jours apres la
+fin de la fièvre. La durée minimale de traitement est de 5-7 jours.
+Traitement du paludisme: 4 mg/kg (soit en une seule prise, soit en deux prises à 12 h d’intervalle)
+le premier jour, suivi par 2 mg/kg (en une seule prise ou en deux prises fractionnées) pendant 6
+jours au moins. Il faut toujours associer un schizonticide à effet rapide. 
+Prophylaxie du paludisme: 2 mg/kg en une seule prise quotidienne. La prophylaxie commence 1 à
+2 jours avant le départ, elle continue pendant le séjour (moins de 4 mois) jusqu’à 4 semaines après
+avoir quitté la zone impaludée.
+Pour les enfants pesant plus de 45 kg - Dose administrée aux adultes doit être utilisée pour le 
+traitement des infections aiguës, le traitement et la prophylaxie du paludisme et pour le traitement des
+rickettsioses. 
+2
+
+Enfants âgés de moins de 8 ans
+La doxycycline ne sera pas utilisée chez les enfants de moins de 8 ans en raison du risque de
+décoloration des dents (voir rubriques 4.4 et 4.8).
+Posologie en cas d'atteinte de la fonction rénale
+Aucune réduction de la dose n'est nécessaire chez les patients présentant une atteinte de la fonction
+rénale. 
+Les études à ce jour indiquent que l'administration de doxycycline aux doses habituellement
+recommandées n'entraîne aucune accumulation excessive de cet antibiotique chez les patients atteints
+d'insuffisance rénale.
+Utilisation chez les patients dialysés
+L'hémodialyse et la dialyse péritonéale ne modifient pas la demi-vie sérique de la doxycycline.
+Posologie en cas d'atteinte de la fonction du foie :
+La doxycycline doit être administrée avec prudence chez les patients atteints d'insuffisance hépatique
+(voir rubrique 4.4).
+Mode d'administration
+Afin de réduire le risque d’irritation et d’ulcération de l’œsophage, l’administration d’une quantité
+adéquate de liquide (100 ml ou un demi-verre) avec les formes comprimés ou capsules des
+médicaments de la classe des tétracyclines est recommandée. Il faut attendre au moins 30 minutes
+avant de se coucher. Les comprimes peuvent egalement etre mis en suspension dans environ 50 ml
+d’eau.
+En cas d’irritation gastrique, du lait ou de la nourriture peuvent être utilisés sans compromettre
+l’absorption du médicament. Les études ont montré que l'absorption de la doxycycline n'est pas
+significativement modifiée par l'ingestion simultanée d'aliments. Le lait et les produits laitiers
+semblent moins affecter l’absorption de la doxycycline orale que l’absorption de la tétracycline.
+4.3
+Contre-indications
+-
+Hypersensibilité à la substance active , à une tétracycline quelle qu'elle soit ou à l’un des
+excipients mentionnés à la rubrique 6.1.
+-
+Une lésion œsophagienne préexistante.
+-
+Doxycycline EG ne sera pas administré aux enfants âgés de 8 ans ou moins, sauf en cas de 
+pathologies graves ou pouvant engager le pronostic vital lorsque les bénéfices escomptés 
+l’emportent sur les risques encourus, en particulier quand aucun traitement alternatif n’est 
+disponible (voir rubrique 4.4).
+-
+Doxycycline EG est contre-indiqué pendant les 2ième et 3ième trimestres de la grossesse et de
+l'allaitement, sauf en cas de pathologies pouvant engager le pronostic vital (par ex. rickettsioses
+telles que la fièvre pourprée des montagnes Rocheuses) lorsque les bénéfices du traitement
+l’emportent sur les risques encourus - et qu’ aucun traitement alternatif n’est disponible (voir
+rubriques 4.4 et 4.6).
+Dans tous les cas, l’utilisation de doxycycline n’est pas recommandée pendant la grossesse et ne
+doit être prescrite que dans les cas ou aucun traitement alternatif n’est disponible. De plus, la
+duree de traitement doit être aussi courte que possible.
+4.4
+Mises en garde spéciales et précautions d’emploi
+Des effets indésirables au niveau de l’oesophage (oesophagite et ulcérations), parfois graves, ont
+été rapportés avec la doxycycline. Les patients doivent prendre le médicament avec un volume
+suffisant de liquide et doivent attendre 30 minutes avant de se coucher (voir rubrique 4.2). Si des
+symptômes tels que dysphagie et douleur rétrosternale surviennent, il faut envisager l’arrêt de la
+prise du médicament et rechercher l’origine des symptômes. La prudence s’impose chez les
+3
+
+patients ayant des antécédents de reflux oesophagien.
+Des cas de colite pseudomembraneuse ont été observés avec presque tous les antibactériens, y compris
+la doxycycline: si certains cas étaient de nature légère, d’autres ont été jusqu’à menacer le pronostic
+vital. Les symptômes peuvent inclure: diarrhée aqueuse profuse (quelquefois sanglante), douleurs et
+crampes abdominales sévères, nausées, déshydratation, fièvre. Sans traitement, ces symptômes
+peuvent provoquer une péritonite, un choc et un mégacôlon toxique. 
+Une colite associée à l’antibiothérapie peut survenir pendant ou dans les 2 mois qui suivent la fin du
+traitement. L’usage d’inhibiteurs du péristaltisme intestinal est contre-indique. Une anamnèse
+minutieuse s’impose pour établir le lien entre l’antibiothérapie et la survenue de la diarrhée.
+L'administration d'antibiotiques peut occasionnellement favoriser la multiplication de micro-
+organismes non sensibles, y compris de champignons, tels que Candida. Les symptômes peuvent
+inclure de fréquents épisodes de vaginite, un écoulement vaginal ou des démangeaisons. Si une
+surinfection à pathogènes opportunistes se produit, le traitement sera arrêté et remplacé par une
+thérapeutique adéquate.
+L'effet anti-anabolique des tétracyclines risque d'entraîner une élévation de l'azote uréique du sang.
+L'expérience clinique à ce jour indique que ce phénomène n'est pas à craindre avec la doxycycline
+chez les insuffisants rénaux.
+Doxycycline EG doit être administré avec prudence chez les patients atteints d'insuffisance hépatique.
+De rares cas de dysfonction hépatique ont été signalés ; ils étaient dus à l’administration orale et
+parenterale de tetracyclines, y compris de doxycycline.
+Dans le traitement au long cours, les fonctions organiques seront régulièrement vérifiées par des
+épreuves de biologie clinique, notamment des tests des fonctions hématopoïétique, rénale et hépatique.
+Des réactions cutanées sévères telles qu’une dermatite exfoliative, un érythème polymorphe, un
+syndrome de Stevens-Johnson, une nécrolyse épidermique toxique, et une réaction médicamenteuse
+avec éosinophilie et symptômes systémiques (DRESS), ont été rapportées chez des patients recevant
+de la doxycycline (voir rubrique 4.8). Si des réactions cutanées sévères surviennent, le traitement par
+doxycycline doit être arrêté immédiatement et remplacé par une thérapeutique adéquate. 
+Certains sujets traités par les tétracyclines, y compris la doxycycline, ont présenté une photosensibilité
+se manifestant par une exagération des réactions épidermiques au rayonnement solaire. Le risque de
+phototoxicité est potentiellement plus élevé chez l’individu sous traitement prolongé (prophylaxie de
+la malaria, traitement d’acné), surtout si l’intensité de la lumière est plus élevée comme dans les pays
+tropicaux. Les patients susceptibles d'être exposés à la lumière solaire ou ultraviolette directe doivent
+être avertis de l'apparition possible d'une telle réaction avec les tétracyclines. Dès les premiers signes
+d'érythème, le traitement sera arrêté.
+Le traitement d’une maladie vénérienne requière des procédures de diagnostique appropriées. Les
+patients sous doxycycline pour le traitement d’une maladie sexuellement transmissible courent encore
+le risque de contracter d’autres infections sexuellement transmissibles. Une gestion adéquate et un
+suivi de ces patients sont recommandés.
+Bien que la doxycycline ne se dégrade pas en dérivés épianhydro toxiques comme cela a été signalé
+pour d'autres tétracyclines, l'utilisation de comprimés périmés est à proscrire.
+Doxycycline EG doit être administré avec prudence chez les patients soumis à une anesthésie au
+méthoxyflurane (voir rubrique 4.5).
+Les tétracyclines peuvent exacerber un lupus érythémateux dissémine (LED) (voir rubrique 4.8).
+4
+
+En raison d'un risque de blocage neuromusculaire faible, il convient de faire preuve de prudence en
+cas d'administration de tétracyclines à des patients atteints de myasthénie grave.
+Certains patients atteints d’infections à spirochète peuvent faire l’expérience d’une réaction de Jarisch-
+Herxheimer peu de temps après l’instauration d’un traitement par doxycycline. Il convient de rassurer
+les patients en les informant qu’il s’agit d’une conséquence habituellement spontanément résolutive
+d’un traitement par antibiotique des infections à spirochète.
+Une hypertension intracrânienne bénigne (pseudotumeur cérébrale) a été associée à l’utilisation des
+tétracyclines, dont la doxycycline (voir rubrique 4.8). Ceci peut s’accompagner des symptômes
+suivants : maux de tête, vision floue, vision double, perte de vision, nausée, vomissements,
+acouphènes, douleurs rétrobulbaires, photopsie. L’ oedème papillaire peut être confirmé par un
+examen du fond d’oeil. L’hypertension intracrânienne bénigne (pseudotumeur cérébrale) est
+généralement transitoire après l’arrêt du traitement; cependant, des cas de perte permanente de la
+vision suite à une hypertension intracrânienne bénigne (pseudotumeur cérébrale) ont été rapportés
+avec les tétracyclines, dont la doxycycline. En cas de perturbation visuelle pendant le traitement, une
+évaluation ophtalmologique doit être réalisée rapidement. Etant donné que la pression intracrânienne
+peut rester élevée pendant plusieurs semaines après l’arrêt du médicament, les patients doivent être
+surveillés jusqu’à ce que leur état se stabilise. L’utilisation concomitante d’isotrétinoïne et de
+doxycycline doit être évitée, car l’isotrétinoïne est également connue pour provoquer une hypertension
+intracrânienne bénigne (pseudotumeur cérébrale).
+Population pédiatrique
+Comme les autres tétracyclines, la doxycycline forme un complexe calcique stable dans tout tissu
+osseux en voie de formation. On a observé un ralentissement de la croissance du péroné chez les
+prématures recevant de la tétracycline par voie orale a raison de 25 mg/kg toutes les 6 heures. Cette
+réaction s'est montrée réversible dès l'arrêt de la medication.
+L'administration de médicaments du groupe des tétracyclines durant la période de formation des dents
+(à partir de la deuxième moitié de la grossesse, période néonatale et enfance jusqu'à 8 ans) pourrait
+provoquer une modification irréversible de la teinte des dents (jaunâtre, grisâtre, brunâtre). Cet effet
+indésirable est plus fréquent en cas d'administration à long terme, bien qu'il ait été observé à la suite de
+traitements répétés à court terme. Une hypoplasie de l'émail a également été signalée.
+N'utiliser la doxycycline chez les enfants de moins de 8 ans que si les bénéfices potentiels l'emportent
+sur les risques dans des conditions sévères ou mortelles (par exemple la fièvre pourprée des montagnes
+Rocheuses), uniquement en l'absence de thérapies alternatives adéquates (voir rubrique 4.3).
+Bien que le risque de coloration permanente des dents soit rare chez les enfants âgés entre 8 et 12 ans,
+l'utilisation de la doxycycline doit être soigneusement justifiée dans les situations où d'autres
+médicaments ne sont pas disponibles, ne sont pas efficaces ou sont contre-indiqués. 
+Excipients
+Ce médicament contient moins de 1 mmol (23 mg) de sodium par comprimé, c.-à-d. qu’il est
+essentiellement « sans sodium ».
+4.5
+Interactions avec d’autres médicaments et autres formes d’interactions
+Un allongement du temps de prothrombine a été signalé chez certains patients prenant de la warfarine
+et de la doxycycline. Une diminution de l'activité de la prothrombine plasmatique a été observée sous
+l'effet des tétracyclines; dès lors, il est parfois nécessaire, chez les patients traités par les
+anticoagulants coumariniques, de réduire la dose de ces derniers.
+Les bactériostatiques étant susceptibles d'entraver l'action bactéricide des bêta-lactames, il est
+recommandé d'éviter l'administration concomitante de doxycycline et de bêta-lactames.
+5
+
+Les anti-acides contenant de l’aluminium, du calcium ou du magnésium ou d’autres médicaments
+contenant ces cations ou d’autres (tels que le ranélate de strontium), de même que les sels de bismuth
+diminuent l'absorption de la doxycycline et sont, de ce fait, contre-indiqués chez les patients traités
+concomitamment par ce médicament.
+De même, en cas de traitement concomitant avec des préparations à base de fer, les prises de celles-ci
+et des comprimés de Doxycycline EG doivent être séparées par des intervalles aussi longs que
+possible.
+La prise concomitante de phénytoïne, de barbituriques, de carbamazépine ou d’alcool diminue la
+demi-vie d'élimination de la doxycycline dont l'efficacité thérapeutique sera conservée pour autant
+qu'elle soit administrée deux fois par jour.
+L'efficacité d'un traitement contraceptif par des oestroprogestatifs peut être diminuée par
+l'administration concomitante d'antibiotiques.
+Une augmentation de la néphrotoxicité a été constatée chez certains malades recevant des tétracyclines
+et soumis à une anesthésie au méthoxyflurane.
+L'isotrétinoïne ne peut être administrée en même temps qu'une tétracycline.
+La prise concomitante de rifampicine peut diminuer la concentration sérique de la doxycycline et ainsi
+diminuer l’efficacité de la doxycycline.
+La prise concomitante de méthotrexate peut augmenter le risque de toxicité de méthotrexate.
+Interactions avec les tests de laboratoire:
+L’interférence avec le test de fluorescence peut entraîner de fausses élévations des taux de
+catécholamines urinaires.
+4.6
+Fertilité, grossesse et allaitement
+Grossesse
+Les études effectuées chez l’animal sont insuffisantes pour permettre de conclure sur la toxicité sur la
+reproduction (voir rubrique 5.3). Cependant, étant donné les données cliniques disponibles (les
+tétracyclines pénètrent dans les os et les dents au cours de la croissance, ce qui peut provoquer un
+ralentissement réversible de la croissance osseuse, une coloration irréversible des dents et
+éventuellement un risque accru de caries), Doxycycline EG est contre-indiqué pendant les 2ième et
+3ième trimestres de la grossesse sauf en cas de pathologies pouvant engager le pronostic vital (par ex.
+rickettsioses telles que la fièvre pourprée des montagnes Rocheuses) lorsque les bénéfices du
+traitement l’emportent sur les risques encourus - et qu’aucun traitement alternatif n’est disponible
+(voir rubriques 4.3 et 4.4). Dans tous les cas, l’utilisation de doxycycline n’est pas recommandée
+pendant la grossesse et ne doit être prescrite que dans le cas où aucun traitement alternatif n’est
+disponible. De plus, la durée de traitement doit être aussi courte que possible.
+Les femmes en âge de procréer doivent utiliser une contraception efficace tout au long du traitement. 
+Allaitement
+Les tétracyclines sont excrétés dans le lait maternel en quantité telle que des effets chez les
+nouveaunés/ nourrissons sont probables. La concentration dans le lait maternel équivaut à environ 30 à
+40 % de la concentration plasmatique chez la mère. La doxycycline est contre-indiquée pendant
+l’allaitement sauf en cas de pathologies pouvant engager le pronostic vital (par ex. rickettsioses telles
+que la fièvre pourprée des montagnes Rocheuses) lorsque les bénéfices du traitement l’emportent sur
+les risques encourus - et qu’aucun traitement alternatif n’est disponible (voir rubriques 4.3 et 4.4).
+Fertilité
+Aucun effet sur la fertilité n’a été constaté chez les rats femelles qui ont reçu de la doxycycline ; l’effet
+sur la fertilité masculine n’a pas été étudié (voir rubrique 5.3). Il n’existe pas de données cliniques sur
+6
+
+les effets délétères sur la fertilité masculine et féminine. 
+4.7
+Effets sur l’aptitude à conduire des véhicules et à utiliser des machines
+Les effets sur l’aptitude à conduire des véhicules et à utiliser des machines n’ont pas été étudiés. Il
+n’existe pas d’éléments suggérant une altération possible de ces aptitudes par la doxycycline.
+4.8
+Effets indésirables
+Les effets indésirables les plus fréquemment rapportés (incidence ≥ 1/100 à < 1/10) sont : nausées,
+vomissements, prolifération de candidoses avec vaginite, réactions de photosensibilité et éruptions
+cutanées. Des réactions d’hypersensibilité sévères comme choc anaphyl actique et DRESS ont 
+rarement été rapportées et pourraient avoir des conséquences fatales.
+Les effets indésirables suivants ont été observés chez des patients recevant
+Les effets indésirables suivants ont été observés chez des patients recevant des tétracyclines,
+notamment de la doxycycline. Ils sont repris par classe de système d’organe et par fréquence. Les
+fréquences sont définies comme telles: très fréquent (≥1/10), fréquent (≥1/100, <1/10), peu fréquent
+(≥1/1000, <1/100), rare (≥1/10000, <1/1000) et très rare (< 1/10000), fréquence indéterminée (ne peut
+être estimée sur la base des données disponibles).
+Classes de
+systèmes
+d'organes
+Très
+fréqu
+ent
+≥1/10
+Fréquent
+(1/100,
+<1/10)
+Peu
+fréquent
+(1/1000,
+<1/100)
+Rare
+(1/10000,
+<1/1000)
+Très rare
+(<1/1000
+0)
+Fréquen
+ce
+indéterm
+inée
+(ne peut
+être
+estimée
+sur la
+base des
+données
+disponibl
+es)
+Affections
+hématologique
+s et du système
+lymphatique
+Thrombocyto
+pénie,
+Anémie
+hémolytique,
+Neutropénie,
+Eosinophilie
+Affections du
+système
+immunitaire
+Hypersensibili
+té
+(notamment
+choc
+anaphylactiqu
+e,
+réaction
+anaphylactiqu
+e,
+réaction
+anaphylactoïd
+e,
+purpura de
+Schonlein-
+Henoch,
+angioedème,
+Exacerbation
+de
+7
+
+lupus
+érythémateux
+disséminé
+(voir
+rubrique 4.4),
+Dyspnée,
+Maladie du
+sérum,
+OEdème
+périphérique,
+urticaire),
+Réaction
+medicamenteu
+se
+avec 
+eosinophilie et
+symptomes
+systemiques
+(DRESS), 
+Reaction
+de Jarisch-
+Herxheimer 
+(voir la
+rubrique 4.4)a,d
+Affections
+endocriniennes
+Modification 
+de la
+teinte des 
+glandes
+thyroïdes
+observable au
+microscope 
+(brun
+noirâtre)
+Troubles du
+métabolisme et
+de la nutrition
+Diminution
+d’appétit
+Hypoglyc
+émie
+Affections du
+système
+nerveux
+Maux de 
+tête
+Saillie de la
+fontanellef,
+Hypertension
+intracrânienne
+bénigne
+(pseudotumeu
+r
+cérébrale)f
+Affections de
+l'oreille et du
+labyrinthe
+Tintements
+d'oreilles
+Affections
+oculaires
+Troubles
+visuelsg
+Affections
+cardiaques
+Péricardite,
+Tachycardie
+Affections
+vasculaires
+Bouffées
+congestives,
+Hypotension
+Affections
+gastrointestinales
+Nausées,
+Vomisseme
+nts
+Dyspepsie
+(pyrosis/
+gastrite)
+Pancréatite a,
+Colite 
+pseudomembr
+Décolorat
+ion
+des
+8
+
+aneuse,
+Colite à
+Clostridium
+difficile,
+Ulcère 
+oesophagien,
+OEsophagite,
+Entérocolite,
+Lesions
+inflammatoire
+s
+(avec 
+surinfection
+par Candida) 
+dans
+la région 
+anogénitale,
+Douleurs
+abdominales,
+Diarrhée,
+Dysphagie,
+Glossite
+dentsb
+Affections
+hépatobiliaires
+Hépatotoxicité
+,
+Hépatite,
+Fonction 
+hépatique
+anormale
+Affections de
+la peau et du
+tissus souscutané
+Réactions 
+de
+photosensib
+ilitéc
+, éruptions
+cutanées 
+dont
+éruptions
+maculopapu
+leuses
+et
+érythémateu
+ses
+Nécrolyse
+épidermique
+toxique,
+Syndrome de
+Stevens-
+Johnson,
+Erythème
+polymorphe,
+Dermatite
+exfoliatrice,
+Photo-
+onycholyse,
+Hyperpigment
+ation
+de la peaua,e
+Affections
+musculosquelettiques
+et systémiques
+Arthralgie
+Myalgie
+Affections du
+rein et des
+voies urinaires
+Augmentation
+de
+l'azote uréique
+du
+sang
+Affections des
+organes de
+reproduction et
+du sein
+Prolifératio
+n de
+Candida,
+notamment
+vaginite,
+écoulement
+9
+
+vaginal et
+démangeais
+ons
+vaginales
+a Cet effet indésirable a été signalé spontanément pendant la surveillance post-commercialisation et n’a
+pas été observé lors des essais cliniques. La fréquence a été calculée en utilisant la règle suivante: la
+limite supérieure de l’intervalle de confiance de 95% de la fréquence est inférieure ou égale à 3/X, X
+étant égal à 3833, le nombre de patients exposés lors des études cliniques et épidémiologiques.
+b Une décoloration réversible et superficielle des dents permanentes a été rapportée avec l'utilisation de
+la doxycycline, mais la fréquence ne peut pas être estimée à partir des données disponibles.
+c Le risque de phototoxicité dépend de la dose et est potentiellement plus élevé chez l’individu sous
+traitement prolongé (voir rubrique 4.4).
+d Dans le cadre d’infections à spirochètes traitées par la doxycycline.
+e Avec une utilisation chronique par la doxycycline.
+f En association avec les tétracyclines, y compris la doxycycline, une hypertension intracrânienne
+bénigne a été signalée, accompagnée de symptômes possibles de maux de tête, de vomissements, de
+troubles de la vision, y compris de vision floue, de scotome, de diplopie ou de perte de vision
+permanente. La manifestation de symptômes cliniques, y compris de maux de tête ou de troubles
+visuels, doit suggérer un diagnostic possible d’hypertension intracrânienne (voir rubrique 4.4).
+g Associée à une hypertension intracrânienne bénigne (pseudotumeur cérébrale), voir rubrique 4.4.
+Comme les autres tétracyclines, la doxycycline forme un complexe calcique stable dans tout tissu
+osseux en voie de formation. On a observé un ralentissement de la croissance du péroné chez les
+prématurés recevant de la tétracycline à raison de 25 mg/kg toutes les 6 heures. Cette réaction s’est
+montrée réversible dès l’arrêt de la médication (voir rubriques 4.4 et 4.6).
+L’administration de médicaments du groupe des tétracyclines durant la période de formation des dents
+(à partir du deuxième trimestre de la grossesse, période néonatale, enfance jusqu’à 8 ans) pourrait
+provoquer une modification irréversible de la teinte des dents (jaunâtre, grisâtre, brunâtre). Cet effet
+indésirable est plus fréquent en cas d’administration à long terme, bien qu’il ait été observé à la suite
+de traitements répétés à court terme. Une hypoplasie de l’émail a également été signalée (voir
+rubriques 4.4 et 4.6).
+Déclaration des effets indésirables suspectés
+La déclaration des effets indésirables suspectés après autorisation du médicament est importante. Elle 
+permet une surveillance continue du rapport bénéfice/risque du médicament. Les professionnels de 
+santé déclarent tout effet indésirable suspecté via : 
+Belgique
+Agence Fédérale des Médicaments et des Produits de Santé (AFMPS) – Division Vigilance – Boîte 
+Postale 97 – B-1000 Bruxelles Madou 
+Site internet: www.afmps.be
+Luxembourg
+Centre Régional de Pharmacovigilance de Nancy
+Bâtiment de Biologie Moléculaire et de Biopathologie (BBB)
+CHRU de Nancy – Hôpitaux de Brabois
+Rue du Morvan
+54511 Vandoeuvre Les Nancy Cedex
+Tél.: (+33) 3 83 65 60 85 / 87
+Fax: (+33) 3 83 65 61 33
+E-mail: crpv@chru-nancy.fr
+ou
+Direction de la Santé
+Division de la Pharmacie et des Médicaments 
+10
+
+Allée Marconi – Villa Louvigny
+L-2120 Luxembourg
+Tél.: (+352) 2478 5592
+Fax: (+352) 2479 5615
+E-mail: pharmacovigilance@ms.etat.lu
+Lien pour le formulaire: http://www.sante.public.lu/fr/politique-sante/ministere-sante/direction-sante/
+div-pharmacie-medicaments/index.html
+.
+4.9
+Surdosage
+Prise en charge :
+En cas de surdosage, on arrêtera la prise du médicament et l'on instaurera un traitement
+symptomatique avec mise en place d'une thérapeutique de soutien. La dialyse n'influe pas sur la demi-
+vie sérique du médicament et est dès lors sans utilité dans le traitement des surdosages. 
+5.
+PROPRIETES PHARMACOLOGIQUES
+Le monohydrate de doxycycline est un antibiotique synthétise à partir de l'oxytetracycline. Le nom
+chimique de cette poudre cristalline jaune clair est l'alpha-6-désoxy-5-oxytétracycline. La doxycycline
+possède un haut degré de liposolubilité et une faible affinité pour la liaison calcique. Elle est
+extrêmement stable dans le sérum humain normal. La doxycycline n'est pas dégradée en forme
+épianhydro.
+5.1
+Propriétés pharmacodynamiques
+Classe pharmacothérapeutique: antibactériens systémiques, code ATC: J01AA02
+Mécanisme d’action
+La doxycycline inhibe la synthèse protéinique en se liant à la sous-unité 30S des ribosomes bactériens.
+Elle affecte également le mécanisme de synthèse protéinique pseudo-bactérien des plastides
+infracellulaires de certains protozoaires. La doxycycline est avant tout un bactériostatique. Elle est
+active contre un large éventail de bactéries à Gram positif et à Gram négatif, y compris des bactéries
+atypiques et intracellulaires obligatoires (spirochètes, rickettsies, chlamydia, mollicutes) et certains
+protozoaires.
+Résistance
+La résistance aux tétracyclines est généralement due à la protection ribosomale (par la liaison au
+ribosome de protéines normalement solubles) et aux mécanismes d'efflux. L'inactivation des
+tétracyclines peut survenir dans certains organismes, tels que Bacteroides spp.
+Seuils d’essai de sensibilité
+Les seuils du European Committee on Antimicrobial Susceptibility Testing (EUCAST - version 5.0,
+2015) pour les essais de sensibilité sont présentés ci-dessous.
+Organismes
+Seuils CMI (mg/ml)
+Sensible (≤ S)
+Résistant (R >)
+Staphylococcus spp.
+1 
+2 
+Streptococcus A, B, C, G
+1 
+2 
+Streptococcus pneumoniae
+1 
+2 
+Haemophilus influenzae
+1 
+2
+Moraxella catarrhalis
+1 
+2
+Campylobacter jejuni et coli
+--1
+--1
+1La tétracycline (S ≤ 2 mg/l ; R > 2 mg/l) peut être utilisée pour déterminer la sensibilité à la
+11
+
+doxycycline.
+Organismes
+Seuils de diametre de zone (mm)
+Sensible ( ≥ S)
+Résistant (R <)
+Staphylococcus spp.
+23 
+20 
+Streptococcus A, B, C, G
+23 
+20 
+Streptococcus pneumoniae
+--A
+--A 
+Haemophilus influenzae
+--A 
+--A 
+Moraxella catarrhalis
+--A 
+--A 
+Campylobacter jejuni et coli
+--1
+--1
+ALes isolats sensibles à la tétracycline (S ≤ 25 mm ; R < 22 mm) sont également sensibles à la
+doxycycline, mais certains isolats résistants à la tétracycline peuvent être sensibles à la doxycycline.
+Les isolats résistants à la tétracycline doivent être testés pour la sensibilité à la doxycycline à l'aide
+d'une méthode de détermination de la CMI.
+1La tétracycline (S ≥ 30 mm ; R < 30 mm) peut être utilisée pour déterminer la sensibilité à la
+doxycycline. 
+Relations pharmacocinétique/pharmacodynamique
+Le rapport entre l'aire sous la courbe concentration-temps du médicament en circulation (ASC) et la
+concentration minimale inhibitrice (CMI) du médicament pour l'organisme pathogène (ASC/CMI) est
+le paramètre qui présente la meilleure corrélation avec l'efficacité de la doxycycline.
+Efficacité clinique contre des pathogènes spécifiques
+L'efficacité a été démontrée lors d'études cliniques contre les pathogenes énumérés sous chaque
+indication sensibles à la doxycycline in vitro.
+Infections des voies respiratoires
+Micro-organismes atypiques
+
+Mycoplasma pneumoniae
+Micro-organismes à Gram positif
+
+Streptococcus pneumoniae
+Micro-organismes à Gram negatif
+
+Haemophilus influenzae
+
+Klebsiella pneumoniae
+Infections génito-urinaires
+Micro-organismes atypiques
+
+Chlamydia trachomatis
+
+Ureaplasma urealyticum
+Micro-organismes à Gram negatif
+
+Neisseria gonorrhoeae
+
+Treponema pallidum
+
+Haemophilus ducreyi
+
+Klebsiella gtranulomatis
+Micro-organismes anaérobies à Gram negatif et à Gram positif
+Infections dermatologiques
+Micro-organismes à Gram positif
+
+Propionibacterium acnes
+Infections gastro-intestinales
+Micro-organismes a Gram negatif
+
+Vibrio cholera
+Infections à transmission vectorielle et zoonoses
+12
+
+Micro-organismes à Gram negatif
+
+Borrelia burgdorferi
+
+Leptospira spp.
+Rickettsies
+Protozoaires
+
+Plasmodium falciparum
+Activité antibactérienne contre d'autres pathogènes pertinents
+L'efficacité clinique n'a pas été établie contre les pathogènes suivants bien que des études in vitro
+suggèrent qu'ils seraient sensibles à la doxycycline en l'absence de mécanismes de résistance acquis.
+Micro-organismes à Gram positif
+Staphylococcus spp.
+Clostridium spp.
+Micro-organismes à Gram négatif
+Brucella spp.
+Autres micro-organismes
+Chlamydophila spp.
+Autres rickettsies
+5.2
+Propriétés pharmacocinétiques
+Absorption
+ 
+ 
+Après administration orale, la doxycycline est résorbée de façon quasi complète. Il ressort des études à
+ce jour que la résorption de la doxycycline, contrairement à certaines autres tétracyclines, n'est pas
+significativement influencée par l'ingestion d'aliments. Le lait et les produits laitiers semblent moins
+affecter l’absorption de la doxycycline orale que l’absorption de la tétracycline. En présence de
+métaux, les tétracyclines forment des chélates biologiquement inactifs. Dès lors, on évitera de les
+administrer simultanément avec des antiacides ou des préparations contenant du fer.
+Après administration de la posologie habituelle, de 200 mg une fois par jour suivis de 100 mg par jour,
+les concentrations sériques de doxycycline oscillent entre 1,5 et 3 mcg/ml. Des pics sériques moyens
+de 2,6 à 3,0 mcg/ml sont observés 2 heures après l'administration. Vingt-quatre heures après, les
+concentrations moyennes atteignent environ 1,5 mcg/ml.
+Le tableau ci-dessous indique les taux sériques moyens (mcg/ml) après administration de
+respectivement:
+(1) 100 mg de doxycycline toutes les 12 heures le premier jour et ensuite 50 mg toutes les 12
+heures les jours suivants
+(2) 100 mg de doxycycline toutes les 12 heures le premier jour et ensuite 100 mg toutes les 24
+heures les jours suivants
+(3) 100 mg de doxycycline toutes les 12 heures
+Dosage
+Concentration sérique (mcg/ml) après
+1 h
+2 h
+8 h
+12 h*
+24 h*
+48 h*
+72 h*
+96 h*
+144 h*
+(1)
+1,346
+1,440
+1,061
+0,876
+1,250
+1,124
+N.D.
+1,294
+1,279
+(2)
+1,374
+1,302
+1,027
+0,887
+1,515
+1,042
+N.D.
+0,711
+0,714
+13
+
+(3)
+1,413
+1,107
+0,936
+1,005
+1,831
+N.D.
+2,651
+N.D.
+2,519
+* juste avant la dose
+N.D.: non disponible
+Distribution
+ 
+ 
+La liaison protéinique de la doxycycline à un pH 7,4 varie de 89,1 ± 3,3 % (n = 47, méthode par
+dialyse) à 91,1 ± 4,6 % (n = 16, méthode par ultra-centrifugation). 
+La demi-vie d'élimination de la doxycycline après administrations répétées est de 18 à 22 heures. 
+Le volume de distribution, exprimé en pour cent du poids corporel, est de 158, soit 1,58 l/kg de poids
+corporel. Comme les autres tétracyclines, la doxycycline ne franchit quasiment pas la barrière hémato-
+encéphalique. 
+Après résorption, la doxycycline se diffuse rapidement dans les tissus.
+Biotransformation
+Habituellement, la doxycycline n'est pas métabolisée de façon significative. Toutefois, dans quelques
+cas où un inducteur enzymatique hépatique a été administré simultanément, un raccourcissement de la
+demi-vie sérique a été constaté.
+Elimination
+La doxycycline est excrétée partiellement (environ 40 % de la dose résorbée) par les reins sous forme
+inchangée. La partie non excrétée par les reins est présumée être excrétée par diffusion directe depuis
+la muqueuse intestinale dans le lumen où la doxycycline est inactivée par formation d'un complexe
+avec les matières fécales. Bien que seulement un faible pourcentage de la dose administrée soit
+éliminée par la bile, les concentrations biliaires de doxycycline sont habituellement 5 à 10 fois
+supérieures aux concentrations sériques. Le taux d'élimination rénale de la doxycycline est d'environ
+40 pour cent en 72 heures quand la fonction rénale est normale (clairance de la créatinine d'environ 75
+ml/min). 
+Linéarité/non-linéarité
+La doxycycline semble presenter une pharmacocinétique lineaire.
+Atteinte rénale
+Des études ont montré qu'il n'y avait pas de différence significative entre la demi-vie sérique de la
+doxycycline chez l'homme normal et celle chez l'insuffisant rénal grave. Chez le patient souffrant
+d'insuffisance rénale grave, ce taux d'élimination peut tomber à 1-5 pour cent en 72 heures (clairance
+de la créatinine inférieure à 10 ml/min); dans ce cas l'excrétion intestinale devient prépondérante et
+assure ainsi l'élimination de la doxycycline.
+L'hémodialyse ne modifie pas la demi-vie sérique de la doxycycline. 
+Atteinte hépatique
+Aucune étude pharmacocinétique n'a été menée chez des patients insuffisants hépatiques.
+Personnes agées
+Il n'existe aucune donnée disponible sur les parametres pharmacocinétiques chez les patients agés.
+5.3
+Données de sécurité préclinique
+Aucune preuve d’effet sur la fertilité n’a été mise en évidence dans une étude au cours de laquelle des
+rats femelles ont reçu de la doxycycline avant l’accouplement, ainsi que pendant la gestation et
+l’allaitement à des doses 8 fois supérieure à la dose humaine basée sur le rapport mg/m². L’effet sur la
+fertilité masculine n’a pas été évalué.
+Aucune étude à long terme n’a été menée sur des animaux pour évaluer le pouvoir carcinogène de la
+doxycycline. Toutefois, des signes d’activité oncogène ont été observés chez les rats lors d’études
+14
+
+utilisant des antibiotiques similaires, à savoir l’oxytétracycline (tumeurs des surrénales et de
+l’hypophyse) et la minocycline (tumeurs de la thyroïde).
+De même, bien que des études de mutagénicité n’aient pas été menées avec la doxycycline, des
+résultats positifs ont été enregistrés lors d’essais in vitro sur des cellules mammaires utilisant des
+antibiotiques similaires (tétracycline, oxytétracycline). 
+6.
+DONNEES PHARMACEUTIQUES
+6.1
+Liste des excipients
+Cellulose microcristalline
+Glycolate d’amidon sodique 
+Stéarate de magnésium
+6.2
+Incompatibilités
+Sans objet.
+6.3
+Durée de conservation
+3 ans.
+6.4
+Précautions particulières de conservation
+A conserver à température ambiante (15-25°C) 
+6.5
+Nature et contenu de l’emballage extérieur
+Plaquette contenant 10 ou 20 comprimés.
+Toutes les présentations peuvent ne pas être commercialisées.
+6.6
+ Précautions particulières d’élimination et manipulation
+Pas d’exigences particulières.
+Tout médicament non utilisé ou déchet doit être éliminé conformément à la réglementation en vigueur.
+7.
+TITULAIRE DE L’AUTORISATION DE MISE SUR LE MARCHE
+EG (Eurogenerics) SA
+Esplanade Heysel b22
+1020 Bruxelles
+8.
+NUMERO D’AUTORISATION DE MISE SUR LE MARCHE
+Doxycycline EG 100 mg: BE178035
+9.
+DATE DE PREMIERE AUTORISATION/DE RENOUVELLEMENT DE 
+L’AUTORISATION
+Date de première autorisation: 20 août 1996
+Date de dernier renouvellement: 09 novembre 2012
+15
+
+10.
+DATE D’APPROBATION/DE MISE A JOUR DU TEXTE 
+Date d’approbation du texte: 03/2021.
+Date de mise à jour du texte: 02/2021.
+16

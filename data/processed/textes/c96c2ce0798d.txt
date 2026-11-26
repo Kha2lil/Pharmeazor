@@ -1,0 +1,964 @@
+RESUME DES CARACTERISTIQUES DU PRODUIT
+1.
+DENOMINATION DU MEDICAMENT
+Perindopril Sandoz 4 mg comprimés
+2.
+COMPOSITION QUALITATIVE ET QUANTITATIVE
+Chaque comprimé contient 4 mg de périndopril erbumine, équivalent à 3,338 mg de périndopril.
+Pour la liste complète des excipients, voir rubrique 6.1.
+3.
+FORME PHARMACEUTIQUE
+Comprimé.
+Comprimés blancs, ronds, biconvexes, portant une barre de cassure d’un côté et l’inscription 4 de
+l’autre côté. Le comprimé peut être divisé en deux demi-doses égales.
+4.
+DONNEES CLINIQUES
+4.1
+Indications thérapeutiques
+Hypertension :
+Traitement de l’hypertension.
+Insuffisance cardiaque :
+Traitement de l’insuffisance cardiaque symptomatique.
+Coronaropathie stable :
+Réduction du risque d’incidents cardiaques chez les patients ayant des antécédents d’infarctus du
+myocarde et/ou de revascularisation.
+4.2
+Posologie et mode d’administration
+Posologie
+Il est conseillé de prendre périndopril erbumine une fois par jour, le matin avant un repas et avec une
+quantité suffisante de liquide (p. ex. de l’eau).
+Il faut adapter la posologie de manière individuelle, selon le profil du patient (voir rubrique 4.4) et la
+réponse tensionnelle.
+Hypertension
+On peut utiliser périndopril erbumine en monothérapie ou en association avec des médicaments
+appartenant à d’autres classes d’antihypertenseurs (voir rubriques 4.3, 4.4, 4.5 et 5.1).
+La dose initiale recommandée est de 4 mg, une fois par jour, le matin.
+Les patients ayant un système rénine-angiotensine-aldostérone fortement activé (particulièrement en
+cas d'hypertension vasculaire rénale, de déplétion sodée et/ou volémique, de décompensation
+cardiaque ou d'hypertension sévère) peuvent présenter une chute excessive de la tension artérielle
+après la prise de la dose initiale. Chez ces patients, on recommande une posologie initiale de 2 mg, et
+il faut instaurer le traitement sous surveillance médicale.
+
+Après un mois de traitement, on peut augmenter la dose à 8 mg une fois par jour.
+Une hypotension symptomatique peut survenir après l’instauration de la thérapie par périndopril
+erbumine ; elle est plus probable chez les patients traités simultanément par des diurétiques.
+Il est donc conseillé d’être prudent, car ces patients peuvent présenter une déplétion sodée et/ou
+volémique.
+Si possible, il faut interrompre le traitement par diurétique 2 à 3 jours avant le début de la thérapie par
+périndopril erbumine (voir rubrique 4.4).
+Chez les patients hypertendus ne pouvant pas interrompre la prise du diurétique, il faut instaurer le
+traitement par périndopril erbumine au moyen d’une dose de 2 mg. Il faut surveiller la fonction rénale
+et la kaliémie. Il faut ajuster la dose ultérieure de périndopril erbumine en fonction de la réponse
+tensionnelle. Si nécessaire, on peut reprendre la thérapie diurétique.
+Chez les patients âgés, il faut instaurer le traitement au moyen d’une dose de 2 mg qui pourra être
+progressivement augmentée à 4 mg après un mois de traitement, puis à 8 mg si cela s’avère nécessaire,
+selon l'état de la fonction rénale (voir tableau ci-dessous).
+Insuffisance cardiaque symptomatique
+On recommande d’instaurer le traitement par périndopril erbumine sous contrôle médical étroit,
+généralement associé à un diurétique non épargneur de potassium et/ou à la digoxine et/ou à un
+bêtabloquant, au moyen d’une dose initiale recommandée de 2 mg le matin. Si cette dose est tolérée,
+on peut l’augmenter par paliers de 2 mg, en respectant un intervalle minimal de 2 semaines, à 4 mg
+une fois par jour.
+Il faut ajuster la posologie sur base de la réponse clinique individuelle du patient.
+En cas d’insuffisance cardiaque sévère et chez les autres patients considérés comme étant à risque
+élevé (patients ayant une altération de la fonction rénale et une tendance à avoir des troubles
+électrolytiques, patients recevant un traitement concomitant par diurétiques et/ou un traitement par
+vasodilatateurs), il faut instaurer le traitement sous une surveillance attentive (voir rubrique 4.4).
+Chez les patients présentant un risque élevé d'hypotension symptomatique (p. ex. patients ayant une
+déplétion sodée avec ou sans hyponatrémie, patients ayant une hypovolémie ou patients traités par une
+thérapie diurétique énergique), il faut corriger ces situations, si possible avant d’instaurer le traitement
+par périndopril erbumine. Il faut surveiller étroitement la tension artérielle, la fonction rénale et la
+kaliémie, avant et pendant le traitement par périndopril erbumine (voir rubrique 4.4).
+Coronaropathie stable
+Il faut débuter le traitement par périndopril erbumine au moyen d’une dose de 4 mg une fois par jour,
+pendant deux semaines, puis l’augmenter à 8 mg une fois par jour, selon la fonction rénale et pour
+autant que la dose de 4 mg soit bien tolérée.
+Chez les patients âgés, il faut administrer une dose de 2 mg une fois par jour pendant une semaine, une
+dose de 4 mg une fois par jour la semaine suivante, puis augmenter la dose à 8 mg une fois par jour
+selon la fonction rénale (voir Tableau 1 "Ajustement de la dose en cas d'insuffisance rénale"). Il ne
+faut augmenter la posologie que si la dose plus faible administrée précédemment est bien tolérée.
+Insuffisance rénale
+Chez les patients ayant une insuffisance rénale, il faut ajuster la dose sur base de la clairance de la
+créatinine, de la manière indiquée dans le tableau 1 ci-dessous :
+Tableau 1 : ajustement de la dose en cas d’insuffisance rénale
+Clairance de la créatinine
+(ml/min)
+Dose recommandée
+ClCR ≥ 60
+4 mg par jour
+30 < ClCR < 60
+2 mg par jour
+15 < ClCR < 30
+2 mg tous les deux jours
+Patients sous hémodialyse *,
+ClCR < 15
+2 mg le jour de la dialyse
+
+* La clairance de dialyse du périndoprilate est de 70 ml/min. Chez les patients sous hémodialyse, il faut
+prendre la dose après la séance de dialyse.
+Insuffisance hépatique
+Chez les patients ayant une insuffisance hépatique, il n’est pas nécessaire d’ajuster la dose (voir
+rubriques 4.4 et 5.2).
+Population pédiatrique
+La sécurité et l’efficacité du périndopril erbumine chez les enfants et adolescents âgés de moins de
+18 ans n’ont pas été établies. Les données actuellement disponibles sont décrites à la rubrique 5.1 mais
+aucune recommandation sur la posologie ne peut être donnée. Par conséquent, l’utilisation chez les
+enfants et les adolescents n’est pas recommandée.
+Mode d’administration
+Voie orale
+4.3
+Contre-indications
+
+Hypersensibilité à la substance active, à tout autre IECA ou à l’un des excipients mentionnés à
+la rubrique 6.1.
+
+Antécédents d’angio-œdème associé à une thérapie antérieure par IECA (voir rubrique 4.4).
+
+Angio-œdème héréditaire ou idiopathique.
+
+L’utilisation concomitante de périndopril erbumine et de médicaments contenant de l’aliskirène
+est contre-indiquée chez les patients présentant un diabète sucré ou une insuffisance rénale (DFG
+< 60 ml/min/1,73 m²) (voir rubriques 4.5 et 5.1).
+
+Traitements extracorporels entrainant le contact du sang avec des surfaces chargées négativement
+(voir rubrique 4.5).
+
+Sténose bilatérale des artères rénales significative ou sténose de l’artère en cas d’un seul rein
+fonctionnel (voir rubrique 4.4).
+
+Second et troisième trimestres de la grossesse (voir rubriques 4.4 et 4.6).
+
+Utilisation concomitante avec un traitement par sacubitril/valsartan. Le traitement par périndopril
+erbumine ne doit pas être débuté moins de 36 heures après la dernière dose de sacubitril/valsartan
+(voir également rubriques 4.4 et 4.5).
+4.4
+Mises en garde spéciales et précautions d’emploi
+Coronaropathie stable
+Si un épisode d'angor instable (majeur ou non) survient pendant le premier mois du traitement par
+périndopril, il faut soigneusement évaluer les risques par rapport aux bénéfices thérapeutiques avant
+de poursuivre le traitement.
+Hypotension
+Les IECA peuvent induire une chute de la tension artérielle. Une hypotension symptomatique
+s’observe rarement chez les patients présentant une hypertension non compliquée et elle est plus
+probable chez les patients ayant une déplétion volumique (p. ex. en cas de thérapie diurétique, de
+régime restrictif en sel, de dialyse, de diarrhée ou de vomissements) ou chez les patients ayant une
+hypertension sévère rénine-dépendante (voir rubriques 4.5 et 4.8). Chez les patients ayant une
+insuffisance cardiaque symptomatique, associée ou non à une insuffisance rénale, on a observé la
+survenue d’une hypotension symptomatique. Elle se produit le plus souvent chez les patients
+présentant un degré sévère d'insuffisance cardiaque (impliquant l’utilisation de fortes doses de
+diurétiques de l'anse), une hyponatrémie ou une insuffisance rénale fonctionnelle. Chez les patients
+présentant un risque accru d’hypotension symptomatique, l’instauration du traitement et l’ajustement
+de la posologie doivent se faire sous surveillance étroite (voir rubriques 4.2 et 4.8). Ces précautions
+s'appliquent également aux patients ayant une cardiopathie ischémique ou une maladie vasculaire
+cérébrale car dans ces situations, une chute excessive de la tension artérielle pourrait donner lieu à un
+infarctus du myocarde ou à un accident vasculaire cérébral.
+
+En cas d’hypotension, il faut allonger le patient et si nécessaire, lui administrer une perfusion
+intraveineuse d’une solution de chlorure de sodium 9 mg/ml (0,9%). Une réponse hypotensive
+transitoire ne constitue pas une contre-indication à la poursuite du traitement, qui peut généralement
+être administré sans difficultés dès que l’expansion volémique a permis l’augmentation de la tension
+artérielle.
+Chez certains patients atteints d’insuffisance cardiaque congestive et ayant une tension artérielle
+normale ou faible, périndopril erbumine peut réduire davantage la tension artérielle systémique. Cet
+effet est prévisible et sa survenue ne justifie généralement pas l’interruption du traitement. Si
+l’hypotension devient symptomatique, une réduction de la posologie ou un arrêt du traitement par
+périndopril erbumine peut s’avérer nécessaire.
+Sténose de la valve aortique ou mitrale / cardiomyopathie hypertrophique
+Comme c’est le cas avec d’autres IECA, il faut être prudent lorsqu’on administre périndopril erbumine
+à des patients présentant une sténose de la valve mitrale ou une obstruction du débit du ventricule
+gauche (comme en cas de sténose aortique ou de cardiomyopathie hypertrophique).
+Insuffisance rénale
+En cas d’insuffisance rénale (clairance de la créatinine < 60 ml/min), il faut ajuster la dose initiale du
+périndopril en fonction de la clairance de la créatinine (voir rubrique 4.2), puis en fonction de la
+réponse thérapeutique du patient. La surveillance de routine des taux de potassium et de créatinine fait
+partie de la prise en charge médicale habituelle de ces patients (voir rubrique 4.8).
+Chez les patients ayant une insuffisance cardiaque symptomatique, l’hypotension consécutive à
+l’instauration de la thérapie par IECA peut aggraver davantage l’altération de la fonction rénale. Dans
+cette situation, on a rapporté une insuffisance rénale aiguë, généralement réversible.
+Chez certains patients ayant une sténose bilatérale des artères rénales ou une sténose artérielle sur rein
+unique, et ayant été traités par des IECA, on a observé des augmentations des taux d’urée sanguine et
+de créatinine sérique, généralement réversibles à l’arrêt du traitement. Cette modification est
+particulièrement probable chez les patients ayant une insuffisance rénale préalable. En présence d’une
+hypertension vasculaire rénale, il existe un risque accru d’hypotension sévère et d’insuffisance rénale.
+Chez ces patients, il faut instaurer le traitement sous contrôle médical étroit et au moyen de faibles
+doses, et la titration de la dose doit s’effectuer d’une manière prudente. Vu que le traitement par
+diurétiques peut contribuer à la survenue des anomalies mentionnées ci-dessus, il faut interrompre ce
+traitement et surveiller la fonction rénale pendant les premières semaines de la thérapie par périndopril
+erbumine.
+Certains patients hypertendus ne présentant aucune maladie vasculaire rénale apparente préalable ont
+développé des augmentations des taux d’urée sanguine et de créatinine sérique, généralement
+mineures et transitoires, particulièrement en cas d’administration concomitante de périndopril
+erbumine et d’un diurétique. La survenue de cet effet est plus probable chez les patients ayant une
+insuffisance rénale préalable. Une réduction de la dose et/ou un arrêt du traitement par le diurétique
+et/ou périndopril erbumine peuvent s’avérer nécessaires.
+Patients sous hémodialyse
+Chez des patients dialysés au moyen de membranes à haut débit et traités simultanément par un IECA,
+on a rapporté la survenue de réactions anaphylactoïdes. Chez ces patients, il faut envisager l’utilisation
+d’un autre type de membrane de dialyse ou d’un agent appartenant à une autre classe
+d’antihypertenseurs.
+Transplantation rénale
+Il n’existe aucune expérience concernant l’administration de périndopril erbumine chez les patients
+ayant subi récemment une transplantation rénale.
+Hypertension rénovasculaire
+Il existe un risque accru d’hypotension et d’insuffisance rénale lorsqu’un patient atteint d’une sténose
+bilatérale des artères rénales ou d’une sténose de l’artère en cas d’un seul rein fonctionnel, est traité
+par des inhibiteurs d’ECA (voir rubrique 4.3). Un traitement par diurétiques peut être un facteur
+
+contributif. Une perte de la fonction rénale peut survenir même avec des variations mineures de la
+créatinine sérique, également chez les patients souffrant d’une sténose unilatérale de l’artère rénale.
+Hypersensibilité/angio-œdème
+Chez des patients traités par IECA (y compris par périndopril erbumine), on a rarement rapporté un
+angio-oedème du visage, des extrémités, des lèvres, des membranes muqueuses, de la langue, de la
+glotte et/ou du larynx (voir rubrique 4.8). Il peut survenir à tout moment de la thérapie. Dans ce cas, il
+faut arrêter immédiatement l’administration de périndopril erbumine et instaurer une surveillance
+adéquate, qu’il faut poursuivre jusqu’à la résolution complète des symptômes. Lorsque l’œdème se
+limite au visage et aux lèvres, l’affection se résout généralement sans traitement, mais les
+antihistaminiques se sont néanmoins avérés utiles pour soulager les symptômes.
+Un angio-oedème associé à un œdème laryngé peut s’avérer fatal. En cas d’atteinte de la langue, de la
+glotte ou du larynx pouvant induire une obstruction des voies respiratoires, il faut administrer
+immédiatement une thérapie d’urgence. Celle-ci peut inclure l’administration d’adrénaline et/ou le
+maintien de la perméabilité des voies respiratoires. Il faut garder le patient sous contrôle médical étroit
+jusqu’à la résolution complète et définitive des symptômes.
+Les patients ayant des antécédents d’angio-oedème non associé à une thérapie par IECA peuvent
+présenter un risque accru d’angio-oedème, lorsqu’on leur administre un IECA (voir rubrique 4.3).
+L’utilisation concomitante d’IECA avec l’association sacubitril/valsartan est contre-indiquée en raison
+du risque accru d’angio-oedème. Le traitement par sacubitril/valsartan ne doit pas être débuté moins
+de 36 heures après la dernière dose de périndopril erbumine. Le traitement par périndopril erbumine
+ne doit pas être débuté moins de 36 heures après la dernière dose de sacubitril/valsartan (voir
+rubriques 4.3 et 4.5).
+L’utilisation concomitante d’IECA avec d’autres inhibiteurs de la NEP (p. ex. le racécadotril), les
+inhibiteurs de mTOR (p. ex. sirolimus, évérolimus, temsirolimus) et la vildagliptine peut entraîner un
+risque plus élevé d’angio-oedème (p. e. oedème des voies aériennes ou de la langue, avec ou sans
+insuffisance respiratoire) (voir section 4.5). Il convient de faire preuve de prudence lors de la mise en
+route d’un traitement par inhibiteurs de la NEP (p. ex. racécadotril), inhibiteurs de mTOR (p. ex.
+sirolimus, évérolimus, temsirolimus) et vildagliptine chez un patient prenant déjà un IECA.
+Un angio-œdème intestinal a été rapporté dans de rares cas chez des patients traités par IECA. Ces
+patients consultaient pour une douleur abdominale (avec ou sans nausées ou vomissements); dans
+certains cas, il n'y avait pas d'angio-œdème facial préalable et les taux de C1 estérase étaient normaux.
+L'angio-œdème a été diagnostiqué par des procédures comportant une TDM ou une échographie
+abdominale, ou lors d'une intervention chirurgicale, et les symptômes ont disparu à l'arrêt de l'IECA.
+L'angio-œdème intestinal doit être inclus dans le diagnostic différentiel des patients sous IECA qui
+consultent pour une douleur abdominale.
+Réactions anaphylactoïdes survenant lors d’une aphérèse des lipoprotéines de faible densité (LDL-
+aphérèse)
+Les patients traités par IECA pendant une aphérèse des lipoprotéines de faible densité (LDL-aphérèse)
+au sulfate de dextran ont rarement présenté des réactions anaphylactoïdes potentiellement fatales. On
+évitait la survenue de ces réactions en interrompant temporairement la thérapie par IECA, avant
+chaque aphérèse.
+Réactions anaphylactiques survenant lors d’une désensibilisation
+Des patients traités par IECA pendant une thérapie de désensibilisation (p. ex. venin d’hyménoptères)
+ont présenté des réactions anaphylactiques. Chez ces patients, on a pu éviter ces réactions en
+interrompant temporairement la prise d'IECA, mais elles sont réapparues lors d’une nouvelle
+exposition involontaire.
+Insuffisance hépatique
+On a rarement associé le traitement par IECA à un syndrome débutant par un ictère cholestatique,
+évoluant vers une nécrose hépatique fulminante et menant (parfois) au décès. On ignore le mécanisme
+de ce syndrome. Chez les patients traités par IECA, en cas d’apparition d’un ictère ou d’une élévation
+
+marquée des enzymes hépatiques, il faut interrompre la prise de l’IECA et appliquer le suivi médical
+adéquat (voir rubrique 4.8).
+Neutropénie/agranulocytose/thrombocytopénie/anémie
+Chez des patients traités par IECA, on a rapporté une neutropénie/agranulocytose, une
+thrombocytopénie et une anémie. Chez les patients ayant une fonction rénale normale et ne présentant
+aucun autre facteur de complication, une neutropénie survient rarement. Il faut être extrêmement
+prudent lorsqu’on utilise le périndopril chez les patients atteints de collagénose vasculaire, en cas de
+thérapie immunosuppressive, en cas de traitement par allopurinol ou procaïnamide, ainsi qu’en cas
+d’association de ces facteurs de complication, particulièrement en cas d’altération préalable de la
+fonction rénale. Parmi ces patients, certains ont développé des infections sévères, dont certaines ne
+répondaient pas à une antibiothérapie intensive. Lorsqu’on utilise le périndopril chez ces patients, il
+est conseillé d’effectuer un suivi périodique du nombre de globules blancs, et il faut informer le
+patient qu’il doit signaler tout signe d’infection (p. ex. maux de gorge, fièvre).
+Race
+Les IECA induisent plus souvent un angio-œdème chez les patients de race noire que chez les patients
+appartenant à une autre race.
+Comme c’est le cas avec d’autres IECA, chez les personnes de race noire, le périndopril peut réduire
+moins efficacement la tension sanguine que chez les personnes appartenant à une autre race, ce qui
+peut s’expliquer par la prévalence plus élevée de taux faibles de rénine au sein de la population
+hypertendue de race noire.
+Toux
+On a rapporté la survenue d’une toux lors de l’utilisation d’IECA. De manière caractéristique, la toux
+est non productive, persistante et disparaît à l’arrêt de la thérapie. Dans le diagnostic différentiel de la
+toux, il faut envisager la toux induite par IECA.
+Chirurgie/anesthésie
+Chez les patients subissant une chirurgie majeure ou une anesthésie au moyen d’agents induisant une
+hypotension, périndopril erbumine peut bloquer la formation d’angiotensine II secondaire à la
+libération compensatoire de rénine. Le traitement doit être interrompu un jour avant l’intervention. En
+cas de survenue d’une hypotension considérée comme étant due à ce mécanisme, on peut la corriger
+par une expansion volémique.
+Hyperkaliémie
+Chez certains patients traités par IECA (y compris par périndopril), on a observé une élévation des
+taux sériques de potassium. Les IECA peuvent provoquer une hyperkaliémie car ils inhibent la
+libération d’aldostérone. Cet effet n’est généralement pas significatif chez les patients dont la fonction
+rénale est normale. Cependant, chez les patients ayant une fonction rénale altérée, âgés de plus de
+70 ans, avec un diabète sucré, présentant des événements concomitants en particulier une
+déshydratation, une décompensation cardiaque aiguë, une acidose métabolique, un hypo-
+aldostéronisme et/ou prenant des suppléments potassiques (y compris des substituts de sel), des
+diurétiques épargneurs de potassium (p. ex. spironolactone, éplérénone, triamtérène ou amiloride), ou
+d’autres médicaments associés à une augmentation du potassium sérique (p. ex. de l’héparine, du
+triméthoprime ou du cotrimoxazole (association triméthoprime/sulfaméthoxazole) et en particulier des
+antagonistes de l’aldostérone ou des antagonistes des récepteurs de l’angiotensine II), une
+hyperkaliémie peut survenir. L’hyperkaliémie peut provoquer de graves arythmies, parfois fatales. Si
+l’utilisation concomitante des agents mentionnés ci-dessus est estimée nécessaire, ils doivent être
+utilisés avec précaution et avec un contrôle fréquent de la kaliémie et de la fonction rénale (voir
+rubrique 4.5).
+Patients diabétiques
+Chez les patients diabétiques traités par agents antidiabétiques oraux ou insuline, il faut contrôler
+étroitement la glycémie pendant le premier mois de traitement par IECA (voir rubrique 4.5).
+
+Lithium
+L’association de lithium et de périndopril est généralement déconseillée (voir rubrique 4.5).
+Double blocage du système rénine-angiotensine-aldostérone (SRAA)
+Il a été prouvé que l’utilisation concomitante d’IECA, d’antagonistes des récepteurs de l’angiotensine
+II ou d’aliskirène augmentait le risque d’hypotension, d’hyperkaliémie et de diminution de la fonction
+rénale (y compris une insuffisance rénale aiguë). Le double blocage du SRAA, entraîné par
+l’utilisation concomitante d’IECA, d’antagonistes des récepteurs de l’angiotensine II ou d’aliskirène
+n’est donc par conséquent pas recommandé (voir rubriques 4.5 et 5.1).
+Si un traitement par double blocage est considéré comme étant absolument nécessaire, son recours ne
+pourra se faire que sous la surveillance médicale étroite d’un spécialiste. Il conviendra également de
+réaliser des contrôles fréquents pour surveiller la fonction rénale, la quantité d’électrolytes dans le
+sang et la tension artérielle.
+Les IECA et les antagonistes des récepteurs de l’angiotensine II (ARA-II) ne doivent pas être utilisés
+en concomitance chez les patients souffrant de néphropathie diabétique.
+L’aldostéronisme primaire
+Les patients présentant un hyperaldostéronisme primaire ne répondront généralement pas aux
+médicaments antihypertenseurs agissant par inhibition du système rénine-angiotensine. Par
+conséquent, l’utilisation de ce médicament n’est pas recommandée.
+Grossesse
+Il ne faut pas instaurer un traitement par IECA pendant la grossesse. Sauf si l’on considère que la
+thérapie par IECA est essentielle, les patientes planifiant une grossesse doivent passer à un autre
+traitement antihypertenseur dont le profil de sécurité d’utilisation pendant la grossesse a été établi. Si
+l’on diagnostique une grossesse, il faut arrêter immédiatement le traitement par IECA et instaurer, si
+nécessaire, une autre thérapie (voir rubriques 4.3 et 4.6).
+4.5
+Interactions avec d’autres médicaments et autres formes d’interactions
+Double blocage du système rénine-angiotensine-aldostérone (SRAA) par des inhibiteurs d’ECA et des
+antagonistes des récepteurs de l’angiotensine II ou de l’aliskirène
+Les données d’essai clinique montrent que le double blocage du système rénine-angiotensine-
+aldostérone (SRAA) par l’utilisation combinée d’inhibiteurs d’ECA et d’antagonistes des récepteurs
+de l’angiotensine II ou d’aliskirène est associée à une fréquence accrue d’événements indésirables tels
+l’hypotension, l’hyperkaliémie et une réduction de la fonction rénale (notamment insuffisance rénale
+aiguë) par comparaison à l’utilisation d’un seul agent agissant sur le SRAA (voir rubriques 4.3, 4.4 et
+5.1).
+Médicaments induisant une hyperkaliémie
+Certains médicaments ou classes thérapeutiques peuvent augmenter l’occurrence de l’hyperkaliémie :
+aliskirène, sels de potassium, diurétiques épargneurs du potassium, inhibiteurs d’ECA, antagonistes
+des récepteurs de l’angiotensine II, AINS, héparines, agents immunosuppresseurs tels la ciclosporine
+ou le tacrolimus, triméthoprime. L’association de ces médicaments augmente le risque
+d’hyperkaliémie.
+Utilisation concomitante contre-indiquée (voir rubrique 4.3) :
+Aliskirène
+Chez les patients diabétiques ou insuffisants rénaux, augmentation du risque d’hyperkaliémie,
+d’aggravation de la fonction rénale et de morbidité et de mortalité cardiovasculaires.
+Traitements extracorporels
+Traitements extracorporels entrainant un contact du sang avec des surfaces chargées négativement
+comme la dialyse ou l’hémofiltration avec certaines membranes à haut débit (p. ex. membrane en
+polyacrylonitrile) et aphérèse des lipoprotéines basse densité avec le sulfate de dextran en raison du
+
+risque accru de réactions anaphylactoïdes graves (voir rubrique 4.3). Si un tel traitement est
+nécessaire, il convient d’envisager l’utilisation d’une autre membrane de dialyse ou d’une autre classe
+d’agent antihypertenseur.
+Médicaments augmentant le risque d’angio-œdème
+L’utilisation concomitante d’inhibiteurs d’ECA et de sacubitril/valsartan est contre-indiquée en raison
+de l’élévation du risque d’angio-œdème (voir rubriques 4.3 et 4.4).
+Utilisation concomitante non recommandée (voir rubrique 4.4) :
+Aliskirène
+Chez les patients autres que les patients diabétiques ou insuffisants rénaux, augmentation du risque
+d’hyperkaliémie, d’altération de la fonction rénale et de morbidité et de mortalité cardiovasculaires.
+Thérapie concomitante par inhibiteur d’ECA et antagoniste des récepteurs de l’angiotensine
+La littérature décrit que chez les patients présentant une athérosclérose confirmée, une insuffisance
+cardiaque ou un diabète avec lésion organique terminale, le traitement concomitant par inhibiteur
+d’ECA et antagoniste des récepteurs de l’angiotensine est associé à une fréquence augmentée
+d’hypotension, syncope, hyperkaliémie et aggravation de la fonction rénale (notamment, insuffisance
+rénale aiguë) par comparaison à l’utilisation d’un seul agent du système rénine-angiotensine-
+aldostérone. Le double blocage (p. ex. par association d’un inhibiteur d’ECA et d’un antagoniste des
+récepteurs de l’angiotensine II) doit être limité à des cas individuellement définis avec une
+surveillance étroite de la fonction rénale, du taux de potassium et de la tension artérielle.
+Estramustine
+Risque d’augmentation des événements indésirables comme un œdème angioneurotique (angio-
+œdème).
+Diurétiques d’épargne potassique, suppléments de potassium ou substituts sodés contenant du
+potassium
+Même si les taux sériques de potassium restent généralement dans les limites normales, une
+hyperkaliémie peut survenir chez certains patients traités par périndopril. Les diurétiques d’épargne
+potassique (p. ex. la spironolactone, le triamtérène ou l’amiloride), les suppléments de potassium ou
+les substituts sodés contenant du potassium peuvent donner lieu à une augmentation significative les
+taux sériques de potassium (potentiellement létale, en particulier en association avec une insuffisance
+rénale, effets hyperkaliémiques additifs). Il convient également de faire preuve de prudence lors de
+l’administration de périndopril avec d’autres médicaments hyperkaliémiants, tels que le triméthoprime
+et le cotrimoxazole (triméthoprime/sulfaméthoxazole) car le triméthoprime agit comme un diurétique
+épargneur de potassium tel que l’amiloride. L’association de périndopril aux médicaments mentionnés
+ci-dessus est donc déconseillée (voir rubrique 4.4). Lorsqu’une utilisation concomitante s’avère
+néanmoins indiquée, il faut utiliser ces médicaments avec prudence et effectuer un suivi fréquent des
+taux sériques de potassium.
+Pour l’utilisation de la spironolactone en cas d’insuffisance cardiaque, voir ci-dessous.
+Lithium
+Lors d’une administration concomitante de lithium et d’IECA, on a rapporté une augmentation
+réversible des concentrations sériques de lithium et une toxicité. L’association de périndopril et de
+lithium est donc déconseillée, mais si cette association s’avère nécessaire, il faut surveiller
+attentivement les taux sériques de lithium (voir rubrique 4.4).
+Utilisation concomitante requérant des soins particuliers :
+Agents antidiabétiques (insulines, hypoglycémiants oraux)
+Les études épidémiologiques ont suggéré que l’administration concomitante d’inhibiteurs d’ECA et de
+médicaments antidiabétiques (insulines, hypoglycémiants oraux) peut accroitre l’effet de réduction du
+
+glucose sanguin avec un risque d’hypoglycémie. Ce phénomène semble être plus fréquent au cours des
+premières semaines du traitement combiné et chez les patients insuffisants rénaux.
+Baclofène
+Augmentation de l’effet antihypertenseur. Surveiller la tension artérielle et adapter la dose de
+l’antihypertenseur si nécessaire.
+Diurétiques non-épargneurs du potassium
+Les patients sous diurétiques, et en particulier ceux ayant une déplétion volémique et/ou sodée,
+peuvent présenter une réduction excessive de la tension artérielle après instauration du traitement par
+un inhibiteur d’ECA. On peut réduire la possibilité d’effets hypotenseurs en interrompant la prise du
+diurétique, en augmentant l’apport liquidien ou sodé avant d’instaurer la thérapie au moyen de doses
+faibles et progressives de périndopril.
+En cas d’hypertension artérielle, si le traitement diurétique antérieur peut avoir provoqué une
+déplétion sodée/volémique, le diurétique doit être arrêté avant l’instauration de l’inhibiteur d’ECA,
+auquel cas un diurétique non-épargneurs de potassium peut ensuite être réintroduit, ou l’inhibiteur
+d’ECA doit être initié à faible dose et progressivement augmenté.
+En cas d’insuffisance cardiaque congestive traitée par diurétique, l’inhibiteur d’ECA doit être
+instauré à très faible dose, le cas échéant après réduction de la dose du diurétique non-épargneur de
+potassium associé.
+Dans tous les cas, la fonction rénale (taux de créatinine) doit être surveillée au cours des quelques
+premières semaines du traitement par l’IECA.
+Diurétiques épargneurs du potassium (éplérénone, spironolactone)
+Doses d’éplérénone ou de spironolactone situées entre 12,5 mg et 50 mg par jour et doses faibles des
+inhibiteurs d’ECA :
+Dans le traitement de l’insuffisance cardiaque de classe II - IV (NYHA) avec fraction d’éjection
+< 40 %, précédemment traitée par des inhibiteurs d’ECA et des diurétiques de l’anse, risque
+d’hyperkaliémie, potentiellement létal, en particulier en cas de non-respect des recommandations de
+prescription pour cette association.
+Avant l’initiation de l’association, vérifier l’absence d’une hyperkaliémie et d’une insuffisance rénale.
+Une surveillance étroite de la kaliémie et de la créatinémie est recommandée au cours du premier mois
+de traitement, une fois par semaine au début et mensuellement par la suite.
+Ciclosporine
+Une hyperkaliémie peut survenir lors de l’utilisation concomitante d’IECA avec de la ciclosporine.
+Une surveillance de la kaliémie est recommandée.
+Héparine
+Une hyperkaliémie peut survenir lors de l’utilisation concomitante d’IECA avec de l’héparine. Une
+surveillance de la kaliémie est recommandée.
+Médicaments anti-inflammatoires non stéroïdiens (AINS), incluant l’acide acétylsalicylique à des
+doses ≥ 3 g/jour
+Lorsque des inhibiteurs d’ECA sont administrés en même temps que des médicaments anti-
+inflammatoires non stéroïdiens (à savoir acide acétylsalicylique dans des schémas anti-inflammatoires,
+inhibiteurs de COX-2 et AINS non sélectifs), on peut observer une atténuation de l’effet
+antihypertenseur. L’utilisation concomitante d’inhibiteurs d’ECA et d’AINS peut conduire à un risque
+accru d’aggravation de la fonction rénale, notamment une possible insuffisance rénale aiguë, et à une
+augmentation du taux de potassium sérique, en particulier chez les patients avec fonction rénale
+préalablement défaillante. L’association doit être administrée avec prudence, en particulier chez les
+personnes âgées. Il convient d’hydrater soigneusement les patients et de surveiller la fonction rénale
+après l’instauration du traitement combiné, puis périodiquement par la suite.
+Médicaments augmentant le risque d’angio-œdème
+
+Les IECA (p. ex. périndopril) sont connus pour causer des angio-œdèmes. L’utilisation concomitante
+d’IECA avec le racécadotril, les inhibiteurs de mTOR (p. ex. sirolimus, évérolimus, temsirolimus) et
+les gliptines (linagliptine, saxagliptine, sitagliptine, vildagliptine), en raison de la réduction de
+l’activité de la dipeptidyl peptidase IV (DPP-IV) induite par la gliptine, peut entraîner un risque accru
+d’angio-œdème (voir rubrique 4.4).
+Utilisation concomitante qui exige des soins :
+Agents antihypertenseurs et vasodilatateurs
+L’utilisation concomitante de ces agents peut augmenter les effets hypotenseurs du périndopril.
+L’utilisation concomitante de nitroglycérine et d’autres dérivés nitrés, ou d’autres vasodilatateurs, peut
+réduire davantage la tension artérielle.
+Antidépresseurs tricycliques/antipsychotiques/anesthésiques
+L’utilisation concomitante d’IECA avec certains médicaments anesthésiques, antidépresseurs
+tricycliques et antipsychotiques peut donner lieu à une réduction supplémentaire de la tension
+artérielle (voir rubrique 4.4).
+Sympathomimétiques
+Les sympathomimétiques peuvent réduire les effets antihypertenseurs des IECA.
+Or
+Des réactions nitritoïdes (symptômes comportant une rougeur du visage, des nausées, des vomissements
+et une hypotension) ont été rapportées dans de rares cas chez des patients sous traitement par or
+injectable (aurothiomalate de sodium) et sous traitement concomitant par IECA, notamment le
+périndopril.
+4.6
+Fertilité, grossesse et allaitement
+Grossesse
+L’utilisation d’IECA est déconseillée pendant le premier trimestre de la grossesse (voir rubrique 4.4).
+L’utilisation d’IECA est contre-indiquée pendant les second et troisième trimestres de la grossesse
+(voir rubriques 4.3 et 4.4).
+Les données épidémiologiques concernant le risque de tératogénicité induit par l’exposition aux IECA
+pendant le premier trimestre de la grossesse ne sont pas concluantes ; néanmoins, il est impossible
+d’exclure un risque légèrement accru. Sauf si l’on estime qu’une thérapie continue par IECA s’avère
+essentielle, les patientes planifiant une grossesse doivent passer à un autre traitement antihypertenseur
+dont le profil de sécurité d’utilisation pendant la grossesse a été établi. Si l’on diagnostique une
+grossesse, il faut arrêter immédiatement le traitement par IECA et, si nécessaire, instaurer une autre
+thérapie.
+Chez l’être humain, on sait que l’exposition à une thérapie par IECA pendant les second et troisième
+trimestres de la grossesse induit une toxicité pour le fœtus (altération de la fonction rénale,
+oligohydramnios, retard d’ossification du crâne) et une toxicité néonatale (insuffisance rénale,
+hypotension, hyperkaliémie). (Voir également rubrique 5.3). Si une exposition à un IECA devait
+survenir pendant le second trimestre de la grossesse, il est conseillé d’effectuer un examen
+échographique de contrôle de la fonction rénale et du crâne. Il faut surveiller étroitement les enfants
+issus de mère ayant pris des IECA, afin de détecter une hypotension (voir également rubriques 4.3 et
+4.4).
+Allaitement
+Comme on ne dispose pas d'informations concernant l'utilisation du périndopril erbumine pendant
+l'allaitement, le périndopril erbumine n'est pas recommandé et des traitements alternatifs présentant
+des profils de sécurité mieux établis sont préférables pendant l'allaitement, en particulier lorsqu'on
+allaite un nouveau-né ou un prématuré.
+
+Fertilité
+Il n’y a aucun effet sur la performance reproductrice, ni sur la fertilité.
+4.7
+Effets sur l’aptitude à conduire des véhicules et à utiliser des machines
+Le périndopril n’a aucune influence directe sur l’aptitude à conduire des véhicules et à utiliser des
+machines, mais des réactions individuelles liées à une tension artérielle basse peuvent survenir chez
+certains patients, en particulier en début de traitement ou en association avec un autre médicament
+antihypertenseur. Il en résulte que l’aptitude à conduire des véhicules et à utiliser des machines peut en
+être altérée.
+4.8
+Effets indésirables
+a.
+Résumé du profil de sécurité
+Le profil de sécurité du périndopril est cohérent avec le profil de sécurité des IECA.
+Les événements indésirables les plus fréquents, rapportés dans les essais cliniques et observés avec le
+périndopril sont : étourdissement, céphalées, paresthésie, vertiges, troubles visuels, acouphènes,
+hypotension, toux, dyspnée, douleur abdominale, constipation, diarrhée, dysgueusie, dyspepsie,
+nausées, vomissements, prurit, rash, crampes musculaires et asthénie.
+b.
+Liste tabulaire des réactions indésirables
+Les effets indésirables suivants ont été observés pendant les essais cliniques et/ou l’utilisation post-
+commercialisation du périndopril et ont été classifiés selon les fréquences suivantes :
+Très fréquent ( 1/10) ; fréquent ( 1/100 jusqu’ à < 1/10) ; peu fréquent ( 1/1 000 jusqu’ à < 1/100) ;
+rare ( 1/10 000 jusqu’ à < 1/1 000) ; très rare (< 1/10 000), fréquence indéterminée (ne peut être
+estimée sur la base des données disponibles)
+fréquent
+peu fréquent
+rare
+très rare
+fréquence
+indéterminée
+Affections
+hématologiques et
+du système
+lymphatique
+Eosinophilie*
+Diminution de
+l’hémoglobine et
+de l’hématocrite,
+thrombocytopénie,
+leucopénie/
+neutropénie,
+agranulocytose ou
+pancytopénie.
+Chez des patients
+ayant un déficit
+congénital en G-
+6PDH, on a
+rapporté une
+anémie
+hémolytique (voir
+rubrique 4.4).
+Troubles
+endocriniens
+Syndrome de
+sécrétion
+inappropriée
+d’hormone
+anti-
+diurétique
+(SIADH)
+Troubles du
+métabolisme et de la
+nutrition
+Hypoglycémie*
+(voir rubriques
+4.4 et 4.5),
+
+hyperkaliémie
+réversible avec
+arrêt du
+traitement* (voir
+rubrique 4.4),
+hyponatrémie*
+Affections
+psychiatriques
+Troubles de
+l’humeur ou du
+sommeil,
+dépression
+Affections du
+système nerveux
+Céphalées,
+vertiges,
+paresthésies
+Somnolence*,
+syncope*
+Confusion
+Affections oculaires
+Troubles de la
+vision
+Affections de
+l’oreille et du
+labyrinthe
+Acouphènes
+Affections
+cardiaques
+Palpitations*,
+tachycardie*
+Arythmies, angor,
+infarctus du
+myocarde,
+éventuellement
+secondaires à une
+hypotension
+excessive chez des
+patients présentant
+un risque élevé
+(voir rubrique 4.4).
+Affections
+vasculaires
+Hypotension
+et effets liés à
+l'hypotension
+Vasculite*
+Bouffée
+congestive
+Accident
+vasculaire
+cérébral,
+éventuellement
+secondaire à une
+hypotension
+excessive chez des
+patients à haut
+risque (voir
+rubrique 4.4)
+Phénomène
+de Raynaud
+Affections
+respiratoires,
+thoraciques et
+médiastinales
+Toux, dyspnée
+Bronchospasme
+Pneumonie à
+éosinophiles,
+rhinite
+Affections gastro-
+intestinales
+Nausées,
+vomissements,
+douleur
+abdominale,
+dysgueusie,
+dyspepsie,
+diarrhée,
+constipation
+Sécheresse
+buccale
+Pancréatite
+Affections
+hépatobiliaires
+Hépatite
+cytolytique ou
+cholestatique (voir
+rubrique 4.4)
+Affections de la
+Éruption
+Angio-œdème du
+Aggravation
+Érythème
+
+peau et du tissu
+sous-cutané
+cutanée, prurit
+visage, des
+extrémités, des
+lèvres, des
+membranes
+muqueuses, de la
+langue, de la
+glotte et/ou du
+larynx, urticaire
+(voir rubrique
+4.4),
+hyperhidrose,
+réactions de
+photosensibilité*,
+pemphigoïde*
+du psoriasis*
+polymorphe
+Affections musculo-
+squelettiques et
+systémiques
+Crampes
+musculaires
+Arthralgie*,
+myalgie*
+Affections du rein et
+des voies urinaires
+Insuffisance
+rénale
+Anurie/
+oligurie,
+insuffisance
+rénale aiguë
+Affections des
+organes de
+reproduction et du
+sein
+Dysfonction
+érectile
+Troubles généraux
+Asthénie
+Douleur
+thoracique*,
+malaise*, œdème
+périphérique*,
+pyrexie*
+Investigations
+Élévation de
+l’urée sanguine*,
+élévation de la
+créatinine
+sanguine*
+Élévation de
+la bilirubine
+sanguine,
+élévation des
+enzymes
+hépatiques
+Lésions,
+intoxications et
+complications liées
+aux procédures
+Chute*
+*Fréquence calculée sur base des essais cliniques pour les événements indésirables déclarés spontanément
+Etudes cliniques
+Au cours de la phase randomisée de l’étude EUROPA, seuls les effets indésirables sévères ont été
+collectés. Quelques patients ont présenté des effets indésirables sévères : 16 (0,3 %) parmi les 6122
+patients traités par périndopril et 12 (0,2 %) parmi les 6107 patients sous placebo. Chez les patients
+traités par périndopril, on a observé une hypotension chez 6 patients, un angio-œdème chez 3 patients
+et un arrêt cardiaque brutal chez 1 patient. Le nombre de patients interrompant le traitement en raison
+d’une toux, d’une hypotension ou d’une autre intolérance était plus élevé dans le groupe périndopril
+que dans le groupe placebo, et la fréquence de retrait était de respectivement 6,0 % (n=366) et 2,1 %
+(n=129) au sein des deux groupes.
+Déclaration d’effets indésirables suspectés
+La déclaration des effets indésirables suspectés après autorisation du médicament est importante. Elle
+permet une surveillance continue du rapport bénéfice/risque du médicament. Les professionnels de santé
+
+déclarent tout effet indésirable suspecté via l’Agence fédérale des médicaments et des produits de santé,
+www.afmps.be, Division Vigilance : Site internet : www.notifieruneffetindesirable.be,
+e-mail : adr@fagg-afmps.be.
+4.9
+Surdosage
+Chez l’être humain, on ne dispose que de données limitées concernant le surdosage.
+Les symptômes associés à un surdosage en IECA peuvent inclure une hypotension, un choc
+circulatoire, des troubles électrolytiques, une insuffisance rénale, une hyperventilation, une
+tachycardie, des palpitations, une bradycardie, des vertiges, de l’anxiété et une toux.
+Le traitement recommandé d’un surdosage consiste en la perfusion intraveineuse d’une solution de
+chlorure de sodium 9 mg/ml (0,9%). En cas d’hypotension, il faut placer le patient en position de choc.
+Si on en dispose, on peut également envisager un traitement par perfusion d’angiotensine II et/ou
+catécholamines intraveineuses. Le périndopril peut être éliminé de la circulation systémique par
+hémodialyse (voir rubrique 4.4 Mises en garde spéciales et précautions d’emploi, Patients sous
+hémodialyse). En cas de bradycardie résistante au traitement, une thérapie par pacemaker est indiquée.
+Il faut surveiller de manière continue les signes vitaux et les concentrations sériques d’électrolytes et
+de créatinine.
+5.
+PROPRIETES PHARMACOLOGIQUES
+5.1 
+Propriétés pharmacodynamiques
+Classe pharmacothérapeutique : IECA, simples ; code ATC : C09A A04
+Mécanisme d’action
+Le périndopril est un inhibiteur de l’enzyme convertissant l’angiotensine I en angiotensine II (Enzyme
+de Conversion de l’Angiotensine – ECA). L’enzyme de conversion (ou kinase) est une exopeptidase
+permettant la conversion de l’angiotensine I en angiotensine II vasoconstrictrice et induisant
+également la dégradation de la bradykinine vasodilatatrice en un heptapeptide inactif. L’inhibition de
+l’ECA donne lieu à une réduction des taux plasmatiques d’angiotensine II, ce qui induit une
+augmentation de l’activité plasmatique de la rénine (par inhibition du feedback négatif de la libération
+de rénine) et une réduction de la sécrétion d’aldostérone. L’ECA inactivant la bradykinine, l’inhibition
+de l’ECA augmente également l’activité des systèmes locaux et circulants kallikréine-kinine (et active
+donc également le système des prostaglandines). Il est possible que ce mécanisme contribue à l’effet
+hypotenseur des IECA et qu’il soit partiellement responsable de certains de leurs effets secondaires (p.
+ex. la toux).
+Le périndopril agit par l’intermédiaire de son métabolite actif, le périndoprilate. In vitro, les autres
+métabolites n’exercent aucune inhibition de l’activité de l’ECA.
+Efficacité et sécurité cliniques
+Hypertension
+Le périndopril agit sur tous les grades d’hypertension : légère, modérée, sévère ; on observe une
+réduction des tensions systolique et diastolique, dans les positions couchée et debout.
+Le périndopril diminue la résistance vasculaire périphérique, ce qui donne lieu à une réduction de la
+tension artérielle. Par conséquent, le débit sanguin périphérique augmente, mais la fréquence
+cardiaque ne varie pas.
+En règle générale, le débit sanguin rénal augmente, tandis que le taux de filtration glomérulaire (GFR)
+ne varie généralement pas.
+
+L’effet antihypertenseur est maximal entre 4 et 6 heures après l’administration d’une dose unique, et
+se maintient pendant au moins 24 heures : l’effet minimal correspond à environ 87 à 100 % de l’effet
+maximal. 
+La réduction de la tension artérielle survient rapidement. Chez les patients répondant au traitement, on
+obtient une normalisation endéans le mois et cet effet persiste sans la survenue d’une tachyphylaxie.
+L’interruption du traitement n’induit aucun effet de rebond.
+Le périndopril réduit l’hypertrophie du ventricule gauche.
+Chez l’homme, on a confirmé que le périndopril présente des propriétés vasodilatatrices. Il améliore
+l’élasticité des artères de gros calibre et diminue le rapport média/lumière des artères de petit calibre.
+Une thérapie adjuvante par un diurétique thiazide produit une synergie de type additive. L’association
+d’un IECA et d’un thiazide réduit également le risque d’hypokaliémie induite par le traitement
+diurétique.
+Deux importantes études randomisées contrôlées, ONTARGET (ONgoing Telmisartan Alone and in
+combination with Ramipril Global Endpoint Trial) et VA NEPHRON-D (The Veterans Affairs
+Nephropathy in Diabetes), ont permis d’examiner le recours à l’association d’un IECA avec un
+antagoniste des récepteurs de l’angiotensine II (ARA-II).
+L’étude ONTARGET a été menée chez des patients ayant des antécédents de maladies
+cardiovasculaires ou cérébrovasculaires, ou bien de diabète de type 2, accompagnés de signes
+d’atteinte des organes cibles. L’étude VA NEPHRON-D a, quant à elle, été menée auprès de patients
+souffrant de diabète de type 2 et de néphropathie diabétique.
+Ces études n’ont montré aucun effet positif significatif sur les troubles rénaux et/ou cardiovasculaires
+et sur la mortalité, tandis qu’un risque accru d’hyperkaliémie, d’insuffisance rénale aiguë et/ou
+d’hypotension a été observé par rapport au traitement en monothérapie. Compte tenu de leurs
+propriétés pharmacodynamiques similaires, ces résultats étaient également pertinents pour les autres
+IECA et les autres antagonistes des récepteurs de l’angiotensine II.
+Les IECA et les antagonistes des récepteurs de l’angiotensine II (ARA-II) ne doivent pas être utilisés
+en concomitance chez les patients souffrant de néphropathie diabétique.
+L’étude ALTITUDE (Aliskiren Trial in Type 2 Diabetes Using Cardiovascular and Renal Disease
+Endpoints) est une étude qui a été réalisée pour tester les avantages découlant de l’ajout de l’aliskirène
+à un traitement standard à base d’un IECA ou d’un antagoniste des récepteurs de l’angiotensine II,
+chez les patients souffrant de diabète de type 2 et d’une maladie rénale chronique, d’une maladie
+cardiovasculaire, ou les deux. L’étude a pris fin de manière anticipée, étant donné que les patients
+étaient plus à même de présenter des effets indésirables. Des cas de décès d’origine cardiovasculaire et
+des ictus sont survenus plus fréquemment au sein du groupe prenant de l’aliskirène, qu’au sein du
+groupe traité par placebo. De même, des événements indésirables, dont des événements indésirables
+graves (hyperkaliémie, hypotension et dysfonctionnement rénal) ont été observés plus fréquemment
+dans le groupe prenant de l’aliskirène, qu’au sein du groupe traité par placebo.
+Insuffisance cardiaque
+Périndopril erbumine réduit le travail cardiaque en diminuant la pré- et la post-charge.
+Des études réalisées chez des patients atteints d’insuffisance cardiaque ont démontré :
+- une réduction des pressions de remplissage des ventricules gauche et droit.
+- une diminution de la résistance vasculaire périphérique totale.
+- une augmentation du débit cardiaque et une amélioration de l’index cardiaque.
+Lors d’études comparatives, la première administration d’une dose de 2 mg de périndopril erbumine à
+des patients ayant une insuffisance cardiaque légère à modérée n’était pas associée à une réduction
+significative de la tension artérielle par rapport au placebo.
+Patients ayant une coronaropathie stable
+L’étude EUROPA était une étude clinique randomisée, internationale, multicentrique, contrôlée par
+placebo et réalisée en double aveugle durant une période de 4 ans.
+Douze mille deux cent dix-huit patients (12218) patients âgés de plus de 18 ans ont été randomisés pour
+être traités par périndopril 8 mg (n=6110) ou placebo (n=6108).
+
+La population de l’étude était atteinte d’une coronaropathie mais ne présentait aucun signe clinique
+d’insuffisance cardiaque. De manière globale, 90 % des patients présentaient des antécédents d’infarctus
+du myocarde et/ou de revascularisation coronaire. La plupart des patients recevaient les médicaments
+d’étude en plus de la thérapie conventionnelle, incluant des inhibiteurs de l’agrégation plaquettaire, des
+agents hypolipidémiants et des bêtabloquants.
+Le principal critère d’évaluation de l’efficacité était le facteur composite de mortalité cardiovasculaire,
+d’infarctus du myocarde non fatal et/ou d’arrêt cardiaque avec réanimation réussie. Le traitement par
+8 mg de périndopril une fois par jour donnait lieu à une réduction absolue significative du critère
+d’évaluation primaire de 1,9 % (réduction du risque relatif de 20 %, IC à 95 % [9,4 ; 28,6] – p < 0,001).
+Chez les patients ayant des antécédents d’infarctus du myocarde et/ou de revascularisation, on a observé
+une réduction absolue de 2,2 % correspondant à un RRR de 22,4 % (IC à 95 % [12,0 ; 31,6] – p < 0,001)
+du critère d’évaluation primaire, par rapport au placebo.
+Population pédiatrique
+La sécurité et l’efficacité du périndopril chez les enfants et les adolescents de moins de 18 ans n’ont
+pas été établies.
+Dans une étude clinique en ouvert, non comparative menée auprès de 62 enfants hypertendus âgés de
+2 à 15 ans dont le débit de filtration glomérulaire est > 30 ml/min/1,73 m², les patients ont reçu du
+périndopril à une dose moyenne de 0,07 mg/kg. La dose a été individualisée en fonction du profil du
+patient et de la réponse de la tension artérielle, la dose maximale étant de 0,135 mg/kg/jour.
+59 patients ont terminé la période de trois mois, et 36 patients sont arrivés à la fin de la période
+d’extension de l’étude, à savoir ils ont été suivis pendant au moins 24 mois (durée moyenne de l’étude :
+44 mois).
+Les tensions artérielles systolique et diastolique sont restées stables de l’inclusion à la dernière
+évaluation chez les patients traités précédemment par d’autres traitements antihypertenseurs et ont
+diminué chez les patients naïfs.
+Plus de 75 % des enfants avaient des tensions artérielles systolique et diastolique inférieures au 95e
+percentile à la dernière évaluation.
+La sécurité était cohérente avec le profil de sécurité connu du périndopril.
+5.2
+Propriétés pharmacocinétiques
+Absorption
+Après administration orale, le périndopril subit une absorption rapide. Le pic plasmatique survient en
+l’espace d’une heure. La biodisponibilité est de 65 à 70 %.
+Environ 20 % de la quantité totale du périndopril absorbé sont convertis en périndoprilate, le
+métabolite actif. En plus du périndoprilate actif, cinq autres métabolites inactifs sont également
+formés. La demi-vie plasmatique du périndopril est de 1 heure. Le pic plasmatique du périndoprilate
+est atteint dans les 3 à 4 heures.
+L’ingestion de nourriture diminuant la conversion du périndopril en périndoprilate et donc la
+biodisponibilité, il faut administrer périndopril erbumine par voie orale en une seule prise par jour, le
+matin avant le repas.
+Distribution
+Le volume de distribution du périndoprilate libre est d'environ 0,2 l/kg. Le taux de liaison aux
+protéines plasmatiques est faible (la liaison du périndoprilate à l’enzyme de conversion de
+l’angiotensine est inférieure à 30 %), mais dépend de la concentration.
+Elimination
+Le périndoprilate s’élimine par voie urinaire, et la demi-vie de la fraction libre est d’environ
+3 à 5 heures. La dissociation du périndoprilate lié à l’enzyme de conversion de l’angiotensine induit
+une demi-vie d’élimination “efficace” de 25 heures, donnant lieu à l’obtention de l’état d’équilibre
+dans les 4 jours.
+Après l’administration de doses répétées, on n’observe aucune accumulation de périndopril.
+
+Populations particulières
+Chez le patient âgé et chez les patients ayant une insuffisance cardiaque ou rénale, l’élimination du
+périndoprilate est réduite.
+En cas d’insuffisance rénale, il est conseillé d’ajuster la dose en fonction du degré de l’altération
+(clairance de la créatinine).
+La clairance de dialyse du périndoprilate est de 70 ml/min.
+Chez les patients atteints de cirrhose hépatique, la cinétique du périndopril se modifie : la clairance
+hépatique de la molécule mère se réduit de moitié. Cependant, la quantité de périndoprilate formé ne
+se réduit pas et il n’est donc pas nécessaire d’adapter la posologie (voir également rubriques 4.2 et
+4.4).
+5.3
+Données de sécurité précliniques
+Lors d’études de toxicité orale chronique (réalisées chez le rat et le singe), le rein constituait l’organe-
+cible et présentait des lésions réversibles.
+Lors d’études réalisées in vitro ou in vivo, on n’a observé aucune mutagénicité.
+Des études de toxicité sur les fonctions de reproduction (réalisées chez le rat, la souris, le lapin et le
+singe) n’ont mis en évidence aucun signe d’embryotoxicité ou de tératogénicité. Néanmoins, on a
+constaté que les médicaments appartenant à la classe des inhibiteurs de l’enzyme de conversion de
+l’angiotensine induisaient des événements secondaires sur le dernier stade du développement fœtal,
+donnant lieu à une mort fœtale et à des anomalies congénitales chez le rongeur et le lapin : on a
+observé des lésions rénales et une augmentation de la mortalité péri- et postnatale. Aucune
+modification de la fertilité n’a été observée tant chez les rats mâles que chez les rats femelles.
+Au cours d’études de long terme réalisées chez le rat et la souris, on n’a observé aucune
+carcinogénicité.
+6.
+DONNEES PHARMACEUTIQUES
+ 
+6.1
+Liste des excipients
+Cellulose microcristalline
+Cellulose microcristalline silicifiée
+Polacrilline potassium
+Dioxyde de silicium
+Silice colloïdale anhydre
+Stéarate de magnésium
+Hydroxypropylbétadex (contient de la cyclodextrine)
+6.2
+Incompatibilités
+Sans objet.
+6.3
+Durée de conservation
+2 ans.
+6.4
+Précautions particulières de conservation
+A conserver à une température ne dépassant pas 30° C.
+A conserver dans l’emballage extérieur d’origine, à l’abri de l’humidité.
+6.5
+Nature et contenu de l’emballage extérieur
+Les comprimés sont conditionnés en plaquettes en Aluminium/Aluminium insérés dans un carton.
+ 
+
+Conditionnement : 7, 10, 14, 15, 20, 28, 30, 50, 56, 60, 90, 100, 112, 120, 500 comprimés.
+ 
+Toutes les présentations peuvent ne pas être commercialisées.
+6.6
+Précautions particulières d’élimination
+Tout médicament non utilisé ou déchet doit être éliminé conformément à la réglementation en vigueur.
+7.
+TITULAIRE DE L’AUTORISATION DE MISE SUR LE MARCHE
+Sandoz nv/sa
+Hermeslaan 1H
+1831 Machelen
+8.
+NUMERO D’AUTORISATION DE MISE SUR LE MARCHE
+BE315786
+9.
+DATE DE PREMIERE AUTORISATION/DE RENOUVELLEMENT DE
+L’AUTORISATION
+Date de première autorisation : 07 avril 2008
+Date de dernier renouvellement : 17 juin 2017
+10.
+DATE DE MISE A JOUR/D’APPROBATION DU TEXTE
+Date de mise à jour du texte : 02/2026
+Date d’approbation AFMPS: 04/2026

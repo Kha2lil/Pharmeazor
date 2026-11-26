@@ -1,0 +1,57 @@
+{
+  "doc_id": "c58ea51b74c5",
+  "medicament": "ciprofloxacine ; lévofloxacine",
+  "source": "afmps_dhpc",
+  "langue": "fr",
+  "url": "https://medicinesdatabase.be",
+  "date_collecte": "2026-11-26",
+  "date_extraction": "2026-11-26",
+  "chemin_texte": "data/processed/textes/c58ea51b74c5.txt",
+  "rubriques": {
+    "indications": {
+      "trouve": false,
+      "raison": "document de référence, pas une notice/RCP",
+      "titre": "",
+      "methode": "",
+      "debut": null,
+      "fin": null,
+      "passage": ""
+    },
+    "contre_indications": {
+      "trouve": false,
+      "raison": "document de référence, pas une notice/RCP",
+      "titre": "",
+      "methode": "",
+      "debut": null,
+      "fin": null,
+      "passage": ""
+    },
+    "posologie": {
+      "trouve": false,
+      "raison": "document de référence, pas une notice/RCP",
+      "titre": "",
+      "methode": "",
+      "debut": null,
+      "fin": null,
+      "passage": ""
+    },
+    "interactions": {
+      "trouve": false,
+      "raison": "document de référence, pas une notice/RCP",
+      "titre": "",
+      "methode": "",
+      "debut": null,
+      "fin": null,
+      "passage": ""
+    },
+    "effets_indesirables": {
+      "trouve": false,
+      "raison": "document de référence, pas une notice/RCP",
+      "titre": "",
+      "methode": "",
+      "debut": null,
+      "fin": null,
+      "passage": ""
+    }
+  }
+}

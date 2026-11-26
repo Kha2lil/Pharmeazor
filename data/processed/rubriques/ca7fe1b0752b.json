@@ -1,0 +1,57 @@
+{
+  "doc_id": "ca7fe1b0752b",
+  "medicament": "acide acétylsalicylique",
+  "source": "dailymed",
+  "langue": "en",
+  "url": "https://dailymed.nlm.nih.gov/dailymed/downloadpdffile.cfm?setId=16595d62-8507-103c-e063-6394a90a491a",
+  "date_collecte": "2026-11-16",
+  "date_extraction": "2026-11-26",
+  "chemin_texte": "data/processed/textes/ca7fe1b0752b.txt",
+  "rubriques": {
+    "indications": {
+      "trouve": true,
+      "raison": "",
+      "titre": "Uses",
+      "methode": "titre",
+      "debut": 254,
+      "fin": 1465,
+      "passage": "Uses \nfor the temporary relief of minor aches and pains or as recommended by your doctor\nBecause of its delayed action, this product will not provide fast relief of\nheadaches or other symptoms needing immediate relief. \nask your doctor about other uses for enteric-coated 81 mg Aspirin\nWarnings\nReye’s syndrome:Children and teenagers who have or are recovering from chicken\npox or flu-like symptoms should not use this product. When using this product, if\nchanges in behavior with nausea and vomiting occur, consult a doctor because these\nsymptoms could be an early sign of Reye's syndrome, a rare but serious illness.\nAllergy alert:Aspirin may cause a severe allergic reaction, which may include:\nhives\nfacial swelling\nasthma (wheezing)\nshock\nStomach bleeding warning:This product contains an NSAID, which may cause severe\nstomach bleeding. The chance is higher if you:\nare age 60 or older\nhave had stomach ulcers or bleeding problems\ntake a blood thinning (anticoagulant) or steroid drug\ntake other drugs containing prescription or nonprescription NSAIDs (aspirin,\nibuprofen, naproxen, or others)\nhave 3 or more alcoholic drinks every day while using this product\ntake more or for a longer time than directed"
+    },
+    "contre_indications": {
+      "trouve": true,
+      "raison": "",
+      "titre": "Do not use",
+      "methode": "titre",
+      "debut": 1465,
+      "fin": 2833,
+      "passage": "Do not use\nif you are allergic to aspirin or any other pain reliever/fever reducer\nif you have ever had an allergic reaction to this product or any of its ingredients\nAsk a doctor before use if\nyou have asthma\nstomach bleeding warning applies to you\n\nyou have a history of stomach problems, such as heartburn\nyou are taking a diuretic \nyou have high blood pressure, heart disease, liver cirrhosis, or kidney disease\nAsk a doctor or pharmacist before use if you aretaking a prescription drug for: \ngout \ndiabetes \narthritis\nStop use and ask a doctor if\nan allergic reaction occurs. Seek medical help right away.\nyou experience any of the following signs of stomach bleeding:\nfeel faint\nvomit blood\nhave bloody or black stools\nhave stomach pain that does not get better\npain gets worse or lasts more than 10 days\nfever gets worse or lasts more than 3 days\nredness or swelling is present\nnew symptoms occur\nringing in the ears or a loss of hearing occurs\nIf pregnant or breast-feeding,ask a health professional before use. It is especially\nimportant not to use aspirin during the last 3 months of pregnancy unless\ndefinitely directed to do so by a doctor because it may cause problems in\nthe unborn child or complications during delivery.\nKeep out of reach of children.In case of overdose, get medical help or contact a\nPoison Control Center (1-800-222-1222) right away."
+    },
+    "posologie": {
+      "trouve": true,
+      "raison": "",
+      "titre": "Directions",
+      "methode": "titre",
+      "debut": 2833,
+      "fin": 5417,
+      "passage": "Directions\ndrink a full glass of water with each dose\nadults and children 12 years and over: take 4 to 8 tablets every 4 hours not to\nexceed 48 tablets in 24 hours unless directed by a doctor\nchildren under 12 years: consult a doctor \nOTHER INFORMATION\nOther information\nstore at 25°C (77°F) excursions permitted between 15°-30°C (59°-86°F)\nuse by expiration date on package\navoid excessive heat above 40°C (104°F) \nInactive ingredientsanhydrous lactose, carnauba wax, colloidal silicon dioxide,\ncroscarmellose sodium, D&C yellow #10 aluminum lake, iron oxide ochre, methacrylic\nacid and ethyl acrylate copolymer, microcrystalline cellulose, polysorbate 80,\nsimethicone, sodium hydroxide, sodium lauryl sulfate, starch, talc, titanium dioxide,\ntriethyl citrate\n\nQuestions or comments?Call 1-877-290-4008 9:00 AM-5:00 PM ET, \nMonday-Friday\nAspirin Delayed Release Tablets 81 mg - Carton and Label\nLOW DOSE ASPIRIN \naspirin tablet, coated\nProduct Information\n\nProduct Type\nHUMAN OTC DRUG\nItem Code (Source)\nNDC:68196-481\nRoute of Administration\nORAL\nActive Ingredient/Active Moiety\nIngredient Name\nBasis of Strength\nStrength\nASPIRIN (UNII: R16CO5Y76E) (ASPIRIN - UNII:R16CO5Y76E)\nASPIRIN\n81 mg\nInactive Ingredients\nIngredient Name\nStrength\nD&C YELLOW NO. 10 ALUMINUM LAKE (UNII: CQ3XH3DET6)\n \nSODIUM HYDROXIDE (UNII: 55X04QC32I)\n \nANHYDROUS LACTOSE (UNII: 3SY5LH9PMK)\n \nCARNAUBA WAX (UNII: R12CBM0EIZ)\n \nSILICON DIOXIDE (UNII: ETJ7Z6XBU4)\n \nBROWN IRON OXIDE (UNII: 1N032N7MFO)\n \nMETHACRYLIC ACID AND ETHYL ACRYLATE COPOLYMER (UNII: NX76LV5T8J)\n \nPOLYSORBATE 80 (UNII: 6OZP39ZG8H)\n \nDIMETHICONE (UNII: 92RU3N3Y1O)\n \nSODIUM LAURYL SULFATE (UNII: 368GB5141J)\n \nSTARCH, CORN (UNII: O8232NY3SJ)\n \nTALC (UNII: 7SEV7J4R1U)\n \nTITANIUM DIOXIDE (UNII: 15FIX9V2JP)\n \nTRIETHYL CITRATE (UNII: 8Z96QXD6UM)\n \nMICROCRYSTALLINE CELLULOSE (UNII: OP1R32D61U)\n \nCROSCARMELLOSE SODIUM (UNII: M28OL1HH48)\n \nProduct Characteristics\nColor\nyellow\nScore\nno score\nShape\nROUND\nSize\n7mm\nFlavor\nImprint Code\nHEART\nContains\n \nPackaging\n#\nItem Code\nPackage Description\nMarketing Start\nDate\nMarketing End\nDate\n1 NDC:68196-481-\n70\n2 in 1 CARTON\n07/01/2024\n1 NDC:68196-481-\n36\n365 in 1 BOTTLE; Type 0: Not a Combination\nProduct\nMarketing Information\nMarketing\nCategory\nApplication Number or Monograph\nCitation\nMarketing Start\nDate\nMarketing End\nDate\nOTC Monograph Drug\nM013\n07/01/2024\n\nSAM'S WEST INC\nLabeler - SAM'S WEST INC (051957769)\nRegistrant - TIME CAP LABORATORIES, INC (037052099)\nEstablishment\nName\nAddress\nID/FEI\nBusiness Operations\nTIME CAP LABORATORIES, INC\n037052099\nmanufacture(68196-481)\n \nRevised: 9/2026"
+    },
+    "interactions": {
+      "trouve": false,
+      "raison": "titre introuvable",
+      "titre": "",
+      "methode": "",
+      "debut": null,
+      "fin": null,
+      "passage": ""
+    },
+    "effets_indesirables": {
+      "trouve": false,
+      "raison": "titre introuvable",
+      "titre": "",
+      "methode": "",
+      "debut": null,
+      "fin": null,
+      "passage": ""
+    }
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "doc_id": "7e2be61c1561",
+  "medicament": "paracétamol",
+  "source": "dailymed",
+  "langue": "en",
+  "url": "https://dailymed.nlm.nih.gov/dailymed/downloadpdffile.cfm?setId=af2cbbaf-9b73-440a-bc88-a790cafccc6b",
+  "date_collecte": "2026-11-16",
+  "date_extraction": "2026-11-26",
+  "chemin_texte": "data/processed/textes/7e2be61c1561.txt",
+  "rubriques": {
+    "indications": {
+      "trouve": true,
+      "raison": "",
+      "titre": "Uses",
+      "methode": "titre",
+      "debut": 222,
+      "fin": 935,
+      "passage": "Uses\ntemporarily relieves minor aches and pains due to:\nheadache\nsore throat\nflu\ntoothache\nthe common cold\ntemporarily reduces fever\nWarnings\nLiver warning: This product contains acetaminophen. Severe liver damage may occur if\nyour child takes\nmore than 5 doses in 24 hours, which is the maximum daily amount\nwith other drugs containing acetaminophen\nAllergy alert: Acetaminophen may cause severe skin reactions. Symptoms may\ninclude:\nskin reddening\nblisters\nrash\nIf a skin reaction occurs, stop use and seek medical help right away.\nSore throat warning: If sore throat is severe, persists for more than 2 days, is\naccompanied or followed by fever, headache, rash, nausea, or vomiting, consult a\ndoctor promptly."
+    },
+    "contre_indications": {
+      "trouve": true,
+      "raison": "",
+      "titre": "Do not use",
+      "methode": "titre",
+      "debut": 935,
+      "fin": 1673,
+      "passage": "Do not use\nwith any other drug containing acetaminophen (prescription or nonprescription). If you\nare not sure whether a drug contains acetaminophen, ask a doctor or pharmacist.\n\nAsk a doctor before use if your child has\nliver disease.\nAsk a doctor or pharmacist before use if your child is\ntaking the blood thinning drug warfarin.\nStop use and ask a doctor if\npain gets worse or lasts more than 5 days\nfever gets worse or lasts more than 3 days\nany new symptoms appear\nredness or swelling is present\nKeep out of reach of children.\nIn case of overdose, get medical help or contact a Poison Control Center right away.\nPrompt medical attention is critical for adults as well as for children even if you do not\nnotice any signs or symptoms."
+    },
+    "posologie": {
+      "trouve": true,
+      "raison": "",
+      "titre": "Directions",
+      "methode": "titre",
+      "debut": 1673,
+      "fin": 4919,
+      "passage": "Directions\nthis product does not contain directions or complete warnings for adult\nuse\ndo not give more than directed\nfind the right dose on chart below. If possible, use weight to dose; otherwise, use\nage.\nchew or crush tablets completely before swallowing; do not swallow tablets whole\nrepeat dose every 4 hours while symptoms last\ndo not give more than 5 times in 24 hours\nWeight (lb)Age (yr)Dose (chewable tablets)*\nUnder 24\nUnder 2\nAsk a doctor\n24-35\n2-3\n1 tablet\n36-47\n4-5\n1 1/2 tablets\n48-59\n6-8\n2 tablets\n60-71\n9-10\n2 1/2 tablets\n72-95\n11\n3 tablets\n*or as directed by a doctor\nOther information\nstore at 25°C (77°F); excursions permitted between 15°-30°C (59°-86°F)\nTAMPER EVIDENT: DO NOT USE IF OUTER PACKAGE IS OPENED OR BLISTER\nIS TORN OR BROKEN\nsee end flap for expiration date and lot number\navoid high humidity\n\nInactive ingredients\ncitric acid, crospovidone, D&C red #27 aluminum lake, D&C red #30 aluminum lake,\ndextrates hydrated, ethylcellulose, flavor, magnesium stearate, mannitol, polyethylene,\nstearic acid, sucralose\nQuestions or comments?\nCall 833-358-6431 Monday to Friday 9:00am to 7:00pm EST\nPrincipal display panel\nNDC 70677-1127-1\nFoster & Thrive™\nCOMPARE TO\nCHILDREN’S TYLENOL® CHEWABLES\nACTIVE INGREDIENT**\nChildren’s Chewables\nAcetaminophen 160 mg\nChewable Tablets\nPAIN RELIEVER/FEVER REDUCER\nIbuprofen Free\nAges 2-11\nAspirin Free\nBubble Gum Flavored\nACTUAL SIZE\n24 CHEWABLE TABLETS\nChew or crush tablets completely before swallowing.\n\nFoster and thrive 44-450\n\nCHILDRENS CHEWABLES \nacetaminophen tablet, chewable\nProduct Information\nProduct Type\nHUMAN OTC DRUG\nItem Code (Source)\nNDC:70677-1127\nRoute of Administration\nORAL\nActive Ingredient/Active Moiety\nIngredient Name\nBasis of Strength\nStrength\nACETAMINOPHEN (UNII: 362O9ITL9D) (ACETAMINOPHEN - UNII:362O9ITL9D)\nACETAMINOPHEN\n160 mg\nInactive Ingredients\nIngredient Name\nStrength\nCITRIC ACID MONOHYDRATE (UNII: 2968PHW8QP)\n \nCROSPOVIDONE, UNSPECIFIED (UNII: 2S7830E561)\n \nD&C RED NO. 27 ALUMINUM LAKE (UNII: ZK64F7XSTX)\n \nD&C RED NO. 30 ALUMINUM LAKE (UNII: GE75M6YV5W)\n \nDEXTROSE MONOHYDRATE (UNII: LX22YL083G)\n \nETHYLCELLULOSE, UNSPECIFIED (UNII: 7Z8S9VYZ4B)\n \nMAGNESIUM STEARATE (UNII: 70097M6I30)\n \nMANNITOL (UNII: 3OWL53L36A)\n \nHIGH DENSITY POLYETHYLENE (UNII: UG00KM4WR7)\n \nSTEARIC ACID (UNII: 4ELV7Z65AP)\n \nSUCRALOSE (UNII: 96K6UQ3ZD4)\n \nProduct Characteristics\nColor\npink\nScore\n2 pieces\nShape\nROUND\nSize\n16mm\nFlavor\nBUBBLE GUM\nImprint Code\n44;450\nContains\n \nPackaging\n#\nItem Code\nPackage Description\nMarketing Start\nDate\nMarketing End\nDate\n1 NDC:70677-\n1127-1\n4 in 1 CARTON\n04/26/2023\n1\n6 in 1 BLISTER PACK; Type 0: Not a Combination\nProduct\nMarketing Information\nMarketing\nApplication Number or Monograph\nMarketing Start\nMarketing End\n\nStrategic Sourcing Services LLC\nCategory\nCitation\nDate\nDate\nOTC Monograph Drug\nM013\n04/26/2023\nLabeler - Strategic Sourcing Services LLC (116956644)\nEstablishment\nName\nAddress\nID/FEI\nBusiness Operations\nLNK International, Inc.\n038154464\npack(70677-1127)\nEstablishment\nName\nAddress\nID/FEI\nBusiness Operations\nLNK International, Inc.\n832867837\nmanufacture(70677-1127) , pack(70677-1127)\nEstablishment\nName\nAddress\nID/FEI\nBusiness Operations\nLNK International, Inc.\n117025878\nmanufacture(70677-1127)\n \nRevised: 10/2026"
+    },
+    "interactions": {
+      "trouve": false,
+      "raison": "titre introuvable",
+      "titre": "",
+      "methode": "",
+      "debut": null,
+      "fin": null,
+      "passage": ""
+    },
+    "effets_indesirables": {
+      "trouve": false,
+      "raison": "titre introuvable",
+      "titre": "",
+      "methode": "",
+      "debut": null,
+      "fin": null,
+      "passage": ""
+    }
+  }
+}

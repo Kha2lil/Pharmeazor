@@ -1,0 +1,839 @@
+Résumé des caractéristiques du produit
+RESUME DES CARACTERISTIQUES DU PRODUIT
+1.
+DENOMINATION DU MEDICAMENT
+Enalapril EG 5 mg comprimés
+Enalapril EG 20 mg comprimés
+2.
+COMPOSITION QUALITATIVE ET QUANTITATIVE
+Chaque comprimé contient 5 mg/20 mg de maléate d’énalapril.
+Enalapril EG 5 mg comprimés: 
+Excipient(s) à effet notoire: 
+Chaque comprimé contient 129,8 mg de lactose monohydraté et 0,71 mg de sodium.
+Enalapril EG 20 mg comprimés: 
+Excipient(s) à effet notoire: 
+Chaque comprimé contient 117,8 mg de lactose monohydraté et 2,79 mg de sodium.
+Pour la liste complète des excipients, voir rubrique 6.1.
+3.
+FORME PHARMACEUTIQUE
+Enalapril EG 5 mg: Comprimés ‘snap-tab’ ronds, biconvexes et blancs, avec une barre de cassure
+d’un côté. Le comprimé peut être divisé en doses égales.
+Enalapril EG 20 mg: Comprimés ‘snap-tab’ ronds, biconvexes, légèrement orangés avec des points
+blancs distincts et une barre de cassure d’un côté. Le comprimé peut être divisé en doses égales.
+4.
+DONNEES CLINIQUES
+4.1
+Indications thérapeutiques
+ 
+
+Traitement de l’hypertension
+
+Traitement de l’insuffisance cardiaque symptomatique
+
+Prévention de l’insuffisance cardiaque symptomatique chez des patients ayant un
+dysfonctionnement ventriculaire gauche asymptomatique (fraction d’éjection ≤35 %)
+4.2
+Posologie et mode d’administration
+Posologie
+L’absorption d’enalapril n'est pas influencée par la prise d’aliments.
+La dose doit être adaptée en fonction du profil du patient (voir rubrique 4.4) et de la réponse
+tensionnelle.
+Hypertension
+La dose initiale est de 5 à 20 mg maximum, en fonction du degré de l’hypertension et de l’état du
+patient (voir ci-dessous). L’enalapril se prend une fois par jour. Dans les cas d’hypertension légère, la
+dose initiale recommandée est de 5 à 10 mg. Les patients ayant un système rénine-angiotensine-
+aldostérone fortement stimulé (par exemple, hypertension rénovasculaire, hyponatrémie et/ou
+hypovolémie, décompensation cardiaque, ou hypertension sévère) peuvent présenter une chute
+excessive de la tension suite à la dose initiale. Chez ces patients, une dose initiale de 5 mg ou moins
+est recommandée et l’initiation du traitement devra se faire sous surveillance médicale.
+1/16
+
+Résumé des caractéristiques du produit
+Un traitement préalable avec des doses élevées de diurétiques peut entraîner une hypovolémie et un
+risque d’hypotension lors d’un traitement par énalapril. Une dose initiale de 5 mg ou inférieure est
+recommandée chez ces patients. Si possible, le traitement par diurétiques sera interrompu 2 à 3 jours
+avant le début du traitement par enalapril. La fonction rénale et le potassium sérique seront contrôlés.
+La dose d’entretien habituelle est de 20 mg par jour. La dose d’entretien maximale est de 40 mg par
+jour.
+Insuffisance cardiaque/dysfonction ventriculaire gauche asymptomatique
+Dans la prise en charge de l’insuffisance cardiaque symptomatique, l'enalapril est utilisé en
+complément des diurétiques et, si nécessaire, des digitaliques ou bêtabloquants. La dose initiale
+d'enalapril chez les patients ayant une insuffisance cardiaque symptomatique ou une dysfonction
+ventriculaire gauche asymptomatique est de 2,5 mg et doit être administrée sous étroite surveillance
+médicale afin de déterminer l’effet initial sur la tension. En l’absence ou après la prise en charge
+efficace d’une hypotension symptomatique qui suit l’instauration du traitement par enalapril dans les
+cas d’insuffisance cardiaque, la dose doit être progressivement augmentée jusqu’à la dose habituelle
+d’entretien de 20 mg, administrée en une prise unique ou en deux prises, selon la tolérance du patient.
+Il est recommandé de faire ce titrage de la dose sur une période de 2 à 4 semaines. La dose maximale
+est de 40 mg par jour, répartie en deux doses.
+Titrage de la dose d'enalapril recommandé chez les patients ayant une insuffisance cardiaque/une
+dysfonction ventriculaire gauche asymptomatique
+Semaine
+Dose
+mg/jour
+Semaine 1
+Jours 1 à 3: 2,5 mg/jour* en une prise unique
+Jours 4 à 7: 5 mg/jour répartis en deux prises distinctes
+Semaine 2
+10 mg/jour en une prise unique ou répartis en deux prises distinctes
+Semaines 3 et 4
+20 mg/jour en une prise unique ou répartis en deux prises distinctes
+* Des précautions particulières doivent être prises chez les patients ayant une fonction rénale altérée
+ou prenant des diurétiques (voir rubrique 4.4 Mises en garde spéciales et précautions d’emploi).
+La tension et la fonction rénale doivent être surveillées étroitement avant et après le début du
+traitement par enalapril (voir rubrique 4.4), car il a été fait état d’hypotension et (plus rarement)
+d’insuffisance rénale consécutive. Chez les patients traités par diurétiques, la dose doit être, si
+possible, diminuée avant de démarrer le traitement par enalapril. L’apparition d’hypotension après la
+dose initiale d’enalapril n’implique pas qu’une hypotension puisse à nouveau survenir au cours du
+traitement d’entretien par enalapril et n’empêche pas la poursuite du traitement par le médicament. Le
+potassium sérique et la fonction rénale seront également surveillés. 
+Insuffisance rénale
+En général, les intervalles entre les prises d’énalapril doivent être augmentés et/ou la posologie
+diminuée.
+Clairance de la créatinine CrK) ml/min
+Dose de départ
+mg/jour
+30<CrK<80 ml/min
+5 à 10 g
+10<CrK≤30 ml/min
+2,5 mg
+CrK≤10 ml/min
+2,5 mg les jours de dialyse*
+* Voir rubrique 4.4 - Patients sous hémodialyse. L’énalaprilate peut être dialysé. Les jours où les
+patients ne sont pas dialysés, la posologie doit être adaptée en fonction de la réponse tensionnelle.
+Personnes âgées
+La posologie doit tenir compte de la fonction rénale du patient plus âgé (voir rubrique 4.4).
+2/16
+
+Résumé des caractéristiques du produit
+Population pédiatrique
+L’expérience clinique est limitée quant à l’utilisation d’enalapril chez les enfants hypertendus (voir
+rubriques 4.4, 5.1 et 5.2).
+Pour les patients qui peuvent avaler les comprimés, la dose doit être individualisée en fonction du
+profil du patient et de la réponse tensionnelle. Chez les patients de 20 à < 50 kg, la dose initiale
+recommandée est de 2,5 mg; chez les patients de ≥50 kg, de 5 mg. L’enalapril est administré une fois
+par jour. La posologie doit être adaptée en fonction des besoins du patient pour atteindre au maximum
+20 mg/jour chez les patients de 20 à < 50 kg et 40 mg chez les patients de ≥50 kg (voir rubrique 4.4).
+L’enalapril n'est pas recommandé chez les nouveau-nés et chez les enfants ayant un taux de filtration
+glomérulaire < 30 ml/min/1,73m2, car il n’y a aucune donnée disponible.
+Mode d’administration
+Placez le comprimé ‘snap-tab’ d’Enalapril EG 5 mg/20 mg sur une surface dure, la barre de cassure
+centrale vers le haut. Exercez une pression à partir du haut avec le pouce, et le comprimé snap-tab se
+cassera en deux morceaux égaux.
+4.3
+Contre-indications
+
+Hypersensibilité à la substance active ou à l’un des excipients mentionnés à la rubrique 6.1
+
+Hypersensibilité à un autre inhibiteur de l’ECA
+
+Antécédent d’angio-oedème lié à un traitement antérieur par un inhibiteur de l’ECA
+
+Angio-œdème héréditaire ou idiopathique
+
+Deuxième et troisième trimestres de la grossesse (voir rubriques 4.4 et 4.6)
+
+L’association de Enalapril à des médicaments contenant de l’aliskiren est contre-indiquée chez les
+patients présentant un diabète ou une insuffisance rénale (DFG [débit de filtration
+glomérulaire] < 60 ml/min/1,73 m2) (voir rubriques 4.5 et 5.1)
+
+Utilisation concomitante avec un traitement par sacubitril/valsartan. Le traitement par enalapril ne
+doit pas être débuté moins de 36 heures après la dernière dose de sacubitril/valsartan (voir
+également rubriques 4.4 et 4.5)
+4.4
+Mises en garde spéciales et précautions d’emploi
+Hypotension symptomatique
+Une hypotension symptomatique est rarement observée chez les patients présentant une hypertension
+non compliquée. Chez les patients hypertendus traités par enalapril, une hypotension symptomatique
+sera plus susceptible de survenir si le patient présente une hypovolémie, par exemple en cas de
+traitement par diurétiques, de régime hyposodé, de dialyse, de diarrhée ou de vomissements (voir
+rubriques 4.5 et 4.8). Chez les patients ayant une insuffisance cardiaque, associée ou non à une
+insuffisance rénale, une hypotension symptomatique a été observée. Cela peut se produire en
+particulier chez les patients présentant des formes plus sévères d’insuffisance cardiaque, comme le
+montre l’utilisation de doses élevées de diurétiques de l’anse, l’existence d’une hyponatrémie ou une
+altération de la fonction rénale. Chez ces patients, le traitement doit être commencé sous surveillance
+médicale et les patients doivent être suivis étroitement chaque fois que la dose d’enalapril et/ou du
+diurétique est adaptée. Des mesures similaires peuvent être prises chez des patients ayant une
+cardiopathie ischémique ou ayant eu des accidents cérébrovasculaires, patients chez lesquels une
+baisse excessive de la tension peut entraîner un infarctus du myocarde ou un accident
+cérébrovasculaire.
+Si une hypotension survient, le patient doit être couché et, si nécessaire, doit recevoir une perfusion
+intraveineuse de solution salée physiologique. Une réponse hypotensive transitoire n’est pas une
+contre-indication aux doses ultérieures, doses qui peuvent être données en général sans difficulté une
+fois la tension remontée après l’expansion volémique.
+Chez certains patients souffrant d’insuffisance cardiaque qui ont une tension normale ou basse,
+l'enalapril peut provoquer une baisse supplémentaire de la tension systémique. On peut s’attendre à
+cet effet. Ce n’est normalement pas une raison d'arrêter le traitement. Si l’hypotension devient
+3/16
+
+Résumé des caractéristiques du produit
+symptomatique, une réduction de la dose et/ou l’arrêt du diurétique et/ou de l’enalapril peuvent être
+nécessaires.
+Sténose aortique ou de la valve mitrale/cardiomyopathie hypertrophique
+Comme avec tous les vasodilatateurs, les inhibiteurs de l’ECA doivent être administrés avec prudence
+chez les patients ayant une obstruction valvulaire du ventricule gauche ou de l’aorte et doivent être
+évités en cas de choc cardiogénique et d’obstruction hémodynamique importante.
+Dysfonctionnement rénal
+En cas de dysfonctionnement rénal (clairance de la créatinine <80 ml/min), la posologie initiale
+d’énalapril doit être adaptée en fonction de la clairance de la créatinine du patient (voir rubrique 4.2)
+et ensuite en fonction de la réaction du patient au traitement. Le contrôle systématique du potassium
+et de la créatinine fait partie de la pratique médicale normale chez ces patients.
+On a rapporté, en association avec l’énalapril, une insuffisance rénale, principalement rencontrée chez
+les patients présentant une insuffisance cardiaque sévère ou une maladie rénale sous-jacente,
+notamment une sténose de l’artère rénale. Si elle est rapidement diagnostiquée et traitée de façon
+appropriée, l’insuffisance rénale, lorsqu’elle est associée à un traitement avec l’énalapril, est
+habituellement réversible.
+Certains patients hypertendus, sans altération rénale préexistante apparente, ont présenté une
+augmentation de l'urée sanguine et de la créatinine lorsque l'énalapril a été administré en même temps
+qu'un diurétique. Une réduction de la dose d'énalapril et/ou l’arrêt du diurétique peuvent être
+nécessaires. Il convient dans ce cas d’être attentif à la possibilité d’une sténose sous-jacente des
+artères rénales (voir rubrique 4.4).
+Hypertension rénovasculaire
+Il y a un risque accru d’hypotension et d’insuffisance rénale lorsque des patients, présentant une
+sténose bilatérale des artères rénales ou une sténose de l’artère sur un seul rein encore actif, sont
+traités avec des inhibiteurs de l’ECA. La fonction rénale peut diminuer avec seulement des
+modifications mineures de la créatinine sérique. Chez ces patients, le traitement doit être lancé sous
+surveillance médicale étroite avec de faibles doses, un titrage prudent et un contrôle de la fonction
+rénale.
+Transplantation rénale
+Il n’y a aucune expérience relative à l’administration d’enalapril chez des patients ayant subi
+récemment une transplantation rénale. Le traitement par enalapril n'est dès lors pas recommandé.
+Insuffisance hépatique
+Dans de rares cas, l’utilisation d’inhibiteurs de l’ECA a été associée à un syndrome débutant par un
+ictère cholestatique ou une hépatite et évoluant jusqu’à une nécrose hépatique fulminante et
+(quelquefois) un décès. Le mécanisme de ce syndrome n’est pas compris. Les patients qui reçoivent
+des inhibiteurs de l’ECA et qui ont développé un ictère ou des élévations importantes des enzymes
+hépatiques doivent interrompre l’utilisation de l’inhibiteur de l’ECA et être mis sous surveillance
+médicale appropriée.
+Neutropénie/agranulocytose
+Des cas de neutropénie/d’agranulocytose, de thrombocytopénie et d'anémie ont été rapportés chez des
+patients recevant des inhibiteurs de l’ECA. Chez des patients ayant une fonction rénale normale et
+sans autres facteurs de complication, la neutropénie survient rarement. L’énalapril doit être utilisé
+avec une extrême prudence chez les patients souffrant de collagénose vasculaire, chez les patients
+traités par immunosuppresseur, par allopurinol ou procaïnamide ou ayant une association de ces
+facteurs de complication, surtout s’il est question d'un trouble de la fonction rénale préexistant.
+Certains de ces patients ont développé des infections graves qui, dans certains cas, n’ont pas répondu
+à un traitement antibiotique intensif. Si l’énalapril est utilisé chez de tels patients, un contrôle
+périodique du nombre de leucocytes est conseillé et les patients doivent être avertis qu'ils doivent
+4/16
+
+Résumé des caractéristiques du produit
+signaler tout signe d’infection.
+Hypersensibilité/angio-oedème
+On a signalé des cas d'angio-oedème du visage, des extrémités, des lèvres, de la langue, de la glotte
+et/ou du larynx chez des patients traités par des inhibiteurs de l’enzyme de conversion de
+l'angiotensine, notamment par enalapril. Ceci peut survenir à n’importe quel moment du traitement.
+Dans de tels cas, il convient d’arrêter immédiatement le traitement par enalapril et une surveillance
+appropriée du patient doit être mise en place afin de s’assurer de la disparition complète des
+symptômes avant de le laisser partir. Même dans les cas où on n'observe qu’un gonflement de la
+langue, sans détresse respiratoire, les patients peuvent nécessiter une mise en observation prolongée
+car un traitement par antihistaminique et corticostéroïdes peut s’avérer insuffisant.
+Des issues fatales ont été très rarement rapportées, à la suite d’un angio-œdème associé à un œdème
+du larynx ou de la langue. Les patients dont la langue, la glotte ou le larynx sont atteints, sont
+susceptibles de présenter une obstruction des voies aériennes, particulièrement s’ils ont un antécédent
+de chirurgie des voies aériennes. Lorsqu’il y a une atteinte de la langue, de la glotte ou du larynx,
+susceptible d'entraîner une obstruction des voies aériennes, un traitement approprié qui peut
+comporter une injection sous-cutanée d'une solution d’adrénaline au 1:1000 (0,3 ml à 0,5 ml) et/ou
+toutes mesures visant à assurer la liberté des voies aériennes doivent être administrés rapidement.
+On a signalé un risque plus élevé d'angio-oedème chez les patients de race noire traités par inhibiteurs
+de l’ECA par rapport aux patients de race blanche.
+Les patients ayant un antécédent d’angio-œdème non lié à un traitement par inhibiteurs de l’ECA
+peuvent avoir un risque accru d'angio-oedème s'ils reçoivent un inhibiteur de l’ECA (voir aussi
+rubrique 4.3).
+L’utilisation concomitante d’IEC avec l’association sacubitril/valsartan est contre-indiquée en raison
+du risque accru d’angio-oedème. Le traitement par sacubitril/valsartan ne doit pas être débuté moins
+de 36 heures après la dernière dose d’enalapril. Le traitement par enalapril ne doit pas être débuté
+moins de 36 heures après la dernière dose de sacubitril/valsartan (voir rubriques 4.3 et 4.5).
+L’utilisation concomitante d’IEC avec le racécadotril, les inhibiteurs de mTOR (p. ex. sirolimus,
+évérolimus, temsirolimus) et la vildagliptine peut entraîner un risque accru d’angio-œdème (p. ex.
+gonflement des voies aériennes ou de la langue, avec ou sans atteinte respiratoire) (voir rubrique 4.5).
+Il convient de faire preuve de prudence lors de la mise en route d’un traitement par racécadotril,
+inhibiteurs de mTOR (p. ex. sirolimus, évérolimus, temsirolimus) et vildagliptine chez un patient
+prenant déjà un IEC.
+Réactions anaphylactoïdes lors de désensibilisation aux piqûres d’hyménoptères
+Il arrive dans de rares cas que des patients qui sont désensibilisés contre le venin d'hyménoptère alors
+qu'ils utilisent un inhibiteur de l’ECA présentent une réaction anaphylactoïde présentant un danger
+pour leur vie. Ces réactions peuvent être évitées par l’arrêt temporaire du traitement par inhibiteurs de
+l’ECA avant chaque désensibilisation.
+Réactions anaphylactoïdes lors d’une LDL aphérèse
+Il peut arriver, dans de rares cas, que des patients recevant des inhibiteurs de l’ECA lors d’une LDL
+aphérèse (aphérèse des lipoprotéines de basse densité) avec du sulfate de dextran présentent une
+réaction anaphylactoïde présentant un danger pour leur vie. Ces réactions peuvent être évitées par
+l’arrêt temporaire du traitement par inhibiteurs de l’ECA avant chaque aphérèse.
+Patients sous hémodialyse
+Des réactions anaphylactoïdes ont été rapportées chez des patients dialysés avec des membranes de
+haute perméabilité (par exemple, AN 69®) et traités en même temps par inhibiteurs de l’ECA. Chez
+ces patients, il faut envisager l’utilisation d’un autre type de membrane de dialyse ou d’une autre
+classe d'antihypertenseur.
+5/16
+
+Résumé des caractéristiques du produit
+Hypoglycémie
+Les patients diabétiques traités par antidiabétiques oraux ou par insuline, débutant un traitement par
+inhibiteurs de l’ECA, doivent être informés de veiller étroitement au risque d’hypoglycémie,
+spécialement au cours du premier mois de traitement associé (voir rubrique 4.5 Interactions avec
+d’autres médicaments et autres formes d’interactions, Antidiabétiques).
+Toux
+On a rapporté la présence de toux avec l’utilisation d’inhibiteurs de l’ECA. Elle a comme
+caractéristique d’être improductive, persistante et de disparaître après l’arrêt du traitement. Une toux
+causée par un inhibiteur de l’ECA doit être envisagée au cours du diagnostic différentiel des toux. 
+Opération/anesthésie
+Chez des patients qui subissent une intervention importante ou pendant une anesthésie par
+médicaments provoquant une hypotension, l’énalapril bloque la formation d'angiotensine II après une
+libération de rénine compensatoire. Si une hypotension survient et est considérée comme due à ce
+mécanisme, elle peut être corrigée par le remplissage vasculaire.
+Kaliémie 
+Les IEC peuvent provoquer une hyperkaliémie car ils inhibent la libération d’aldostérone. Cet effet
+n’est généralement pas significatif chez les patients dont la fonction rénale est normale. Cependant,
+chez les patients ayant une fonction rénale altérée et/ou prenant des suppléments potassiques (y
+compris des substituts de sel), des diurétiques épargneurs de potassium, du triméthoprime ou du
+cotrimoxazole (association triméthoprime/sulfaméthoxazole) et en particulier des antagonistes de
+l’aldostérone ou des antagonistes des récepteurs de l’angiotensine II, une hyperkaliémie peut survenir.
+Les diurétiques épargneurs de potassium et les antagonistes des récepteurs de l’angiotensine II
+doivent être utilisés avec précaution chez les patients recevant des IEC, et la kaliémie et la fonction
+rénale doivent être surveillées (voir rubrique 4.5).
+Lithium
+L’association de lithium et d’énalapril n’est généralement pas recommandée (voir rubrique 4.5).
+Population pédiatrique 
+L’expérience sur l’efficacité et la sécurité d’emploi est limitée chez les enfants hypertendus âgés de >
+de 6 ans, mais il n’y a aucune expérience dans les autres indications. Des propriétés
+pharmacocinétiques limitées sont disponibles chez des enfants de plus de 2 mois (voir aussi rubriques
+4.2, 5.1 et 5.2). L’Enalapril EG n’est pas recommandé chez les enfants dans d’autres indications que
+l’hypertension.
+L’enalapril n’est pas recommandé chez les nouveau-nés et les enfants ayant un taux de filtration
+glomérulaire < 30 ml/min/1,73 m2, car il n’y a aucune donnée disponible (voir rubrique 4.2).
+Grossesse et allaitement
+Le traitement avec des inhibiteurs de l’ECA ne sera pas commencé durant la grossesse. À moins
+qu’une thérapie continue avec des inhibiteurs de l’ECA ne soit considérée comme essentielle, les
+patientes envisageant une grossesse doivent être orientées vers des traitements antihypertenseurs
+alternatifs qui ont un profil de sécurité établi pour une utilisation durant la grossesse. Lorsqu’une
+grossesse est diagnostiqué, tout traitement avec des inhibiteurs de l’ECA doit être arrêté
+immédiatement, et, si cela est opportun, une thérapie alternative doit être entamée (voir rubriques 4.3
+et 4.6).
+L'utilisation de l'énalapril n'est pas recommandée pendant l'allaitement (voir rubriques 4.6 et 5.2).
+Différences ethniques
+Comme avec les autres inhibiteurs de l’ECA, l'énalapril est apparemment moins efficace pour
+diminuer la tension chez les patients de race noire que chez les autres, probablement en raison d'une
+prévalence plus élevée des concentrations en rénine basse dans la population hypertendue de race
+6/16
+
+Résumé des caractéristiques du produit
+noire.
+Double blocage du système rénine-angiotensine-aldostérone (SRAA)
+Il est établi que l’association d’inhibiteurs de l’enzyme de conversion (IEC), d’antagonistes des
+récepteurs de l’angiotensine-II (ARA II) ou d’aliskiren augmente le risque d’hypotension,
+d’hyperkaliémie et d’altération de la fonction rénale (incluant le risque d’insuffisance rénale aiguë).
+En conséquence, le double blocage du SRAA par l’association d’IEC, d’ARA II ou d’aliskiren n’est
+pas recommandé (voir rubriques 4.5 et 5.1).
+Néanmoins, si une telle association est considérée comme absolument nécessaire, elle ne pourra se
+faire que sous la surveillance d’un spécialiste et avec un contrôle étroit et fréquent de la fonction
+rénale, de l’ionogramme sanguin et de la pression artérielle. 
+Les IEC et les ARA II ne doivent pas être associés chez les patients atteints d’une néphropathie
+diabétique.
+Excipients
+Les patients présentant une intolérance au galactose, un déficit total en lactase ou un syndrome de
+malabsorption du glucose et du galactose (maladies héréditaires rares) ne doivent pas prendre ce
+médicament.
+4.5
+Interactions avec d’autres médicaments et autres formes d’interactions
+Les données issues des essais cliniques ont montré que le double blocage du système rénine-
+angiotensine-aldostérone (SRAA) par l’utilisation concomitante d’inhibiteurs de l’enzyme de
+conversion, d’antagonistes des récepteurs de l’angiotensine II ou d’aliskiren est associé à une
+fréquence plus élevée d’événements indésirables tels que l’hypotension, l’hyperkaliémie et
+l’altération de la fonction rénale (incluant l’insuffisance rénale aiguë) en comparaison à l’utilisation
+d’un seul médicament agissant sur le SRAA (voir rubriques 4.3, 4.4 et 5.1). 
+Diurétiques épargneurs de potassium
+ 
+ , suppléments potassiques
+ 
+ ou substituts de sel contenant du
+ 
+ 
+potassium
+Bien que la kaliémie demeure habituellement dans les limites de la normale, une hyperkaliémie peut
+survenir chez certains patients traités par enalapril. Les diurétiques épargneurs de potassium (p. ex.
+spironolactone, triamtérène ou amiloride), les suppléments potassiques ou les substituts de sel
+contenant du potassium peuvent entraîner des augmentations significatives de la kaliémie. Il
+convient également de faire preuve de prudence lors de l’administration d’enalapril avec d’autres
+médicaments hyperkaliémiants, tels que le triméthoprime
+ et
+ le cotrimoxazole
+(triméthoprime/sulfaméthoxazole) car le triméthoprime agit comme un diurétique épargneur de
+potassium tel que l’amiloride. Par conséquent, l’association d’enalapril avec les médicaments
+susmentionnés n’est pas recommandée. Si une utilisation concomitante est indiquée, elle doit se faire
+avec précaution et être accompagnée d’une surveillance fréquente de la kaliémie.
+Diurétiques (thiazides ou de l’anse)
+Un traitement préalable avec des doses élevées de diurétiques peut entraîner une hypovolémie et un
+risque d'hypotension lors de l'instauration du traitement par énalapril (voir rubrique 4.4). Les effets
+hypotenseurs peuvent être réduits par l'arrêt du diurétique, l’augmentation du volume ou de l'apport
+en sel ou par une adaptation du traitement avec une faible dose d'énalapril.
+Autres médicaments antihypertenseurs
+L'utilisation simultanée de ces médicaments peut augmenter les effets hypotenseurs de l'énalapril.
+L'utilisation simultanée de nitroglycérine et d'autres nitrates, ou d'autres vasodilatateurs, peut réduire
+davantage la tension.
+Lithium
+Des augmentations réversibles des concentrations sériques de lithium et de la toxicité ont été
+observées lors de la co-administration de lithium et d'inhibiteurs de l’ECA. L'utilisation simultanée de
+diurétiques thiazidiques peut augmenter davantage les taux de lithium et accroître le risque de toxicité
+7/16
+
+Résumé des caractéristiques du produit
+du lithium avec les inhibiteurs de l’ECA. L'utilisation d'énalapril et de lithium n'est pas
+recommandée, mais si l'association est jugée nécessaire, un contrôle attentif des taux sériques de
+lithium sera effectué (voir rubrique 4.4).
+Antidépresseurs tricycliques/antipsychotiques/anesthésiques/narcotiques
+L'utilisation simultanée de certains médicaments anesthésiques, antidépresseurs tricycliques et
+antipsychotiques et d'inhibiteurs de l’ECA peut entraîner une réduction supplémentaire de la tension
+(voir rubrique 4.4).
+Anti-inflammatoires non stéroïdiens (AINS)
+L'administration chronique d’AINS peut réduire l'effet antihypertenseur d'un inhibiteur de l’ECA. Les
+AINS (dont les inhibiteurs de la COX-2) et les inhibiteurs de l’ECA exercent un effet additif sur
+l'augmentation du potassium sérique et peuvent entraîner une détérioration de la fonction rénale. Ces
+effets sont en général réversibles. Dans de rares cas, une insuffisance rénale aiguë peut survenir,
+particulièrement chez des patients ayant une fonction rénale altérée (tels que les patients âgés ou les
+patients présentant une déplétion volémique, y compris ceux suivant un traitement diurétique). Les
+patients doivent être suffisamment hydratés et il convient de contrôler la fonction rénale lors de
+l’initiation du traitement concomitant et périodiquement après. 
+Sels d’or
+Chez les patients traités de façon concomitante par sels d’or injectables (aurothiomalate de sodium) et
+inhibiteurs de l’ECA dont l’énalapril, des réactions nitritoïdes (symptômes incluant rougeur de la
+face, nausées, vomissements et hypotension) ont été rarement rapportées.
+Sympathicomimétiques
+Les sympathomimétiques peuvent réduire l’effet antihypertenseur des inhibiteurs de l’ECA.
+Antidiabétiques
+Des études épidémiologiques ont suggéré que l'administration simultanée d'inhibiteurs de l’ECA et
+d'antidiabétiques (insulines, hypoglycémiants oraux) peut renforcer l'effet hypoglycémiant avec
+risque d'hypoglycémie. Ce phénomène est survenu plus souvent dans les premières semaines de la co-
+administration et chez des patients souffrant d’insuffisance rénale.
+Alcool
+L’alcool renforce l’effet hypotenseur des inhibiteurs de l’ECA.
+Acide acétylsalicylique, thrombolytiques et bêtabloquants
+L'énalapril peut être administré sans risque en concomitance avec de l'acide acétylsalicylique (à doses
+cardiologiques), des thrombolytiques et des bêtabloquants.
+Médicaments augmentant le risque d’angio-oedème 
+L’utilisation concomitante d’IEC avec l’association sacubitril/valsartan est contre-indiquée en raison
+du risque accru d’angio-oedème (voir rubriques 4.3 et 4.4).
+L’utilisation concomitante d’IEC avec le racécadotril, les inhibiteurs de mTOR (p. ex. sirolimus,
+évérolimus, temsirolimus) et la vildagliptine peut entraîner un risque accru d’angio-oedème (voir
+rubrique 4.4).
+Ciclosporine
+Une hyperkaliémie peut survenir lors de l’utilisation concomitante d’IEC avec de la ciclosporine. Une
+surveillance de la kaliémie est recommandée.
+Héparine
+Une hyperkaliémie peut survenir lors de l’utilisation concomitante d’IEC avec de l’héparine. Une
+surveillance de la kaliémie est recommandée.
+4.6
+Fertilité, grossesse et allaitement
+8/16
+
+Résumé des caractéristiques du produit
+Grossesse
+L’utilisation d’inhibiteurs de l’ECA n’est pas recommandée durant le premier trimestre de grossesse
+(voir rubrique 4.4). L’utilisation d’inhibiteurs de l’ECA est contre-indiquée durant les deuxième et
+troisième trimestres de grossesse (voir rubriques 4.3 et 4.4).
+Des preuves épidémiologiques relatives au risque de tératogénicité suivant une exposition à des
+inhibiteurs de l’ECA durant le premier trimestre de grossesse n’ont pas été concluantes; une légère
+augmentation du risque ne peut toutefois être exclue. A moins qu’une thérapie continue avec des
+inhibiteurs de l’ECA ne soit considérée comme essentielle, les patientes envisageant une grossesse
+doivent être orientées vers des traitements antihypertenseurs alternatifs qui ont un profil de sécurité
+établi pour une utilisation durant la grossesse. Si une grossesse est diagnostiquée, un traitement avec
+des inhibiteurs de l’ECA doit être arrêté immédiatement, et, si cela est opportun, une thérapie
+alternative doit être entamée. Une exposition à la thérapie des inhibiteurs de l’ECA durant les
+deuxième et troisième trimestres est connue pour entraîner une foetotoxicité humaine (baisse de la
+fonction rénale, oligohydramnie, retard de l’ossification du crâne) et une toxicité néonatale
+(insuffisance rénale, hypotension, hyperkaliémie) (voir rubrique 5.3). Si une exposition à des
+inhibiteurs de l’ECA a eu lieu à partir du deuxième trimestre de grossesse, une échographie de la
+fonction rénale et du crâne est recommandée. Les nourrissons dont la mère a pris des inhibiteurs de
+l’ECA doivent être surveillés de près pour l’hypotension (voir rubriques 4.3 et 4.4).
+Allaitement 
+Des données pharmacocinétiques limitées démontrent des concentrations très faibles dans le lait
+maternel (voir rubrique 5.2). Bien que ces concentrations semblent être sans importance d’un point de
+vue clinique, l’utilisation d’Enalapril EG durant l’allaitement n’est pas recommandée pour les
+prématurés et durant les premières semaines après la naissance, à cause du risque hypothétique
+d’effets cardiovasculaires et rénaux et parce qu’il n’y a pas suffisamment d’expérience clinique. Dans
+le cas d’un bébé plus âgé, l’utilisation d’Enalapril EG chez une mère qui allaite peut être envisagée si
+ce traitement est nécessaire pour la mère et si l’on surveille l’éventuelle apparition de tout effet
+indésirable chez l’enfant.
+4.7
+Effets sur l’aptitude à conduire des véhicules et à utiliser des machines
+En cas de conduite de véhicule ou d'utilisation de machines, il convient de tenir compte d’accès
+éventuels de fatigue ou de vertige.
+4.8
+Effets indésirables
+Les effets indésirables rapportés avec l'énalapril sont:
+Très fréquent (≥1/10) ; fréquent (≥1/100 et <1/10) ; peu fréquent (≥1/1.000 et <1/100) ; rare
+(≥1/10.000 et <1/1.000) ; très rare (< 1/10.000) ; fréquence indéterminée (ne peut être estimée sur la
+base des données disponibles).
+Affections hématologiques et du système lymphatique
+peu fréquent: 
+anémie (y compris aplasique et hémolytique)
+rare: 
+neutropénie, diminutions de l'hémoglobine, diminution de l'hématocrite,
+thrombocytopénie, agranulocytose, aplasie médullaire, pancytopénie, lymphadénopathie, maladies
+auto-immunes
+Affections endocriniennes
+Fréquence indéterminée: syndrome de sécrétion inappropriée de l'hormone antidiurétique (SIDAH)
+Troubles du métabolisme et de la nutrition
+peu fréquent: 
+hypoglycémie (voir rubrique 4.4)
+9/16
+
+Résumé des caractéristiques du produit
+Affections du système nerveux et affections psychiatriques
+fréquent: 
+maux de tête, dépression
+peu fréquent: 
+confusion, somnolence, insomnie, nervosité, paresthésie, vertige
+rare: 
+anomalies du rêve, troubles du sommeil
+Affections oculaires
+très fréquent: 
+vision trouble
+Affections cardiaques et vasculaires
+très fréquent: 
+vertige
+fréquent: 
+hypotension (y compris hypotension orthostatique), syncope, douleurs thoraciques,
+troubles rythmiques, angine de poitrine, tachycardie
+peu fréquent: 
+hypotension orthostatique, palpitations, infarctus du myocarde ou accident
+cérébrovasculaire*, éventuellement suite à une hypotension excessive chez des patients à risque (voir
+rubrique 4.4)
+rare: 
+syndrome de Raynaud
+Affections respiratoires, thoraciques et médiastinales
+très fréquent: 
+toux
+fréquent: 
+dyspnée
+peu fréquent: 
+rhinorrhée, maux de gorge et enrouement, bronchospasme/asthme
+rare: 
+infiltrats pulmonaires, rhinite, alvéolite allergique/pneumonie éosinophile
+Affections gastro-intestinales
+très fréquent: 
+nausées
+fréquent: 
+diarrhée, douleurs abdominales, dysgueusie
+peu fréquent: 
+iléus, pancréatite, vomissements, dyspepsie, constipation, anorexie, irritations
+gastriques, sècheresse de la bouche, ulcère gastrique
+rare: 
+stomatite/aphtes, glossite
+très rare: 
+angio-œdème intestinal 
+Affections hépatobiliaires
+rare: 
+insuffisance hépatique, hépatite - soit hépatocellulaire soit cholestatique, hépatite y
+compris nécrose, cholestase (y compris ictère)
+Affections de la peau et du tissu sous-cutané
+fréquent: 
+éruption, hypersensibilité/œdème angioneurotique: un œdème angioneurotique du
+visage, des extrémités, des lèvres, de la langue, de la glotte et/ou du larynx a été rapporté (voir
+rubrique 4.4).
+peu fréquent: 
+diaphorèse, prurit, urticaire, alopécie
+rare: 
+érythème polymorphe, syndrome de Stevens Johnson, dermatite exfoliatrice,
+nécrolyse épidermique toxique, pemphigus, érythrodermie
+On a rapporté une association de symptômes qui peut reprendre certains ou l'ensemble des signes
+suivants: fièvre, sérosite, vascularite, myalgie/myosite, arthralgie/arthrite, test anticorps antinucléaire
+positif, élévation de la vitesse de sédimentation, éosinophilie et leucocytose. Une éruption, une
+photosensibilité ou d’autres manifestations dermatologiques peuvent survenir.
+Affections du rein et des voies urinaires
+peu fréquent: 
+dysfonctionnement rénal, insuffisance rénale, protéinurie
+rare: 
+oligurie
+Affections des organes de reproduction et du sein
+peu fréquent: 
+impuissance
+rare: 
+gynécomastie
+10/16
+
+Résumé des caractéristiques du produit
+Troubles généraux et anomalies au site d’administration
+très fréquent: 
+asthénie
+fréquent: 
+fatigue
+peu fréquent: 
+crampes musculaires, bouffées vasomotrices, bourdonnements d'oreille, malaise,
+fièvre
+Investigations
+fréquent: 
+hyperkaliémie, augmentations de la créatinine sérique
+peu fréquent: 
+augmentation du taux d’urée dans le sang, hyponatrémie
+rare: 
+élévation des enzymes hépatiques, élévation de la bilirubine sérique.
+* Les incidences étaient comparables entre les groupes placebo et de contrôle actif dans les essais
+cliniques.
+Déclaration des effets indésirables suspectés
+La déclaration des effets indésirables suspectés après autorisation du médicament est importante. Elle
+permet une surveillance continue du rapport bénéfice/risque du médicament. Les professionnels de
+santé déclarent tout effet indésirable suspecté via AFMPS – Division Vigilance – Boîte Postale 97 –
+B-1000 Bruxelles Madou ou via le site internet: www.afmps.be.
+4.9
+Surdosage
+Symptômes 
+Les données disponibles sur le surdosage chez l'homme sont limitées. Les caractéristiques les plus
+importantes du surdosage rapportées à ce jour sont une hypotension marquée, débutant environ six
+heures après l'ingestion des comprimés et liée au blocage du système rénine-angiotensine ainsi que de
+la stupeur. Des symptômes associés à un surdosage d'inhibiteurs de l’ECA peuvent inclure
+notamment un choc circulatoire, des troubles électrolytiques, une insuffisance rénale, une
+hyperventilation, de la tachycardie, des palpitations, de la bradycardie, des vertiges, de l’anxiété et de
+la toux. Après l'ingestion respectivement de 300 mg et 440 mg d'énalapril, on a rapporté des taux
+sériques d'énalaprilate 100 et 200 fois supérieurs à ceux habituellement observés lors de doses
+thérapeutiques.
+Traitement
+Le traitement recommandé en cas de surdosage est une perfusion intraveineuse de solution salée
+physiologique. Si une hypotension se produit, le patient doit être placé en décubitus. Si possible, un
+traitement par perfusion d'angiotensine II et/ou des catécholamines intraveineuses peut être envisagé.
+Si l'ingestion est récente, il faut prendre des mesures visant à éliminer le maléate d'énalapril (par
+exemple, vomissements, lavage gastrique, administration d'absorbants et sulfate de sodium).
+L'énalaprilate peut être éliminé de la circulation sanguine par hémodialyse (voir rubrique 4.4). Un
+stimulateur cardiaque est indiqué en cas de bradycardie résistante au traitement. Les fonctions vitales,
+les électrolytes sériques et les taux de créatinine doivent être continuellement contrôlés.
+5.
+PROPRIETES PHARMACOLOGIQUES 
+5.1
+Propriétés pharmacodynamiques
+Classe pharmacothérapeutique: inhibiteurs de l'enzyme de conversion de l'angiotensine, Code ATC:
+C09A A02
+L’enalapril (maléate d'énalapril) est le sel de maléate de l'énalapril, un dérivé de deux aminoacides, la
+L-analine et la L-proline. L'enzyme de conversion de l'angiotensine (ECA) est une dipeptidase
+peptidylique qui catalyse la conversion de l'angiotensine I en angiotensine II, vasopresseur. Après
+absorption, l'énalapril est hydrolysé en énalaprilate qui inhibe l'ECA. L'inhibition de l'ECA entraîne
+une diminution de l'angiotensine II plasmatique, ce qui provoque une augmentation de l'activité
+11/16
+
+Résumé des caractéristiques du produit
+rénine plasmatique (par inhibition du rétrocontrôle négatif de la sécrétion de rénine) et une diminution
+de la sécrétion d'aldostérone.
+L'ECA est identique à la kinase II. Ainsi, l’enalapril peut aussi bloquer la dégradation de la
+bradykinine, un puissant peptide vasodépresseur. Cependant, le rôle de cette action dans les effets
+thérapeutiques de l’enalapril reste encore à élucider.
+Bien que le mécanisme par lequel l’enalapril baisse la tension soit considéré comme étant
+principalement l'inhibition du système rénine-angiotensine-aldostérone, l’enalapril exerce aussi une
+action antihypertensive chez les patients ayant une hypertension à rénine basse.
+L'administration de l’enalapril à des patients hypertendus entraîne une réduction de la tension à la fois
+en décubitus et en position debout sans augmentation significative de la fréquence cardiaque.
+Une hypotension orthostatique symptomatique est rare. Chez certains patients, l'obtention de la
+diminution optimale de la tension peut demander plusieurs semaines de traitement. L'arrêt brutal de
+l’Enalapril EG n'a pas été associé à une augmentation rapide de la tension.
+Une inhibition efficace de l’activité de l'inhibiteur de l’ECA apparaît habituellement 2 à 4 heures
+après la prise orale d'une dose unique d'énalapril. L'activité antihypertensive commence
+habituellement après une heure et le pic de réduction de la tension est atteint 4 à 6 heures après la
+prise. La durée de l’effet est fonction de la posologie. Cependant, aux doses recommandées, il a été
+montré que les effets antihypertenseurs et hémodynamiques étaient maintenus au moins 24 heures.
+Dans les études hémodynamiques menées chez des patients ayant une hypertension essentielle, la
+baisse de tension a été associée à une réduction de la résistance artérielle périphérique avec
+augmentation du débit cardiaque et peu ou pas de modification de la fréquence cardiaque. Une
+augmentation du débit sanguin rénal est survenue après la prise d’Enalapril EG; le taux de filtration
+glomérulaire est resté inchangé. Il n'y a pas eu de signes de rétention sodée ou hydrique. Cependant,
+chez les patients ayant des taux bas de filtration glomérulaire avant traitement, ces taux ont
+généralement augmenté.
+Dans des études cliniques de courte durée menées chez des patients diabétiques et non diabétiques
+ayant une affection rénale, des diminutions de l'albuminurie, de l'excrétion des IgG par voie urinaire
+et de la protéinurie totale dans les urines ont été observées après l'administration d'énalapril.
+Lorsque l’Enalapril EG est administré en même temps que des diurétiques thiazidiques, les effets
+hypotenseurs de l’Enalapril EG sont au moins additifs. L’Enalapril EG peut réduire ou prévenir
+l’apparition d'une hypokaliémie causée par des thiazidiques.
+Chez les patients ayant une insuffisance cardiaque traitée par digitaliques et diurétiques, le traitement
+par Enalapril EG, par voie orale ou en injection, a été associé à une diminution de la résistance
+périphérique et de la tension. Le débit cardiaque a augmenté tandis que la fréquence cardiaque
+(habituellement élevée chez les patients ayant une insuffisance cardiaque) a diminué. La pression
+capillaire pulmonaire bloquée a aussi diminué. La tolérance à l'effort et la sévérité de l'insuffisance
+cardiaque, mesurées selon les critères de la New York Heart Association (NYHA), se sont améliorées.
+Ces effets se sont maintenus lors du traitement chronique.
+Chez des patients ayant une insuffisance cardiaque légère à modérée, l'énalapril a retardé la
+progression de la dilatation/agrandissement et de l'insuffisance cardiaque, ce dont témoignent une
+réduction des volumes télédiastoliques et systoliques du ventricule gauche et une amélioration de la
+fraction d'éjection.
+Une étude multicentrique, randomisée, en double aveugle, versus placebo (étude de prévention
+SOLVD) a étudié une population ayant une dysfonction ventriculaire gauche asymptomatique (FEVG
+<35%). 4228 patients ont été randomisés pour recevoir soit le placebo (n=2117) soit l'énalapril
+12/16
+
+Résumé des caractéristiques du produit
+(n=2111). Dans le groupe placebo, 818 patients ont eu une insuffisance cardiaque ou sont décédés
+(38,6 %) comparé à 630 dans le groupe énalapril (29,8%) (réduction du risque: 29 %; IC 95 %; 21 -
+36 %; p <0,001). 518 patients dans le groupe placebo (24, 5 %) et 434 patients dans le groupe
+énalapril (20,6 %) sont décédés ou ont été hospitalisés pour insuffisance cardiaque récente ou
+aggravée (réduction du risque: 20 %; IC 95 %; 9 - 30 %; p<0,001).
+Une étude multicentrique, randomisée, en double aveugle, versus placebo (étude de traitement
+SOLVD) a étudié une population ayant une insuffisance cardiaque congestive symptomatique due à
+une dysfonction systolique (fraction d'éjection < 35 %). 2569 patients recevant le traitement classique
+pour insuffisance cardiaque ont été répartis au hasard soit pour recevoir le placebo (n=1284) soit
+l'énalapril (n=1285). Il y a eu 510 décès dans le groupe placebo (39,7 %) comparé à 452 dans le
+groupe énalapril (35,2 %) (réduction du risque, 16 %; IC 95 %, 5 - 26 %; p = 0,0036). Il y a eu 461
+décès cardiovasculaires dans le groupe placebo comparé à 399 dans le groupe énalapril (réduction du
+risque 18 %, IC 95 %, 6 - 28 %, p<0,002), en raison principalement d'une diminution des décès pour
+insuffisance cardiaque évolutive (251 dans le groupe placebo contre 209 dans le groupe énalapril,
+réduction du risque 22 %, IC 95 %, 6 - 35 %). 
+Moins de patients sont décédés ou ont été hospitalisés pour aggravation de l'insuffisance cardiaque
+(736 dans le groupe placebo et 613 dans le groupe énalapril: réduction du risque, 26 %; IC 95 %, 18 -
+34 %; p<0,0001). Sur l'ensemble de l'étude SOLVD, chez les patients ayant une dysfonction
+ventriculaire gauche, l’Enalapril EG a réduit le risque d'infarctus du myocarde de 23 % (IC 95 %, 11 -
+34 %; p<0,001) et a réduit le risque d'hospitalisation pour angor instable de 20 % (IC 95 %, 9 - 29 %;
+p<0,001).
+L'expérience est limitée concernant l'utilisation chez les enfants hypertendus de > de 6 ans. Dans une
+étude clinique portant sur 110 enfants hypertendus âgés de 6 à 16 ans ayant un poids  20 kg et un
+taux de filtration glomérulaire de >30 ml/min/1,73m 2, les patients pesant < de 50 kg ont reçu soit
+0,625, 2,5 ou 20 mg d'énalapril par jour et ceux pesant  de 50 kg ont reçu soit 1,25, 5 ou 40 mg
+d'énalapril/jour. L'administration d'énalapril une fois par jour a diminué la valeur de la tension à la
+vallée en fonction de la posologie administrée. L'efficacité antihypertensive et fonction de la
+posologie de l'énalapril a été cohérente dans tous les sous-groupes (âge, stade Tanner, sexe, race).
+Cependant, les doses étudiées les plus faibles, 0,625 mg et 1,25 mg, correspondant à une moyenne de
+0,02 mg/kg une fois par jour, n'ont pas paru apporter une efficacité antihypertensive adéquate. La
+dose étudiée maximum a été de 0,58 mg/kg (jusqu'à 40 mg) une fois par jour. Le profil des effets
+indésirables chez les enfants n'est pas différent de celui observé chez les adultes.
+L’utilisation de l’association d’un inhibiteur de l’enzyme de conversion (IEC) avec un antagoniste des
+récepteurs de l’angiotensine II (ARA II) a été analysée au cours de deux larges essais randomisés et
+contrôlés (ONTARGET (ONgoing Telmisartan Alone and in combination with Ramipril Global
+Endpoint Trial) et VA NEPHRON-D (The Veterans Affairs Nephropathy in Diabetes). 
+L’étude ONTARGET a été réalisée chez des patients ayant des antécédents de maladie
+cardiovasculaire ou de maladie vasculaire cérébrale, ou atteints d’un diabète de type 2 avec atteinte
+des organes cibles. L’étude VA NEPHRON-D a été réalisée chez des patients diabétiques de type 2 et
+atteints de néphropathie diabétique.
+En comparaison à une monothérapie, ces études n’ont pas mis en évidence d’effet bénéfique
+significatif sur l’évolution des atteintes rénales et/ou cardiovasculaires et sur la mortalité, alors qu’il a
+été observé une augmentation du risque d’hyperkaliémie, d’insuffisance rénale aiguë et/ou
+d’hypotension. Ces résultats sont également applicables aux autres IEC et ARA II, compte tenu de la
+similarité de leurs propriétés pharmacodynamiques.
+Les IEC et les ARA II ne doivent donc pas être associés chez les patients atteints de néphropathie
+diabétique.
+L’étude ALTITUDE (Aliskiren Trial in Type 2 Diabetes Using Cardiovascular and Renal Disease
+Endpoints) a été réalisée dans le but d’évaluer le bénéfice de l’ajout d’aliskiren à un traitement
+13/16
+
+Résumé des caractéristiques du produit
+standard par IEC ou un ARAII chez des patients atteints d’un diabète de type 2 et d’une insuffisance
+rénale chronique, avec ou sans troubles cardiovasculaires. Cette étude a été arrêtée prématurément en
+raison d’une augmentation du risque d’événements indésirables. Les décès d’origine cardiovasculaire
+et les accidents vasculaires cérébraux ont été plus fréquents dans le groupe aliskiren que dans le
+groupe placebo; de même les événements indésirables et certains événements indésirables graves tels
+que l’hyperkaliémie, l’hypotension et l’insuffisance rénale ont été rapportés plus fréquemment dans le
+groupe aliskiren que dans le groupe placebo.
+5.2
+Propriétés pharmacocinétiques
+Absorption
+Par voie orale, l'énalapril est rapidement absorbé, avec des pics de concentrations sériques d'énalapril
+survenant au cours de la première heure. En se basant sur l'élimination dans les urines, la quantité
+absorbée d'énalapril (administration orale) est d'environ 60 %. L'absorption de l’enalapril par voie
+orale n'est pas influencée par la présence d'aliments dans le tractus gastro-intestinal.
+Après absorption, l'énalapril par voie orale est rapidement et largement hydrolysé en énalaprilate, un
+puissant inhibiteur de l’ECA. Des pics de concentrations sériques d'énalaprilate sont atteints 4 heures
+après une prise orale d'un comprimé d'énalapril. La demi-vie efficace de l'énalaprilate après des doses
+multiples d'énalapril par voie orale est de 11 heures. Chez des sujets ayant une fonction rénale
+normale, les concentrations sériques d'énalaprilate à l'état d'équilibre ont été atteintes après 4 jours de
+traitement.
+Distribution
+Dans la fourchette de concentrations en rapport avec les doses thérapeutiques significatives, la liaison
+de l'énalaprilate aux protéines plasmatiques humaines ne dépasse pas 60 %.
+Biotransformation
+À l'exception de la transformation en énalaprilate, il n'a pas été mis en évidence de métabolisme
+significatif de l'énalapril.
+Elimination
+L'excrétion de l'énalaprilate est essentiellement rénale. Les principaux composés retrouvés dans les
+urines sont l'énalaprilate, représentant environ 40 % de la dose et l'énalapril sous forme intacte
+(environ 20 %).
+Insuffisance rénale
+L'exposition à l'énalapril et l'énalaprilate est augmentée chez les patients ayant une insuffisance
+rénale. Chez les patients ayant une insuffisance rénale légère à modérée (clairance de la créatinine de
+40 à 60 ml/min), l'AUC de l'énalaprilate à l'état d'équilibre a été environ deux fois plus élevée que
+chez les patients ayant une fonction rénale normale après administration de 5 mg une fois par jour.
+Dans l'insuffisance rénale sévère (clairance de la créatinine  30 ml/min), l'AUC a été augmentée
+d'environ 8 fois. La demi-vie effective de l'énalaprilate à la suite de doses multiples de maléate
+d'énalapril est prolongée à ce degré d'insuffisance rénale et le temps à l'état d'équilibre est retardé
+(voir rubrique 4.2). L'énalaprilate peut être éliminé de la circulation générale par hémodialyse. La
+clairance de la dialyse est de 62 ml/min.
+Population pédiatrique 
+Une étude pharmacocinétique à doses répétées a été réalisée chez 40 enfants de sexe masculin et
+féminin âgés de 2 mois à 16 ans après administration orale quotidienne de 0,07 à 0,14 mg/kg de
+maléate d'énalapril. Il n'y a pas eu de différence majeure dans la pharmacocinétique de l'énalaprilate
+chez les enfants comparée aux données connues chez les adultes. Les données indiquent une
+augmentation de l'AUC (normalisée avec la dose/poids) avec l'augmentation de l'âge; cependant, une
+augmentation de l'AUC n'a pas été observée lorsque les données ont été normalisées par rapport à la
+surface corporelle. À l'état d'équilibre, la demi-vie effective moyenne d'accumulation de l'énalaprilate
+a été de 14 heures.
+14/16
+
+Résumé des caractéristiques du produit
+Allaitement 
+Après une dose unique orale de 20 mg chez cinq femmes en post-partum, le taux maximum moyen
+d’énalapril dans le lait était de 1,7μg/L (amplitude de 0,54 à 5,9 μg/L) 4 à 6 heures après la dose. Le
+taux maximal moyen d’énalaprilate était de 1,7μg/L (amplitude de 1,2 à 2,3μg/L); des taux maximum
+sont apparus à différents moments durant une période de 24 heures. Sur base des données de taux
+maximum dans le lait, l’absorption maximale estimée d’un bébé exclusivement allaité serait
+d’environ 0,16% du dosage maternel en fonction du poids. Une femme qui avait pris de l’énalapril
+oral 10 mg quotidiennement pendant 11 mois avait un taux d’énalapril dans le lait de 2 μg/L 4 heures
+après une dose et un taux maximum d’énalaprilate de 0,75 μg/L environ 9 heures après la dose. Le
+niveau total d’énalapril et d’énalaprilate mesuré dans le lait durant la période de 24 heures était
+respectivement de 1,44μg/L et 0,63 μg/L de lait. Les taux d’énalaprilate dans le lait étaient
+indétectables (<0.2μg/L) 4 heures après une dose unique d’énalapril 5 mg chez une mère et 10mg
+chez deux mères; les taux d’énalapril n’ont pas été déterminés.
+5.3
+Données de sécurité préclinique
+Les données pré-cliniques n'indiquent pas de risque chez l'homme d'après les études conventionnelles
+de pharmacologie sur la sécurité d'emploi, de toxicité à doses répétées, de génotoxicité et de potentiel
+carcinogène. Les études de toxicité sur la reproduction suggèrent que l'énalapril n'a pas d'effet sur la
+fertilité et les performances reproductrices des rats et n'est pas tératogène. Dans une étude dans
+laquelle des rats femelles ont été traités avant l'accouplement et pendant toute la gestation, il y a eu
+une incidence accrue de décès chez les ratons pendant la lactation. Il a été montré que la substance
+traverse le placenta et est excrétée dans le lait maternel. Les inhibiteurs de l'enzyme de conversion de
+l'angiotensine, en tant que classe, se sont révélés fœtotoxiques (provoquant des lésions et/ou des décès
+chez le fœtus) lorsqu'ils sont administrés pendant le deuxième ou le troisième trimestre de la
+grossesse.
+6.
+DONNEES PHARMACEUTIQUES
+6.1
+Liste des excipients
+Enalapril EG 5 mg: hydrogénocarbonate de sodium, lactose monohydraté, amidon de maïs,
+hydroxypropylcellulose, talc, stéarate de magnésium.
+Enalapril EG 20 mg:hydrogénocarbonate de sodium, lactose monohydraté, amidon de maïs, talc,
+stéarate de magnésium, oxyde de fer rouge et jaune (E172).
+15/16
+
+Résumé des caractéristiques du produit
+6.2
+Incompatibilités
+Sans objet.
+6.3
+Durée de conservation
+3 ans.
+6.4
+Précautions particulières de conservation 
+A conserver à une température ne dépassant pas 30°C. 
+A conserver dans l’emballage extérieur d‘origine à l’abri de l’humidité.
+6.5
+Nature et contenu de l’emballage extérieur
+Plaquette en Aluminium/OPA-AL-PVC
+Enalapril EG 5 mg comprimés: 10, 20, 28, 30, 50, 56, 60, 98, 100, 105, 120, 150, 200, 250, 300, 400,
+500, 1000 comprimés
+Enalapril EG 20 mg comprimés: 10, 14, 20, 28, 30, 50, 56, 60, 98, 100, 105, 120, 150, 200, 250, 300,
+400, 500, 1000 comprimés
+Toutes les présentations peuvent ne pas être commercialisées.
+6.6
+Précautions particulières d’élimination
+Pas d’exigences particulières.
+7.
+TITULAIRE DE L’AUTORISATION DE MISE SUR LE MARCHE
+EG (Eurogenerics) SA
+Esplanade du Heysel b 22
+1020 Bruxelles
+8.
+NUMEROS D’AUTORISATION DE MISE SUR LE MARCHE
+Enalapril EG 5 mg comprimés: BE221347
+Enalapril EG 20 mg comprimés: BE221365
+9.
+DATE DE PREMIÈRE AUTORISATION/DE RENOUVELLEMENT DE
+L’AUTORISATION
+Date de première autorisation: 01 avril 2002
+Date de dernier renouvellement: 19 mai 2011
+10.
+DATE DE MISE A JOUR DU TEXTE
+06/2019
+16/16

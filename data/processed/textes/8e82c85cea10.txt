@@ -1,0 +1,177 @@
+GRINAZOLE 100 mg/g, pâte pour usage dentaire
+
+Résumé des Caractéristiques du Produit
+ANSM - Mis à jour le : 15/02/2021
+
+1. QU’EST-CE QUE GRINAZOLE 100 mg/g, pâte pour usage dentaire ET DANS QUELS CAS EST-IL UTILISE ?
+
+2. QUELLES SONT LES INFORMATIONS A CONNAITRE AVANT D’UTILISER GRINAZOLE 100 mg/g, pâte pour usage dentaire ?
+
+3. COMMENT UTILISER GRINAZOLE 100 mg/g, pâte pour usage dentaire ?
+
+4. QUELS SONT LES EFFETS INDESIRABLES EVENTUELS ?
+
+4.1. Indications thérapeutiques
+Traitement local des infections canalaires après nécrose pulpaire et de leurs complications. Ce traitement doit être effectué après parage canalaire instrumental, dans le cas de dent ne répondant pas aux traitements locaux conventionnels appliqués lors du parage (hypochlorite et/ou hydroxyde de calcium).
+Il convient de tenir compte des recommandations officielles concernant l’utilisation appropriée des antibactériens.
+
+4.2. Posologie et mode d'administration
+Posologie
+Après parage canalaire et persistance des signes cliniques infectieux, introduire à l'aide d'instruments rotatifs la pâte GRINAZOLE dans le canal et obturer à l'aide d'un ciment provisoire.
+Réintervenir 2 à 3 jours plus tard en éliminant la pâte du canal et en procédant à l'obturation canalaire classique.
+Les règles générales d’utilisation du métronidazole recommandent de ne pas prescrire pendant plus de 10 jours et de ne pas répéter le traitement plus de 2 à 3 fois par an.
+Population pédiatrique
+Aucune donnée n’est disponible.
+Mode d’administration
+Voie exclusivement locale.
+
+4.3. Contre-indications
+Hypersensibilité à la substance active et aux imidazolés ou à l’un des excipients mentionnés à la rubrique 6.1.
+
+4.4. Mises en garde spéciales et précautions d'emploi
+Procéder à un interrogatoire à la recherche d’antécédents d’allergie éventuels.
+Ce médicament contient des « parahydroxybenzoates » et peut provoquer des réactions allergiques (éventuellement retardées).
+
+4.5. Interactions avec d'autres médicaments et autres formes d'interactions
+Compte tenu de la dose utilisée (correspondant à 1 mg de métronidazole) pour le traitement d’une dent, le risque d’interaction médicamenteuse est négligeable.
+
+4.6. Fertilité, grossesse et allaitement
+Grossesse
+Les études chez l'animal n'ont pas mis en évidence d'effet tératogène. En l'absence d'effet tératogène chez l'animal, un effet malformatif dans l'espèce humaine n'est pas attendu. En effet, à ce jour, les substances responsables de malformations dans l'espèce humaine se sont révélées tératogènes chez l'animal au cours d'études bien conduites sur deux espèces.
+En clinique, l'analyse d'un nombre élevé de grossesses exposées n'a apparemment révélé aucun effet malformatif ou foetotoxique particulier du métronidazole. Toutefois, seules des études épidémiologiques permettraient de vérifier l'absence de risque.
+En conséquence, le métronidazole peut être prescrit par voie locale pendant la grossesse si besoin.
+Allaitement
+Le métronidazole est à l'origine d'un goût amer du lait maternel, ce qui peut provoquer des vomissements chez l'enfant allaité, associés à un refus d'alimentation.
+En conséquence, il est préférable d'éviter l'administration de métronidazole pendant l'allaitement.
+Cependant, si le traitement ne peut être différé, l'allaitement pourra être poursuivi à condition d'exercer une surveillance clinique du nouveau-né pendant le traitement et les 2 à 3 jours suivant son arrêt.
+
+4.7. Effets sur l'aptitude à conduire des véhicules et à utiliser des machines
+Sans objet.
+
+4.8. Effets indésirables
+·
+Réactions d'hypersensibilité aux imidazolés et aux parahydroxybenzoates.
+·
+Irritation périapicale accentuant les complications desmodontales.
+Déclaration des effets indésirables suspectés
+La déclaration des effets indésirables suspectés après autorisation du médicament est importante. Elle permet une surveillance continue du rapport bénéfice/risque du médicament. Les professionnels de santé déclarent tout effet indésirable suspecté via le système national de déclaration : Agence nationale de sécurité du médicament et des produits de santé (ANSM) et réseau des Centres Régionaux de Pharmacovigilance - Site internet :
+www.signalement-sante.gouv.fr
+.
+
+4.9. Surdosage
+Sans objet.
+
+5. COMMENT CONSERVER GRINAZOLE 100 mg/g, pâte pour usage dentaire ?
+
+5.1. Propriétés pharmacodynamiques
+Classe pharmacothérapeutique : PREPARATION STOMATOLOGIQUE, anti-infectieux pour traitement oral local, code ATC : A01AB17
+.
+Le métronidazole est un antimicrobien dérivé de l'imidazole, présentant une action sur les germes anaérobies.
+Spectre d’activité anti-microbienne
+Les concentrations critiques séparent les souches sensibles des souches de sensibilité intermédiaire et ces dernières, des résistantes : S ≤ 4 mg/l et R > 4 mg/l.
+La prévalence de la résistance acquise peut varier en fonction de la géographie et du temps pour certaines espèces. Il est donc utile de disposer d’informations sur la prévalence de la résistance locale, surtout pour le traitement d’infections sévères. Ces données ne peuvent apporter qu’une orientation sur les probabilités de la sensibilité d’une souche bactérienne à cet antibiotique.
+Lorsque la variabilité de la prévalence de la résistance en France est connue pour une espèce bactérienne, elle est indiquée dans le tableau ci-dessous :
+Catégories
+Fréquence de résistance acquise en France
+(> 10 %) (valeurs extrêmes)
+ESPECES SENSIBLES
+Aérobies
+à Gram négatif
+Helicobacter
+pylori
+30 %
+Anaérobies
+Bacteroides fragilis
+Bifidobacterium
+60 - 70 %
+Bilophila
+Clostridium
+Clostridium difficile
+Clostridium perfringens
+Eubacterium
+20 - 30 %
+Fusobacterium
+Peptostreptococcus
+Porphyromonas
+Prevotella
+Veillonella
+ESPECES RESISTANTES
+Aérobies à Gram positif
+Actinomyces
+Anaérobies
+Mobiluncus
+Propionibacterium acnes
+ACTIVITE ANTIPARASITAIRE
+Entamoeba
+histolytica
+Giardia intestinalis
+Trichomonas vaginalis
+Remarque
+: ce spectre correspond à celui des formes systémiques du métronidazole. Avec les présentations pharmaceutiques locales, les concentrations obtenues
+in situ
+sont très supérieures aux concentrations plasmatiques. Quelques incertitudes demeurent sur la cinétique des concentrations
+in situ
+, sur les conditions physico-chimiques locales qui peuvent modifier l’activité de l’antibiotique et sur la stabilité du produit
+in situ.
+
+5.2. Propriétés pharmacocinétiques
+Sans objet.
+
+5.3. Données de sécurité préclinique
+Le métronidazole est positif dans les tests de génotoxicité. Le métronidazole s’est révélé cancérogène chez les rongeurs. Dans ce contexte, ce médicament devra faire l’objet d’une prescription encadrée (voir rubrique 4.2).
+
+6. CONTENU DE L’EMBALLAGE ET AUTRES INFORMATIONS
+Imprimer
+
+6.1. Liste des excipients
+Parahydroxybenzoate de propyle (E216), parahydroxybenzoate de méthyle (E218), monostéarate de glycérol, glycérol.
+
+6.2. Incompatibilités
+Sans objet.
+
+6.3. Durée de conservation
+2 ans
+
+6.4. Précautions particulières de conservation
+Pas de précaution particulière de conservation.
+
+6.5. Nature et contenu de l'emballage extérieur
+Tube de 4,5 g en métalloplastique de type « polyfoil » avec bouchon en polypropylène.
+
+6.6. Précautions particulières d’élimination et de manipulation
+Pas d’exigences particulières.
+Tout médicament non utilisé ou déchet doit être éliminé conformément à la réglementation en vigueur.
+
+7. TITULAIRE DE L’AUTORISATION DE MISE SUR LE MARCHE
+Redirection vers le haut de page
+SEPTODONT
+58, RUE DU PONT DE CRETEIL
+94100 SAINT-MAUR-DES-FOSSES
+
+8. NUMERO(S) D’AUTORISATION DE MISE SUR LE MARCHE
+Redirection vers le haut de page
+·
+CIP 326 484-0 ou 3400932648405 : 4,5 g en tube (métalloplastique) – boîte de 1
+
+9. DATE DE PREMIERE AUTORISATION/DE RENOUVELLEMENT DE L’AUTORISATION
+Redirection vers le haut de page
+[à compléter ultérieurement par le titulaire]
+
+10. DATE DE MISE A JOUR DU TEXTE
+Redirection vers le haut de page
+[à compléter ultérieurement par le titulaire]
+
+11. DOSIMETRIE
+Redirection vers le haut de page
+Sans objet.
+
+12. INSTRUCTIONS POUR LA PREPARATION DES RADIOPHARMACEUTIQUES
+Redirection vers le haut de page
+Sans objet.
+CONDITIONS DE PRESCRIPTION ET DE DELIVRANCE
+Liste I
+Médicament réservé à l’usage professionnel selon l’article R.5121-80 du code de la santé publique.
+Sommaire de la notice
+Dénomination du médicament
+Encadré
+Que contient cette notice ?

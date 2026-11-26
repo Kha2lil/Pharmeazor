@@ -1,0 +1,57 @@
+{
+  "doc_id": "7a3efda89de9",
+  "medicament": "kétoprofène",
+  "source": "afmps_notice",
+  "langue": "fr",
+  "url": "https://medicinesdatabase.be",
+  "date_collecte": "2026-11-26",
+  "date_extraction": "2026-11-26",
+  "chemin_texte": "data/processed/textes/7a3efda89de9.txt",
+  "rubriques": {
+    "indications": {
+      "trouve": true,
+      "raison": "",
+      "titre": "Indications nécessaires à une administration correcte",
+      "methode": "titre",
+      "debut": 7596,
+      "fin": 10960,
+      "passage": "Indications nécessaires à une administration correcte\nSi l'on doit traiter un groupe d'animaux, il est recommandé d'utiliser une aiguille de prélèvement.\nNe pas percer le récipient plus de 33 fois.\n\nBijsluiter – FR Versie\nKELAPROFEN 100 MG/ML\n10.\nTemps d’attente\nBovins :\nViande et abats :\n- après administration intraveineuse : 1 jour.\n- après administration intramusculaire : 2 jours.\nLait : zéro heure.\nChevaux :\nViande et abats : 1 jour.\nLait : Ne pas utiliser chez les animaux producteurs de lait destiné à la consommation humaine.\nPorcs :\nViande et abats : 2 jours.\n11.\nPrécautions particulières de conservation\nTenir hors de la vue et de la portée des enfants.\nNe pas mettre au réfrigérateur et ne pas congeler.\nProtéger de la lumière.\nNe pas utiliser ce médicament vétérinaire après la date de péremption figurant sur l'étiquette et la boîte\naprès Exp.. La date de péremption correspond au dernier jour du mois indiqué.\nDurée de conservation après première ouverture du conditionnement primaire : 28 jours.\n12.\nPrécautions particulières d’élimination\nNe pas jeter les médicaments dans les égouts ou dans les ordures ménagères.\nUtiliser des dispositifs de reprise mis en place pour l’élimination de tout médicament vétérinaire non\nutilisé ou des déchets qui en dérivent, conformément aux exigences locales et à tout système national\nde collecte applicable. Ces mesures devraient contribuer à protéger l’environnement.\nDemandez à votre vétérinaire ou à votre pharmacien comment éliminer les médicaments dont vous n’avez\nplus besoin.\n13.\nClassification des médicaments vétérinaires\nMédicament vétérinaire soumis à ordonnance.\n14.\nNuméros d’autorisation de mise sur le marché et présentations\nBE-V404031\nFlacons en verre ambré de type II de 50, 100 et 250 ml, hermétiquement fermés à l'aide d'un bouchon\nde caoutchouc bromobutyle et un opercule en aluminium, et placés dans une boîte en carton.\nTailles d'emballage:\n\nBijsluiter – FR Versie\nKELAPROFEN 100 MG/ML\nBoîte en carton avec 1 flacon de 50 ml.\nBoîte en carton avec 6 flacons de 50 ml.\nBoîte en carton avec 10 flacons de 50 ml.\nBoîte en carton avec 12 flacons de 50 ml.\nBoîte en carton avec 1 flacon de 100 ml.\nBoîte en carton avec 6 flacons de 100 ml.\nBoîte en carton avec 10 flacons de 100 ml.\nBoîte en carton avec 12 flacons de 100 ml.\nBoîte en carton avec 1 flacon de 250 ml.\nBoîte en carton avec 6 flacons de 250 ml.\nBoîte en carton avec 10 flacons de 250 ml.\nBoîte en carton avec 12 flacons de 250 ml.\nToutes les présentations peuvent ne pas être commercialisées.\n15.\nDate à laquelle la notice a été révisée pour la dernière fois\nJuilliet 2025\nDes informations détaillées sur ce médicament vétérinaire sont disponibles dans la base de données de\nl’Union sur les médicaments (https://medicines.health.europa.eu/veterinary).\n16.\nCoordonnées\nTitulaire de l’autorisation de mise sur le marché\nKela nv\nSint Lenaartseweg 48\n2320 Hoogstraten\nBelgique\nTel: +32 3 340 04 11\nE-mail : info@kela.health\nReprésentants locaux et coordonnées pour notifier les effets indésirables présumés\nKela Veterinaria sa\nNieuwe Steenweg 62\n9140 Elversele\nBelgique\nTél. : +32 (0)3 780 63 90\nE-mail : info.vet@kela.health\nPour toute information complémentaire concernant ce médicament vétérinaire, veuillez prendre\ncontact avec le représentant local du titulaire de l’autorisation de mise sur le marché.\n17.\nAutres informations"
+    },
+    "contre_indications": {
+      "trouve": true,
+      "raison": "",
+      "titre": "Contre-indications",
+      "methode": "titre",
+      "debut": 1575,
+      "fin": 4424,
+      "passage": "Contre-indications\nNe pas utiliser en cas d’hypersensibilité à la substance active ou à l'un des excipients.\n\nBijsluiter – FR Versie\nKELAPROFEN 100 MG/ML\nNe pas administrer simultanément ou à moins de 24 heures d'intervalle d'autres anti-inflammatoires\nnon stéroïdiens (AINS), corticostéroïdes, diurétiques et anticoagulants.\nNe pas administrer chez les animaux souffrant des pathologies cardiaques, hépatiques ou rénales\nlorsqu'il existe une possibilité d'ulcère ou d'hémorragie gastro-intestinal(e), ou lorsque la dyscrasie est\navérée.\n6.\nMises en gardes particulières\nPrécautions particulières pour une utilisation sûre chez les espèces cibles :\nIl n'est pas recommandé d'administrer du kétoprofène aux poulains âgés de moins de 15 jours.\nAdministrer ce produit à tout animal de moins de 6 semaines ou à des animaux âgés peut comporter\ndes risques supplémentaires. Si cette administration ne peut être évitée, il pourrait être nécessaire\nd'administrer aux animaux une dose réduite et de les surveiller étroitement. Éviter d'administrer le\nproduit à tout animal déshydraté, hypovolémique ou hypotendu car cela peut accroître le risque de\ntoxicité rénale. Éviter les injections intra-artérielles. Ne pas dépasser les doses indiquées ou prolonger\nla durée du traitement.\nPrécautions particulières à prendre par la personne qui administre le médicament vétérinaire aux\nanimaux :\nLa substance active kétoprofène et l’excipient alcool benzylique peuvent provoquer une\nhypersensibilité (allergie). Les personnes présentant une hypersensibilité connue à la substance\nactive et/ou à l'alcool benzylique doivent éviter tout contact avec ce médicament vétérinaire.\nÉviter l’auto-injection accidentelle. En cas d'auto-injection accidentelle, demandez\nimmédiatement conseil à un médecin et montrez-lui la notice ou l'étiquette. Éviter tout contact\navec la peau et les yeux. En cas de contact accidentel avec la peau ou les yeux, rincer\nabondamment à l'eau la zone touchée. Si l'irritation persiste, demandez immédiatement conseil à\nun médecin et montrez-lui la notice ou l’étiquette. Se laver les mains après utilisation.\nGestation :\nL'innocuité du kétoprofène a été étudiée sur des animaux de laboratoire femelles (rates, souris et\nlapines) et sur des vaches, toutes gravides et n'est associé à aucun effet tératogène ou embryotoxique.\nPeut être utilisé au cours de la gestation chez les vaches.\nL’innocuité du kétoprofène n’a pas été établie en cas de gestation chez les truies. L’utilisation ne doit\nse faire qu’après évaluation du rapport bénéfice/risque établie par le vétérinaire responsable.\nL’innocuité du kétoprofène au niveau de la fertilité, la grossesse ou la santé du fœtus de chevaux n'a\npas été établie. Ne pas utiliser durant la gestation chez les juments.\nLactation :\nPeut être utilisé au cours de la lactation chez les vaches et les truies."
+    },
+    "posologie": {
+      "trouve": true,
+      "raison": "",
+      "titre": "Posologie en cas de coliques chez le cheval :",
+      "methode": "titre",
+      "debut": 6767,
+      "fin": 7596,
+      "passage": "Posologie en cas de coliques chez le cheval :\n2,2 mg/kg (soit 1 ml du médicament vétérinaire pour 45 kg de poids corporel) administrés par injection\nintraveineuse en vue d'obtenir un effet immédiat. Une seconde injection peut être pratiquée en cas de\nrécidive des coliques.\nBovins :\nAdministration par voie intraveineuse ou intramusculaire (i.v. ou i.m.).\n3 mg de kétoprofène/kg de poids corporel (soit 1 ml du médicament vétérinaire pour 33 kg de poids\ncorporel) administrés par injection intraveineuse ou par injection intramusculaire profonde, une fois par\njour, pendant 3 jours maximum.\nPorcs :\nAdministration par voie intramusculaire (i.m.).\n3 mg de kétoprofène/kg de poids corporel (soit 1 ml du médicament vétérinaire pour 33 kg de poids\ncorporel) administrés par injection intramusculaire profonde, en une seule fois.\n9."
+    },
+    "interactions": {
+      "trouve": true,
+      "raison": "",
+      "titre": "Interactions médicamenteuses ou autres formes d'interactions :",
+      "methode": "titre",
+      "debut": 4424,
+      "fin": 5458,
+      "passage": "Interactions médicamenteuses ou autres formes d'interactions :\nNe pas administrer simultanément ou à moins de 24 heures d'intervalle d'autres anti-inflammatoires\nnon stéroïdiens (AINS), corticostéroïdes, diurétiques ou anticoagulants. Certains AINS peuvent se lier\nfortement aux protéines plasmatiques et entrer en concurrence avec d'autres substances\nmédicamenteuses fortement liées, ce qui peut provoquer des effets toxiques.\nÉviter l'administration concomitante de substances médicamenteuses néphrotoxiques.\nSurdosage :\nAucun signe clinique n'a été observé lorsque du kétoprofène a été administré selon les modalités\nsuivantes : cinq fois la dose recommandée pendant 15 jours, chez des chevaux ; cinq fois la dose\nrecommandée pendant 5 jours, chez des bovins ; ou trois fois la dose recommandée pendant 3 jours,\nchez des porcs.\n\nBijsluiter – FR Versie\nKELAPROFEN 100 MG/ML\nIncompatibilités majeures :\nEn l'absence d'études de compatibilité, le médicament vétérinaire ne doit être mélangé avec d’autres\nmédicaments vétérinaires.\n7."
+    },
+    "effets_indesirables": {
+      "trouve": true,
+      "raison": "",
+      "titre": "Effets indésirables",
+      "methode": "titre",
+      "debut": 5458,
+      "fin": 6767,
+      "passage": "Effets indésirables\nChevaux, bovins, porcs\nTrès rare\n(<1 animal / 10 000 animaux traités, y\ncompris les cas isolés) :\nRéaction allergique\nIntolérance gastrique1\nIntolérance rénale1\n1 En raison de l’action inhibitrice sur la synthèse des prostaglandines, certains individus peuvent\nprésenter une intolérance gastrique ou rénale.\nIl est important de notifier les effets indésirables. La notification permet un suivi continu de\nl’innocuité d’un médicament. Si vous constatez des effets indésirables, même ceux ne figurant pas sur\ncette notice, ou si vous pensez que le médicament n’a pas été efficace, veuillez contacter en premier\nlieu votre vétérinaire. Vous pouvez également notifier tout effet indésirable au titulaire de\nl’autorisation de mise sur le marché ou à son représentant local en utilisant les coordonnées figurant à\nla fin de cette notice, ou par l’intermédiaire de votre système national de notification:\nadversedrugreactions_vet@fagg-afmps.be\n8.\nPosologie pour chaque espèce, voies et mode d’administration\nChevaux :\nAdministration par voie intraveineuse (i.v.).\nPosologie en cas de troubles musculosquelettiques :\n2,2 mg de kétoprofène/kg (soit 1 ml du médicament vétérinaire pour 45 kg de poids corporel)\nadministrés par injection intraveineuse une fois par jour, pendant 3 à 5 jours maximum."
+    }
+  }
+}
