@@ -35,13 +35,15 @@ def load_index() -> dict[str, dict]:
         return {row["sha256"]: row for row in csv.DictReader(f)}
 
 
-def register(medicament: str, source: str, url: str, langue: str, path: Path) -> Fiche | None:
-    """Enregistre un document ; renvoie None s'il existe déjà (pas de doublon, collecte rejouable)."""
+def register(medicament: str, source: str, url: str, langue: str, path: Path,
+             date_collecte: str | None = None) -> Fiche | None:
+    """Enregistre un document ; renvoie None s'il existe déjà (pas de doublon, collecte rejouable).
+    date_collecte : optionnel, pour conserver la date d'origine lors d'une migration."""
     digest = sha256_file(path)
     if digest in load_index():
         return None
     fiche = Fiche(doc_id=digest[:12], medicament=medicament, source=source, url=url,
-                  date_collecte=date.today().isoformat(), langue=langue,
+                  date_collecte=date_collecte or date.today().isoformat(), langue=langue,
                   autorite=CFG["autorite"].get(source, 5), chemin=str(path), sha256=digest)
     p = index_path()
     new = not p.exists()
