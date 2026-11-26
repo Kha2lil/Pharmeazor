@@ -118,7 +118,6 @@ cp .env.example .env               # puis renseigner GROQ_API_KEY dans .env
 python -m src.collecte.run            # F1 : collecte + fiches de provenance
 python -m src.extraction.run          # F2 : extraction des rubriques
 python -m src.normalisation.build     # F3 : dictionnaire DCI / nom commercial / ATC
-python -m src.retrieval.build_index   # index BM25 / vecteurs
 streamlit run src/ui/app.py           # F6 : interface
 python -m tests.run_eval              # jeu de test (relançable d'un clic)
 ```
