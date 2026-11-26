@@ -95,7 +95,7 @@ def cis_correspondants(dci, catalogue):
     return [m for m in catalogue
             if len(set(m["substances_norm"])) == 1 and mot in m["substances_norm"][0]]
 
-NOTICES = ROOT / "data" / "raw" / "notices_ansm"
+NOTICES = ROOT / "data" / "raw" / "ansm" / "notices_ansm"
 INDEX_NOTICES = NOTICES / "_index.csv"
 
 

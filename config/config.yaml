@@ -18,3 +18,8 @@ autorite:                    # niveau d'autorité (1 = plus fiable)
   dailymed: 3
   ema: 3
   sites_pro: 4
+  afmps: 3
+  bdpm: 3
+  afmps_notice: 3
+  afmps_dhpc: 3
+  ansm_notice: 3
