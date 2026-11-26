@@ -17,9 +17,9 @@ class Fiche:
     autorite: int
     chemin: str
     sha256: str
-    source_version: str = ""          # version de la source (date de collecte par défaut)
-    marque_brute: str = ""           # marque brute extraite du titre (BDPM) — F2 raffine
-    dci_present_algerie: str = ""    # oui / non / à vérifier (nomenclature MIPH)
+    source_version: str = ""          # = date_collecte par défaut
+    marque_brute: str = ""           # F2 raffine
+    dci_present_algerie: str = ""    # oui / non / à vérifier
     nb_brands_algerie_actives: int = 0
     nb_brands_algerie_total: int = 0
 

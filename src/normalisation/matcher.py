@@ -6,8 +6,8 @@ import unicodedata
 from pathlib import Path
 from rapidfuzz import fuzz, process
 
-SEUIL_OK = 90        # correspondance sûre
-SEUIL_AMBIGU = 8     # écart minimal entre 1er et 2e candidat (DCI différentes)
+SEUIL_OK = 90        # score >= 90 => ok
+SEUIL_AMBIGU = 8     # écart < 8 => ambigu (DCI différentes)
 
 
 def norm(s: str) -> str:

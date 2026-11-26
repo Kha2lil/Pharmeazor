@@ -4,7 +4,7 @@ import json
 import sys
 from pathlib import Path
 
-# La console Windows est en cp1252 par défaut : sans cela, tout accent fait planter le script.
+# Windows console is cp1252 by default -> accents crash the script.
 if hasattr(sys.stdout, "reconfigure"):
     sys.stdout.reconfigure(encoding="utf-8", errors="replace")
 

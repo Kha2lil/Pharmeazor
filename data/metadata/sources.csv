@@ -10,21 +10,7 @@ MEDAlgerie,4,https://medal-dz.com/,introuvable,non trouvees,,2026-11-15,Pas de r
 dzair-pharma,4,https://www.dzair-pharma.net/,"Allow: / sauf /admin, /api/, /diff. Bloque tous les crawlers IA (GPTBot, ClaudeBot,CCBot, etc.)",non trouvees,non (crawlers IA bloqués),2026-11-15,Sitemap : sitemap-index.xml. Crawlers IA bloqués : ne pas collecter pour IA
 Base de Données Publique des Médicaments,3,https://base-donnees-publique.medicaments.gouv.fr/,User-agent: * / Allow,Licence Etalab 2.0 (vérifier les mentions légales),"Automatique (Python, 1 requête/2 s). Fichier CIS_COMPO téléchargé manuellement.",2026-11-15,RCP en HTML par CIS (extrait)، composition: CIS_COMPO_bdpm.txt
 AFMPS – Agence fédérale des médicaments et des produits de santé,3,https://www.famhp.be/en,Autorisé partiellement (certaines restrictions de crawl)," Usage pédagogique non commercial autorisé, avec mention obligatoire de la source.",automatique,2026-11-19,Usage pédagogique non commercial autorisé. Le robots.txt impose des restrictions sur certains répertoires du site.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+,,
 
 
 
@@ -1993,6 +1979,20 @@ AFMPS – Agence fédérale des médicaments et des produits de santé,3,https:/
 
 
 thesaurus,,https://ansm.sante.fr/documents/reference/thesaurus-des-interactions-medicamenteuses-1,,,,,
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
