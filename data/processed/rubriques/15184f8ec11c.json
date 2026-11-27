@@ -5,7 +5,7 @@
   "langue": "fr",
   "url": "https://base-donnees-publique.medicaments.gouv.fr/medicament/68052288/extrait",
   "date_collecte": "2026-11-15",
-  "date_extraction": "2026-11-26",
+  "date_extraction": "2026-11-27",
   "chemin_texte": "data/processed/textes/15184f8ec11c.txt",
   "rubriques": {
     "indications": {

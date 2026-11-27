@@ -5,7 +5,7 @@
   "langue": "fr",
   "url": "https://base-donnees-publique.medicaments.gouv.fr/medicament/66248854/extrait",
   "date_collecte": "2026-11-15",
-  "date_extraction": "2026-11-26",
+  "date_extraction": "2026-11-27",
   "chemin_texte": "data/processed/textes/855bbc2da1b9.txt",
   "rubriques": {
     "indications": {

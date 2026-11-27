@@ -1,0 +1,81 @@
+ordre,doc_id,medicament,source,rubrique,main_debut,main_fin,main_longueur,prog_debut,prog_fin,prog_longueur,prog_trouve,intersection,rappel,precision,correct,prog_titre
+1,3cee0064f86c,néfopam,ansm_notice,Indications,2156,2687,531,2156,6605,4449,oui,531,1.0000,0.1194,oui,"1. QU’EST-CE QUE NEFOPAM PANPHARMA 20 mg/2 mL, solution injectable/pour perfusion ET DANS QUELS CAS EST-IL UTILISE ?"
+1,3cee0064f86c,néfopam,ansm_notice,Contre-indications,2849,3303,454,2849,3303,454,oui,454,1.0000,1.0000,oui,NEFOPAM PANPHARMA ne doit pas être administré :
+1,3cee0064f86c,néfopam,ansm_notice,Posologie,6605,7916,1311,6605,8920,2315,oui,1311,1.0000,0.5663,oui,"3. COMMENT utiliser NEFOPAM PANPHARMA 20 mg/2 mL, solution injectable/pour perfusion?"
+1,3cee0064f86c,néfopam,ansm_notice,Interactions,4112,5579,1467,4112,5764,1652,oui,1467,1.0000,0.8880,oui,Autres médicaments et NEFOPAM PANPHARMA
+2,183f0fe1a2f0,nifédipine,ansm_notice,Indications,1995,2671,676,1995,6751,4756,oui,676,1.0000,0.1421,oui,"1. QU’EST-CE QUE MAPAKNA LP 20 mg, comprimé à libération prolongée ET DANS QUELS CAS EST-IL UTILISE ?"
+2,183f0fe1a2f0,nifédipine,ansm_notice,Contre-indications,2817,4309,1492,2817,4309,1492,oui,1492,1.0000,1.0000,oui,"Ne prenez jamais MAPAKNA LP 20 mg, comprimé à libération prolongée :"
+2,183f0fe1a2f0,nifédipine,ansm_notice,Posologie,6751,8939,2188,6751,10442,3691,oui,2188,1.0000,0.5928,oui,"3. COMMENT PRENDRE MAPAKNA LP 20 mg, comprimé à libération prolongée ?"
+2,183f0fe1a2f0,nifédipine,ansm_notice,Interactions,5181,6240,1059,5181,6240,1059,oui,1059,1.0000,1.0000,oui,"Autres médicaments et MAPAKNA LP 20 mg, comprimé à libération prolongée"
+3,0b2d7aa72776,amoxicilline,ansm_notice,Indications,2164,2893,729,2164,8785,6621,oui,729,1.0000,0.1101,oui,"1. QU’EST-CE QUE AMOXICILLINE VIATRIS 500 mg/5 mL, poudre pour suspension buvable ET DANS QUELS CAS EST-IL UTILISE ?"
+3,0b2d7aa72776,amoxicilline,ansm_notice,Contre-indications,3055,3705,650,3055,3705,650,oui,650,1.0000,1.0000,oui,"Ne prenez jamais AMOXICILLINE VIATRIS, poudre pour suspension buvable :"
+3,0b2d7aa72776,amoxicilline,ansm_notice,Posologie,9079,11006,1927,8785,13101,4316,oui,1927,1.0000,0.4465,oui,"3. COMMENT PRENDRE AMOXICILLINE VIATRIS 500 mg/5 ml, poudre pour suspension buvable ?"
+3,0b2d7aa72776,amoxicilline,ansm_notice,Interactions,4714,6037,1323,4714,6145,1431,oui,1323,1.0000,0.9245,oui,"Autres médicaments et AMOXICILLINE VIATRIS, poudre pour suspension buvable"
+4,129105d65a5d,énalapril,ansm_notice,Indications,3211,3672,461,3211,10958,7747,oui,461,1.0000,0.0595,oui,"1. QU'EST-CE QUE ENALAPRIL EVOLUGEN 20 mg, comprimé sécable ET DANS QUELS CAS EST-IL UTILISE ?"
+4,129105d65a5d,énalapril,ansm_notice,Contre-indications,3921,5160,1239,3973,5160,1187,oui,1187,0.9580,1.0000,oui,"Ne prenez jamais ENALAPRIL EVOLUGEN 20 mg, comprimé sécable dans les cas suivants :"
+4,129105d65a5d,énalapril,ansm_notice,Posologie,10958,13597,2639,10958,13597,2639,oui,2639,1.0000,1.0000,oui,"3. COMMENT PRENDRE ENALAPRIL EVOLUGEN 20 mg, comprimé sécable ?"
+4,129105d65a5d,énalapril,ansm_notice,Interactions,7965,8901,936,7965,8901,936,oui,936,1.0000,1.0000,oui,Interactions avec d'autres médicaments
+5,0871643c2a9a,azithromycine,ansm_notice,Indications,2032,2717,685,2032,5040,3008,oui,685,1.0000,0.2277,oui,"1. QU’EST-CE QUE AZYTER 15 mg/g, collyre en solution en récipient unidose ET DANS QUELS CAS EST-IL UTILISE ?"
+5,0871643c2a9a,azithromycine,ansm_notice,Contre-indications,2871,3200,329,2871,3200,329,oui,329,1.0000,1.0000,oui,"N’utilisez jamais AZYTER 15 mg/g, collyre en solution en récipient unidose:"
+5,0871643c2a9a,azithromycine,ansm_notice,Posologie,5040,6971,1931,5040,6971,1931,oui,1931,1.0000,1.0000,oui,"3. COMMENT UTILISER AZYTER 15 mg/g, collyre en solution en récipient unidose ?"
+5,0871643c2a9a,azithromycine,ansm_notice,Interactions,3677,4083,406,3677,4182,505,oui,406,1.0000,0.8040,oui,"Autres médicaments et AZYTER 15 mg/g, collyre en solution en récipient unidose"
+6,122442d48ba1,méloxicam,afmps_notice,Indications,1163,1790,627,1163,12465,11302,oui,627,1.0000,0.0555,oui,1. Qu’est-ce que Meloxicam Teva et dans quel cas est-il utilisé ?
+6,122442d48ba1,méloxicam,afmps_notice,Contre-indications,1868,3431,1563,1868,3431,1563,oui,1563,1.0000,1.0000,oui,Ne prenez jamais Meloxicam Teva
+6,122442d48ba1,méloxicam,afmps_notice,Posologie,12465,15927,3462,12465,15927,3462,oui,3462,1.0000,1.0000,oui,3. Comment prendre Meloxicam Teva ?
+6,122442d48ba1,méloxicam,afmps_notice,Interactions,7792,9735,1943,7792,9735,1943,oui,1943,1.0000,1.0000,oui,Autres médicaments et Meloxicam Teva
+7,093b3cdc9090,naproxène,afmps_notice,Indications,1159,2411,1252,1159,8595,7436,oui,1252,1.0000,0.1684,oui,1. Qu’est-ce que Naproxen EG et dans quel cas est ce médicament utilisé?
+7,093b3cdc9090,naproxène,afmps_notice,Contre-indications,2500,3327,827,2500,3327,827,oui,827,1.0000,1.0000,oui,N'utilisez jamais Naproxen EG:
+7,093b3cdc9090,naproxène,afmps_notice,Posologie,8595,10458,1863,8595,10927,2332,oui,1863,1.0000,0.7989,oui,3. Comment utiliser Naproxen EG?
+7,093b3cdc9090,naproxène,afmps_notice,Interactions,4850,6433,1583,4850,6433,1583,oui,1583,1.0000,1.0000,oui,Autres médicaments et Naproxen EG
+8,e5caafbc4e9f,indapamide,afmps_notice,Indications,1111,1402,291,1111,7854,6743,oui,291,1.0000,0.0432,oui,1. Qu’est-ce que Indapamide EG et dans quel cas est-il utilisé ?
+8,e5caafbc4e9f,indapamide,afmps_notice,Contre-indications,1480,1937,457,1480,1937,457,oui,457,1.0000,1.0000,oui,Ne prenez jamais Indapamide EG
+8,e5caafbc4e9f,indapamide,afmps_notice,Posologie,7854,9238,1384,7854,9238,1384,oui,1384,1.0000,1.0000,oui,3. Comment prendre Indapamide EG ?
+8,e5caafbc4e9f,indapamide,afmps_notice,Interactions,3576,6467,2891,3576,6630,3054,oui,2891,1.0000,0.9466,oui,Autres médicaments et Indapamide EG
+9,20663e0f8ae1,ciprofloxacine,afmps_notice,Indications,1313,3271,1958,1313,19380,18067,oui,1958,1.0000,0.1084,oui,1. QU'EST-CE QUE CIPROFLOXACINE AB ET DANS QUEL CAS EST-IL UTILISÉ ?
+9,20663e0f8ae1,ciprofloxacine,afmps_notice,Contre-indications,3353,3670,317,3353,3670,317,oui,317,1.0000,1.0000,oui,Ne prenez jamais Ciprofloxacine AB :
+9,20663e0f8ae1,ciprofloxacine,afmps_notice,Posologie,19380,22660,3280,19380,22697,3317,oui,3280,1.0000,0.9888,oui,3. COMMENT PRENDRE CIPROFLOXACINE AB ?
+9,20663e0f8ae1,ciprofloxacine,afmps_notice,Interactions,14481,17469,2988,14481,18378,3897,oui,2988,1.0000,0.7667,oui,Autres médicaments et Ciprofloxacine AB
+10,36f7f80aa2f0,périndopril,afmps_notice,Indications,1269,2138,869,1266,12957,11691,oui,869,1.0000,0.0743,oui,1. Qu’est-ce que Perindopril Teva et dans quels cas est-il utilisé ?
+10,36f7f80aa2f0,périndopril,afmps_notice,Contre-indications,2219,3854,1635,2219,3854,1635,oui,1635,1.0000,1.0000,oui,Ne prenez jamais Perindopril Teva
+10,36f7f80aa2f0,périndopril,afmps_notice,Posologie,12957,15729,2772,12957,15917,2960,oui,2772,1.0000,0.9365,oui,3. Comment prendre Perindopril Teva ?
+10,36f7f80aa2f0,périndopril,afmps_notice,Interactions,7685,10969,3284,7685,11077,3392,oui,3284,1.0000,0.9682,oui,Autres médicaments et Perindopril Teva
+11,1d0911e7bd49,diclofénac,anpp,Indications,918,1281,363,918,1426,508,oui,363,1.0000,0.7146,oui,4.1. Indications thérapeutiques :
+11,1d0911e7bd49,diclofénac,anpp,Contre-indications,3859,4551,692,3859,5011,1152,oui,692,1.0000,0.6007,oui,4.3. Contre-indications :
+11,1d0911e7bd49,diclofénac,anpp,Posologie,1426,3859,2433,1426,3859,2433,oui,2433,1.0000,1.0000,oui,4.2. Posologie et mode d'administration :
+11,1d0911e7bd49,diclofénac,anpp,Interactions,5011,5253,242,5011,9968,4957,oui,242,1.0000,0.0488,oui,4.5. Interactions avec d’autres médicaments et autres formes d’interactions :
+12,7aec2085e838,ciprofloxacine,anpp,Indications,1007,3928,2921,1001,3932,2931,oui,2921,1.0000,0.9966,oui,4.1- Indications thérapeutiques
+12,7aec2085e838,ciprofloxacine,anpp,Contre-indications,11077,11286,209,11071,29527,18456,oui,209,1.0000,0.0113,oui,4.3- Contre-indications :
+12,7aec2085e838,ciprofloxacine,anpp,Posologie,3938,11069,7131,3932,11071,7139,oui,7131,1.0000,0.9989,oui,4.2- Posologie et mode d’administration
+12,7aec2085e838,ciprofloxacine,anpp,Interactions,29533,37491,7958,29527,38708,9181,oui,7958,1.0000,0.8668,oui,4.5- Interactions avec d’autres médicaments
+13,af1492da07c8,kétoprofène,anpp,Indications,838,1224,386,838,1224,386,oui,386,1.0000,1.0000,oui,4.1. Indications thérapeutiques
+13,af1492da07c8,kétoprofène,anpp,Contre-indications,2703,3705,1002,2703,4933,2230,oui,1002,1.0000,0.4493,oui,4.3. Contre-indications
+13,af1492da07c8,kétoprofène,anpp,Posologie,1224,2703,1479,1224,2703,1479,oui,1479,1.0000,1.0000,oui,4.2. Posologie et mode d’administration
+13,af1492da07c8,kétoprofène,anpp,Interactions,4933,5174,241,4933,6420,1487,oui,241,1.0000,0.1621,oui,4.5. Interactions avec d’autres médicaments et autres formes d’interactions
+14,0643af951684,bisoprolol,anpp,Indications,622,949,327,622,949,327,oui,327,1.0000,1.0000,oui,4.1. Indications thérapeutiques
+14,0643af951684,bisoprolol,anpp,Contre-indications,4495,5293,798,4495,10090,5595,oui,798,1.0000,0.1426,oui,4.3. Contre-indications
+14,0643af951684,bisoprolol,anpp,Posologie,949,4495,3546,949,4495,3546,oui,3546,1.0000,1.0000,oui,4.2. Posologie et mode d'administration
+14,0643af951684,bisoprolol,anpp,Interactions,10090,13497,3407,10090,15336,5246,oui,3407,1.0000,0.6494,oui,4.5. Interactions avec d'autres médicaments et autres formes d'interactions
+15,62594665f4ed,métronidazole,anpp,Indications,794,1626,832,794,1626,832,oui,832,1.0000,1.0000,oui,4.1. INDICATIONS THERAPEUTIQUES :
+15,62594665f4ed,métronidazole,anpp,Contre-indications,2983,3251,268,2983,10392,7409,oui,268,1.0000,0.0362,oui,4.3. CONTRE-INDICATIONS :
+15,62594665f4ed,métronidazole,anpp,Posologie,1626,2983,1357,1626,2983,1357,oui,1357,1.0000,1.0000,oui,4.2. POSOLOGIE ET MODE D'ADMINISTRATION :
+15,62594665f4ed,métronidazole,anpp,Interactions,10392,13349,2957,10392,14778,4386,oui,2957,1.0000,0.6742,oui,4.5. INTERACTIONS MEDICAMENTEUSES ET AUTRES :
+16,1a991f1463cd,tramadol,dailymed,Indications,16090,16737,647,16090,16737,647,oui,647,1.0000,1.0000,oui,1 INDICATIONS AND USAGE
+16,1a991f1463cd,tramadol,dailymed,Contre-indications,27578,28518,940,27578,28518,940,oui,940,1.0000,1.0000,oui,4 CONTRAINDICATIONS
+16,1a991f1463cd,tramadol,dailymed,Posologie,16737,26991,10254,16737,27578,10841,oui,10254,1.0000,0.9459,oui,2 DOSAGE AND ADMINISTRATION
+16,1a991f1463cd,tramadol,dailymed,Interactions,70015,79236,9221,70015,79236,9221,oui,9221,1.0000,1.0000,oui,7 DRUG INTERACTIONS
+17,51ebb4e1d689,méthyldopa,dailymed,Indications,3451,3487,36,3451,3487,36,oui,36,1.0000,1.0000,oui,INDICATIONS AND USAGE
+17,51ebb4e1d689,méthyldopa,dailymed,Contre-indications,3487,3822,335,3487,8829,5342,oui,335,1.0000,0.0627,oui,CONTRAINDICATIONS
+17,51ebb4e1d689,méthyldopa,dailymed,Posologie,18397,20796,2399,18397,24295,5898,oui,2399,1.0000,0.4067,oui,DOSAGE AND ADMINISTRATION
+17,51ebb4e1d689,méthyldopa,dailymed,Interactions,8829,9855,1026,8829,15662,6833,oui,1026,1.0000,0.1502,oui,Drug Interactions
+18,179efd1e6208,lévofloxacine,dailymed,Indications,11527,19524,7997,11527,19524,7997,oui,7997,1.0000,1.0000,oui,1 INDICATIONS AND USAGE
+18,179efd1e6208,lévofloxacine,dailymed,Contre-indications,27427,27608,181,27427,27608,181,oui,181,1.0000,1.0000,oui,4 CONTRAINDICATIONS
+18,179efd1e6208,lévofloxacine,dailymed,Posologie,19524,27316,7792,19524,27427,7903,oui,7792,1.0000,0.9860,oui,2 DOSAGE AND ADMINISTRATION
+18,179efd1e6208,lévofloxacine,dailymed,Interactions,50818,56104,5286,50818,56104,5286,oui,5286,1.0000,1.0000,oui,7 DRUG INTERACTIONS
+19,18fa39077cce,céfuroxime,dailymed,Indications,5401,10602,5201,5401,9466,4065,oui,4065,0.7816,1.0000,non,1 INDICATIONS AND USAGE
+19,18fa39077cce,céfuroxime,dailymed,Contre-indications,12619,12857,238,12619,12857,238,oui,238,1.0000,1.0000,oui,4 CONTRAINDICATIONS
+19,18fa39077cce,céfuroxime,dailymed,Posologie,9466,12195,2729,9466,12619,3153,oui,2729,1.0000,0.8655,oui,2 DOSAGE AND ADMINISTRATION
+19,18fa39077cce,céfuroxime,dailymed,Interactions,21081,22443,1362,21081,22443,1362,oui,1362,1.0000,1.0000,oui,7 DRUG INTERACTIONS
+20,11e5a56cec27,paracétamol + codéine,dailymed,Indications,13055,13700,645,13055,13700,645,oui,645,1.0000,1.0000,oui,INDICATIONS AND USAGE
+20,11e5a56cec27,paracétamol + codéine,dailymed,Contre-indications,13718,14545,827,13700,22429,8729,oui,827,1.0000,0.0947,oui,CONTRAINDICATIONS
+20,11e5a56cec27,paracétamol + codéine,dailymed,Posologie,74559,83614,9055,74559,87479,12920,oui,9055,1.0000,0.7009,oui,DOSAGE AND ADMINISTRATION
+20,11e5a56cec27,paracétamol + codéine,dailymed,Interactions,44453,52458,8005,44453,63261,18808,oui,8005,1.0000,0.4256,oui,Drug Interactions

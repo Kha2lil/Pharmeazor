@@ -5,7 +5,7 @@
   "langue": "fr",
   "url": "https://base-donnees-publique.medicaments.gouv.fr/medicament/63390065/extrait",
   "date_collecte": "2026-11-15",
-  "date_extraction": "2026-11-26",
+  "date_extraction": "2026-11-27",
   "chemin_texte": "data/processed/textes/4461a21bc752.txt",
   "rubriques": {
     "indications": {

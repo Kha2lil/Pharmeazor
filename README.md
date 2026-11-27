@@ -48,14 +48,14 @@ Collecte → Extraction des rubriques → Normalisation des noms → Recherche (
                                       Interface web + jeu de test (≥ 30 questions)
 ```
 
-| Fonctionnalité              | Module                                            | Critère de réussite                                               |
-| --------------------------- | ------------------------------------------------- | ----------------------------------------------------------------- |
-| F1 Collecte + provenance    | `src/collecte/`                                   | Rejouable sans doublons, CGU/robots.txt consignés                 |
-| F2 Extraction des rubriques | `src/extraction/`                                 | Taux mesuré sur ~20 notices vérifiées à la main                   |
-| F3 Normalisation des noms   | `src/normalisation/`                              | Évaluation sur ≥ 40 saisies, cas ambigus signalés                 |
-| F4 Réponse avec preuves     | `src/retrieval/`, `src/rag/`, `src/verification/` | Citations correctes, ≥ 2 méthodes comparées, refus hors périmètre |
-| F5 Réconciliation           | `src/reconciliation/`                             | ≥ 10 désaccords réels annotés retrouvés                           |
-| F6 Interface + jeu de test  | `src/ui/`, `tests/`                               | ≥ 30 questions, relançable d'un clic                              |
+| Fonctionnalité              | Module                                            | État        | Critère de réussite                                             |
+| --------------------------- | ------------------------------------------------- | ----------- | --------------------------------------------------------------- |
+| F1 Collecte + provenance    | `src/collecte/`                                   | ☑ fait      | 2 960 documents, 11 sources, `run.py` refuse une CGU absente    |
+| F2 Extraction des rubriques | `src/extraction/`                                 | ◐ en cours  | détecteur + 13 662 passages ; **taux à mesurer sur 20 notices** |
+| F3 Normalisation des noms   | `src/normalisation/`                              | ◐ partiel   | 1 035 entrées ; évaluation sur ≥ 40 saisies à faire             |
+| F4 Réponse avec preuves     | `src/retrieval/`, `src/rag/`, `src/verification/` | ☐ à venir   | `src/retrieval/` encore vide                                    |
+| F5 Réconciliation           | `src/reconciliation/`                             | ◐ partiel   | `detect.py` écrit ; ≥ 10 désaccords à annoter                   |
+| F6 Interface + jeu de test  | `src/ui/`, `tests/`                               | ☐ squelette | interface non branchée ; 9 questions (objectif ≥ 30)            |
 
 **Format de réponse imposé** : (a) réponse courte, (b) explication simple, (c) sources citées avec niveau d'autorité et date de collecte, (d) niveau de confiance et limites.
 
@@ -112,34 +112,52 @@ cp .env.example .env               # puis renseigner GROQ_API_KEY dans .env
 
 ## 7. Utilisation
 
-> À compléter au fil du développement.
+Commandes **disponibles aujourd'hui** :
 
 ```bash
-python -m src.collecte.run            # F1 : collecte + fiches de provenance
-python -m src.extraction.run          # F2 : extraction des rubriques
-python -m src.normalisation.build     # F3 : dictionnaire DCI / nom commercial / ATC
-streamlit run src/ui/app.py           # F6 : interface
-python -m tests.run_eval              # jeu de test (relançable d'un clic)
+# F1 — collecte reproductible (garde-fou CGU, sans doublon)
+python -m src.collecte.run --all --dry-run        # affiche le plan, ne télécharge rien
+python -m src.collecte.run --source bdpm          # une source ; demande OUI avant d'agir
+
+# F2 — textes puis rubriques
+python scripts/extraire_textes.py                 # PDF/JSON/TXT → data/processed/textes/
+python scripts/extraire_rubriques.py              # → data/processed/rubriques/
+
+# F6 — interface (squelette, non branchée)
+streamlit run src/ui/app.py
+
+# Jeu de test (vérifie que les doc_id cités existent)
+python -m tests.run_eval
 ```
+
+> `--dry-run` n'écrit aucun fichier. Sans `--yes`, tout lancement réel demande `OUI`.
 
 ## 8. Sources et conditions d'utilisation
 
 Voir `data/metadata/sources.csv` et `data/metadata/robots_cgu_log.md`.
 
-| Source                              | Rang | robots.txt / CGU                        | Mode de collecte          | Statut |
-| ----------------------------------- | ---- | --------------------------------------- | ------------------------- | ------ |
-| ANPP (RCP/notices)                  | 1    | à vérifier                              | à vérifier                | ☐      |
-| Nomenclature officielle             | 2    | robots.txt interdit l'accès automatique | **téléchargement manuel** | ☐      |
-| Thésaurus ANSM                      | 3    | à vérifier                              | à vérifier                | ☐      |
-| DailyMed / EMA                      | 3    | à vérifier                              | à vérifier                | ☐      |
-| Pharm'Net, MEDAlgérie, dzair-pharma | 4    | à lire avant collecte                   | à vérifier                | ☐      |
+| Source                              | Rang | robots.txt                                       | CGU                                    | Mode de collecte      | Vérifié    |
+| ----------------------------------- | ---- | ------------------------------------------------ | -------------------------------------- | --------------------- | ---------- |
+| ANPP / ANPP RCP                     | 1    | `/wp-admin/` interdit                            | non trouvées                           | auto, délai 3 s       | 2026-11-15 |
+| Nomenclature officielle             | 2    | accès automatique interdit                       | —                                      | **téléchargement manuel** | 2026-11-15 |
+| Thésaurus ANSM                      | 3    | aucune restriction                               | réutilisation avec mention de la source | auto                  | 2026-11-15 |
+| DailyMed                            | 3    | absent ; API officielle documentée               | attribution obligatoire                | auto                  | 2026-11-15 |
+| EMA                                 | 3    | `/core/`, `/search/`, `/user/` interdits          | réutilisation avec mention de la source | auto                  | 2026-11-15 |
+| BDPM (ANSM)                         | 3    | `Allow`                                          | réutilisation avec mention de la source | auto, 1 req/2 s       | 2026-11-15 |
+| AFMPS / FAMHP                       | 3    | partiel (`/core/`, `/profiles/`, `/admin/`…)     | usage pédagogique non commercial       | rangement des PDF     | **2026-11-27** |
+| Pharm'Net, MEDAlgérie, dzair-pharma | 4    | variable / absent / crawlers IA bloqués          | non trouvées                           | non collecté          | 2026-11-15 |
 
-Chaque document collecté a une fiche : source, URL, **date de collecte**, langue, niveau d'autorité.
+Chaque document collecté a une fiche : source, URL, **date de collecte**, langue, niveau d'autorité. Le détail est dans `data/metadata/robots_cgu_log.md`.
 
 ## 9. Évaluation
 
-Résultats chiffrés dans `reports/evaluation/` :
-`extraction` · `normalisation` · `retrieval` (BM25 vs embeddings, bon passage dans le top-3 ?) · `reconciliation` · `jeu_de_test`.
+| Fonction | Résultat | Où |
+| -------- | -------- | -- |
+| F2 extraction des rubriques | **en cours** — mesure sur 20 notices annotées à la main | `reports/extraction_rubriques.md` (à venir) |
+| F4 retrieval | non commencé (BM25 vs embeddings à comparer) | — |
+| LLM de référence | baseline enregistrée | `reports/llm_baseline.md` |
+
+Aucun chiffre n'est publié avant d'être mesuré.
 
 ## 10. Équipe et contributions
 
@@ -156,7 +174,11 @@ Outils d'IA utilisés et finalité : voir `docs/usage_ia.md` (mis à jour chaque
 
 ## 12. Limites connues
 
-> À compléter : couverture ANPP, notices scannées/arabes (qualité OCR), médicaments absents de la nomenclature, etc.
+- **27 des 40 médicaments n'ont pas de RCP ANPP** (statut au 2026-11-15, voir `data/metadata/rcp_anpp_statut.csv`) : ils sont complétés par une source étrangère marquée comme **complément**, jamais comme substitut officiel.
+- **Précision de F2 non encore chiffrée** : la mesure sur 20 notices est en cours.
+- **Recherche (F4) non implémentée** : `src/retrieval/` est vide.
+- **AFMPS vérifié le 27/11/2026**, soit après la collecte du 15/11/2026.
+- Notices scannées ou en arabe non couvertes (pas d'OCR).
 
 ---
 *Un système qui dit « je ne sais pas » vaut mieux qu'un système qui invente.*

@@ -5,7 +5,7 @@
   "langue": "en",
   "url": "https://dailymed.nlm.nih.gov/dailymed/downloadpdffile.cfm?setId=5f35ccc3-15b3-4672-9c1f-986e8af6a0d3",
   "date_collecte": "2026-11-16",
-  "date_extraction": "2026-11-26",
+  "date_extraction": "2026-11-27",
   "chemin_texte": "data/processed/textes/5e200d3a2e8e.txt",
   "rubriques": {
     "indications": {
@@ -14,17 +14,17 @@
       "titre": "INDICATIONS",
       "methode": "titre",
       "debut": 4762,
-      "fin": 6410,
-      "passage": "INDICATIONS\nClindamycin Hydrochloride Capsules, USP (for use in dogs only) are indicated for the\ntreatment of infections caused by susceptible strains of the designated microorganisms\nin the specific conditions listed below: \nDogs: Skin infections (wounds and abscesses) due to coagulase positive\nstaphylococci (Staphylococcus aureus or Staphylococcus intermedius).Deep wounds\nand abscesses due to Bacteroides fragilis, Prevotella melaninogenicus, Fusobacterium\nnecrophorum and Clostridium perfringens. \nDental infections due to Staphylococcus aureus, Bacteroides fragilis, Prevotella\nmelaninogenicus, Fusobacterium necrophorum and Clostridium\nperfringens.Osteomyelitis due to Staphylococcus aureus, Bacteroides fragilis,\nPrevotella melaninogenicus, Fusobacterium necrophorum and Clostridium perfringens.\n\nCONTRAINDICATIONS\nClindamycin Hydrochloride Capsules, USP are contraindicated in animals with a history of\nhypersensitivity to preparations containing clindamycin or lincomycin. \nBecause of potential adverse gastrointestinal effects, do not administer to rabbits,\nhamsters, guinea pigs, horses, chinchillas or ruminating animals.\nWARNINGS\nKeep out of reach of children. Not for human use.\nPRECAUTIONS\nDuring prolonged therapy of one month or greater, periodic liver and kidney function\ntests and blood counts should be performed. \nThe use of Clindamycin Hydrochloride Capsules, USP occasionally results in overgrowth\nof non-susceptible organisms such as clostridia and yeasts. Therefore, the\nadministration of Clindamycin Hydrochloride Capsules should be avoided in those\nspecies sensitive to the gastrointestinal effects of clindamycin (see"
+      "fin": 5568,
+      "passage": "INDICATIONS\nClindamycin Hydrochloride Capsules, USP (for use in dogs only) are indicated for the\ntreatment of infections caused by susceptible strains of the designated microorganisms\nin the specific conditions listed below: \nDogs: Skin infections (wounds and abscesses) due to coagulase positive\nstaphylococci (Staphylococcus aureus or Staphylococcus intermedius).Deep wounds\nand abscesses due to Bacteroides fragilis, Prevotella melaninogenicus, Fusobacterium\nnecrophorum and Clostridium perfringens. \nDental infections due to Staphylococcus aureus, Bacteroides fragilis, Prevotella\nmelaninogenicus, Fusobacterium necrophorum and Clostridium\nperfringens.Osteomyelitis due to Staphylococcus aureus, Bacteroides fragilis,\nPrevotella melaninogenicus, Fusobacterium necrophorum and Clostridium perfringens."
     },
     "contre_indications": {
       "trouve": true,
       "raison": "",
-      "titre": "CONTRAINDICATIONS). Should superinfections occur, appropriate measures should",
+      "titre": "CONTRAINDICATIONS",
       "methode": "titre",
-      "debut": 6410,
-      "fin": 7123,
-      "passage": "CONTRAINDICATIONS). Should superinfections occur, appropriate measures should\nbe taken as indicated by the clinical situation. \nPatients with very severe renal disease and/or very severe hepatic disease accompanied\nby severe metabolic aberrations should be dosed with caution, and serum clindamycin\nlevels monitored during high-dose therapy. \nClindamycin hydrochloride has been shown to have neuromuscular blocking properties\nthat may enhance the action of other neuromuscular blocking agents. Therefore,\nClindamycin Hydrochloride Capsules, USP should be used with caution in animals\nreceiving such agents. \nSafety in gestating bitches and queens or breeding male dogs has not been established.\nADVERSE REACTIONS"
+      "debut": 5568,
+      "fin": 6410,
+      "passage": "CONTRAINDICATIONS\nClindamycin Hydrochloride Capsules, USP are contraindicated in animals with a history of\nhypersensitivity to preparations containing clindamycin or lincomycin. \nBecause of potential adverse gastrointestinal effects, do not administer to rabbits,\nhamsters, guinea pigs, horses, chinchillas or ruminating animals.\nWARNINGS\nKeep out of reach of children. Not for human use.\nPRECAUTIONS\nDuring prolonged therapy of one month or greater, periodic liver and kidney function\ntests and blood counts should be performed. \nThe use of Clindamycin Hydrochloride Capsules, USP occasionally results in overgrowth\nof non-susceptible organisms such as clostridia and yeasts. Therefore, the\nadministration of Clindamycin Hydrochloride Capsules should be avoided in those\nspecies sensitive to the gastrointestinal effects of clindamycin (see"
     },
     "posologie": {
       "trouve": true,
@@ -47,11 +47,11 @@
     "effets_indesirables": {
       "trouve": true,
       "raison": "",
-      "titre": "Side effects occasionally observed in either clinical trials or during clinical use were",
+      "titre": "ADVERSE REACTIONS",
       "methode": "titre",
-      "debut": 7123,
+      "debut": 7105,
       "fin": 7312,
-      "passage": "Side effects occasionally observed in either clinical trials or during clinical use were\nvomiting and diarrhea. \nTo report a suspected adverse reaction call 1-844-227-6687 (1-844-2-CRONUS)"
+      "passage": "ADVERSE REACTIONS\nSide effects occasionally observed in either clinical trials or during clinical use were\nvomiting and diarrhea. \nTo report a suspected adverse reaction call 1-844-227-6687 (1-844-2-CRONUS)"
     }
   }
 }

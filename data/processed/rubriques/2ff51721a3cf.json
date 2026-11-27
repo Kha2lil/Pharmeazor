@@ -5,7 +5,7 @@
   "langue": "en",
   "url": "https://dailymed.nlm.nih.gov/dailymed/downloadpdffile.cfm?setId=3ca776c2-47ed-5107-e063-6394a90ac5df",
   "date_collecte": "2026-11-16",
-  "date_extraction": "2026-11-26",
+  "date_extraction": "2026-11-27",
   "chemin_texte": "data/processed/textes/2ff51721a3cf.txt",
   "rubriques": {
     "indications": {
@@ -14,17 +14,17 @@
       "titre": "Uses",
       "methode": "titre",
       "debut": 204,
-      "fin": 324,
-      "passage": "Uses\ntemporarily relieves\nheadache\nmuscle pain\ntoothache\nmenstrual pain\npain and fever of colds\nminor pain of arthritis"
+      "fin": 2538,
+      "passage": "Uses\ntemporarily relieves\nheadache\nmuscle pain\ntoothache\nmenstrual pain\npain and fever of colds\nminor pain of arthritis\nWarnings\nReye's syndrome\nChildren and teenagers who have or are recovering from chicken pox or flu-like\nsymptoms should not use this product. When using this product, if changes in behavior\nwith nausea and vomiting occur, consult a doctor because these symptoms could be an\nearly sign of Reye's syndrome, a rare but serious illness.\nAllergy alert\nAspirin may cause a severe allergic reaction which may include:\nhives\nfacial swelling\nasthma (wheezing)\nshock\nStomach bleeding warning\nThis product contains an NSAID, which may cause severe stomach bleeding. The chance\nis higher if you\n®\n1\nnonsteroidal anti-inflammatory drug\n\ng\ny\nare age 60 or older\nhave had stomach ulcers or bleeding problems\ntake a blood thinning (anticoagulant) or steroid drug\ntake other drugs containing prescription or nonprescription NSAIDs (aspirin,\nibuprofen, naproxen, or others)\nhave 3 or more alcoholic drinks every day while using this product\ntake more or for a longer time than directed\nDo not useif you are allergic to aspirin or any other pain reliever/fever reducer\nAsk a doctor before use if\nstomach bleeding warning applies to you\nyou have a history of stomach problems, such as heartburn\nyou have high blood pressure, heart disease, liver cirrhosis, or kidney disease\nyou are taking a diuretic\nyou have asthma\nAsk a doctor or pharmacist before use if you aretaking a prescription drug for\ngout\ndiabetes\narthritis\nStop use and ask a doctor if\nan allergic reaction occurs. Seek medical help right away.\nyou experience any of the following signs of stomach bleeding:\nfeel faint\nvomit blood\nhave bloody or black stools\nhave stomach pain that does not get better\npain gets worse or lasts more than 10 days\nredness or swelling is present\nfever lasts more than 3 days\nnew symptoms occur\nringing in the ears or a loss of hearing occurs\nIf pregnant or breast-feeding,ask a health professional before use. It is especially\nimportant not to use aspirin during the last 3 months of pregnancy unless\ndefinitely directed to do so by a doctor because it may cause problems in\nthe unborn child or complications during delivery.\nKeep out of reach of children.In case of overdose, get medical help or contact a\nPoison Control Center right away."
     },
     "contre_indications": {
-      "trouve": true,
-      "raison": "",
-      "titre": "Warnings",
-      "methode": "titre",
-      "debut": 324,
-      "fin": 2538,
-      "passage": "Warnings\nReye's syndrome\nChildren and teenagers who have or are recovering from chicken pox or flu-like\nsymptoms should not use this product. When using this product, if changes in behavior\nwith nausea and vomiting occur, consult a doctor because these symptoms could be an\nearly sign of Reye's syndrome, a rare but serious illness.\nAllergy alert\nAspirin may cause a severe allergic reaction which may include:\nhives\nfacial swelling\nasthma (wheezing)\nshock\nStomach bleeding warning\nThis product contains an NSAID, which may cause severe stomach bleeding. The chance\nis higher if you\n®\n1\nnonsteroidal anti-inflammatory drug\n\ng\ny\nare age 60 or older\nhave had stomach ulcers or bleeding problems\ntake a blood thinning (anticoagulant) or steroid drug\ntake other drugs containing prescription or nonprescription NSAIDs (aspirin,\nibuprofen, naproxen, or others)\nhave 3 or more alcoholic drinks every day while using this product\ntake more or for a longer time than directed\nDo not useif you are allergic to aspirin or any other pain reliever/fever reducer\nAsk a doctor before use if\nstomach bleeding warning applies to you\nyou have a history of stomach problems, such as heartburn\nyou have high blood pressure, heart disease, liver cirrhosis, or kidney disease\nyou are taking a diuretic\nyou have asthma\nAsk a doctor or pharmacist before use if you aretaking a prescription drug for\ngout\ndiabetes\narthritis\nStop use and ask a doctor if\nan allergic reaction occurs. Seek medical help right away.\nyou experience any of the following signs of stomach bleeding:\nfeel faint\nvomit blood\nhave bloody or black stools\nhave stomach pain that does not get better\npain gets worse or lasts more than 10 days\nredness or swelling is present\nfever lasts more than 3 days\nnew symptoms occur\nringing in the ears or a loss of hearing occurs\nIf pregnant or breast-feeding,ask a health professional before use. It is especially\nimportant not to use aspirin during the last 3 months of pregnancy unless\ndefinitely directed to do so by a doctor because it may cause problems in\nthe unborn child or complications during delivery.\nKeep out of reach of children.In case of overdose, get medical help or contact a\nPoison Control Center right away."
+      "trouve": false,
+      "raison": "titre introuvable",
+      "titre": "",
+      "methode": "",
+      "debut": null,
+      "fin": null,
+      "passage": ""
     },
     "posologie": {
       "trouve": true,

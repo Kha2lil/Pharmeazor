@@ -5,7 +5,7 @@
   "langue": "en",
   "url": "https://dailymed.nlm.nih.gov/dailymed/downloadpdffile.cfm?setId=39c00714-331d-49b1-a675-653b82b10c98",
   "date_collecte": "2026-11-16",
-  "date_extraction": "2026-11-26",
+  "date_extraction": "2026-11-27",
   "chemin_texte": "data/processed/textes/d4b1df8f2bf0.txt",
   "rubriques": {
     "indications": {
@@ -14,17 +14,17 @@
       "titre": "INDICATIONS",
       "methode": "titre",
       "debut": 3178,
-      "fin": 4771,
-      "passage": "INDICATIONS\nANTIROBE (clindamycin hydrochloride capsules) is (for use in dogs only) indicated for\nthe treatment of infections caused by susceptible strains of the designated\nmicroorganisms in the specific conditions listed below:\nSkin infections (wounds and abscesses) due to coagulase positive staphylococci\n(Staphylococcus aureus or Staphylococcus intermedius).\nDeep wounds and abscesses due to Bacteroides fragilis, Prevotella melaninogenicus,\nFusobacterium necrophorum and Clostridium perfringens.\nDental infections due to Staphylococcus aureus, Bacteroides fragilis, Prevotella\n\nmelaninogenicus, Fusobacterium necrophorum and Clostridium perfringens.\nOsteomyelitis due to Staphylococcus aureus, Bacteroides fragilis, Prevotella\nmelaninogenicus, Fusobacterium necrophorum and Clostridium perfringens.\nCONTRAINDICATIONS\nANTIROBE (clindamycin hydrochloride capsules) is contraindicated in animals with a\nhistory of hypersensitivity to preparations containing clindamycin or lincomycin.\nBecause of potential adverse gastrointestinal effects, do not administer to rabbits,\nhamsters, guinea pigs, horses, chinchillas or ruminating animals.\nWARNINGS\nKeep out of reach of children. Not for human use.\nPRECAUTIONS\nDuring prolonged therapy of one month or greater, periodic liver and kidney function\ntests and blood counts should be performed.\nThe use of ANTIROBE occasionally results in overgrowth of non-susceptible organisms\nsuch as clostridia and yeasts. Therefore, the administration of ANTIROBE should be\navoided in those species sensitive to the gastrointestinal effects of clindamycin (see"
+      "fin": 3983,
+      "passage": "INDICATIONS\nANTIROBE (clindamycin hydrochloride capsules) is (for use in dogs only) indicated for\nthe treatment of infections caused by susceptible strains of the designated\nmicroorganisms in the specific conditions listed below:\nSkin infections (wounds and abscesses) due to coagulase positive staphylococci\n(Staphylococcus aureus or Staphylococcus intermedius).\nDeep wounds and abscesses due to Bacteroides fragilis, Prevotella melaninogenicus,\nFusobacterium necrophorum and Clostridium perfringens.\nDental infections due to Staphylococcus aureus, Bacteroides fragilis, Prevotella\n\nmelaninogenicus, Fusobacterium necrophorum and Clostridium perfringens.\nOsteomyelitis due to Staphylococcus aureus, Bacteroides fragilis, Prevotella\nmelaninogenicus, Fusobacterium necrophorum and Clostridium perfringens."
     },
     "contre_indications": {
       "trouve": true,
       "raison": "",
-      "titre": "CONTRAINDICATIONS). Should superinfections occur, appropriate measures should",
+      "titre": "CONTRAINDICATIONS",
       "methode": "titre",
-      "debut": 4771,
-      "fin": 5439,
-      "passage": "CONTRAINDICATIONS). Should superinfections occur, appropriate measures should\nbe taken as indicated by the clinical situation.\nPatients with very severe renal disease and/or very severe hepatic disease accompanied\nby severe metabolic aberrations should be dosed with caution, and serum clindamycin\nlevels monitored during high-dose therapy.\nClindamycin hydrochloride has been shown to have neuromuscular blocking properties\nthat may enhance the action of other neuromuscular blocking agents. Therefore,\nANTIROBE should be used with caution in animals receiving such agents.\nSafety in gestating bitches or breeding male dogs has not been established.\nADVERSE REACTIONS"
+      "debut": 3983,
+      "fin": 4771,
+      "passage": "CONTRAINDICATIONS\nANTIROBE (clindamycin hydrochloride capsules) is contraindicated in animals with a\nhistory of hypersensitivity to preparations containing clindamycin or lincomycin.\nBecause of potential adverse gastrointestinal effects, do not administer to rabbits,\nhamsters, guinea pigs, horses, chinchillas or ruminating animals.\nWARNINGS\nKeep out of reach of children. Not for human use.\nPRECAUTIONS\nDuring prolonged therapy of one month or greater, periodic liver and kidney function\ntests and blood counts should be performed.\nThe use of ANTIROBE occasionally results in overgrowth of non-susceptible organisms\nsuch as clostridia and yeasts. Therefore, the administration of ANTIROBE should be\navoided in those species sensitive to the gastrointestinal effects of clindamycin (see"
     },
     "posologie": {
       "trouve": true,
@@ -47,11 +47,11 @@
     "effets_indesirables": {
       "trouve": true,
       "raison": "",
-      "titre": "Side effects occasionally observed in either clinical trials or during clinical use were",
+      "titre": "ADVERSE REACTIONS",
       "methode": "titre",
-      "debut": 5439,
+      "debut": 5421,
       "fin": 5611,
-      "passage": "Side effects occasionally observed in either clinical trials or during clinical use were\nvomiting and diarrhea.\nTo report a suspected adverse reaction call 1-888-963-8471."
+      "passage": "ADVERSE REACTIONS\nSide effects occasionally observed in either clinical trials or during clinical use were\nvomiting and diarrhea.\nTo report a suspected adverse reaction call 1-888-963-8471."
     }
   }
 }
