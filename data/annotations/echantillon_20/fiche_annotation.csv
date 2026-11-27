@@ -1,81 +1,2667 @@
-﻿ordre,doc_id,medicament,source,rubrique,trouve,ligne_debut,ligne_fin
-1,3cee0064f86c,néfopam,ansm_notice,Indications,,,
-1,3cee0064f86c,néfopam,ansm_notice,Contre-indications,,,
-1,3cee0064f86c,néfopam,ansm_notice,Posologie,,,
-1,3cee0064f86c,néfopam,ansm_notice,Interactions,,,
-2,183f0fe1a2f0,nifédipine,ansm_notice,Indications,,,
-2,183f0fe1a2f0,nifédipine,ansm_notice,Contre-indications,,,
-2,183f0fe1a2f0,nifédipine,ansm_notice,Posologie,,,
-2,183f0fe1a2f0,nifédipine,ansm_notice,Interactions,,,
-3,0b2d7aa72776,amoxicilline,ansm_notice,Indications,,,
-3,0b2d7aa72776,amoxicilline,ansm_notice,Contre-indications,,,
-3,0b2d7aa72776,amoxicilline,ansm_notice,Posologie,,,
-3,0b2d7aa72776,amoxicilline,ansm_notice,Interactions,,,
-4,129105d65a5d,énalapril,ansm_notice,Indications,,,
-4,129105d65a5d,énalapril,ansm_notice,Contre-indications,,,
-4,129105d65a5d,énalapril,ansm_notice,Posologie,,,
-4,129105d65a5d,énalapril,ansm_notice,Interactions,,,
-5,0871643c2a9a,azithromycine,ansm_notice,Indications,,,
-5,0871643c2a9a,azithromycine,ansm_notice,Contre-indications,,,
-5,0871643c2a9a,azithromycine,ansm_notice,Posologie,,,
-5,0871643c2a9a,azithromycine,ansm_notice,Interactions,,,
-6,122442d48ba1,méloxicam,afmps_notice,Indications,,,
-6,122442d48ba1,méloxicam,afmps_notice,Contre-indications,,,
-6,122442d48ba1,méloxicam,afmps_notice,Posologie,,,
-6,122442d48ba1,méloxicam,afmps_notice,Interactions,,,
-7,093b3cdc9090,naproxène,afmps_notice,Indications,,,
-7,093b3cdc9090,naproxène,afmps_notice,Contre-indications,,,
-7,093b3cdc9090,naproxène,afmps_notice,Posologie,,,
-7,093b3cdc9090,naproxène,afmps_notice,Interactions,,,
-8,e5caafbc4e9f,indapamide,afmps_notice,Indications,,,
-8,e5caafbc4e9f,indapamide,afmps_notice,Contre-indications,,,
-8,e5caafbc4e9f,indapamide,afmps_notice,Posologie,,,
-8,e5caafbc4e9f,indapamide,afmps_notice,Interactions,,,
-9,20663e0f8ae1,ciprofloxacine,afmps_notice,Indications,,,
-9,20663e0f8ae1,ciprofloxacine,afmps_notice,Contre-indications,,,
-9,20663e0f8ae1,ciprofloxacine,afmps_notice,Posologie,,,
-9,20663e0f8ae1,ciprofloxacine,afmps_notice,Interactions,,,
-10,36f7f80aa2f0,périndopril,afmps_notice,Indications,,,
-10,36f7f80aa2f0,périndopril,afmps_notice,Contre-indications,,,
-10,36f7f80aa2f0,périndopril,afmps_notice,Posologie,,,
-10,36f7f80aa2f0,périndopril,afmps_notice,Interactions,,,
-11,1d0911e7bd49,diclofénac,anpp,Indications,,,
-11,1d0911e7bd49,diclofénac,anpp,Contre-indications,,,
-11,1d0911e7bd49,diclofénac,anpp,Posologie,,,
-11,1d0911e7bd49,diclofénac,anpp,Interactions,,,
-12,7aec2085e838,ciprofloxacine,anpp,Indications,,,
-12,7aec2085e838,ciprofloxacine,anpp,Contre-indications,,,
-12,7aec2085e838,ciprofloxacine,anpp,Posologie,,,
-12,7aec2085e838,ciprofloxacine,anpp,Interactions,,,
-13,af1492da07c8,kétoprofène,anpp,Indications,,,
-13,af1492da07c8,kétoprofène,anpp,Contre-indications,,,
-13,af1492da07c8,kétoprofène,anpp,Posologie,,,
-13,af1492da07c8,kétoprofène,anpp,Interactions,,,
-14,0643af951684,bisoprolol,anpp,Indications,,,
-14,0643af951684,bisoprolol,anpp,Contre-indications,,,
-14,0643af951684,bisoprolol,anpp,Posologie,,,
-14,0643af951684,bisoprolol,anpp,Interactions,,,
-15,62594665f4ed,métronidazole,anpp,Indications,,,
-15,62594665f4ed,métronidazole,anpp,Contre-indications,,,
-15,62594665f4ed,métronidazole,anpp,Posologie,,,
-15,62594665f4ed,métronidazole,anpp,Interactions,,,
-16,1a991f1463cd,tramadol,dailymed,Indications,,,
-16,1a991f1463cd,tramadol,dailymed,Contre-indications,,,
-16,1a991f1463cd,tramadol,dailymed,Posologie,,,
-16,1a991f1463cd,tramadol,dailymed,Interactions,,,
-17,51ebb4e1d689,méthyldopa,dailymed,Indications,,,
-17,51ebb4e1d689,méthyldopa,dailymed,Contre-indications,,,
-17,51ebb4e1d689,méthyldopa,dailymed,Posologie,,,
-17,51ebb4e1d689,méthyldopa,dailymed,Interactions,,,
-18,179efd1e6208,lévofloxacine,dailymed,Indications,,,
-18,179efd1e6208,lévofloxacine,dailymed,Contre-indications,,,
-18,179efd1e6208,lévofloxacine,dailymed,Posologie,,,
-18,179efd1e6208,lévofloxacine,dailymed,Interactions,,,
-19,18fa39077cce,céfuroxime,dailymed,Indications,,,
-19,18fa39077cce,céfuroxime,dailymed,Contre-indications,,,
-19,18fa39077cce,céfuroxime,dailymed,Posologie,,,
-19,18fa39077cce,céfuroxime,dailymed,Interactions,,,
-20,11e5a56cec27,paracétamol + codéine,dailymed,Indications,,,
-20,11e5a56cec27,paracétamol + codéine,dailymed,Contre-indications,,,
-20,11e5a56cec27,paracétamol + codéine,dailymed,Posologie,,,
-20,11e5a56cec27,paracétamol + codéine,dailymed,Interactions,,,
+﻿ordre,doc_id,medicament,source,rubrique,trouve,ligne_debut,ligne_fin,text_original
+1,3cee0064f86c,néfopam,ansm_notice,Indications,oui,37,40," QU’EST-CE QUE NEFOPAM PANPHARMA 20 mg/2 mL, solution injectable/pour perfusion ET DANS QUELS CAS EST-IL UTILISE ?
+00038 | Redirection vers le haut de page
+00039 | Classe pharmacothérapeutique : Analgésiques, autres analgésiques et antipyrétiques - code ATC : N02BG06.
+00040 | Ce médicament contient la substance active chlorhydrate de néfopam (dénommée « néfopam » dans cette notice). Ce médicament est utilisé chez les adultes après une chirurgie pour traiter la douleur aiguë modérée à sévère dans un contexte de traitement multimodal de la douleur."
+1,3cee0064f86c,néfopam,ansm_notice,Contre-indications,oui,43,51,"NEFOPAM PANPHARMA ne doit pas être administré :
+00044 | ·
+00045 | si vous êtes allergique au chlorhydrate de néfopam ou à l’un des autres composants contenus dans ce médicament, mentionnés dans la rubrique 6.
+00046 | ·
+00047 | si vous souffrez d’un glaucome à angle fermé (pression élevée à l’intérieur de l’œil),
+00048 | ·
+00049 | si vous avez des difficultés à uriner en raison d’un problème à la prostate,
+00050 | ·
+00051 | si vous avez des convulsions (crises épileptiques) ou avez des antécédents de convulsions."
+1,3cee0064f86c,néfopam,ansm_notice,Posologie,oui,92,107," COMMENT utiliser NEFOPAM PANPHARMA 20 mg/2 mL, solution injectable/pour perfusion?
+00093 | Redirection vers le haut de page
+00094 | Veillez à toujours utiliser ce médicament en suivant exactement les indications de votre médecin. Demandez conseil à votre médecin ou à votre pharmacien en cas de doute.
+00095 | Utilisation chez les adultes
+00096 | La dose recommandée est strictement individuelle.
+00097 | Il s’agit généralement de 1 ampoule (par voie IV ou IM) par dose, à répéter jusqu’à 6 ampoules par jour si nécessaire.
+00098 | Utilisation chez les enfants et les adolescents
+00099 | Ce produit ne doit pas être utilisé chez les enfants et les adolescents.
+00100 | Utilisation chez les patients âgés
+00101 | Ce produit ne doit pas être utilisé chez les patients âgés.
+00102 | Mode et voie d’administration
+00103 | Ce médicament peut être administré par voie intramusculaire (IM) profonde ou par perfusion intraveineuse (IV) lente (sur plus de 15 minutes).
+00104 | Lors d’une administration par voie intraveineuse, il est nécessaire de rester couché pour éviter les effets secondaires tels que nausées, étourdissements et sueurs.
+00105 | Les injections IM profondes peuvent être douloureuses et, si plusieurs injections IM sont nécessaires, l’administration IV doit être envisagée.
+00106 | Fréquence d’administration
+00107 | Les injections peuvent être répétée toutes les 6 heures (voie IM) ou toutes les 4 heures (voie IV)."
+1,3cee0064f86c,néfopam,ansm_notice,Interactions,oui,65,81,"Autres médicaments et NEFOPAM PANPHARMA
+00066 | Informez votre médecin ou votre pharmacien si vous utilisez, avez récemment utilisé ou pourriez utiliser tout autre médicament.
+00067 | Si le néfopam est utilisé avec d’autres médicaments qui affectent le système nerveux central, le traitement doit être particulièrement surveillé :
+00068 | ·
+00069 | dérivés de la morphine (antidouleurs, médicaments contre la toux et traitements de substitution de l’addiction).
+00070 | ·
+00071 | médicaments pour le traitement de la psychose (antipsychotiques) ; barbituriques, anxiolytiques benzodiazépines et non benzodiazépines (médicaments pour traiter l’anxiété et l’insomnie) ; somnifères (hypnotiques), médicaments pour traiter la dépression (antidépresseurs sédatifs tels que l’amitiptyline, la doxépine, la miansérine, la mirtazapine et la trimipramine) ; anti-allergiques (antihistaminiques sédatifs de type H1).
+00072 | ·
+00073 | médicaments pour traiter l’hypertension (antihypertenseurs) à action centrale.
+00074 | ·
+00075 | baclofène (médicament pour traiter les maladies et les affections caractérisées par une augmentation du tonus musculaire, comme la sclérose en plaques).
+00076 | ·
+00077 | thalomide (un médicament utilisé dans le traitement du myélome multiple).
+00078 | ·
+00079 | autres substances anticholinergiques.
+00080 | ·
+00081 | anticoagulants et/ou médicaments connus pour affecter la fonction plaquettaire : p. ex. antipsychotiques atypiques et phénothiazines, la plupart des antidépresseurs tricycliques, anti-inflammatoires non stéroïdiens (AINS), acide acétylsalicylique (AAS)."
+2,183f0fe1a2f0,nifédipine,ansm_notice,Indications,oui,38,49,"1. QU’EST-CE QUE MAPAKNA LP 20 mg, comprimé à libération prolongée ET DANS QUELS CAS EST-IL UTILISE ?
+00039 | Redirection vers le haut de page
+00040 | Classe pharmacothérapeutique - Inhibiteurs calciques sélectifs à effets vasculaires, code ATC : C08CA05
+00041 | MAPAKNA LP est indiqué pour retarder l’accouchement en cas de menace d'accouchement prématuré chez les femmes enceintes adultes :
+00042 | ·
+00043 | présentant des contractions utérines douloureuses régulières d’une durée d’au moins 30 secondes et survenant au moins 4 fois en 30 minutes ;
+00044 | ·
+00045 | ayant un raccourcissement significatif du col clinique ou échographique ;
+00046 | ·
+00047 | entre 22 et 37 semaines d’aménorrhée ;
+00048 | ·
+00049 | présentant un rythme cardiaque fœtal normal."
+2,183f0fe1a2f0,nifédipine,ansm_notice,Contre-indications,oui,52,85,"Ne prenez jamais MAPAKNA LP 20 mg, comprimé à libération prolongée :
+00053 | ·
+00054 | Si vous êtes allergique à la nifédipine ou à l’un des autres composants contenus dans ce médicament, mentionnés dans la rubrique 6 ;
+00055 | ·
+00056 | si vous êtes enceinte de moins de 22 semaines d’aménorrhée ou de plus de 36 semaines complètes d’aménorrhée ;
+00057 | ·
+00058 | si la poursuite de la grossesse est considérée comme dangereuse pour vous ou votre bébé à naître :
+00059 | -
+00060 | vous souffrez d’une affection appelée « pré-éclampsie sévère » ou d’une « éclampsie »
+00061 | -
+00062 | le fœtus est mort ;
+00063 | -
+00064 | le foetus a une fréquence cardiaque anormale ;
+00065 | -
+00066 | vous souffrez (ou suspicion) d’une infection de l’utérus ;
+00067 | -
+00068 | vous souffrez (ou suspicion) d’une infection intra-amniotique (Chorioamniotite) ;
+00069 | -
+00070 | le placenta couvre le passage emprunté par le bébé lors de l’accouchement (placenta praevia) ;
+00071 | -
+00072 | le placenta se décolle de la paroi de l’utérus ;
+00073 | -
+00074 | pertes sanguines importantes d’origine génitale (hémorragies) ;
+00075 | ·
+00076 | si vous avez reçu des bêtamimétiques dans les 48 heures précédentes ;
+00077 | ·
+00078 | si vous prenez déjà un traitement tocolytique;
+00079 | ·
+00080 | si vous avez des antécédents cardio-vasculaires sévères : angor instable, infarctus du myocarde, cardiopathie ;
+00081 | ·
+00082 | si vous avez de l’hypotension artérielle ;
+00083 | ·
+00084 | si vous prenez déjà des médicaments contenant du diltiazem.
+00085 | Ne prenez pas MAPAKNA LP si vous êtes dans l’une des situations mentionnées ci-dessus. En cas de doute, veuillez en informer votre médecin, votre sage-femme ou votre pharmacien avant l’administration de MAPAKNA LP.
+00086 | Avertissements et précautions"
+2,183f0fe1a2f0,nifédipine,ansm_notice,Posologie,oui,119,149," COMMENT PRENDRE MAPAKNA LP 20 mg, comprimé à libération prolongée ?
+00120 | Redirection vers le haut de page
+00121 | Mode et voie d'administration
+00122 | Voie orale.
+00123 | Les comprimés sont à avaler sans croquer avec un peu d’eau
+00124 | Posologie
+00125 | Veillez à toujours prendre ce médicament en suivant exactement les indications de votre médecin ou pharmacien. Vérifiez auprès de votre médecin ou pharmacien en cas de doute.
+00126 | Traitement d'attaque
+00127 | : 1 comprimé de MAPAKNA LP per os (avalé) à répéter après 30 minutes (soit 2 comprimés sur 1 heure).
+00128 | Lors du traitement, votre pression artérielle sera surveillée toutes les 15 minutes pendant 2 heures tandis que les contractions utérines et le rythme cardiaque fœtal seront surveillés en continu pendant la première heure du traitement.
+00129 | Si le traitement est arrêté après le traitement d’attaque, votre pression artérielle devra être surveillée durant les 8 heures qui suivent.
+00130 | Traitement d’entretien :
+00131 | Le traitement peut être poursuivi en cas de persistance des contractions utérines, en respectant une dose maximum de 20 mg de MAPAKNA LP toutes les 8 heures (soit 6 comprimés en tout pour le traitement d'entretien). En pratique, le premier comprimé est donné 3 heures après le deuxième comprimé du traitement d'attaque.
+00132 | Pendant le traitement par MAPAKNA LP, votre pression artérielle, vos contractions et la fréquence cardiaque de votre fœtus devront être surveillées dans les 30 minutes suivant chaque prise.
+00133 | Fréquence d'administration
+00134 | Veillez à toujours prendre ce médicament en suivant exactement les indications de votre médecin. Vérifiez auprès de votre médecin ou pharmacien en cas de doute.
+00135 | CONFORMEZ
+00136 | ‑
+00137 | VOUS STRICTEMENT A L
+00138 | ’
+00139 | ORDONNANCE DE VOTRE MEDECIN.
+00140 | Durée du traitement
+00141 | Veillez à toujours prendre ce médicament en suivant exactement les indications de votre médecin. Vérifiez auprès de votre médecin ou pharmacien en cas de doute.
+00142 | Le traitement par MAPAKNA LP ne doit pas être poursuivi au-delà de 48h (après la fin du traitement d'attaque).
+00143 | CONFORMEZ
+00144 | ‑
+00145 | VOUS STRICTEMENT A L
+00146 | ’
+00147 | ORDONNANCE DE VOTRE MEDECIN.
+00148 | Utilisation chez les enfants et les adolescents
+00149 | Les données sur la sécurité et l’efficacité sont limitées chez l’enfant et l’adolescent de moins de 18 ans."
+2,183f0fe1a2f0,nifédipine,ansm_notice,Interactions,oui,103,108,"Autres médicaments et MAPAKNA LP 20 mg, comprimé à libération prolongée
+00104 | Ne prenez jamais MAPAKNA LP en association avec le diltiazem (un médicament utilisé pour traiter les troubles du rythme cardiaque).
+00105 | AFIN D'EVITER D'EVENTUELLES INTERACTIONS ENTRE PLUSIEURS MEDICAMENTS et notamment avec la ciclosporine (médicament utilisé pour éviter les réactions du corps suite à une greffe d’organe) et le dantrolène administré par perfusion (médicament utilisé pour relaxer vos muscles) SIGNALEZ SYSTEMATIQUEMENT TOUT AUTRE TRAITEMENT EN COURS A VOTRE MEDECIN OU A VOTRE PHARMACIEN, particulièrement si vous prenez déjà des médicaments pour les maladies cardio-vasculaires.
+00106 | Informez votre médecin ou pharmacien si vous prenez, avez récemment pris ou pourriez prendre tout autre médicament y compris un médicament obtenu sans ordonnance.
+00107 | MAPAKNA LP 20 mg, comprimé à libération prolongée avec des aliments, boissons et de l’alcool
+00108 | Pendant le traitement, évitez de consommer des pamplemousses ou du jus de pamplemousse ainsi que des produits contenant du millepertuis.
+00109 | Grossesse et allaitement"
+3,0b2d7aa72776,amoxicilline,ansm_notice,Indications,oui,57,62," QU’EST-CE QUE AMOXICILLINE VIATRIS 500 mg/5 mL, poudre pour suspension buvable ET DANS QUELS CAS EST-IL UTILISE ?
+00058 | Redirection vers le haut de page
+00059 | Classe pharmacothérapeutique
+00060 | : pénicillines à large spectre - code ATC : J01CA04.
+00061 | AMOXICILLINE VIATRIS, poudre pour suspension buvable est un antibiotique. Le principe actif est l’amoxicilline. Celui-ci appartient à un groupe de médicaments appelés « pénicillines ».
+00062 | AMOXICILLINE VIATRIS, poudre pour suspension buvable est utilisé pour traiter des infections causées par des bactéries dans différentes parties du corps. AMOXICILLINE VIATRIS, poudre pour suspension buvable peut également être utilisé en association à d’autres médicaments pour traiter les ulcères de l’estomac."
+3,0b2d7aa72776,amoxicilline,ansm_notice,Contre-indications,oui,65,70," Ne prenez jamais AMOXICILLINE VIATRIS, poudre pour suspension buvable :
+00066 | ·
+00067 | si vous êtes allergique à l’amoxicilline, à la pénicilline ou à l’un des autres composants contenus dans ce médicament, mentionnés dans la rubrique 6 ;
+00068 | ·
+00069 | si vous avez déjà présenté une réaction allergique à un antibiotique. Ceci peut inclure une éruption cutanée ou un gonflement du visage ou de la gorge.
+00070 | Ne prenez pas AMOXICILLINE VIATRIS, poudre pour suspension buvable si vous êtes dans l’une des situations mentionnées ci-dessus. En cas de doute, demandez conseil à votre médecin ou votre pharmacien avant de prendre AMOXICILLINE VIATRIS, poudre pour suspension buvable."
+3,0b2d7aa72776,amoxicilline,ansm_notice,Posologie,oui,139,166,"Posologie habituelle
+00140 | Enfants pesant moins de 40 kg
+00141 | Toutes les posologies sont déterminées en fonction du poids de l’enfant en kilogrammes.
+00142 | ·
+00143 | Votre médecin vous indiquera la quantité d’
+00144 | AMOXICILLINE VIATRIS, poudre pour suspension buvable
+00145 | que vous devez administrer à votre bébé ou votre enfant.
+00146 | ·
+00147 | La posologie habituelle est de 40 mg à 90 mg par kilogramme de poids corporel et par jour, à administrer en deux ou trois prises.
+00148 | ·
+00149 | La dose maximale recommandée est de 100 mg par kilogramme de poids corporel et par jour.
+00150 | Adultes, patients âgés et enfants pesant 40 kg ou plus
+00151 | Cette suspension orale n’est habituellement pas prescrite aux adultes et aux enfants pesant plus de 40 kg. Cependant, cette présentation peut être adaptée à votre situation, notamment si vous n’êtes pas capable d’avaler une gélule. D’autres présentations sont disponibles, en fonction du dosage.
+00152 | Demandez conseil à votre médecin ou pharmacien.
+00153 | Problèmes rénaux
+00154 | Si vous souffrez de problèmes rénaux, la posologie pourra être diminuée par rapport à la posologie habituelle.
+00155 | Veillez à toujours prendre ce médicament en suivant exactement les instructions de cette notice ou les indications de votre médecin, pharmacien ou infirmier/ère. Vérifiez auprès de votre médecin, pharmacien ou infirmier/ère en cas de doute.
+00156 | Mode d’administration
+00157 | ·
+00158 | Agitez bien le flacon avant chaque utilisation.
+00159 | Reconstitution de la suspension
+00160 | 1. Remplir le flacon d'eau non gazeuse jusqu'au trait.
+00161 | 2. Agiter jusqu'à l'obtention d'un liquide homogène. Si nécessaire compléter à nouveau d'eau jusqu'au trait et agiter.
+00162 | Bien agiter le flacon avant chaque utilisation.
+00163 | Utiliser la cuillère-mesure fournie avec le flacon pour mesurer la dose prescrite. Remplir la cuillère-mesure jusqu'au bord.
+00164 | Laver la cuillère-mesure après chaque usage.
+00165 | Fréquence d'administration
+00166 | Répartissez les prises de manière régulière au cours de la journée ; elles doivent être espacées d’au moins 4 heures"
+3,0b2d7aa72776,amoxicilline,ansm_notice,Interactions,oui,89,111,"Autres médicaments et AMOXICILLINE VIATRIS, poudre pour suspension buvable
+00090 | Informez votre médecin ou pharmacien si vous prenez, avez récemment pris ou pourriez prendre tout autre médicament.
+00091 | ·
+00092 | Si vous prenez de l’allopurinol (utilisé dans le traitement de la goutte) avec
+00093 | AMOXICILLINE VIATRIS, poudre pour suspension buvable
+00094 | , le risque de réaction cutanée allergique est plus élevé.
+00095 | ·
+00096 | Si vous prenez du probénécide (utilisé pour traiter la goutte),
+00097 | l’utilisation concomitante de probénécide peut réduire l’excrétion de l’amoxicilline et n’est pas recommandée.
+00098 | Votre médecin peut décider d’adapter votre dose d’
+00099 | AMOXICILLINE VIATRIS, poudre pour suspension buvable
+00100 | .
+00101 | ·
+00102 | Si vous prenez du mycophénolate mofétil (utilisé après une greffe d'organe), celui-ci peut être moins efficace.
+00103 | ·
+00104 | Si vous prenez des médicaments destinés à empêcher la coagulation du sang (tels que la warfarine), vous pourriez avoir besoin d’effectuer des analyses sanguines supplémentaires.
+00105 | ·
+00106 | Si vous prenez d’autres antibiotiques (tels que les tétracyclines),
+00107 | AMOXICILLINE VIATRIS, poudre pour suspension buvable
+00108 | peut être moins efficace.
+00109 | ·
+00110 | Si vous prenez du méthotrexate (utilisé pour traiter le cancer et le psoriasis sévère),
+00111 | les pénicillines peuvent réduire l’excrétion du méthotrexate entrainant une possible augmentation des effets indésirables"
+4,129105d65a5d,énalapril,ansm_notice,Indications,,,,
+4,129105d65a5d,énalapril,ansm_notice,Contre-indications,,,,
+4,129105d65a5d,énalapril,ansm_notice,Posologie,,,,
+4,129105d65a5d,énalapril,ansm_notice,Interactions,,,,
+5,0871643c2a9a,azithromycine,ansm_notice,Indications,,,,
+5,0871643c2a9a,azithromycine,ansm_notice,Contre-indications,,,,
+5,0871643c2a9a,azithromycine,ansm_notice,Posologie,,,,
+5,0871643c2a9a,azithromycine,ansm_notice,Interactions,,,,
+6,122442d48ba1,méloxicam,afmps_notice,Indications,,,,
+6,122442d48ba1,méloxicam,afmps_notice,Contre-indications,,,,
+6,122442d48ba1,méloxicam,afmps_notice,Posologie,,,,
+6,122442d48ba1,méloxicam,afmps_notice,Interactions,,,,
+7,093b3cdc9090,naproxène,afmps_notice,Indications,oui,34,56,"Qu’est-ce que Naproxen EG et dans quel cas est ce médicament utilisé?
+00036 | La substance active de ce médicament est le naproxène. Il appartient au groupe des substances anti-
+00037 | inflammatoires non stéroïdiennes (AINS). Le Naproxen EG a un effet anti-inflammatoire, soulage la
+00038 | douleur et réduit la fièvre.
+00039 | Naproxen EG est indiqué dans le traitement des maladies dont les symptômes sont provoqués par
+00040 | l'inflammation. Comme tout anti-inflammatoire, Naproxen EG ne peut que soulager ces symptômes
+00041 | car la cause exacte de ces maladies est en général inconnue.
+00042 | Seul votre médecin peut diagnostiquer ces affections et décider si ce type de médicament vous
+00043 | convient.
+00044 | Grâce à ses propriétés anti-inflammatoires, Naproxen EG est indiqué dans:
+00045 | -
+00046 | les maladies chroniques inflammatoires telles que: la polyarthrite chronique évolutive (ou
+00047 | arthrite rhumatoïde), l’arthrite rhumatoïde juvénile, la spondylarthrite ankylosante (douleur et
+00048 | raideur dans le cou et le dos)
+00049 | -
+00050 | l’arthrose en phase inflammatoire
+00051 | -
+00052 | les crises aigues de goutte
+00053 | -
+00054 | l'inflammation des tendons et des gaines tendineuses qui remplissent une fonction protectrice
+00055 | Naproxen EG aide à soulager la douleur dans les situations douloureuses et inflammatoires après un
+00056 | accident ou une intervention chirurgicale."
+7,093b3cdc9090,naproxène,afmps_notice,Contre-indications,oui,62,78," Quelles sont les informations à connaître avant d'utiliser Naproxen EG?
+00062 | N'utilisez jamais Naproxen EG:
+00063 | -
+00064 | si vous êtes allergique au naproxène ou au naproxène sodique, ou à l’un des autres composants
+00065 | contenu dans ce médicament mentionnés dans la rubrique 6.
+00066 | -
+00067 | si vous êtes hypersensible aux médicaments contenant de l’acide acétylsalicylique, ou à d’autres
+00068 | médicament appartenant à la famille des anti-inflammatoires non stéroïdiens.
+00069 | -
+00070 | si votre clairance de la créatinine est inférieure à 30 ml/min (une insuffisance rénale grave).
+00071 | -
+00072 | si vous souffrez d’un ulcère gastroduodénal, d’une gastrite aiguë ou de saignements.
+00073 | -
+00074 | si vous souffrez d'une insuffisance cardiaque sévère.
+00075 | -
+00076 | s’il s’agit d’un enfant en dessous de 2 ans. Les médicaments contenant du naproxène ou du
+00077 | naproxène sodique sont contre-indiqués étant donné que l’innocuité de ces substances n’a pas été
+00078 | démontrée pour cette tranche d’âge."
+7,093b3cdc9090,naproxène,afmps_notice,Posologie,oui,167,200,"Comment utiliser Naproxen EG?
+00169 | Veillez à toujours utiliser ce médicament en suivant exactement les indications de votre médecin.
+00170 | Vérifiez auprès de votre médecin ou pharmacien en cas de doute.
+00171 | Si aucune amélioration n’apparaît, veuillez consulter à nouveau votre médecin.
+00172 | -
+00173 | Comprimés: voie orale. Avaler les comprimés entiers avec un peu d’eau, à jeun ou avec un repas.
+00174 | Veillez à boire suffisamment (1 litre à 1,5 litre par jour).
+00175 | Adultes
+00176 | Votre médecin vous prescrira généralement une dose de 500 à 1000 mg par jour. Les schémas ci-après
+00177 | ne sont donnés qu’à titre d’exemple. Nous vous conseillons, toutefois, de suivre les indications de
+00178 | votre médecin.
+00179 | 
+00180 | Notice
+00181 | 4 / 7
+00182 | -
+00183 | Lors d’affections inflammatoires, sauf pour la goutte: la dose de départ usuelle est de 750 à 1000
+00184 | mg par jour ; ensuite, en fonction du résultat, elle pourra être réduite à 500 mg/jour.
+00185 | Ces doses peuvent être données en une seule prise ou réparties en deux ou trois prises.
+00186 | -
+00187 | Crise de goutte: 750 mg comme dose de départ, ensuite 500 mg 8 heures plus tard, puis 250
+00188 | mg toutes les 8 heures jusqu’à ce que la crise soit passée.
+00189 | -
+00190 | Inflammation des tendons et des gaines tendineuses – chirurgie et traumatisme: 500 mg
+00191 | comme dose de départ, ensuite une dose de 250 mg 3 fois par jour suffit.
+00192 | Utilisation chez les enfants à partir de 6 ans
+00193 | Naproxen EG peut être utilisé à partir de l’âge de 6 ans, mais uniquement sur avis médical. Il va de soi
+00194 | que la posologie doit bien évidemment être adaptée. En général, on conseille une dose de 10 mg par
+00195 | kg corporel par jour.
+00196 | Personnes âgées et personnes souffrant d’une insuffisance rénale
+00197 | Ces personnes doivent suivre très attentivement les conseils du médecin. Le médecin limitera autant
+00198 | que possible la dose et la durée du traitement.
+00199 | Votre médecin vous dira combien de temps vous devrez utiliser Naproxen EG.
+00200 | N’arrêtez pas prématurément le traitement."
+7,093b3cdc9090,naproxène,afmps_notice,Interactions,oui,101,138,"Autres médicaments et Naproxen EG
+00102 | Informez votre médecin ou pharmacien si vous utilisez, avez récemment utilisé ou pourriez utiliser
+00103 | tout autre médicament, y compris un médicament obtenu sans ordonnance. En particulier, si vous
+00104 | prenez l’un des médicaments suivants, dites-le à votre médecin ou pharmacien:
+00105 | -
+00106 | D’autres AINS ou antidouleurs, y compris les salicylés et les dérivés pyrazolés, tels que l’acide
+00107 | acétylsalicylique
+00108 | -
+00109 | Des médicaments qui ralentissent la coagulation telles que la warfarine et la ticlopidine
+00110 | -
+00111 | Du probénécid (médicament utilisé contre la goutte)
+00112 | -
+00113 | Des hypoglycémiants oraux (médicaments qui traitent l’excès de sucre dans le sang
+00114 | (sulfonylurées))
+00115 | -
+00116 | Certains médicaments contre l’épilepsie (hydantoïnes)
+00117 | -
+00118 | Du méthotrexate (utilisé dans les problèmes de peau, l’arthrite et certaines tumeurs cancéreuses)
+00119 | -
+00120 | Des inhibiteurs de l’enzyme de conversion de l’angiotensine (inhibiteurs de l’ECA) ou tout autre
+00121 | médicament qui traite une tension artérielle trop élevée
+00122 | -
+00123 | Certains diurétiques (médicaments favorisant la production d’urine comme le furosémide et la
+00124 | spironolactone)
+00125 | -
+00126 | De la zidovudine (utilisée dans le traitement du SIDA et des infections par le VIH)
+00127 | 
+00128 | Notice
+00129 | 3 / 7
+00130 | -
+00131 | Des médicaments utilisés en cas de problèmes de santé mentale comme le lithium et certains
+00132 | antidépresseurs (inhibiteurs sélectifs de la recapture de la sérotonine)
+00133 | -
+00134 | Des corticostéroïdes (utilisés contre l’inflammation)
+00135 | -
+00136 | De la ciclosporine (utilisé en cas de problèmes de peau ou après une greffe d’organe)
+00137 | -
+00138 | De traitement par acide acétylsalicylique à dose anti agrégante plaquettaire"
+8,e5caafbc4e9f,indapamide,afmps_notice,Indications,,,,
+8,e5caafbc4e9f,indapamide,afmps_notice,Contre-indications,,,,
+8,e5caafbc4e9f,indapamide,afmps_notice,Posologie,,,,
+8,e5caafbc4e9f,indapamide,afmps_notice,Interactions,,,,
+9,20663e0f8ae1,ciprofloxacine,afmps_notice,Indications,oui,31,74," QU'EST-CE QUE CIPROFLOXACINE AB ET DANS QUEL CAS EST-IL UTILISÉ ?
+00032 | La ciprofloxacine est un antibiotique qui appartient à la famille des fluoroquinolones. La substance
+00033 | active est la ciprofloxacine. Elle agit en tuant les bactéries responsables des infections. Elle est active
+00034 | uniquement sur certaines souches spécifiques de bactéries.
+00035 | Adultes
+00036 | Ciprofloxacine AB est utilisé chez l’adulte pour traiter les infections bactériennes suivantes :
+00037 | 
+00038 | infections des voies respiratoires
+00039 | 
+00040 | infections persistantes ou récurrentes de l’oreille ou des sinus
+00041 | 
+00042 | infections urinaires
+00043 | 
+00044 | infections des organes génitaux chez l’homme et la femme
+00045 | 
+00046 | infections gastro-intestinales et infections intra-abdominales
+00047 | 
+00048 | infections de la peau et des tissus mous
+00049 | 
+00050 | infections des os et des articulations
+00051 | 
+00052 | prévention des infections dues à la bactérie Neisseria meningitidis
+00053 | 
+00054 | exposition à la maladie du charbon par inhalation
+00055 | Ciprofloxacine peut être utilisé pour le traitement des patients présentant un faible taux de globules
+00056 | blancs (neutropénie), et ayant de la fièvre suspectée d’être due à une infection bactérienne.
+00057 | Si vous présentez une infection sévère ou une infection due à plus d’un type de bactéries, un
+00058 | traitement antibiotique additionnel pourra vous être prescrit en complément de Ciprofloxacine AB.
+00059 | Enfants et adolescents
+00060 | Ciprofloxacine AB est utilisé chez l’enfant et l’adolescent, sous le contrôle d’un spécialiste, pour
+00061 | traiter les infections bactériennes suivantes :
+00062 | 
+00063 | NOTICE : INFORMATION DE L'UTILISATEUR
+00064 | NL/H/5565/001-003/IB/021
+00065 | Page 2 de 12
+00066 | 
+00067 | infections des poumons et des bronches chez l’enfant et l’adolescent atteint de mucoviscidose
+00068 | 
+00069 | infections urinaires compliquées, y compris les infections ayant atteint les reins (pyélonéphrite
+00070 | aiguё)
+00071 | 
+00072 | exposition à la maladie du charbon par inhalation
+00073 | Ciprofloxacine AB peut également être utilisé pour traiter d’autres infections sévères spécifiques chez
+00074 | l’enfant et l’adolescent si votre médecin le juge nécessaire."
+9,20663e0f8ae1,ciprofloxacine,afmps_notice,Contre-indications,oui,77,82," Ne prenez jamais Ciprofloxacine AB :
+00078 | 
+00079 | si vous êtes allergique à la ciprofloxacine, à d’autres médicaments de type quinolone ou à l’un des
+00080 | autres composants contenus dans ce médicament (mentionnés dans la rubrique 6).
+00081 | 
+00082 | si vous prenez de la tizanidine (voir rubrique 2 : « Autres médicaments et Ciprofloxacine AB »)"
+9,20663e0f8ae1,ciprofloxacine,afmps_notice,Posologie,oui,349,399," COMMENT PRENDRE CIPROFLOXACINE AB ?
+00350 | Veillez à toujours prendre ce médicament en suivant exactement les indications de votre médecin ou
+00351 | pharmacien. Vérifiez auprès de votre médecin ou pharmacien en cas de doute.
+00352 | Prévenez votre médecin si vous avez des problèmes rénaux, car il pourrait s’avérer nécessaire
+00353 | d’adapter la dose de médicament à prendre.
+00354 | Le traitement dure généralement entre 5 et 21 jours, mais peut être plus long en cas d’infection sévère.
+00355 | Veillez à toujours prendre les comprimés en suivant exactement les indications de votre médecin.
+00356 | Adressez-vous à votre médecin ou votre pharmacien si vous avez des doutes sur le nombre de
+00357 | comprimés de Ciprofloxacine AB à prendre ou sur la façon de les prendre.
+00358 | a.
+00359 | Avalez les comprimés avec une grande quantité de liquide.
+00360 | b.
+00361 | Ne croquez pas les comprimés car ils ont mauvais goût.
+00362 | c.
+00363 | Essayez de prendre les comprimés plus ou moins à la même heure chaque jour.
+00364 | d.
+00365 | Vous pouvez prendre les comprimés pendant ou en dehors des repas.
+00366 | Vous pouvez prendre les comprimés de ciprofloxacine au cours d’un repas contenant des produits
+00367 | laitiers (de type lait ou yaourt) ou des boissons riches en calcium (par ex. jus d'orange enrichi en
+00368 | calcium). Cependant, ne prenez pas les comprimés de Ciprofloxacine AB en même temps que des
+00369 | produits laitiers (de type lait ou yaourt) ou des boissons riches en calcium (par ex. jus d’orange enrichi
+00370 | 
+00371 | NOTICE : INFORMATION DE L'UTILISATEUR
+00372 | NL/H/5565/001-003/IB/021
+00373 | Page 7 de 12
+00374 | en calcium) lorsque ces produits laitiers ou boissons riches en calcium sont pris seuls en dehors des
+00375 | repas. Les comprimés de ciprofloxacine doivent être pris 1 à 2 heures avant ou au moins 4 heures
+00376 | après la consommation de produits laitiers ou de boissons riches en calcium, lorsqu’ils sont pris seuls
+00377 | en dehors des repas.
+00378 | Pensez à boire abondamment pendant le traitement par Ciprofloxacine AB.
+00379 | Si vous avez pris plus de Ciprofloxacine AB que vous n’auriez dû
+00380 | Si vous avez pris plus que la dose prescrite, consultez immédiatement un médecin. Si possible, prenez
+00381 | avec vous les comprimés restants ou la boîte pour les montrer au médecin. Si vous avez pris trop de
+00382 | Ciprofloxacine AB, prenez immédiatement contact avec votre médecin, votre pharmacien ou le Centre
+00383 | Antipoisons (070/245.245).
+00384 | Si vous oubliez de prendre Ciprofloxacine AB
+00385 | Si vous oubliez de prendre Ciprofloxacine AB et qu’il reste :
+00386 | 
+00387 | 6 heures ou plus avant votre prochaine dose, prenez immédiatement votre dose oubliée.
+00388 | Prenez ensuite la prochaine dose à l’heure habituelle.
+00389 | 
+00390 | moins de 6 heures avant votre prochaine dose, ne prenez pas votre dose oubliée. Prenez la
+00391 | prochaine dose à l’heure habituelle.
+00392 | Ne prenez pas de dose double pour compenser la dose que vous avez oublié de prendre. Veillez à
+00393 | suivre votre traitement jusqu’à la fin.
+00394 | Si vous arrêtez de prendre Ciprofloxacine AB
+00395 | Il est important que vous suiviez le traitement jusqu’à la fin, même si vous commencez à vous
+00396 | sentir mieux après quelques jours. Si vous arrêtez de prendre ce médicament trop tôt, votre infection
+00397 | pourrait ne pas être complètement guérie et les symptômes de l’infection pourraient réapparaître ou
+00398 | s’aggraver. Vous pourriez également développer une résistance à cet antibiotique.
+00399 | Si vous avez d’autres questions sur l’utilisation de ce médicament, demandez plus d’informations à
+00400 | votre médecin ou à votre pharmacien."
+9,20663e0f8ae1,ciprofloxacine,afmps_notice,Interactions,oui,248,319,"Autres médicaments et Ciprofloxacine AB
+00249 | Informez votre médecin ou pharmacien si vous prenez, avez récemment pris ou pourriez prendre tout
+00250 | autre médicament.
+00251 | Ne prenez pas Ciprofloxacine AB en association avec la tizanidine, car cela peut provoquer des
+00252 | effets indésirables tels qu'une hypotension artérielle et une somnolence (voir rubrique 2 : « Ne prenez
+00253 | pas Ciprofloxacin AB »).
+00254 | Les médicaments suivants sont connus pour agir sur la Ciprofloxacine AB dans votre corps.
+00255 | L'utilisation de Ciprofloxacine AB avec ces médicaments peut affecter l'effet thérapeutique de ces
+00256 | médicaments. Cela peut également augmenter le risque de subir des effets secondaires.
+00257 | Prévenez votre médecin si vous prenez :
+00258 | 
+00259 | d’antivitamine K (p.ex : warfarine, acénocoumarol, phenprocoumon ou fluindione) ou d’autres
+00260 | anticoagulants oraux (destinés à fluidifier le sang)
+00261 | 
+00262 | de la théophylline (utilisée pour traiter des problèmes respiratoires)
+00263 | 
+00264 | de la phénytoïne (utilisée pour traiter l’épilepsie)
+00265 | 
+00266 | du probénécide (utilisé pour traiter la goutte)
+00267 | 
+00268 | du ropinirole (utilisé pour traiter la maladie de Parkinson)
+00269 | 
+00270 | du méthotrexate (utilisé pour traiter certains types de cancer, le psoriasis, la polyarthrite
+00271 | rhumatoïde)
+00272 | 
+00273 | de la tizanidine (utilisée pour traiter les problèmes de spasticité musculaire liés à la sclérose en
+00274 | plaques)
+00275 | 
+00276 | de l’olanzapine (un antipsychotique)
+00277 | 
+00278 | de la clozapine (un antipsychotique)
+00279 | 
+00280 | de la metoclopramide (utilisé dans le traitement des nausées et des vomissements)
+00281 | 
+00282 | de la ciclosporine (utilisée dans les maladies de peaux, la polyarthrite rhumatoïde et les
+00283 | transplantations d’organe)
+00284 | 
+00285 | d’autres médicaments pouvant modifier votre rythme cardiaque : les médicaments appartenant
+00286 | au groupe des antiarythmiques (p.ex. la quinidine, l’hydroquinidine, le disopyramide,
+00287 | l’amiodarone, le sotalol, le dofétilide, l’ibutilide), les antidépresseurs tricycliques, certains
+00288 | antibiotiques (qui appartiennent à la famille des macrolides), certains antipsychotiques
+00289 | 
+00290 | zolpidem (pour les troubles du sommeil)
+00291 | Ciprofloxacine AB peut augmenter la concentration des médicaments suivants dans votre sang :
+00292 | 
+00293 | pentoxifylline (utilisée pour traiter des troubles de la circulation)
+00294 | 
+00295 | caféine
+00296 | 
+00297 | duloxétine (utilisée dans la dépression, les lésions nerveuses liées au diabète ou l’incontinence)
+00298 | 
+00299 | lidocaïne (utilisée dans les maladies cardiaques ou à usage anesthésique)
+00300 | 
+00301 | sildénafil (par exemple dans les troubles de l’érection)
+00302 | 
+00303 | agomélatine (pour la dépression)
+00304 | Certains médicaments atténuent les effets de Ciprofloxacine AB. Prévenez votre médecin si vous
+00305 | prenez ou envisagez de prendre :
+00306 | 
+00307 | des antiacides
+00308 | 
+00309 | oméprazole
+00310 | 
+00311 | des compléments minéraux
+00312 | 
+00313 | du sucralfate
+00314 | 
+00315 | un chélateur polymérique du phosphate (p. ex. le sévélamer ou carbonate de lanthane)
+00316 | 
+00317 | des médicaments ou compléments contenant du calcium, du magnésium, de l’aluminium ou du fer
+00318 | Si la prise de ces préparations est indispensable, prenez Ciprofloxacine AB environ deux heures avant
+00319 | ces préparations, ou au plus tôt quatre heures après leur prise."
+10,36f7f80aa2f0,périndopril,afmps_notice,Indications,oui,29,43,"Qu’est-ce que Perindopril Teva et dans quels cas est-il utilisé ?
+00030 | Perindopril Teva est un inhibiteur de l'enzyme de conversion de l’angiotensine (IEC). Ceux-ci agissent
+00031 | en dilatant les vaisseaux sanguins, facilitant ainsi le travail du cœur pour expulser le sang dans les
+00032 | vaisseaux.
+00033 | Perindopril Teva est utilisé dans :
+00034 | -
+00035 | le traitement de l'hypertension artérielle (hypertension),
+00036 | -
+00037 | (dosages de 2,5 mg et 5 mg) le traitement de l'insuffisance cardiaque (lorsque le cœur n’est pas
+00038 | capable de pomper assez de sang pour alimenter l’ensemble du corps),
+00039 | -
+00040 | la réduction du risque d'évènements cardiaques, tel que l'infarctus, chez les patients souffrant de
+00041 | maladie coronaire stable (le flux sanguin alimentant le cœur est réduit ou bloqué) et ayant un
+00042 | antécédent d'infarctus et/ou d'intervention visant à améliorer l'apport sanguin au cœur en dilatant
+00043 | les vaisseaux sanguins."
+10,36f7f80aa2f0,périndopril,afmps_notice,Contre-indications,oui,46,74,"Ne prenez jamais Perindopril Teva 
+00047 | -
+00048 | si vous êtes allergique au périndopril ou à tout autre inhibiteur de l'enzyme de conversion, ou à l’un
+00049 | des autres composants contenus dans ce médicament mentionnés dans la rubrique 6,
+00050 | -
+00051 | si vous avez déjà eu des symptômes tels que des sifflements respiratoires, un gonflement du
+00052 | visage, de la langue ou de la gorge, des démangeaisons intenses ou des éruptions cutanées
+00053 | 
+00054 | PerindoprilTeva-BSF-Afsl-impl-TransferMAH-feb26
+00055 | 2/9
+00056 | sévères lors d'un traitement antérieur par IEC ou si un membre de votre famille a déjà eu ces
+00057 | symptômes quelles qu'en soient les circonstances (état appelé angio-œdème),
+00058 | -
+00059 | si vous êtes à plus de 3 mois de grossesse (il est préférable d’éviter l’usage de Perindopril Teva en
+00060 | début de - voir rubrique » Grossesse, allaitement et fertilité »),
+00061 | -
+00062 | si vous avez du diabète ou une insuffisance rénale et que vous êtes traité(e) par un médicament
+00063 | contenant de l’aliskirène pour diminuer votre pression artérielle.
+00064 | -
+00065 | si vous êtes dialysé(e) ou si vous bénéficiez d’un autre type de filtration sanguine. En fonction de la
+00066 | machine utilisée, Perindopril Teva peut ne pas être adapté,
+00067 | -
+00068 | si vous avez des problèmes rénaux avec diminution de l’apport sanguin au niveau rénal (sténose
+00069 | artérielle rénale)
+00070 | -
+00071 | si vous avez pris ou prenez actuellement l’association sacubitril/valsartan, un médicament utilisé
+00072 | pour traiter un type d’insuffisance cardiaque au long cours (chronique) chez l’adulte, car le risque
+00073 | d’angio-œdème (gonflement rapide sous la peau dans une région telle que la gorge) est accru (voir
+00074 | rubrique « Avertissements et précautions » et «Autres médicaments et Perindopril Teva»)."
+10,36f7f80aa2f0,périndopril,afmps_notice,Posologie,oui,246,282,"Comment prendre Perindopril Teva ?
+00248 | Veillez à toujours prendre ce médicament en suivant exactement les indications de votre médecin ou
+00249 | pharmacien. Vérifiez auprès de votre médecin ou pharmacien en cas de doute.
+00250 | Le comprimé doit être avalé avec un verre d'eau, de préférence au même moment de la journée, le
+00251 | matin et avant le repas. Votre médecin décidera de la posologie adaptée pour vous.
+00252 | Les posologies recommandées sont :
+00253 | Hypertension artérielle : La dose initiale recommandée et la dose d'entretien est de 5 mg une fois par
+00254 | jour. Après un mois de traitement, cette dose peut être augmentée à 10 mg par jour si nécessaire. La
+00255 | dose maximale recommandée est de 10 mg par jour pour le traitement de l'hypertension artérielle.
+00256 | Si vous êtes âgé(e) de plus de 65 ans, la dose initiale recommandée est de 2,5 mg par jour. Après un
+00257 | mois de traitement, cette dose peut être augmentée à 5 mg par jour et si nécessaire à 10 mg par jour.
+00258 | (dosages de 2,5 mg et 5 mg) Insuffisance cardiaque : La dose initiale recommandée est de 2,5 mg par
+00259 | jour. Après deux semaines, la dose peut être augmentée à 5 mg, qui est la dose maximale
+00260 | recommandée dans le traitement de l'insuffisance cardiaque.
+00261 | Maladie coronaire stable : La dose initiale recommandée est de 5 mg par jour. Après deux semaines, la
+00262 | dose peut être augmentée à 10 mg, qui est la dose maximale recommandée dans cette indication.
+00263 | Si vous êtes âgé(e) de plus de 65 ans, la dose initiale recommandée est de 2,5 mg par jour. Après une
+00264 | semaine, cette dose peut être augmentée à 5 mg par jour, puis à 10 mg par jour, la semaine suivante.
+00265 | Utilisation chez les enfants et les adolescents
+00266 | L’utilisation chez les enfants et les adolescents n’est pas recommandée.
+00267 | [dosages de 5 mg] :
+00268 | Le comprimé peut être divisé en doses égales.
+00269 | Si vous avez pris plus de Perindopril Teva que vous n’auriez dû 
+00270 | Si vous avez pris trop de comprimés, contactez immédiatement le service d’urgence de l'hôpital le plus
+00271 | proche, votre médecin, votre pharmacien ou le centre Antipoison (070/245.245). L'effet le plus
+00272 | probable, en cas de surdosage, est l'hypotension, qui peut produire des vertiges ou des
+00273 | étourdissements). Si ceci se produit, s’allonger, avec les jambes relevées peut être utile.
+00274 | Si vous oubliez de prendre Perindopril Teva 
+00275 | Il est important de prendre votre médicament chaque jour car un traitement régulier est plus efficace.
+00276 | Cependant, si vous avez oublié de prendre Perindopril Teva, reprenez simplement votre traitement le
+00277 | jour suivant comme d'habitude.
+00278 | Ne prenez pas de dose double pour compenser la dose que vous avez oubliée de prendre.
+00279 | Si vous arrêtez de prendre Perindopril Teva 
+00280 | Le traitement par Perindopril Teva étant généralement un traitement de longue durée, vous devez
+00281 | demander conseil à votre médecin avant de l'interrompre."
+10,36f7f80aa2f0,périndopril,afmps_notice,Interactions,oui,153,214," Autres médicaments et Perindopril Teva
+00154 | Informez votre médecin ou pharmacien si vous prenez, avez récemment pris ou pourriez prendre tout
+00155 | autre médicament.
+00156 | Le traitement par Perindopril Teva peut être affecté par d'autres médicaments. Votre médecin pourrait
+00157 | avoir besoin de modifier la dose de vos médicaments et/ou prendre d’autres précautions, si vous
+00158 | prenez l’un des médicaments suivants :
+00159 | -
+00160 | autres médicaments antihypertenseurs, incluant les antagonistes des récepteurs de l’angiotensine II
+00161 | (ARA II), l’aliskirène (voir aussi les informations dans les rubriques « Ne prenez jamais Perindopril
+00162 | Teva» et « Avertissements et précautions»), ou les diurétiques (médicaments augmentant la
+00163 | quantité d'urine produite par les reins),
+00164 | -
+00165 | médicaments épargneurs de potassium (p.ex. triamtérène, amiloride), suppléments en potassium ou
+00166 | substituts de sel contenant du potassium, autres médicaments pouvant augmenter le taux de
+00167 | potassium dans l’organisme (comme l’héparine et le cotrimoxazole aussi connu sous le nom de
+00168 | triméthoprime/ sulfaméthoxazole, pour traiter des infections causées par des bactéries),
+00169 | -
+00170 | médicaments épargneurs de potassium utilisés dans le traitement de l’insuffisance cardiaque :
+00171 | éplérénone, spironolactone à des doses comprises entre 12,5 mg et 50 mg par jour,
+00172 | -
+00173 | lithium, pour le traitement de manie ou de dépression,
+00174 | -
+00175 | médicaments anti-inflammatoires non stéroïdiens (comme l'ibuprofène) pour soulager la douleur ou
+00176 | de fortes doses d'acide acétylsalicylique, une substance présente dans de nombreux médicaments
+00177 | utilisés pour soulager la douleur et faire baisser la fièvre, ainsi que pour prévenir la coagulation du
+00178 | sang,
+00179 | -
+00180 | médicaments utilisés dans le traitement du diabète (comme l'insuline ou metformine),
+00181 | -
+00182 | baclofène (utilisé dans le traitement de la rigidité musculaire associée à des maladies comme la
+00183 | sclérose multiple),
+00184 | 
+00185 | PerindoprilTeva-BSF-Afsl-impl-TransferMAH-feb26
+00186 | 4/9
+00187 | -
+00188 | médicaments utilisés dans le traitement des troubles mentaux comme la dépression, l'anxiété, la
+00189 | schizophrénie, etc. (antidépresseurs tricycliques, antipsychotiques),
+00190 | -
+00191 | immunosuppresseurs (médicaments diminuant le mécanisme de défense de l'organisme) utilisés
+00192 | dans le traitement des maladies auto-immunes ou à la suite d'une transplantation chirurgicale
+00193 | (comme la ciclosporine, tacrolimus),
+00194 | -
+00195 | estramustine (utilisé dans le traitement du cancer),
+00196 | -
+00197 | médicaments, qui sont le plus souvent utilisés pour traiter la diarrhée (racécadotril) ou pour éviter
+00198 | les rejets d’organes transplantés (sirolimus, évérolimus, temsirolimus et autres médicaments
+00199 | appartenant à la classe des inhibiteurs de mTOR). Voir rubrique « Avertissements et précautions »,
+00200 | -
+00201 | sacubitril/valsartan (utilisé pour traiter l’insuffisance cardiaque chronique). Voir rubrique « Ne prenez
+00202 | jamais Perindopril Teva » et « Avertissements et précautions »,
+00203 | -
+00204 | allopurinol (traitement de la goutte),
+00205 | -
+00206 | procaïnamide (traitement des battements cardiaques irréguliers),
+00207 | -
+00208 | vasodilatateurs incluant les dérivés nitrés (produits permettant de dilater les vaisseaux sanguins),
+00209 | -
+00210 | les traitements de l'hypotension artérielle, des collapsus ou de l'asthme (comme éphédrine,
+00211 | noradrénaline ou adrénaline),
+00212 | -
+00213 | sels d’or, en particulier lors d’administration intraveineuse (utilisés dans le traitement des
+00214 | symptômes de la polyarthrite rhumatoïde)."
+11,1d0911e7bd49,diclofénac,anpp,Indications,oui,36,42,"4.1. Indications thérapeutiques : 
+00037 |  
+00038 |  Chez l’adulte (à partir de 15 ans) : 
+00039 | • Traitement local de courte durée en cas de traumatisme bénin : entorse (foulure), contusion, 
+00040 | • Traitement local d’appoint des douleurs d’origine musculaire et tendino-ligamentaire, 
+00041 | • Traitement symptomatique des poussées douloureuses de l’arthrose, après au moins un avis 
+00042 | médical. "
+11,1d0911e7bd49,diclofénac,anpp,Contre-indications,oui,118,131,"4.3. Contre-indications : 
+00119 |  
+00120 |  
+00121 | Ce médicament est contre-indiqué dans les cas suivants : 
+00122 | · Hypersensibilité à la substance active ou à l’un des excipients mentionnés à la rubrique 6.1. 
+00123 | · Grossesse, à partir du début du 6ème mois (au-delà de 24 semaines d’aménorrhée) (voir 
+00124 | rubrique 4.6). 
+00125 | · Peau lésée, quelle que soit la lésion : dermatoses suintantes, eczéma, lésion infectée, brûlure 
+00126 | ou plaie. 
+00127 | · Antécédents d’asthme, d’angiœdème, d’urticaire ou de rhinite aiguë déclenchée par le 
+00128 | diclofénac ou substance d’activité proche telle que l’acide acétylsalicylique ou d’autres 
+00129 | médicaments anti-inflammatoires non stéroïdiens (AINS). 
+00130 | · Chez l’enfant et l’adolescent de moins de 15 ans. "
+11,1d0911e7bd49,diclofénac,anpp,Posologie,oui,58,117,"Posologie et mode d'administration : 
+00059 |  
+00060 | Posologie 
+00061 |  
+00062 | Réservé à l'adulte (à partir de 15 ans). 
+00063 | La posologie dépend de l’indication. La survenue d'effets indésirables peut être minimisée par 
+00064 | l'utilisation de la dose la plus faible possible pendant la durée de traitement la plus courte 
+00065 | nécessaire au soulagement des symptômes (voir rubrique 4.4). 
+00066 | • Traumatisme bénin : entorse (foulure), contusion 
+00067 | 1 application locale, 2 à 3 fois par jour, pour une durée maximale de 4 jours. Si la douleur 
+00068 | persiste au-delà, un médecin doit être consulté. 
+00069 | Sur avis médical, la durée maximale de traitement est de 7 jours. 
+00070 | La dose administrée à chaque application ne doit pas dépasser 2,5 g de gel (soit 6 cm de gel 
+00071 | environ). 
+00072 | • Douleurs d’origine musculaire et tendino-ligamentaire 
+00073 | En traitement d’appoint : 1 application locale, 3 à 4 fois par jour, pour une durée maximale de 
+00074 | 7 jours. Si la douleur persiste au-delà, un médecin doit être consulté. 
+00075 | Sur avis médical, la durée maximale de traitement est de 14 jours. 
+00076 | La dose administrée à chaque application ne doit pas dépasser 2,5 g de gel (soit 6 cm de gel 
+00077 | environ). 
+00078 | • Poussées douloureuses de l’arthrose 
+00079 | Uniquement après au moins un avis médical. 
+00080 | 1 application locale, 3 à 4 fois par jour, pour une durée de 7 jours. Le traitement peut être 
+00081 | poursuivi, si besoin, pendant une durée maximale de 14 jours. Si la douleur persiste au-delà, un 
+00082 | médecin doit être consulté. 
+00083 | La dose administrée à chaque application ne doit pas dépasser 4 g de gel (soit 10 cm de gel 
+00084 | environ). 
+00085 |  
+00086 | Populations particulières 
+00087 | Population pédiatrique 
+00088 | Ce médicament est contre-indiqué chez les enfants âgés de moins de 15 ans. 
+00089 | Sujets âgés 
+00090 | Ce médicament doit être utilisé avec précaution chez les personnes âgées qui sont d’avantage 
+00091 | sujettes aux effets indésirables. 
+00092 |  
+00093 | Mode d’administration 
+00094 | Voie locale. 
+00095 | Faire pénétrer le gel par un massage doux et prolongé sur la région douloureuse ou 
+00096 | inflammatoire. 
+00097 | Après application : 
+00098 | 
+00099 |  
+00100 |  
+00101 |  
+00102 | RÉSUMÉ DES CARACTÉRISTIQUES DU 
+00103 | PRODUIT 
+00104 | BIOFENAC® 1 %, gel 
+00105 | Code : 
+00106 | E0002/3.07.0002/TR 
+00107 | Version : 02 
+00108 | Page 3 sur 20 
+00109 |  
+00110 | Version : 03 
+00111 |  
+00112 | · Les mains doivent être essuyées avec du papier absorbant (par exemple), puis lavées (sauf 
+00113 | en cas de poussée d’arthrose digitale, voir rubrique 4.4). Le papier absorbant doit être jeté 
+00114 | à la poubelle après utilisation. 
+00115 | · Les patients doivent attendre que BIOFENAC® 1 %, gel sèche avant de prendre une douche, 
+00116 | ou un bain."
+11,1d0911e7bd49,diclofénac,anpp,Interactions,oui,142,145," Interactions avec d’autres médicaments et autres formes d’interactions : 
+00143 | En raison du faible passage systémique lors d'un usage normal du gel, les interactions 
+00144 | médicamenteuses signalées pour le diclofénac per os sont peu probables. "
+12,7aec2085e838,ciprofloxacine,anpp,Indications,oui,50,110,"Indications thérapeutiques 
+00051 |  
+00052 | CIPROFLOXACINE BEKER® 750 mg, comprimé pelliculé est indiqué dans le traitement 
+00053 | des infections suivantes. Une attention particulière doit être portée aux informations 
+00054 | disponibles sur la résistance bactérienne à la ciprofloxacine avant d'initier le traitement. 
+00055 | Il convient de tenir compte des recommandations officielles concernant l'utilisation 
+00056 | appropriée des antibactériens. 
+00057 |  
+00058 | Chez l'adulte 
+00059 | • Infections des voies respiratoires basses dues à des bactéries à Gram négatif 
+00060 | - Exacerbations de broncho-pneumopathie chronique obstructive. Dans l’exacerbation 
+00061 | de broncho-pneumopathie chronique obstructive, CIPROFLOXACINE BEKER® 750 
+00062 | mg, comprimé pelliculé doit être utilisé uniquement lorsque les antibiotiques 
+00063 | habituellement recommandés pour le traitement de ces infections sont jugés 
+00064 | inappropriés. 
+00065 | - Infections broncho-pulmonaires en cas de mucoviscidose ou de bronchectasie 
+00066 | - Pneumonies 
+00067 | • Otites moyennes chroniques purulentes 
+00068 | • Exacerbations aiguës de sinusite chronique, en particulier dues à des bactéries à Gram 
+00069 | négatif 
+00070 | • Infections urinaires 
+00071 | - Cystite aiguë non compliquée. Dans la cystite aiguë non compliquée 
+00072 | CIPROFLOXACINE BEKER® 750 mg, comprimé pelliculé doit être utilisé uniquement 
+00073 | lorsque les antibiotiques habituellement recommandés pour le traitement de ces 
+00074 | infections sont jugés inappropriés. 
+00075 | - Pyélonéphrite aiguë 
+00076 | - Infections compliquées des voies urinaires 
+00077 | - Prostatite bactérienne 
+00078 | • Infections de l’appareil génital 
+00079 | - Urétrites et cervicites gonococciques dues à des souches de Neisseria gonorrhoeae 
+00080 | sensibles 
+00081 | - Orchi-épididymites, y compris les infections dues à des souches de Neisseria 
+00082 | gonorrhoeae sensibles 
+00083 | - Infections gynécologiques hautes, y compris les infections dues à des souches de 
+00084 | Neisseria gonorrhoeae sensibles 
+00085 | • Infections gastro-intestinales (par ex. diarrhée du voyageur) 
+00086 | • Infections intra-abdominales 
+00087 | • Infections de la peau et des parties molles dues à des bactéries à Gram négatif 
+00088 | • Otites malignes externes 
+00089 | • Infections ostéoarticulaires 
+00090 | • Prophylaxie des infections invasives à Neisseria meningitidis 
+00091 | • Maladie du charbon (prophylaxie après exposition et traitement curatif) 
+00092 | La ciprofloxacine peut être utilisée pour le traitement des patients neutropéniques fébriles 
+00093 | dont l’origine bactérienne est suspectée. 
+00094 | 
+00095 |  
+00096 | 3 
+00097 |  
+00098 |  
+00099 | Chez l'enfant et l'adolescent 
+00100 | - 
+00101 | Infections broncho-pulmonaires dues à Pseudomonas aeruginosa chez les 
+00102 | patients atteints de mucoviscidose 
+00103 | - 
+00104 | Infections urinaires compliquées et pyélonéphrite aigüe 
+00105 | - 
+00106 | Maladie du charbon (prophylaxie après exposition et traitement curatif) 
+00107 | La ciprofloxacine peut également être utilisée pour traiter des infections sévères de 
+00108 | l'enfant et de l'adolescent, si nécessaire. 
+00109 | Le traitement devra être exclusivement instauré par des médecins expérimentés dans le 
+00110 | traitement de la mucoviscidose et/ou des infections sévères de l'enfant et de l'adolescent "
+12,7aec2085e838,ciprofloxacine,anpp,Contre-indications,oui,380,383,"Contre-indications : 
+00381 | • Hypersensibilité à la substance active, aux autres quinolones ou à l'un des 
+00382 | excipients utilisés dans ce médicament. 
+00383 | • Administration concomitante de ciprofloxacine et de tizanidine."
+12,7aec2085e838,ciprofloxacine,anpp,Posologie,oui,114,377,"Posologie et mode d’administration 
+00115 |  
+00116 | Posologie 
+00117 |  
+00118 | La posologie dépend de l'indication, de la gravité et du siège de l'infection, de la 
+00119 | sensibilité du/des germes en cause à la ciprofloxacine, de la fonction rénale du patient et 
+00120 | du poids de l'enfant et de l'adolescent. 
+00121 |  
+00122 | La durée du traitement est fonction de la sévérité de la maladie et de l'évolution clinique 
+00123 | et bactériologique. 
+00124 |  
+00125 | Le traitement des infections dues à certains germes (par ex. Pseudomonas aeruginosa, 
+00126 | Acinetobacter ou staphylocoques) peut nécessiter des doses plus élevées de 
+00127 | ciprofloxacine, ainsi que l'administration concomitante d'autres agents antibactériens 
+00128 | appropriés. 
+00129 |  
+00130 | Le traitement de certaines infections (par ex. infections gynécologiques hautes, infections 
+00131 | intra-abdominales, infections chez les patients neutropéniques et infections 
+00132 | ostéoarticulaires) peut nécessiter l'administration concomitante d'autres agents 
+00133 | antibactériens appropriés en fonction du germe concerné. 
+00134 |  
+00135 | Chez l'adulte 
+00136 | Indications 
+00137 | Dose quotidienne en 
+00138 | mg 
+00139 | Durée totale du traitement 
+00140 | (comprenant 
+00141 | éventuellement une phase 
+00142 | initiale de traitement avec 
+00143 | la ciprofloxacine 
+00144 | administrée par voie 
+00145 | parentérale) 
+00146 | Infections des voies respiratoires basses 
+00147 | 500 mg 2 fois/jour à 750 
+00148 | mg 2 fois/jour 
+00149 | 7 à 14 jours 
+00150 | Infections des voies 
+00151 | respiratoires hautes 
+00152 | Exacerbations aiguës de 
+00153 | sinusite chronique 
+00154 | 500 mg 2 fois/jour à 750 
+00155 | mg 2 fois/jour 
+00156 | 7 à 14 jours 
+00157 | 
+00158 |  
+00159 | 4 
+00160 |  
+00161 | Otites moyennes 
+00162 | chroniques purulentes 
+00163 | 500 mg 2 fois/jour à 750 
+00164 | mg 2 fois/jour 
+00165 | 7 à 14 jours 
+00166 | Otites malignes externes 
+00167 | 750 mg 2 fois/jour 
+00168 | 28 jours et jusqu'à 3 mois 
+00169 | Infections urinaires 
+00170 |  
+00171 | Cystites aiguës non 
+00172 | compliquées 
+00173 | 250 mg 2 fois/jour à 500 
+00174 | mg 2 fois/jour 
+00175 | 3 jours 
+00176 | Chez les femmes non-ménopausées, une dose unique 
+00177 | de 500 mg peut être utilisée. 
+00178 | Cystites compliquées, 
+00179 | Pyélonéphrites aiguës 
+00180 | 500 mg 2 fois/jour 
+00181 | 7 jours 
+00182 | Pyélonéphrites 
+00183 | compliquées 
+00184 | 500 mg 2 fois/jour à 750 
+00185 | mg 2 fois/jour 
+00186 | au moins 10 jours; peut être 
+00187 | poursuivi pendant plus de 
+00188 | 21 jours dans certaines 
+00189 | situations particulières 
+00190 | (telles que la présence 
+00191 | d'abcès) 
+00192 | Prostatites bactériennes 
+00193 | 500 mg 2 fois/jour à 750 
+00194 | mg 2 fois/jour 
+00195 | 2 à 4 semaines (aiguë) à 4 à 
+00196 | 6 semaines (chronique) 
+00197 | Infections de 
+00198 | l'appareil génital 
+00199 | Urétrites et cervicites 
+00200 | gonococciques dues à 
+00201 | des souches de Neisseria 
+00202 | gonorrhoeae sensibles 
+00203 | 500 mg en dose unique 
+00204 | 1 jour (dose unique) 
+00205 | Orchi-épididymites et 
+00206 | infections gynécologiques 
+00207 | hautes y compris les 
+00208 | infections dues à des 
+00209 | souches de Neisseria 
+00210 | gonorrhoeae sensibles 
+00211 | 500 mg 2 fois/jour à 750 
+00212 | mg 2 fois/jour 
+00213 | au moins 14 jours 
+00214 | Infections gastro- 
+00215 | intestinales et 
+00216 | infections intra- 
+00217 | abdominales 
+00218 | Diarrhées dues aux 
+00219 | bactéries telles que 
+00220 | Shigella spp. autres que 
+00221 | Shigella dysenteriae de 
+00222 | type 1 et traitement 
+00223 | empirique de la diarrhée 
+00224 | sévère du voyageur 
+00225 | 500 mg 2 fois/jour 
+00226 | 1 jour 
+00227 | Diarrhées dues à Shigella 
+00228 | dysenteriae de type 1 
+00229 | 500 mg 2 fois/jour 
+00230 | 5 jours 
+00231 | Diarrhées dues à Vibrio 
+00232 | cholerae 
+00233 | 500 mg 2 fois/jour 
+00234 | 3 jours 
+00235 | Fièvre typhoïde 
+00236 | 500 mg 2 fois/jour 
+00237 | 7 jours 
+00238 | Infections intra- 
+00239 | abdominales dues à des 
+00240 | bactéries à Gram négatif 
+00241 | 500 mg 2 fois/jour à 750 
+00242 | mg 2 fois/jour 
+00243 | 5 à 14 jours 
+00244 | Infections de la peau et des parties molles et dues 
+00245 | à des bactéries à Gram négatif 
+00246 | 500 mg 2 fois/jour à 750 
+00247 | mg 2 fois/jour 
+00248 | 7 à 14 jours 
+00249 | Infections ostéoarticulaires 
+00250 | 500 mg 2 fois/jour à 750 
+00251 | mg 2 fois/jour 
+00252 | au max. 3 mois 
+00253 | Traitement des patients neutropéniques fébriles 
+00254 | dont l’origine bactérienne est suspectée. 
+00255 | La ciprofloxacine doit être administrée en 
+00256 | association avec un/des antibiotique(s) 
+00257 | approprié(s) conformément aux recommandations 
+00258 | officielles. 
+00259 | 500 mg 2 fois/jour à 750 
+00260 | mg 2 fois/jour 
+00261 | Le traitement doit être 
+00262 | poursuivi pendant toute la 
+00263 | durée de la neutropénie 
+00264 | Prophylaxie des infections invasives à Neisseria 
+00265 | meningitidis 
+00266 | 500 mg en dose unique 
+00267 | 1 jour (dose unique) 
+00268 | 
+00269 |  
+00270 | 5 
+00271 |  
+00272 | Maladie du charbon: prophylaxie après exposition 
+00273 | et traitement curatif chez les personnes pouvant 
+00274 | recevoir un traitement per os si le contexte 
+00275 | clinique le justifie. L'administration du traitement 
+00276 | doit commencer précocement dès que l'exposition 
+00277 | est suspectée ou confirmée. 
+00278 | 500 mg 2 fois/jour 
+00279 | 60 jours à partir de la 
+00280 | confirmation de l'exposition 
+00281 | à Bacillus anthracis 
+00282 | Population pédiatrique 
+00283 | Indications 
+00284 | Dose quotidienne en mg 
+00285 | Durée totale du 
+00286 | traitement (comprenant 
+00287 | éventuellement une 
+00288 | phase initiale de 
+00289 | traitement avec la 
+00290 | ciprofloxacine 
+00291 | administrée par voie 
+00292 | parentérale) 
+00293 | Mucoviscidose 
+00294 | 20 mg/kg 2 fois/jour avec un maximum de 750 mg 
+00295 | par dose 
+00296 | 10 à 14 jours 
+00297 | Infections urinaires 
+00298 | compliquées et 
+00299 | pyélonéphrite aiguës 
+00300 | 10 mg/kg 2 fois/jour à 20 mg/kg 2 fois/jour avec un 
+00301 | maximum de 750 mg par dose 
+00302 | 10 à 21 jours 
+00303 | Maladie du charbon: 
+00304 | prophylaxie après 
+00305 | exposition et traitement 
+00306 | curatif chez les 
+00307 | personnes pouvant 
+00308 | recevoir un traitement per 
+00309 | os si le contexte clinique 
+00310 | le justifie. L'administration 
+00311 | du traitement doit 
+00312 | commencer précocement 
+00313 | dès que l'exposition est 
+00314 | suspectée ou confirmée. 
+00315 | 10 mg/kg 2 fois/jour à 15 mg/kg 2 fois/jour avec un 
+00316 | maximum de 500 mg par dose 
+00317 | 60 jours à partir de la 
+00318 | confirmation de 
+00319 | l'exposition à Bacillus 
+00320 | anthracis 
+00321 | Autres infections sévères 20 mg/kg 2 fois/jour avec un maximum de 750 mg 
+00322 | par dose 
+00323 | Selon le type d'infections 
+00324 |  
+00325 | Patients âgés 
+00326 | Chez les patients âgés, la dose administrée sera fonction de la gravité de l'infection et de 
+00327 | la clairance de la créatinine. 
+00328 |  
+00329 | Patients atteints d’insuffisance rénale et hépatique 
+00330 | Doses initiales et doses d'entretien recommandées chez les insuffisants rénaux: 
+00331 |  
+00332 |  
+00333 | Clairance de la créatinine 
+00334 | [ml/min/1,73 m2] 
+00335 | Créatinine sérique 
+00336 | [µmol/l] 
+00337 | Dose orale 
+00338 | [mg] 
+00339 | > 60 
+00340 | < 124 
+00341 | Voir la posologie habituelle 
+00342 | 30-60 
+00343 | 124 à 168 
+00344 | 250-500 mg toutes les 12 h 
+00345 | < 30 
+00346 | > 169 
+00347 | 250-500 mg toutes les 24 h 
+00348 | Patients hémodialysés 
+00349 | > 169 
+00350 | 250-500 mg toutes les 24 h (après la 
+00351 | dialyse) 
+00352 | Patients sous dialyse péritonéale 
+00353 | > 169 
+00354 | 250-500 mg toutes les 24 h 
+00355 | 
+00356 |  
+00357 | 6 
+00358 |  
+00359 |  
+00360 | Aucun ajustement posologique n'est nécessaire chez les insuffisants hépatiques. 
+00361 | La posologie chez l'enfant en insuffisance rénale et/ou hépatique n'a pas été étudiée. 
+00362 | Mode d'administration 
+00363 | Les comprimés doivent être avalés avec une boisson, sans être croqués. Ils peuvent être 
+00364 | pris indépendamment des repas. S'ils sont ingérés à jeun, la substance active est 
+00365 | absorbée plus rapidement. Les comprimés de ciprofloxacine ne doivent pas être pris 
+00366 | avec des produits laitiers (par ex. lait, yaourt) ou des jus de fruits enrichis en minéraux 
+00367 | (par ex. jus d'orange enrichi en calcium). 
+00368 | En cas d'atteinte sévère ou si le patient est dans l'incapacité d'avaler les comprimés (par 
+00369 | ex. patients alimentés par sonde), il est recommandé de débuter le traitement par une 
+00370 | administration intraveineuse de ciprofloxacine jusqu'à ce qu'un relais par voie orale soit 
+00371 | possible. 
+00372 |  
+00373 | Si une dose est oubliée, elle doit être prise immédiatement ou au plus tard 6 heures 
+00374 | avant la prochaine dose prévue. S’il reste moins de 6 heures avant la prochaine dose, la 
+00375 | dose oubliée ne doit pas être prise et le traitement doit être poursuivi comme prescrit 
+00376 | avec la prochaine dose prévue. Ne pas prendre de dose double pour compenser la dose 
+00377 | oubliée. "
+12,7aec2085e838,ciprofloxacine,anpp,Interactions,oui,716,856,"Interactions avec d’autres médicaments 
+00717 | Effets des autres produits sur la ciprofloxacine : 
+00718 | + Médicaments connus pour allonger l’intervalle QT 
+00719 | La ciprofloxacine, comme d’autres fluoroquinolones, doit être utilisée avec précaution 
+00720 | chez les patients traités par des médicaments connus pour allonger l’intervalle QT (par 
+00721 | exemple, les anti-arythmiques de classe IA et III, les antidépresseurs tricycliques, les 
+00722 | macrolides, les antipsychotiques). 
+00723 | + Formation de complexes par chélation 
+00724 | L'administration simultanée de ciprofloxacine (voie orale) et de médicaments contenant 
+00725 | des cations polyvalents, ainsi que de compléments minéraux (par ex. calcium, 
+00726 | magnésium, aluminium, fer), de chélateurs polymériques du phosphate (par ex. le 
+00727 | sévélamer ou le carbonate de lanthane), de sucralfate ou d'antiacides, et de 
+00728 | médicaments fortement tamponnés (par ex. les comprimés de didanosine) contenant du 
+00729 | magnésium, de l'aluminium ou du calcium, réduit l'absorption de la ciprofloxacine. La 
+00730 | ciprofloxacine doit donc être administrée 1 à 2 heures avant ou au moins 4 heures après 
+00731 | ces substances. Cette restriction ne s'applique pas aux antiacides de la famille des 
+00732 | antagonistes des récepteurs H2. 
+00733 | + Aliments et produits laitiers 
+00734 | Le calcium alimentaire présent dans un repas n'a pas d'incidence significative sur 
+00735 | l'absorption du produit. Par contre, l'ingestion de produits laitiers ou de boissons enrichies 
+00736 | en minéraux (par ex. lait, yaourt, jus d'orange enrichi en calcium) administrés en dehors 
+00737 | des repas en même temps que la ciprofloxacine doit être évitée car l'absorption de la 
+00738 | ciprofloxacine pourrait être réduite. 
+00739 | + Probénécide 
+00740 | Le probénécide interfère avec la sécrétion rénale de la ciprofloxacine. L'administration 
+00741 | concomitante de probénécide et de ciprofloxacine accroît la concentration sérique de la 
+00742 | ciprofloxacine. 
+00743 | 
+00744 |  
+00745 | 14 
+00746 |  
+00747 | + Métoclopramide 
+00748 | Le métoclopramide accélère l’absorption de la ciprofloxacine (voie orale), ce qui aboutit à 
+00749 | une diminution du Tmax de la ciprofloxacine. Aucun effet sur la biodisponibilité de la 
+00750 | ciprofloxacine n’a été observé. 
+00751 | + Oméprazole 
+00752 | L’administration concomitante de ciprofloxacine et de médicaments contenant de 
+00753 | l’oméprazole conduit à une légère diminution de la concentration maximale et de l’aire 
+00754 | sous la courbe de la ciprofloxacine. 
+00755 |  
+00756 | Effets de la ciprofloxacine sur les autres produits médicamenteux : 
+00757 | + Tizanidine 
+00758 | La tizanidine ne doit pas être administrée en association avec la ciprofloxacine Lors d'un 
+00759 | essai clinique mené chez des sujets sains, une augmentation de la concentration sérique 
+00760 | de la tizanidine (augmentation de la Cmax: d'un facteur 7, extrêmes: 4 à 21; augmentation 
+00761 | de l'aire sous la courbe: d'un facteur 10, extrêmes: 6 à 24) a été observée lors de 
+00762 | l'administration concomitante de ciprofloxacine. L'augmentation de la concentration 
+00763 | sérique de la tizanidine est associée à une majoration des effets hypotenseur et sédatif. 
+00764 | + Méthotrexate 
+00765 | Le transport tubulaire rénal du méthotrexate peut être inhibé par l'administration 
+00766 | concomitante de ciprofloxacine, ce qui peut aboutir à une augmentation des taux 
+00767 | plasmatiques de méthotrexate et à un risque majoré de réactions toxiques associées au 
+00768 | méthotrexate. L'utilisation concomitante de ces deux médicaments n'est donc pas 
+00769 | recommandée. 
+00770 |  
+00771 | + Théophylline 
+00772 | L'administration simultanée de ciprofloxacine et de théophylline peut occasionner un 
+00773 | surdosage en théophylline et engendrer des effets indésirables dus à la théophylline qui, 
+00774 | rarement, mettent en jeu le pronostic vital ou deviennent fatals. Lors d'une telle 
+00775 | association, la théophyllinémie devra être contrôlée et la posologie de théophylline devra 
+00776 | être diminuée si nécessaire. 
+00777 |  
+00778 |  
+00779 | + Autres dérivés de la xanthine 
+00780 | Lors de l'administration simultanée de ciprofloxacine et de caféine ou de pentoxifylline 
+00781 | (oxpentifylline), une augmentation de la concentration sérique de ces dérivés xanthiques 
+00782 | a été rapportée. 
+00783 |  
+00784 | + Phénytoïne 
+00785 | L'administration simultanée de ciprofloxacine et de phénytoïne peut entraîner une 
+00786 | augmentation ou une réduction des taux sériques de phénytoïne, si bien qu'il est 
+00787 | recommandé de contrôler la concentration du médicament. 
+00788 | + Ciclosporine 
+00789 | 
+00790 |  
+00791 | 15 
+00792 |  
+00793 | Une augmentation transitoire de la créatininémie a été observée lors de l’administration 
+00794 | simultanée de ciprofloxacine et de médicaments contenant de la ciclosporine. Il est donc 
+00795 | nécessaire de contrôler fréquemment (2 fois par semaine) la créatininémie chez ces 
+00796 | patients. 
+00797 |  
+00798 | + Antivitamines K 
+00799 | L’administration simultanée de ciprofloxacine et d’antivitamines K peut augmenter les 
+00800 | effets anticoagulants de ces derniers. Le risque peut varier selon le contexte infectieux, 
+00801 | l’âge et l’état général du patient et il est difficile de déterminer la part de la ciprofloxacine 
+00802 | dans l’augmentation de l’INR (« International Normalized Ratio »). L’INR doit être contrôlé 
+00803 | fréquemment pendant et juste après l’administration simultanée de ciprofloxacine et 
+00804 | d’une antivitamine K (par exemple la warfarine, l’acénocoumarol, la phenprocoumone, le 
+00805 | fluindione). 
+00806 | + Duloxétine 
+00807 | Dans les essais cliniques, il a été démontré que l’utilisation concomitante de duloxétine 
+00808 | avec des inhibiteurs puissants de l’isoenzyme 1A2 du CYP450, telle que la fluvoxamine, 
+00809 | peut aboutir à une augmentation de l’aire sous la courbe et de la concentration maximale 
+00810 | de la duloxétine. Même si aucune donnée clinique n’est disponible sur cette possible 
+00811 | interaction avec la ciprofloxacine, des effets similaires peuvent être attendus en cas 
+00812 | d’administration simultanée. 
+00813 |  
+00814 | + Ropinirole 
+00815 | Un essai clinique a montré que l'utilisation concomitante de ropinirole et de 
+00816 | ciprofloxacine, un inhibiteur modéré de l'isoenzyme 1A2 du CYP450, entraînait une 
+00817 | augmentation de la Cmax et de l'ASC du ropinirole de 60 % et 84 %, respectivement. 
+00818 | Une surveillance des effets indésirables liés au ropinirole et un ajustement posologique 
+00819 | sont recommandés pendant et juste après l'administration simultanée de ciprofloxacine . 
+00820 | + Lidocaïne 
+00821 | Il a été démontré, chez des sujets sains, que l’utilisation simultanée de médicaments 
+00822 | contenant de la lidocaïne avec de la ciprofloxacine, inhibiteur modéré de l’isoenzyme 1A2 
+00823 | du CYP450, réduit la clairance de la lidocaïne administrée par voie intraveineuse de 
+00824 | 22%. Même si le traitement par la lidocaïne est bien toléré, une possible interaction avec 
+00825 | la ciprofloxacine, accompagnée d’effets indésirables, peut survenir en cas 
+00826 | d’administration simultanée. 
+00827 |  
+00828 | + Clozapine 
+00829 | Après administration concomitante de 250 mg de ciprofloxacine et de clozapine pendant 
+00830 | 7 jours, les concentrations sériques de la clozapine et de la N-desméthylclozapine ont été 
+00831 | augmentées respectivement de 29 % et 31 %. Une surveillance clinique et un ajustement 
+00832 | posologique de la clozapine sont conseillés pendant et juste après l'administration 
+00833 | simultanée de ciprofloxacine. 
+00834 | + Sildénafil 
+00835 | 
+00836 |  
+00837 | 16 
+00838 |  
+00839 | La concentration maximale et l’aire sous la courbe du sildénafil sont approximativement 
+00840 | doublées, chez des sujets sains, après administration simultanée d’une dose de 50 mg 
+00841 | par voie orale et de 500 mg de ciprofloxacine. La prescription de ciprofloxacine de façon 
+00842 | concomitante avec le sildénafil doit donc être effectuée avec précaution, en tenant 
+00843 | compte des risques et des bénéfices. 
+00844 |  
+00845 | + Agomélatine 
+00846 | Dans les essais cliniques, il a été démontré que la fluvoxamine, un inhibiteur puissant de 
+00847 | l’isoenzyme 1A2 du CYP450, inhibait de façon marquée le métabolisme de l’agomélatine, 
+00848 | résultant en une exposition à l’agomélatine 60 fois plus élevée. Bien qu’aucune donnée 
+00849 | clinique ne soit disponible concernant une interaction possible avec la ciprofloxacine, un 
+00850 | inhibiteur modéré de l’isoenzyme 1A2 du CYP450, des effets similaires peuvent être 
+00851 | attendus en cas d’administration concomitante « Cytochrome P450 »). 
+00852 |  
+00853 | + Zolpidem 
+00854 | L’administration concomitante de ciprofloxacine peut entraîner une augmentation des 
+00855 | concentrations sanguines de zolpidem : une utilisation simultanée n’est pas 
+00856 | recommandée. "
+13,af1492da07c8,kétoprofène,anpp,Indications,,,,
+13,af1492da07c8,kétoprofène,anpp,Contre-indications,,,,
+13,af1492da07c8,kétoprofène,anpp,Posologie,,,,
+13,af1492da07c8,kétoprofène,anpp,Interactions,,,,
+14,0643af951684,bisoprolol,anpp,Indications,oui,16,19,"Indications thérapeutiques 
+00017 | Traitement de l’insuffisance cardiaque chronique stable avec réduction de la fonction ventriculaire 
+00018 | systolique gauche en complément des inhibiteurs de l’enzyme de conversion (IEC) et des diurétiques, 
+00019 | et éventuellement, des digitaliques (pour de plus amples informations, voir rubrique 5.1)"
+14,0643af951684,bisoprolol,anpp,Contre-indications,oui,74,90,"Contre-indications 
+00075 | Le bisoprolol est contre-indiqué chez les patients souffrant d’insuffisance cardiaque chronique dans les 
+00076 | cas suivants : 
+00077 |  Insuffisance cardiaque aiguë ou pendant les épisodes de décompensation de l’insuffisance cardiaque, 
+00078 | nécessitant un traitement inotrope intraveineux ; 
+00079 |  Choc cardiogénique ; 
+00080 |  Blocs auriculo-ventriculaires des 2ème et 3ème degrés ; 
+00081 |  Maladie du sinus ; 
+00082 |  Bloc sino-auriculaire ; 
+00083 |  Bradycardie symptomatique ; 
+00084 |  Hypotension symptomatique ; 
+00085 |  Asthme sévère ; 
+00086 |  formes sévères de troubles artériels périphériques occlusifs ou formes sévères du phénomène de 
+00087 | Raynaud ; 
+00088 |  Phéochromocytome non traité (voir rubrique 4.4) ; 
+00089 |  Acidose métabolique ; 
+00090 |  Hypersensibilité à la substance active ou à l’un des excipients mentionnés à la rubrique 6.1. "
+14,0643af951684,bisoprolol,anpp,Posologie,oui,20,73,"Posologie et mode d'administration 
+00021 | Le traitement standard de l’insuffisance cardiaque chronique est composé d’un inhibiteur de l’enzyme 
+00022 | de conversion (ou un inhibiteur du récepteur de l’angiotensine en cas d’intolérance aux IEC), d’un bêta-
+00023 | bloquant, de diurétiques et le cas échéant de glucosides cardiaques. Les patients doivent être stables 
+00024 | (sans épisode aigu) à l’instauration du traitement par le bisoprolol. 
+00025 | Il est recommandé que le traitement soit assuré par un médecin ayant une expérience de la prise en 
+00026 | charge des patients atteints d’insuffisance cardiaque chronique. 
+00027 | Une aggravation transitoire de l’insuffisance cardiaque, de l’hypotension ou de la bradycardie peut se 
+00028 | produire pendant la période de titration et par la suite. 
+00029 | Posologie 
+00030 | Période de titration 
+00031 | Le traitement de l’insuffisance cardiaque chronique stable par le bisoprolol nécessite une période de 
+00032 | titration. 
+00033 | La posologie doit être augmentée progressivement, comme suit : 
+00034 |  1,25 mg une fois par jour pendant 1 semaine ; si le médicament est bien toléré, augmenter à ; 
+00035 |  2,5 mg une fois par jour pendant une autre semaine ; si le médicament est bien toléré, augmenter à ; 
+00036 |  3,75 mg une fois par jour pendant une autre semaine ; si le médicament est bien toléré, augmenter à 
+00037 | ; 
+00038 |  5 mg une fois par jour pendant les 4 semaines suivantes ; si le médicament est bien toléré, augmenter 
+00039 | à ; 
+00040 |  7,5 mg une fois par jour pendant les 4 semaines suivantes ; si le médicament est bien toléré, 
+00041 | augmenter à ; 
+00042 |  10 mg une fois par jour en traitement d’entretien. 
+00043 | La posologie maximale recommandée est de 10 mg une fois par jour. 
+00044 | 
+00045 | 2/10 
+00046 |  
+00047 | Une surveillance des constantes vitales (fréquence cardiaque, pression artérielle) et des symptômes 
+00048 | d’aggravation de l’insuffisance cardiaque est recommandée pendant la période de titration. Des 
+00049 | symptômes peuvent déjà apparaître dès le premier jour après initiation du traitement. 
+00050 | Modification du traitement 
+00051 | Si la dose maximale recommandée est mal tolérée, une diminution progressive de la dose pourra être 
+00052 | envisagée. 
+00053 | En cas d’aggravation transitoire de l’insuffisance cardiaque, de l’hypotension ou de la bradycardie, il est 
+00054 | recommandé de revoir la posologie des traitements concomitants. Il peut également être nécessaire de 
+00055 | réduire provisoirement la dose de bisoprolol ou d’envisager l’arrêt du traitement. 
+00056 | La reprise du traitement et/ou l’augmentation de la dose de bisoprolol doivent être systématiquement 
+00057 | envisagées dès lors que le patient est de nouveau stable. 
+00058 | Si l’arrêt du traitement est envisagé, une réduction progressive de la dose est recommandée car une 
+00059 | interruption soudaine pourrait entraîner une dégradation aiguë de l’état du patient. 
+00060 | Le traitement de l’insuffisance cardiaque chronique stable par le bisoprolol est habituellement un 
+00061 | traitement au long cours. 
+00062 | Atteinte rénale ou hépatique 
+00063 | On ne dispose d’aucune donnée concernant la pharmacocinétique du bisoprolol chez les patients 
+00064 | insuffisants hépatiques ou rénaux présentant une insuffisance cardiaque chronique. Il faut donc 
+00065 | augmenter la posologie avec la plus grande prudence chez ces patients. 
+00066 | Sujets âgés 
+00067 | Il n’est pas nécessaire d’adapter la posologie. 
+00068 | Population pédiatrique 
+00069 | Aucune donnée n’étant disponible avec le bisoprolol en pédiatrie, son utilisation ne peut donc être 
+00070 | recommandée chez les patients pédiatriques. 
+00071 | Mode d’administration 
+00072 | Les comprimés de bisoprolol doivent être pris le matin, avant, pendant ou après le petit déjeuner. 
+00073 | Ils doivent être avalés avec un peu de liquide, et ne doivent pas être mâchés"
+14,0643af951684,bisoprolol,anpp,Interactions,oui,157,209,"Interactions avec d'autres médicaments et autres formes d'interactions 
+00158 | Associations déconseillées 
+00159 | + Antagonistes calciques de type vérapamil, ou, dans une moindre mesure, de type diltiazem 
+00160 | Effet négatif sur la contractilité et la conduction auriculo-ventriculaire. L’administration intra-veineuse de 
+00161 | verapamil chez les patients sous bêta-bloquants peut induire une hypotension sévère et un bloc 
+00162 | auriculo-ventriculaire. 
+00163 | + Anti-arythmiques de classe I (par exemple quinidine, disopyramide, lidocaïne, phénytoïne, 
+00164 | flécaïnide, propafénone) 
+00165 | L’effet sur le temps de conduction auriculo-ventriculaire peut-être potentialisé et l’effet inotropique 
+00166 | négatif augmenté. 
+00167 | + Anti-hypertenseurs d’action centrale comme la clonidine et d’autres médicaments (par 
+00168 | exemple méthyldopa, moxonidine, rilménidine) 
+00169 | Aggravation de l’insuffisance cardiaque par diminution du tonus central sympathique (diminution de la 
+00170 | fréquence et du débit cardiaque, vasodilatation). L’arrêt brutal du traitement, en particulier s’il a lieu 
+00171 | avant l’arrêt du bêta-bloquant, peut augmenter le risque « d’hypertension rebond ». 
+00172 | Associations faisant l'objet de précautions d’emploi 
+00173 | + Antagonistes calciques de type dihydropyridine, comme la félodipine et l’amlodipine 
+00174 | Une majoration du risque d’hypotension et du risque de détérioration de la fonction ventriculaire chez 
+00175 | les patients souffrant d’insuffisance cardiaque ne peut être exclue. 
+00176 | + Anti-arythmiques de classe III (par exemple amiodarone) 
+00177 | L’effet sur la conduction auriculo-ventriculaire peut être majoré. 
+00178 | + Bêta-bloquants d’usage local (par exemple, collyre pour le traitement des glaucomes) 
+00179 | Les effets généraux du bisoprolol peuvent être potentialisés. 
+00180 | + Médicaments parasympathomimétiques 
+00181 | Le temps de conduction auriculo-ventriculaire et le risque de bradycardie peuvent être augmentés. 
+00182 | + Insuline et hypoglycémiants oraux 
+00183 | Augmentation de l’effet hypoglycémiant. Le blocage des bêta-adrénorécepteurs est susceptible de 
+00184 | masquer les signes d’hypoglycémie. 
+00185 | + Anesthésiques 
+00186 | Diminution de la tachycardie réflexe et augmentation du risque d’hypotension (pour plus d’information 
+00187 | sur l’anesthésie générale se référer également à la rubrique 4.4). 
+00188 | + Digitaliques 
+00189 | Diminution de la fréquence cardiaque, augmentation du temps de conduction auriculo-ventriculaire. 
+00190 | + Anti-inflammatoires non stéroïdiens (AINS) 
+00191 | L’action hypotensive du bisoprolol peut être diminuée. 
+00192 | + Médicaments -sympathomimétiques (par exemple isoprénaline, dobutamine) 
+00193 | L’association avec le bisoprolol peut diminuer l’effet des deux médicaments. 
+00194 | Médicaments sympathomimétiques qui activent les récepteurs  et -adrénergiques (par 
+00195 | exemple noradrénaline, adrénaline) 
+00196 | L’association avec le bisoprolol peut démasquer l’effet vasoconstricteur -adrénergique de ces 
+00197 | médicaments, conduisant à une hypertension et une aggravation d’une claudication intermittente. 
+00198 | Ces interactions sont considérées comme plus probables avec les bêta-bloquants non sélectifs. 
+00199 | + Anti-hypertenseurs, ou médicaments pouvant induire une hypotension (par exemple 
+00200 | antidépresseurs tricycliques, barbituriques, phénothiazines) 
+00201 | Le risque d’hypotension peut être majoré. 
+00202 | 
+00203 | 5/10 
+00204 |  
+00205 | Associations à prendre en compte 
+00206 | + Méfloquine 
+00207 | Majoration du risque de bradycardie. 
+00208 | + Inhibiteurs de la monoamine-oxydase (sauf les IMAO-B) 
+00209 | Majoration de l’effet hypotenseur des bêta-bloquants, mais aussi risque de crise hypertensive. "
+15,62594665f4ed,métronidazole,anpp,Indications,,,,
+15,62594665f4ed,métronidazole,anpp,Contre-indications,,,,
+15,62594665f4ed,métronidazole,anpp,Posologie,,,,
+15,62594665f4ed,métronidazole,anpp,Interactions,,,,
+16,1a991f1463cd,tramadol,dailymed,Indications,oui,284,293," 1 INDICATIONS AND USAGE
+00285 | Tramadol hydrochloride tablets are indicated in adults for the management of pain
+00286 | severe enough to require an opioid analgesic and for which alternative treatments are
+00287 | inadequate.
+00288 | Limitations of Use
+00289 | Because of the risks of addiction, abuse, misuse, overdose, and death, which can occur
+00290 | at any dosage or duration and persist over the course of therapy [see Warnings and
+00291 | Precautions (5.1)], reserve opioid analgesics, including tramadol hydrochloride tablets
+00292 | for use in patients for whom alternative treatment options are ineffective, not tolerated,
+00293 | or would be otherwise inadequate to provide sufficient management of pain."
+16,1a991f1463cd,tramadol,dailymed,Contre-indications,oui,445,459,"CONTRAINDICATIONS
+00446 | Tramadol hydrochloride tablets are contraindicated for:
+00447 | all children younger than 12 years of age [see Warnings and Precautions (5.6)].
+00448 | postoperative management in children younger than 18 years of age following
+00449 | tonsillectomy and/or adenoidectomy [see Warnings and Precautions (5.6)].
+00450 | Tramadol hydrochloride tablets are also contraindicated in patients with:
+00451 | Significant respiratory depression [see Warnings and Precautions (5.2)].
+00452 | Acute or severe bronchial asthma in an unmonitored setting or in the absence of
+00453 | resuscitative equipment [see Warnings and Precautions (5.12)].
+00454 | Known or suspected gastrointestinal obstruction, including paralytic ileus [see
+00455 | Warnings and Precautions (5.16)].
+00456 | Hypersensitivity to tramadol, any other component of this product or opioids [see
+00457 | Warnings and Precautions (5.17)].
+00458 | Concurrent use of monoamine oxidase inhibitors (MAOIs) or use within the last 14
+00459 | days [see Drug Interactions (7)]."
+16,1a991f1463cd,tramadol,dailymed,Posologie,oui,294,434," DOSAGE AND ADMINISTRATION
+00295 | 2.1 Important Dosage and Administration Instructions
+00296 | Do not use tramadol hydrochloride tablets concomitantly with other tramadol-
+00297 | containing products.
+00298 | Do not administer tramadol hydrochloride tablets at a dose exceeding 400 mg per
+00299 | day.
+00300 | Tramadol hydrochloride tablets should be prescribed only by healthcare professionals
+00301 | who are knowledgeable about the use of opioids and how to mitigate the associated
+00302 | risks.
+00303 | Use the lowest effective dosage for the shortest duration of time consistent with
+00304 | individual patient treatment goals [see Warnings and Precautions (5)]. Because the
+00305 | risk of overdose increases as opioid doses increases, reserve titration to higher
+00306 | 
+00307 | doses of tramadol hydrochloride tablets for patients in whom lower doses are
+00308 | insufficiently effective and in whom the expected benefits of using a higher dose
+00309 | opioid clearly outweigh the substantial risks.
+00310 | Many acute pain conditions (e.g., the pain that occurs with a number of surgical
+00311 | procedures or acute musculoskeletal injuries) require no more than a few days of an
+00312 | opioid analgesic. Clinical guidelines on opioid prescribing for some acute pain
+00313 | conditions are available.
+00314 | There is variability in the opioid analgesic dose and duration needed to adequately
+00315 | manage pain due both to the cause of pain and to individual patient factors. Initiate
+00316 | the dosing regimen for each patient individually, taking into account the patient's
+00317 | underlying cause and severity of pain, prior analgesic treatment response and risk
+00318 | factors for addiction, abuse, and misuse [see Warnings and Precautions (5.1)].
+00319 | Respiratory depression, can occur at any time during opioid therapy, especially when
+00320 | initiating and following dosage increases with tramadol hydrochloride tablets.
+00321 | Consider this risk when selecting an initial dose and when making dose adjustments
+00322 | [see Warnings and Precautions (5)].
+00323 | 2.2 Patient Access to an Opioid Overdose Reversal Agent for the Emergency
+00324 | Treatment of Opioid Overdose
+00325 | Inform patients and caregivers about opioid overdose reversal agents (e.g., naloxone,
+00326 | nalmefene). Discuss the importance of having access to an opioid overdose reversal
+00327 | agent, especially if the patient has risk factors for overdose (e.g., concomitant use of
+00328 | CNS depressants, a history of opioid use disorder, or prior opioid overdose) or if there
+00329 | are household members (including children) or other close contacts at risk for accidental
+00330 | ingestion or opioid overdose. The presence of risk factors for overdose should not
+00331 | prevent the management of pain in any patient [see Warnings and Precautions (5.1, 5.2,
+00332 | 5.3)].
+00333 | Discuss the options for obtaining an opioid overdose reversal agent (e.g., prescription,
+00334 | over-the-counter, or as part of a community-based program) [see Warnings and
+00335 | Precautions (5.2)]. There are important differences among the opioid overdose reversal
+00336 | agents, such as route of administration, product strength, approved patient age range,
+00337 | and pharmacokinetics. Be familiar with these differences, as outlined in the approved
+00338 | labeling for those products, prior to recommending or prescribing such an agent.
+00339 | 2.3 Initial Dosage
+00340 | Initiating Treatment with Tramadol Hydrochloride Tablets
+00341 | Initiate treatment at the lowest dose necessary to achieve adequate analgesia. Titrate
+00342 | the dose based upon the individual patient's response to their initial dose of tramadol
+00343 | hydrochloride tablets.
+00344 | For patients not requiring rapid onset of analgesic effect, the tolerability of tramadol
+00345 | hydrochloride tablets can be improved by initiating therapy with the following titration
+00346 | regimen: Start tramadol hydrochloride tablets at 25 mg/day and titrated in 25 mg
+00347 | increments as separate doses every 3 days to reach 100 mg/day (25 mg four times a
+00348 | day). Thereafter the total daily dose may be increased by 50 mg as tolerated every 3
+00349 | days to reach 200 mg/day (50 mg four times a day). After titration, tramadol
+00350 | hydrochloride tablets 50 to 100 mg can be administered as needed for pain relief every
+00351 | 4 to 6 hours not to exceed 400 mg/day.
+00352 | 
+00353 | For the subset of patients for whom rapid onset of analgesic effect is required and for
+00354 | whom the benefits outweigh the risk of discontinuation due to adverse events
+00355 | associated with higher initial doses, tramadol hydrochloride tablets 50 mg to 100 mg can
+00356 | be administered as needed for pain relief every four to six hours, not to exceed 400 mg
+00357 | per day.
+00358 | Conversion from Tramadol hydrochloride tablets to Extended-Release Tramadol
+00359 | The relative bioavailability of tramadol hydrochloride tablets compared to extended-
+00360 | release tramadol is unknown, so conversion to extended-release formulations may lead
+00361 | to increased risk of excessive sedation and respiratory depression.
+00362 | Dosage Modification in Patients with Hepatic Impairment
+00363 | The recommended dose for adult patients with severe hepatic impairment is 50 mg
+00364 | every 12 hours.
+00365 | Dosage Modification in Patients with Renal Impairment
+00366 | In all patients with creatinine clearance less than 30 mL/min, it is recommended that the
+00367 | dosing interval of tramadol hydrochloride tablets be increased to 12 hours, with a
+00368 | maximum daily dose of 200 mg. Since only 7% of an administered dose is removed by
+00369 | hemodialysis, dialysis patients can receive their regular dose on the day of dialysis.
+00370 | Dosage Modification in Geriatric Patients
+00371 | Do not exceed a total dose of 300 mg/day in patients over 75 years old.
+00372 | 2.4 Titration and Maintenance of Therapy
+00373 | Individually titrate tramadol hydrochloride tablets to a dose that provides adequate
+00374 | analgesia and minimizes adverse reactions. Continually reevaluate patients receiving
+00375 | tramadol hydrochloride tablets to assess the maintenance of pain control, signs and
+00376 | symptoms of opioid withdrawal, and other adverse reactions, as well as to reassess for
+00377 | the development of addiction, abuse, or misuse [see Warnings and Precautions (5.1),
+00378 | (5.18)]. Frequent communication is important among the prescriber, other members of
+00379 | the healthcare team, the patient, and the caregiver/family during periods of changing
+00380 | analgesic requirements, including initial titration.
+00381 | If the level of pain increases after dosage stabilization, attempt to identify the source of
+00382 | increased pain before increasing the tramadol hydrochloride tablets dosage. If after
+00383 | increasing the dosage, unacceptable opioid-related adverse reactions are observed
+00384 | (including an increase in pain after dosage increase), consider reducing the dosage [see
+00385 | Warnings and Precautions (5)]. Adjust the dosage to obtain an appropriate balance
+00386 | between management of pain and opioid-related adverse reactions.
+00387 | 2.5 Safe Reduction and Discontinuation of Tramadol Hydrochloride Tablets
+00388 | Do not rapidly reduce or abruptly discontinue tramadol hydrochloride tablets in patients
+00389 | who may be physically dependent on opioids. Rapid reduction or abrupt discontinuation
+00390 | of opioid analgesics in patients who are physically dependent on opioids has resulted in
+00391 | serious withdrawal symptoms, uncontrolled pain, and suicide. Rapid reduction or abrupt
+00392 | discontinuation has also been associated with attempts to find other sources of opioid
+00393 | analgesics, which may be confused with drug-seeking for abuse. Patients may also
+00394 | attempt to treat their pain or withdrawal symptoms with illicit opioids, such as heroin,
+00395 | 
+00396 | and other substances.
+00397 | When a decision has been made to decrease the dose or discontinue therapy in an
+00398 | opioid-dependent patient taking tramadol hydrochloride tablets, there are a variety of
+00399 | factors that should be considered, including the total daily dose of opioid (including
+00400 | tramadol hydrochloride tablets) the patient has been taking, the duration of treatment,
+00401 | the type of pain being treated, and the physical and psychological attributes of the
+00402 | patient. It is important to ensure ongoing care of the patient and to agree on an
+00403 | appropriate tapering schedule and follow-up plan so that patient and provider goals and
+00404 | expectations are clear and realistic. When opioid analgesics are being discontinued due
+00405 | to a suspected substance use disorder, evaluate and treat the patient, or refer for
+00406 | evaluation and treatment of the substance use disorder. Treatment should include
+00407 | evidence-based approaches, such as medication assisted treatment of opioid use
+00408 | disorder. Complex patients with comorbid pain and substance use disorders may benefit
+00409 | from referral to a specialist.
+00410 | There are no standard opioid tapering schedules that are suitable for all patients. Good
+00411 | clinical practice dictates a patient-specific plan to taper the dose of the opioid gradually.
+00412 | For patients on tramadol hydrochloride tablets who are physically opioid-dependent,
+00413 | initiate the taper by a small enough increment, (e.g., no greater than 10% to 25% of the
+00414 | total daily dose) to avoid withdrawal symptoms, and proceed with dose-lowering at an
+00415 | interval of every 2 to 4 weeks. Patients who have been taking opioids for briefer periods
+00416 | of time may tolerate a more rapid taper.
+00417 | It may be necessary to provide the patient with a lower dosage strength to accomplish a
+00418 | successful taper. Reassess the patient frequently to manage pain and withdrawal
+00419 | symptoms, should they emerge. Common withdrawal symptoms include restlessness,
+00420 | lacrimation, rhinorrhea, yawning, perspiration, chills, myalgia, and mydriasis. Other signs
+00421 | and symptoms also may develop, including irritability, anxiety, backache, joint pain,
+00422 | weakness, abdominal cramps, insomnia, nausea, anorexia, vomiting, diarrhea, or
+00423 | increased blood pressure, respiratory rate, or heart rate. If withdrawal symptoms arise,
+00424 | it may be necessary to pause the taper for a period of time or raise the dose of the
+00425 | opioid analgesic to the previous dose, and then proceed with a slower taper. In addition,
+00426 | regularly evaluate patients for any changes in mood, emergence of suicidal thoughts, or
+00427 | use of other substances.
+00428 | When managing patients taking opioid analgesics, particularly those who have been
+00429 | treated for an extended period of time, and/or with high doses for chronic pain, ensure
+00430 | that a multimodal approach to pain management, including mental health support (if
+00431 | needed), is in place prior to initiating an opioid analgesic taper. A multimodal approach to
+00432 | pain management may optimize the treatment of chronic pain, as well as assist with the
+00433 | successful tapering of the opioid analgesic [see Warnings and Precautions (5.18), Drug
+00434 | Abuse and Dependence (9.3)]"
+16,1a991f1463cd,tramadol,dailymed,Interactions,oui,1094,1301,"DRUG INTERACTIONS
+01095 | Table 2: Clinically Significant Drug Interactions with Tramadol hydrochloride
+01096 | tablets
+01097 | Inhibitors of CYP2D6 
+01098 | Clinical Impact: 
+01099 | The concomitant use of tramadol hydrochloride tablets and
+01100 | CYP2D6 inhibitors may result in an increase in the plasma
+01101 | concentration of tramadol and a decrease in the plasma
+01102 | concentration of M1, particularly when an inhibitor is added
+01103 | after a stable dose of tramadol hydrochloride tablets are
+01104 | achieved. Since M1 is a more potent μ-opioid agonist,
+01105 | 
+01106 | p
+01107 | μ
+01108 | p
+01109 | g
+01110 | decreased M1 exposure could result in decreased therapeutic
+01111 | effects, and may result in signs and symptoms of opioid
+01112 | withdrawal in patients who had developed physical dependence
+01113 | to tramadol. Increased tramadol exposure can result in
+01114 | increased or prolonged therapeutic effects and increased risk
+01115 | for serious adverse events including seizures and serotonin
+01116 | syndrome. 
+01117 | After stopping a CYP2D6 inhibitor, as the effects of the inhibitor
+01118 | decline, the tramadol plasma concentration will decrease and
+01119 | the M1 plasma concentration will increase. This could increase
+01120 | or prolong therapeutic effects but also increase adverse
+01121 | reactions related to opioid toxicity, such as potentially fatal
+01122 | respiratory depression [see Clinical Pharmacology (12.3)]. 
+01123 | Intervention: 
+01124 | If concomitant use of a CYP2D6 inhibitor is necessary, evaluate
+01125 | patients at frequent intervals for adverse reactions including
+01126 | opioid withdrawal, seizures and serotonin syndrome. 
+01127 | If a CYP2D6 inhibitor is discontinued, consider lowering
+01128 | tramadol hydrochloride tablets dosage until stable drug effects
+01129 | are achieved. Evaluate patients at frequent intervals for adverse
+01130 | events including respiratory depression and sedation.
+01131 | Examples: 
+01132 | Quinidine, fluoxetine, paroxetine and bupropion
+01133 | Inhibitors of CYP3A4 
+01134 | Clinical Impact: 
+01135 | The concomitant use of tramadol hydrochloride tablets and
+01136 | CYP3A4 inhibitors can increase the plasma concentration of
+01137 | tramadol and may result in a greater amount of metabolism via
+01138 | CYP2D6 and greater levels of M1. Follow patients closely for
+01139 | increased risk of serious adverse events including seizures and
+01140 | serotonin syndrome, and adverse reactions related to opioid
+01141 | toxicity including potentially fatal respiratory depression,
+01142 | particularly when an inhibitor is added after a stable dose of
+01143 | tramadol hydrochloride tablets are achieved. 
+01144 | After stopping a CYP3A4 inhibitor, as the effects of the inhibitor
+01145 | decline, the tramadol plasma concentration will decrease [see
+01146 | Clinical Pharmacology (12.3)], resulting in decreased opioid
+01147 | efficacy or a withdrawal syndrome in patients who had
+01148 | developed physical dependence to tramadol.
+01149 | Intervention: 
+01150 | If concomitant use is necessary, consider dosage reduction of
+01151 | tramadol hydrochloride tablets until stable drug effects are
+01152 | achieved. Inform patients and caregivers of this potential
+01153 | interaction, educate them on the signs and symptoms of
+01154 | seizures, serotonin syndrome, and signs of respiratory
+01155 | depression and sedation.
+01156 | If a CYP3A4 inhibitor is discontinued, consider increasing the
+01157 | tramadol hydrochloride tablets dosage until stable drug effects
+01158 | are achieved and evaluate patients at frequent intervals for
+01159 | signs and symptoms of opioid withdrawal.
+01160 | Examples: 
+01161 | Macrolide antibiotics (e.g., erythromycin), azole-antifungal
+01162 | agents (e.g. ketoconazole), protease inhibitors (e.g., ritonavir)
+01163 | CYP3A4 Inducers 
+01164 | 
+01165 | Clinical Impact: 
+01166 | The concomitant use of tramadol hydrochloride tablets and
+01167 | CYP3A4 inducers can decrease the plasma concentration of
+01168 | tramadol [see Clinical Pharmacology (12.3)], resulting in
+01169 | decreased efficacy or onset of a withdrawal syndrome in
+01170 | patients who have developed physical dependence to tramadol. 
+01171 | After stopping a CYP3A4 inducer, as the effects of the inducer
+01172 | decline, the tramadol plasma concentration will increase [see
+01173 | Clinical Pharmacology (12.3)], which could increase or prolong
+01174 | both the therapeutic effects and adverse reactions, and may
+01175 | cause seizures, serotonin syndrome, and/or potentially fatal
+01176 | respiratory depression.
+01177 | Intervention: 
+01178 | If concomitant use is necessary, consider increasing the
+01179 | tramadol hydrochloride tablets dosage until stable drug effects
+01180 | are achieved. Assess patients for signs of opioid withdrawal. 
+01181 | If a CYP3A4 inducer is discontinued, consider tramadol
+01182 | hydrochloride tablets dosage reduction and evaluate patients at
+01183 | frequent intervals for signs of respiratory depression and
+01184 | sedation. 
+01185 | Patients taking carbamazepine, a CYP3A4 inducer, may have a
+01186 | significantly reduced analgesic effect of tramadol. Because
+01187 | carbamazepine increases tramadol metabolism and because of
+01188 | the seizure risk associated with tramadol, concomitant
+01189 | administration of tramadol hydrochloride tablets and
+01190 | carbamazepine is not recommended.
+01191 | Examples: 
+01192 | Rifampin, carbamazepine, phenytoin
+01193 | Benzodiazepines and Other Central Nervous System (CNS) Depressants 
+01194 | Clinical Impact: 
+01195 | Due to additive pharmacologic effect, the concomitant use of
+01196 | benzodiazepines or other CNS depressants, including alcohol,
+01197 | increases the risk of respiratory depression, profound
+01198 | sedation, coma, and death.
+01199 | Intervention: 
+01200 | Reserve concomitant prescribing of these drugs for use in
+01201 | patients for whom alternative treatment options are inadequate.
+01202 | Limit dosages and durations to the minimum required. Inform
+01203 | patients and caregivers of this potential interaction, educate
+01204 | them on the signs and symptoms of respiratory depression
+01205 | (including sedation). If concomitant use is warranted, consider
+01206 | recommending or prescribing an opioid overdose reversal
+01207 | agent [see Dosage and Administration (2.2), Warnings and
+01208 | Precautions (5.1, 5.2, 5.3)]. 
+01209 | Examples: 
+01210 | Benzodiazepines and other sedatives/hypnotics, anxiolytics,
+01211 | tranquilizers, muscle relaxants, general anesthetics,
+01212 | antipsychotics, gabapentinoids (gabapentin or pregabalin),
+01213 | other opioids, and alcohol.
+01214 | Serotonergic Drugs 
+01215 | Clinical Impact: 
+01216 | The concomitant use of opioids with other drugs that affect the
+01217 | serotonergic neurotransmitter system has resulted in serotonin
+01218 | syndrome.
+01219 | Intervention: 
+01220 | If concomitant use is warranted, frequently evaluate the
+01221 | patient, particularly during treatment initiation and dose
+01222 | 
+01223 | adjustment. Discontinue tramadol hydrochloride tablets
+01224 | immediately if serotonin syndrome is suspected.
+01225 | Examples: 
+01226 | Selective serotonin reuptake inhibitors (SSRIs), serotonin and
+01227 | norepinephrine reuptake inhibitors (SNRIs), tricyclic
+01228 | antidepressants (TCAs), triptans, 5-HT3 receptor antagonists,
+01229 | drugs that affect the serotonin neurotransmitter system (e.g.,
+01230 | mirtazapine, trazodone, tramadol), certain muscle relaxants
+01231 | (i.e., cyclobenzaprine, metaxalone), monoamine oxidase (MAO)
+01232 | inhibitors (those intended to treat psychiatric disorders and
+01233 | also others, such as linezolid and intravenous methylene blue).
+01234 | Monoamine Oxidase Inhibitors (MAOIs) 
+01235 | Clinical Impact: 
+01236 | MAOI interactions with opioids may manifest as serotonin
+01237 | syndrome [see Warnings and Precautions (5.10)] or opioid
+01238 | toxicity (e.g., respiratory depression, coma) [see Warnings and
+01239 | Precautions (5.2)]. 
+01240 | Intervention: 
+01241 | Do not use tramadol hydrochloride tablets in patients taking
+01242 | MAOIs or within 14 days of stopping such treatment.
+01243 | Examples: 
+01244 | phenelzine, tranylcypromine, linezolid
+01245 | Mixed Agonist/Antagonist and Partial Agonist Opioid Analgesics 
+01246 | Clinical Impact: 
+01247 | May reduce the analgesic effect of tramadol hydrochloride
+01248 | tablets and/or precipitate withdrawal symptoms.
+01249 | Intervention: 
+01250 | Avoid concomitant use.
+01251 | Examples: 
+01252 | butorphanol, nalbuphine, pentazocine, buprenorphine
+01253 | Muscle Relaxants 
+01254 | Clinical Impact: 
+01255 | Tramadol may enhance the neuromuscular blocking action of
+01256 | skeletal muscle relaxants and produce an increased degree of
+01257 | respiratory depression.
+01258 | Intervention: 
+01259 | Because respiratory depression may be greater than otherwise
+01260 | expected, decrease the dosage of tramadol hydrochloride
+01261 | tablets and/or the muscle relaxant as necessary. Due to the
+01262 | risk of respiratory depression with concomitant use of skeletal
+01263 | muscle relaxants and opioids, consider recommending or
+01264 | prescribing an opioid overdose reversal agent [see Dosage and
+01265 | Administration (2.2), Warnings and Precautions (5.2, 5.3)]. 
+01266 | Examples: 
+01267 | Cyclobenzaprine, metaxalone.
+01268 | Diuretics 
+01269 | Clinical Impact: 
+01270 | Opioids can reduce the efficacy of diuretics by inducing the
+01271 | release of antidiuretic hormone.
+01272 | Intervention: 
+01273 | Evaluate patients for signs of diminished diuresis and/or effects
+01274 | on blood pressure and increase the dosage of the diuretic as
+01275 | needed.
+01276 | Anticholinergic Drugs 
+01277 | Clinical Impact: 
+01278 | The concomitant use of anticholinergic drugs may increase risk
+01279 | of urinary retention and/or severe constipation, which may lead
+01280 | to paralytic ileus.
+01281 | Intervention: 
+01282 | Evaluate patients for signs of urinary retention or reduced
+01283 | gastric motility when tramadol hydrochloride tablets are used
+01284 | concomitantly with anticholinergic drugs.
+01285 | 
+01286 | Digoxin 
+01287 | Clinical Impact: 
+01288 | Postmarketing surveillance of tramadol has revealed rare
+01289 | reports of digoxin toxicity.
+01290 | Intervention: 
+01291 | Evaluate patients at frequent intervals for signs of digoxin
+01292 | toxicity and adjust dosage of digoxin as needed.
+01293 | Warfarin 
+01294 | Clinical Impact: 
+01295 | Postmarketing surveillance of tramadol has revealed rare
+01296 | reports of alteration of warfarin effect, including elevation of
+01297 | prothrombin times.
+01298 | Intervention: 
+01299 | Frequently reevaluate the prothrombin time of patients on
+01300 | warfarin for signs of an interaction and adjust the dosage of
+01301 | warfarin as needed."
+17,51ebb4e1d689,méthyldopa,dailymed,Indications,oui,54,55,"INDICATIONS AND USAGE
+00055 | Hypertension."
+17,51ebb4e1d689,méthyldopa,dailymed,Contre-indications,oui,56,61,"CONTRAINDICATIONS
+00057 | Methyldopa is contraindicated in patients:
+00058 | - with active hepatic disease, such as acute hepatitis and active cirrhosis.
+00059 | - with liver disorders previously associated with methyldopa therapy (see WARNINGS).
+00060 | - with hypersensitivity to any component of this product.
+00061 | - on therapy with monoamine oxidase (MAO) inhibitors."
+17,51ebb4e1d689,méthyldopa,dailymed,Posologie,oui,252,284,"DOSAGE AND ADMINISTRATION
+00253 | ADULTS
+00254 | Initiation of Therapy
+00255 | The usual starting dosage of methyldopa is 250 mg two or three times a day in the first 48 hours. The
+00256 | daily dosage then may be increased or decreased, preferably at intervals of not less than two days, until
+00257 | an adequate response is achieved. To minimize the sedation, start dosage increases in the evening. By
+00258 | adjustment of dosage, morning hypotension may be prevented without sacrificing control of afternoon
+00259 | blood pressure.
+00260 | 50
+00261 | 
+00262 | When methyldopa is given to patients on other antihypertensives, the dose of these agents may need to
+00263 | be adjusted to effect a smooth transition. When methyldopa is given with antihypertensives other than
+00264 | thiazides, the initial dosage of methyldopa should be limited to 500 mg daily in divided doses; when
+00265 | methyldopa is added to a thiazide, the dosage of thiazide need not be changed.
+00266 | Maintenance Therapy
+00267 | The usual daily dosage of methyldopa is 500 mg to 2 g in two to four doses. Although occasional
+00268 | patients have responded to higher doses, the maximum recommended daily dosage is 3 g. Once an
+00269 | effective dosage range is attained, a smooth blood pressure response occurs in most patients in 12 to 24
+00270 | hours. Since methyldopa has a relatively short duration of action, withdrawal is followed by return of
+00271 | hypertension usually within 48 hours. This is not complicated by an overshoot of blood pressure.
+00272 | Occasionally tolerance may occur, usually between the second and third month of therapy. Adding a
+00273 | diuretic or increasing the dosage of methyldopa frequently will restore effective control of blood
+00274 | pressure. A thiazide may be added at any time during methyldopa therapy and is recommended if therapy
+00275 | has not been started with a thiazide or if effective control of blood pressure cannot be maintained on 2 g
+00276 | of methyldopa daily.
+00277 | Methyldopa is largely excreted by the kidney and patients with impaired renal function may respond to
+00278 | smaller doses. Syncope in older patients may be related to an increased sensitivity and advanced
+00279 | arteriosclerotic vascular disease. This may be avoided by lower doses. (See PRECAUTIONS,
+00280 | Geriatric Use).
+00281 | PEDIATRIC PATIENTS
+00282 | Initial dosage is based on 10 mg/kg of body weight daily in two to four doses. The daily dosage then is
+00283 | increased or decreased until an adequate response is achieved. The maximum dosage is 65 mg/kg or 3 g
+00284 | daily, whichever is less. (See PRECAUTIONS, Pediatric Use.)"
+17,51ebb4e1d689,méthyldopa,dailymed,Interactions,oui,124,138,"Drug Interactions
+00125 | When methyldopa is used with other antihypertensive drugs, potentiation of antihypertensive effect may
+00126 | 
+00127 | occur. Patients should be followed carefully to detect side reactions or unusual manifestations of drug
+00128 | idiosyncrasy.
+00129 | Patients may require reduced doses of anesthetics when on methyldopa. If hypotension does occur
+00130 | during anesthesia, it usually can be controlled by vasopressors. The adrenergic receptors remain
+00131 | sensitive during treatment with methyldopa.
+00132 | When methyldopa and lithium are given concomitantly the patient should be carefully monitored for
+00133 | symptoms of lithium toxicity. Read the circular for lithium preparations.
+00134 | Several studies demonstrate a decrease in the bioavailability of methyldopa when it is ingested with
+00135 | ferrous sulfate or ferrous gluconate. This may adversely affect blood pressure control in patients
+00136 | treated with methyldopa. Coadministration of methyldopa with ferrous sulfate or ferrous gluconate is
+00137 | not recommended.
+00138 | Monoamine oxidase (MAO) inhibitors: see CONTRAINDICATIONS."
+18,179efd1e6208,lévofloxacine,dailymed,Indications,oui,294,411," INDICATIONS AND USAGE
+00295 | Levofloxacin oral solution is indicated for the treatment of adults (≥18 years of age) with
+00296 | mild, moderate, and severe infections caused by susceptible isolates of the designated
+00297 | microorganisms in the conditions listed in this section.
+00298 | 1.1 Nosocomial Pneumonia
+00299 | Levofloxacin is indicated for the treatment of nosocomial pneumonia due to methicillin-
+00300 | susceptible Staphylococcus aureus, Pseudomonas aeruginosa, Serratia marcescens,
+00301 | Escherichia coli, Klebsiella pneumoniae, Haemophilus influenzae, or Streptococcus
+00302 | pneumoniae. Adjunctive therapy should be used as clinically indicated. Where
+00303 | Pseudomonas aeruginosa is a documented or presumptive pathogen, combination
+00304 | therapy with an anti-pseudomonal β-lactam is recommended [see Clinical Studies (14.1)].
+00305 | 1.2 Community-Acquired Pneumonia: 7-14 day Treatment Regimen
+00306 | 
+00307 | Levofloxacin is indicated for the treatment of community-acquired pneumonia due to
+00308 | methicillin-susceptible Staphylococcus aureus, Streptococcus pneumoniae (including
+00309 | multi- drug-resistant Streptococcus pneumoniae [MDRSP]), Haemophilus influenzae,
+00310 | Haemophilus parainfluenzae, Klebsiella pneumoniae, Moraxella catarrhalis, Chlamydophila
+00311 | pneumoniae, Legionella pneumophila, or Mycoplasma pneumoniae [see Dosage and
+00312 | Administration (2.1) and Clinical Studies (14.2)]. 
+00313 | MDRSP isolates are isolates resistant to two or more of the following antibacterials:
+00314 | penicillin (MIC ≥2 mcg/mL), 2
+00315 |  generation cephalosporins, e.g., cefuroxime, macrolides,
+00316 | tetracyclines and trimethoprim/sulfamethoxazole.
+00317 | 1.3 Community-Acquired Pneumonia: 5-day Treatment Regimen
+00318 | Levofloxacin is indicated for the treatment of community-acquired pneumonia due to
+00319 | Streptococcus pneumoniae (excluding multi-drug-resistant isolates [MDRSP]),
+00320 | Haemophilus influenzae, Haemophilus parainfluenzae, Mycoplasma pneumoniae, or
+00321 | Chlamydophila pneumoniae [see Dosage and Administration (2.1) and Clinical Studies
+00322 | (14.3)].
+00323 | 1.4 Complicated Skin and Skin Structure Infections
+00324 | Levofloxacin is indicated for the treatment of complicated skin and skin structure
+00325 | infections due to methicillin-susceptible Staphylococcus aureus, Enterococcus faecalis,
+00326 | Streptococcus pyogenes, or Proteus mirabilis [see Clinical Studies (14.5)].
+00327 | 1.5 Uncomplicated Skin and Skin Structure Infections
+00328 | Levofloxacin is indicated for the treatment of uncomplicated skin and skin structure
+00329 | infections (mild to moderate) including abscesses, cellulitis, furuncles, impetigo,
+00330 | pyoderma, wound infections, due to methicillin-susceptible Staphylococcus aureus, or
+00331 | Streptococcus pyogenes.
+00332 | 1.6 Chronic Bacterial Prostatitis
+00333 | Levofloxacin is indicated for the treatment of chronic bacterial prostatitis due to
+00334 | Escherichia coli, Enterococcus faecalis, or methicillin-susceptible Staphylococcus
+00335 | epidermidis [see Clinical Studies (14.6)].
+00336 | 1.7 Inhalational Anthrax (Post-Exposure)
+00337 | Levofloxacin is indicated for inhalational anthrax (post-exposure) to reduce the incidence
+00338 | or progression of disease following exposure to aerosolized Bacillus anthracis. The
+00339 | effectiveness of levofloxacin is based on plasma concentrations achieved in humans, a
+00340 | surrogate endpoint reasonably likely to predict clinical benefit. Levofloxacin has not been
+00341 | tested in humans for the post-exposure prevention of inhalation anthrax. The safety of
+00342 | levofloxacin in adults for durations of therapy beyond 28 days or in pediatric patients for
+00343 | durations of therapy beyond 14 days has not been studied. Prolonged levofloxacin
+00344 | therapy should only be used when the benefit outweighs the risk [see Dosage and
+00345 | Administration (2.1, 2.2) and Clinical Studies (14.9)].
+00346 | 1.8 Plague
+00347 | Levofloxacin is indicated for treatment of plague, including pneumonic and septicemic
+00348 | nd
+00349 | 
+00350 | plague, due to Yersinia pestis (Y. pestis) and prophylaxis for plague in adults and
+00351 | pediatric patients, 6 months of age and older. Efficacy studies of levofloxacin could not
+00352 | be conducted in humans with plague for ethical and feasibility reasons. Therefore,
+00353 | approval of this indication was based on an efficacy study conducted in animals [see
+00354 | Dosage and Administration (2.1, 2.2) and Clinical Studies (14.10)].
+00355 | 1.9 Complicated Urinary Tract Infections: 5-day Treatment Regimen
+00356 | Levofloxacin is indicated for the treatment of complicated urinary tract infections due to
+00357 | Escherichia coli, Klebsiella pneumoniae, or Proteus mirabilis [see Clinical Studies (14.7)].
+00358 | 1.10 Complicated Urinary Tract Infections: 10-day Treatment Regimen
+00359 | Levofloxacin is indicated for the treatment of complicated urinary tract infections (mild
+00360 | to moderate) due to Enterococcus faecalis, Enterobacter cloacae, Escherichia coli,
+00361 | Klebsiella pneumoniae, Proteus mirabilis, or Pseudomonas aeruginosa [see Clinical Studies
+00362 | (14.8)].
+00363 | 1.11 Acute Pyelonephritis: 5- or 10-day Treatment Regimen
+00364 | Levofloxacin is indicated for the treatment of acute pyelonephritis caused by Escherichia
+00365 | coli, including cases with concurrent bacteremia [see Clinical Studies (14.7, 14.8)].
+00366 | 1.12 Uncomplicated Urinary Tract Infections
+00367 | Levofloxacin is indicated for the treatment of uncomplicated urinary tract infections (mild
+00368 | to moderate) due to Escherichia coli, Klebsiella pneumoniae, or Staphylococcus
+00369 | saprophyticus.
+00370 | Because fluoroquinolones, including levofloxacin, have been associated with serious
+00371 | adverse reactions [see Warnings and Precautions (5.1-5.15)] and for some patients
+00372 | uncomplicated urinary tract infection is self-limiting, reserve levofloxacin for treatment of
+00373 | uncomplicated urinary tract infections in patients who have no alternative treatment
+00374 | options.
+00375 | 1.13 Acute Bacterial Exacerbation of Chronic Bronchitis
+00376 | Levofloxacin is indicated for the treatment of acute bacterial exacerbation of chronic
+00377 | bronchitis (ABECB) due to methicillin-susceptible Staphylococcus aureus, Streptococcus
+00378 | pneumoniae, Haemophilus influenzae, Haemophilus parainfluenzae, or Moraxella
+00379 | catarrhalis.
+00380 | Because fluoroquinolones, including levofloxacin, have been associated with serious
+00381 | adverse reactions [see Warnings and Precautions (5.1-5.15)] and for some patients
+00382 | ABECB is self-limiting, reserve levofloxacin for treatment of ABECB in patients who have
+00383 | no alternative treatment options.
+00384 | 1.14 Acute Bacterial Sinusitis: 5-day and 10-14 day Treatment Regimens
+00385 | Levofloxacin is indicated for the treatment of acute bacterial sinusitis (ABS) due to
+00386 | Streptococcus pneumoniae, Haemophilus influenzae, or Moraxella catarrhalis [see Clinical
+00387 | Studies (14.4)].
+00388 | Because fluoroquinolones, including levofloxacin, have been associated with serious
+00389 | 
+00390 | adverse reactions [see Warnings and Precautions (5.1-5.15)] and for some patients ABS
+00391 | is self-limiting, reserve levofloxacin for treatment of ABS in patients who have no
+00392 | alternative treatment options.
+00393 | 1.15 Usage
+00394 | To reduce the development of drug-resistant bacteria and maintain the effectiveness of
+00395 | levofloxacin and other antibacterial drugs, levofloxacin should be used only to treat or
+00396 | prevent infections that are proven or strongly suspected to be caused by susceptible
+00397 | bacteria. When culture and susceptibility information are available, they should be
+00398 | considered in selecting or modifying antibacterial therapy. In the absence of such data,
+00399 | local epidemiology and susceptibility patterns may contribute to the empiric selection of
+00400 | therapy.
+00401 | Culture and susceptibility testing
+00402 | Appropriate culture and susceptibility tests should be performed before treatment in
+00403 | order to isolate and identify organisms causing the infection and to determine their
+00404 | susceptibility to levofloxacin [see Microbiology (12.4)]. Therapy with levofloxacin may be
+00405 | initiated before results of these tests are known; once results become available,
+00406 | appropriate therapy should be selected.
+00407 | As with other drugs in this class, some isolates of Pseudomonas aeruginosa may
+00408 | develop resistance fairly rapidly during treatment with levofloxacin. Culture and
+00409 | susceptibility testing performed periodically during therapy will provide information about
+00410 | the continued susceptibility of the pathogens to the antimicrobial agent and also the
+00411 | possible emergence of bacterial resistance"
+18,179efd1e6208,lévofloxacine,dailymed,Contre-indications,oui,657,660,"CONTRAINDICATIONS
+00658 | Levofloxacin is contraindicated in persons with known hypersensitivity to levofloxacin, or
+00659 | 
+00660 | other quinolone antibacterials [see Warnings and Precautions (5.3)]."
+18,179efd1e6208,lévofloxacine,dailymed,Posologie,oui,412,654," DOSAGE AND ADMINISTRATION
+00413 | 2.1 Dosage in Adult Patients with Normal Renal Function
+00414 | The usual dose of levofloxacin oral solution is 250 mg, 500 mg, or 750 mg administered
+00415 | orally every 24 hours, as indicated by infection and described in Table 1.
+00416 | These recommendations apply to patients with creatinine clearance ≥ 50 mL/min. For
+00417 | patients with creatinine clearance < 50 mL/min, adjustments to the dosing regimen are
+00418 | required [see Dosage and Administration (2.3)].
+00419 | Table 1: Dosage in Adult Patients with Normal Renal Function (creatinine
+00420 | clearance ≥ 50 mL/min)
+00421 |  Type of Infection
+00422 |  Dosed Every 24
+00423 | hours
+00424 |  Duration
+00425 | (days)
+00426 | Nosocomial Pneumonia
+00427 |  750 mg
+00428 |  7-14
+00429 | Community Acquired Pneumonia
+00430 |  500 mg
+00431 |  7-14
+00432 | Community Acquired Pneumonia
+00433 |  750 mg
+00434 |  5
+00435 | Complicated Skin and Skin Structure Infections (SSSI)
+00436 |  750 mg
+00437 |  7-14
+00438 | Uncomplicated SSSI
+00439 |  500 mg
+00440 |  7-10
+00441 | Chronic Bacterial Prostatitis
+00442 |  500 mg 
+00443 |  28
+00444 | Inhalational Anthrax (Post-Exposure), adult and pediatric
+00445 |  500 mg
+00446 | 60
+00447 | *
+00448 | †
+00449 | ‡
+00450 | §
+00451 | ß
+00452 | 
+00453 | patients > 50 kg 
+00454 |  
+00455 | Pediatric patients < 50 kg and ≥ 6 months of age
+00456 | See Table 2 below
+00457 | (2.2)
+00458 |  60 
+00459 | 60
+00460 | Plague, adult and pediatric patients > 50 kg 
+00461 | Pediatric patients < 50 kg and ≥ 6 months of age
+00462 |  500 mg
+00463 | See Table 2 below
+00464 | (2.2)
+00465 | 10-14
+00466 | 10-14
+00467 | Complicated Urinary Tract Infection (cUTI) or Acute
+00468 | Pyelonephritis (AP)
+00469 |  750 mg
+00470 |  5
+00471 | Complicated Urinary Tract Infection (cUTI) or Acute
+00472 | Pyelonephritis (AP)
+00473 |  250 mg
+00474 |  10
+00475 | Uncomplicated Urinary Tract Infection
+00476 |  250 mg
+00477 |  3
+00478 | Acute Bacterial Exacerbation of Chronic
+00479 | Bronchitis (ABECB)
+00480 |  500 mg
+00481 |  7
+00482 | Acute Bacterial Sinusitis (ABS)
+00483 |  750 mg
+00484 |  500 mg
+00485 |  5
+00486 | 10-14
+00487 | * Due to the designated pathogens [see Indications and Usage (1)].
+00488 | † Sequential therapy (intravenous to oral) may be instituted at the discretion of the
+00489 | physician.
+00490 | ‡ Due to methicillin-susceptible Staphylococcus aureus, Streptococcus pneumoniae
+00491 | (including multi-drug-resistant isolates [MDRSP]), Haemophilus influenzae, Haemophilus
+00492 | parainfluenzae, Klebsiella pneumoniae, Moraxella catarrhalis, Chlamydophila pneumoniae,
+00493 | Legionella pneumophila, or Mycoplasma pneumoniae [see Indications and Usage (1.2)].
+00494 | § Due to Streptococcus pneumoniae (excluding multi-drug-resistant isolates [MDRSP]),
+00495 | Haemophilus influenzae, Haemophilus parainfluenzae, Mycoplasma pneumoniae, or
+00496 | Chlamydophila pneumoniae [see Indications and Usage (1.3)].
+00497 | ¶ This regimen is indicated for cUTI due to Escherichia coli, Klebsiella pneumoniae,
+00498 | Proteus mirabilis and AP due to E. coli, including cases with concurrent bacteremia.
+00499 | # This regimen is indicated for cUTI due to Enterococcus faecalis, Enterococcus cloacae,
+00500 | Escherichia coli, Klebsiella pneumoniae, Proteus mirabilis, Pseudomonas aeruginosa; and
+00501 | for AP due to E. coli.
+00502 |  Drug administration should begin as soon as possible after suspected or confirmed
+00503 | exposure to aerosolized B. anthracis. This indication is based on a surrogate endpoint.
+00504 | Levofloxacin plasma concentrations achieved in humans are reasonably likely to predict
+00505 | clinical benefit [see Clinical Studies (14.9)].
+00506 |  The safety of levofloxacin in adults for durations of therapy beyond 28 days or in
+00507 | pediatric patients for durations beyond 14 days has not been studied. An increased
+00508 | incidence of musculoskeletal adverse events compared to controls has been observed in
+00509 | pediatric patients [see Warnings and Precautions (5.11), Use in Specific Populations
+00510 | (8.4), and Clinical Studies (14.9)]. Prolonged levofloxacin therapy should only be used
+00511 | when the benefit outweighs the risk.
+00512 |  Drug administration should begin as soon as possible after suspected or confirmed
+00513 | exposure to Yersinia pestis. Higher doses of levofloxacin typically used for treatment of
+00514 | pneumonia can be used for treatment of plague, if clinically indicated.
+00515 | 2.2 Dosage in Pediatric Patients
+00516 | Þ,ß
+00517 | Þ,ß
+00518 | ß
+00519 | ß
+00520 | à
+00521 | ¶
+00522 | #
+00523 | Þ
+00524 | ß
+00525 | à
+00526 | 
+00527 | The dosage in pediatric patients ≥ 6 months of age is described below in Table 2.
+00528 | Table 2: Dosage in Pediatric Patients ≥ 6 months of age
+00529 |  Type of Infection
+00530 |  Dose
+00531 |  Freq. Once
+00532 | Every
+00533 |  Duration
+00534 |  Inhalational Anthrax (post-exposure)
+00535 |  
+00536 |  Pediatric patients > 50 kg
+00537 |  500 mg
+00538 |  24 hr
+00539 |  60 days
+00540 |  Pediatric patients < 50 kg and ≥ 6
+00541 | months of age
+00542 |  8 mg/kg
+00543 | (not to exceed 250 mg
+00544 | per dose)
+00545 |  12 hr
+00546 |  60 days
+00547 |  Plague 
+00548 |  Pediatric patients > 50 kg
+00549 |  500 mg
+00550 |  24 hr
+00551 |  10 to 14
+00552 | days
+00553 |  Pediatric patients < 50 kg and ≥ 6
+00554 | months of age
+00555 |  8 mg/kg
+00556 | (not to exceed 250 mg
+00557 | per dose)
+00558 |  12 hr
+00559 |  10 to 14
+00560 | days
+00561 | * Due to Bacillus anthracis [see Indications and Usage (1.13)] and Yersinia pestis [see
+00562 | Indications and Usage (1.14)].
+00563 | † Sequential therapy (intravenous to oral) may be instituted at the discretion of the
+00564 | physician.
+00565 | ‡ Drug administration should begin as soon as possible after suspected or confirmed
+00566 | exposure to aerosolized B. anthracis. This indication is based on a surrogate endpoint.
+00567 | Levofloxacin plasma concentrations achieved in humans are reasonably likely to predict
+00568 | clinical benefit [see Clinical Studies (14.9)].
+00569 | § The safety of levofloxacin in pediatric patients for durations of therapy beyond 14 days
+00570 | has not been studied. An increased incidence of musculoskeletal adverse events
+00571 | compared to controls has been observed in pediatric patients [see Warnings and
+00572 | Precautions (5.11), Use in Specific Populations (8.4), and Clinical Studies (14.9)].
+00573 | Prolonged levofloxacin therapy should only be used when the benefit outweighs the risk.
+00574 | ¶ Drug administration should begin as soon as possible after suspected or confirmed
+00575 | exposure to Yersinia pestis.
+00576 | 2.3 Dosage Adjustment in Adults with Renal Impairment
+00577 | Administer levofloxacin with caution in the presence of renal insufficiency. Careful clinical
+00578 | observation and appropriate laboratory studies should be performed prior to and during
+00579 | therapy since elimination of levofloxacin may be reduced.
+00580 | No adjustment is necessary for patients with a creatinine clearance ≥ 50 mL/min.
+00581 | In patients with impaired renal function (creatinine clearance < 50 mL/min), adjustment
+00582 | of the dosage regimen is necessary to avoid the accumulation of levofloxacin due to
+00583 | decreased clearance [see Use in Specific Populations (8.6)].
+00584 | Table 3 shows how to adjust dose based on creatinine clearance.
+00585 | *
+00586 | †
+00587 | ‡,§
+00588 | §
+00589 | §
+00590 | ¶
+00591 | 
+00592 | Table 3: Dosage Adjustment in Adult Patients with Renal Impairment
+00593 | (creatinine clearance < 50 mL/min)
+00594 |  Dosage in
+00595 | Normal Renal
+00596 | Function Every
+00597 | 24 hours
+00598 |  Creatinine
+00599 | Clearance
+00600 | 20 to 49
+00601 | mL/min
+00602 |  Creatinine Clearance
+00603 | 10 to 19 mL/min
+00604 |  Hemodialysis or
+00605 | Chronic Ambulatory
+00606 | Peritoneal Dialysis
+00607 | (CAPD)
+00608 |  750 mg
+00609 |  750 mg every
+00610 | 48 hours
+00611 |  750 mg initial dose,
+00612 | then 500 mg every 48
+00613 | hours
+00614 |  750 mg initial dose, then
+00615 | 500 mg every 48 hours
+00616 |  500 mg
+00617 |  500 mg initial
+00618 | dose, then 250
+00619 | mg every 24
+00620 | hours
+00621 |  500 mg initial dose,
+00622 | then 250 mg every 48
+00623 | hours
+00624 |  500 mg initial dose, then
+00625 | 250 mg every 48 hours
+00626 |  250 mg
+00627 |  No dosage
+00628 | adjustment
+00629 | required
+00630 | 250 mg every 48 hours.
+00631 | If treating
+00632 | uncomplicated UTI, then
+00633 | no dosage adjustment is
+00634 | required
+00635 |  No information on
+00636 | dosing adjustment is
+00637 | available
+00638 | 2.4 Drug Interaction With Chelation Agents: Antacids, Sucralfate, Metal
+00639 | Cations, Multivitamins
+00640 | Levofloxacin Oral Solution
+00641 | Levofloxacin oral solution should be administered at least two hours before or two
+00642 | hours after antacids containing magnesium, aluminum, as well as sucralfate, metal
+00643 | cations such as iron, and multivitamin preparations with zinc or didanosine
+00644 | chewable/buffered tablets or the pediatric powder for oral solution [see Drug
+00645 | Interactions (7.1) and Patient Counseling Information (17)].
+00646 | 2.5 Administration Instructions
+00647 | Food and Levofloxacin Oral Solution
+00648 | It is recommended that levofloxacin oral solution be taken 1 hour before or 2 hours
+00649 | after eating.
+00650 | Hydration for Patients Receiving Levofloxacin Oral Solution
+00651 | Adequate hydration of patients receiving oral or intravenous levofloxacin should be
+00652 | maintained to prevent the formation of highly concentrated urine. Crystalluria and
+00653 | cylindruria have been reported with quinolones [see Adverse Reactions (6.1) and Patient
+00654 | Counseling Information (17)]."
+18,179efd1e6208,lévofloxacine,dailymed,Interactions,oui,1158,1244,"DRUG INTERACTIONS
+01159 | 7.1 Chelation Agents: Antacids, Sucralfate, Metal Cations, Multivitamins
+01160 | Levofloxacin Oral Solution
+01161 | While the chelation by divalent cations is less marked than with other fluoroquinolones,
+01162 | concurrent administration of levofloxacin oral solution with antacids containing
+01163 | magnesium, or aluminum, as well as sucralfate, metal cations such as iron, and
+01164 | multivitamin preparations with zinc may interfere with the gastrointestinal absorption of
+01165 | levofloxacin, resulting in systemic levels considerably lower than desired. Tablets with
+01166 | antacids containing magnesium, aluminum, as well as sucralfate, metal cations such as
+01167 | iron, and multivitamin preparations with zinc or didanosine may substantially interfere
+01168 | with the gastrointestinal absorption of levofloxacin, resulting in systemic levels
+01169 | considerably lower than desired. These agents should be taken at least two hours
+01170 | before or two hours after oral levofloxacin administration.
+01171 | 7.2 Warfarin
+01172 | No significant effect of levofloxacin on the peak plasma concentrations, AUC, and other
+01173 | disposition parameters for R- and S- warfarin was detected in a clinical study involving
+01174 | healthy volunteers. Similarly, no apparent effect of warfarin on levofloxacin absorption
+01175 | and disposition was observed. However, there have been reports during the
+01176 | postmarketing experience in patients that levofloxacin enhances the effects of warfarin.
+01177 | Elevations of the prothrombin time in the setting of concurrent warfarin and levofloxacin
+01178 | use have been associated with episodes of bleeding. Prothrombin time, International
+01179 | Normalized Ratio (INR), or other suitable anticoagulation tests should be closely
+01180 | monitored if levofloxacin is administered concomitantly with warfarin. Patients should
+01181 | also be monitored for evidence of bleeding [see Adverse Reactions (6.3); Patient
+01182 | Counseling Information (17)].
+01183 | 7.3 Antidiabetic Agents
+01184 | Disturbances of blood glucose, including hyperglycemia and hypoglycemia, have been
+01185 | reported in patients treated concomitantly with fluoroquinolones and an antidiabetic
+01186 | agent. Therefore, careful monitoring of blood glucose is recommended when these
+01187 | agents are co-administered [see Warnings and Precautions (5.13); Adverse Reactions
+01188 | 
+01189 | (6.2), Patient Counseling Information (17)].
+01190 | 7.4 Non-Steroidal Anti-Inflammatory Drugs
+01191 | The concomitant administration of a non-steroidal anti-inflammatory drug with a
+01192 | fluoroquinolone, including levofloxacin, may increase the risk of CNS stimulation and
+01193 | convulsive seizures [see Warnings and Precautions (5.4)].
+01194 | 7.5 Theophylline
+01195 | No significant effect of levofloxacin on the plasma concentrations, AUC, and other
+01196 | disposition parameters for theophylline was detected in a clinical study involving healthy
+01197 | volunteers. Similarly, no apparent effect of theophylline on levofloxacin absorption and
+01198 | disposition was observed. However, concomitant administration of other
+01199 | fluoroquinolones with theophylline has resulted in prolonged elimination half-life, elevated
+01200 | serum theophylline levels, and a subsequent increase in the risk of theophylline-related
+01201 | adverse reactions in the patient population. Therefore, theophylline levels should be
+01202 | closely monitored and appropriate dosage adjustments made when levofloxacin is co-
+01203 | administered. Adverse reactions, including seizures, may occur with or without an
+01204 | elevation in serum theophylline levels [see Warnings and Precautions (5.4)].
+01205 | 7.6 Cyclosporine
+01206 | No significant effect of levofloxacin on the peak plasma concentrations, AUC, and other
+01207 | disposition parameters for cyclosporine was detected in a clinical study involving healthy
+01208 | volunteers. However, elevated serum levels of cyclosporine have been reported in the
+01209 | patient population when co-administered with some other fluoroquinolones. Levofloxacin
+01210 | C
+01211 |  and k were slightly lower while T
+01212 |  and t
+01213 |  were slightly longer in the presence
+01214 | of cyclosporine than those observed in other studies without concomitant medication.
+01215 | The differences, however, are not considered to be clinically significant. Therefore, no
+01216 | dosage adjustment is required for levofloxacin or cyclosporine when administered
+01217 | concomitantly.
+01218 | 7.7 Digoxin
+01219 | No significant effect of levofloxacin on the peak plasma concentrations, AUC, and other
+01220 | disposition parameters for digoxin was detected in a clinical study involving healthy
+01221 | volunteers. Levofloxacin absorption and disposition kinetics were similar in the presence
+01222 | or absence of digoxin. Therefore, no dosage adjustment for levofloxacin or digoxin is
+01223 | required when administered concomitantly.
+01224 | 7.8 Probenecid and Cimetidine
+01225 | No significant effect of probenecid or cimetidine on the C
+01226 |  of levofloxacin was
+01227 | observed in a clinical study involving healthy volunteers. The AUC and t
+01228 |  of levofloxacin
+01229 | were higher while CL/F and CL were lower during concomitant treatment of levofloxacin
+01230 | with probenecid or cimetidine compared to levofloxacin alone. However, these changes
+01231 | do not warrant dosage adjustment for levofloxacin when probenecid or cimetidine is co-
+01232 | administered.
+01233 | 7.9 Interactions with Laboratory or Diagnostic Testing
+01234 | Some fluoroquinolones, including levofloxacin, may produce false-positive urine
+01235 | max
+01236 | e
+01237 | max
+01238 | 1/2
+01239 | max
+01240 | 1/2
+01241 | R
+01242 | 
+01243 | screening results for opiates using commercially available immunoassay kits.
+01244 | Confirmation of positive opiate screens by more specific methods may be necessary.
+01245 | "
+19,18fa39077cce,céfuroxime,dailymed,Indications,oui,142,223," INDICATIONS AND USAGE
+00143 | 1.1 Pharyngitis/Tonsillitis
+00144 | Cefuroxime axetil tablets are indicated for the treatment of adult patients and pediatric
+00145 | patients (13 years and older) with mild-to-moderate pharyngitis/tonsillitis caused by
+00146 | susceptible strains of Streptococcus pyogenes.
+00147 | Limitations of Use
+00148 | The efficacy of cefuroxime axetil tablets in the prevention of rheumatic fever was not
+00149 | established in clinical trials.
+00150 | The efficacy of cefuroxime axetil tablets in the treatment of penicillin-resistant strains
+00151 | of Streptococcus pyogeneshas not been demonstrated in clinical trials.
+00152 | 1.2 Acute Bacterial Otitis Media
+00153 | Cefuroxime axetil tablets are indicated for the treatment of pediatric patients (who can
+00154 | swallow tablets whole) with acute bacterial otitis media caused by susceptible strains of
+00155 | Streptococcus pneumoniae, Haemophilus influenzae(including β-lactamase–producing
+00156 | Sections or subsections omitted from the full prescribing information are not listed.
+00157 | 
+00158 | strains), Moraxella catarrhalis(including β-lactamase–producing strains), or
+00159 | Streptococcus pyogenes.
+00160 | 1.3 Acute Bacterial Maxillary Sinusitis
+00161 | Cefuroxime axetil tablets are indicated for the treatment of adult and pediatric patients
+00162 | (13 years and older) with mild-to-moderate acute bacterial maxillary sinusitis caused by
+00163 | susceptible strains of Streptococcus pneumoniaeor Haemophilus influenzae(non -β-
+00164 | lactamase–producing strains only).
+00165 | Limitations of Use
+00166 | The effectiveness of cefuroxime axetil tablets for sinus infections caused by β-
+00167 | lactamase–producing Haemophilus influenzaeor Moraxella catarrhalisin patients with
+00168 | acute bacterial maxillary sinusitis was not established due to insufficient numbers of
+00169 | these isolates in the clinical trials [see Clinical Studies (14.1)] .
+00170 | 1.4 Acute Bacterial Exacerbations of Chronic Bronchitis
+00171 | Cefuroxime axetil tablets are indicated for the treatment of adult patients and pediatric
+00172 | patients (aged 13 and older) with mild-to-moderate acute bacterial exacerbations of
+00173 | chronic bronchitis caused by susceptible strains of Streptococcus pneumoniae,
+00174 | Haemophilus influenzae(β-lactamase–negative strains), or Haemophilus parainfluenzae(β-
+00175 | lactamase–negative strains).
+00176 | 1.5 Uncomplicated Skin and Skin-Structure Infections
+00177 | Cefuroxime axetil tablets are indicated for the treatment of adult patients and pediatric
+00178 | patients (aged 13 and older) with uncomplicated skin and skin-structure infections
+00179 | caused by susceptible strains of Staphylococcus aureus(including β -lactamase–
+00180 | producing strains) or Streptococcus pyogenes.
+00181 | 1.6 Uncomplicated Urinary Tract Infections
+00182 | Cefuroxime axetil tablets are indicated for the treatment of adult patients and pediatric
+00183 | patients (aged 13 and older) with uncomplicated urinary tract infections caused by
+00184 | susceptible strains of Escherichia colior Klebsiella pneumoniae.
+00185 | 1.7 Uncomplicated Gonorrhea
+00186 | Cefuroxime axetil tablets are indicated for the treatment of adult patients and pediatric
+00187 | patients (aged 13 and older) with uncomplicated gonorrhea, urethral and endocervical,
+00188 | caused by penicillinase-producing and non-penicillinase–producing susceptible strains of
+00189 | Neisseria gonorrhoeaeand uncomplicated gonorrhea, rectal, in females, caused by non-
+00190 | penicillinase–producing susceptible strains of Neisseria gonorrhoeae.
+00191 | 1.8 Early Lyme Disease (erythema migrans)
+00192 | Cefuroxime axetil tablets are indicated for the treatment of adult patients and pediatric
+00193 | patients (aged 13 and older) with early Lyme disease (erythema migrans) caused by
+00194 | susceptible strains of Borrelia burgdorferi.
+00195 | 
+00196 | 1.10 Usage
+00197 | To reduce the development of drug-resistant bacteria and maintain the effectiveness of
+00198 | cefuroxime axetil tablets and other antibacterial drugs, cefuroxime axetil tablets should
+00199 | be used only to treat or prevent infections that are proven or strongly suspected to be
+00200 | caused by susceptible bacteria. When culture and susceptibility information are available,
+00201 | they should be considered in selecting or modifying antibacterial therapy. In the absence
+00202 | of such data, local epidemiology and susceptibility patterns may contribute to the
+00203 | empiric selection of therapy.
+00204 | 2 DOSAGE AND ADMINISTRATION
+00205 | 2.1 Important Administration Instructions
+00206 | Cefuroxime axetil tablets and cefuroxime axetil for oral suspension are not
+00207 | bioequivalent and are therefore not substitutable on a milligram-per-milligram basis
+00208 | [see Clinical Pharmacology (12.3)] .
+00209 | Administer cefuroxime axetil tablets as described in the appropriate dosage
+00210 | guidelines [see Dosage and Administration (2.2)].
+00211 | Administer cefuroxime axetil tablets with or without food.
+00212 | Pediatric patients (aged 13 years and older) who cannot swallow the cefuroxime
+00213 | axetil tablets whole should receive cefuroxime axetil for oral suspension because the
+00214 | tablet has a strong, persistent bitter taste when crushed [see Dosage and
+00215 | Administration (2.2)].
+00216 | 2.2 Dosage for Cefuroxime Axetil Tablets
+00217 | Administer cefuroxime axetil tablets as described in the dosage guidelines table below
+00218 | with or without food.
+00219 | Table 1. Adult Patients and Pediatric Patients Dosage Guidelines for
+00220 | Cefuroxime Axetil Tablets
+00221 | The safety and eﬀectiveness of cefuroxime axetil tablets administered for less than 10
+00222 | days in patients with acute exacerbations of chronic bronchitis have not been
+00223 | Infection"
+19,18fa39077cce,céfuroxime,dailymed,Contre-indications,oui,292,295,"4 CONTRAINDICATIONS
+00293 | Cefuroxime axetil tablets are contraindicated in patients with a known hypersensitivity
+00294 | (e.g., anaphylaxis) to cefuroxime axetil tablets or to other β-lactam antibacterial drugs
+00295 | (e.g., penicillins and cephalosporins)."
+19,18fa39077cce,céfuroxime,dailymed,Posologie,oui,204,284,"DOSAGE AND ADMINISTRATION
+00205 | 2.1 Important Administration Instructions
+00206 | Cefuroxime axetil tablets and cefuroxime axetil for oral suspension are not
+00207 | bioequivalent and are therefore not substitutable on a milligram-per-milligram basis
+00208 | [see Clinical Pharmacology (12.3)] .
+00209 | Administer cefuroxime axetil tablets as described in the appropriate dosage
+00210 | guidelines [see Dosage and Administration (2.2)].
+00211 | Administer cefuroxime axetil tablets with or without food.
+00212 | Pediatric patients (aged 13 years and older) who cannot swallow the cefuroxime
+00213 | axetil tablets whole should receive cefuroxime axetil for oral suspension because the
+00214 | tablet has a strong, persistent bitter taste when crushed [see Dosage and
+00215 | Administration (2.2)].
+00216 | 2.2 Dosage for Cefuroxime Axetil Tablets
+00217 | Administer cefuroxime axetil tablets as described in the dosage guidelines table below
+00218 | with or without food.
+00219 | Table 1. Adult Patients and Pediatric Patients Dosage Guidelines for
+00220 | Cefuroxime Axetil Tablets
+00221 | The safety and eﬀectiveness of cefuroxime axetil tablets administered for less than 10
+00222 | days in patients with acute exacerbations of chronic bronchitis have not been
+00223 | Infection 
+00224 | Dosage 
+00225 | Duration 
+00226 | (Days) 
+00227 | Adults and Adolescents (13 years and older) 
+00228 | Pharyngitis/tonsillitis (mild to moderate) 
+00229 | 250 mg every 12 hours 
+00230 | 10 
+00231 | Acute bacterial maxillary sinusitis (mild to
+00232 | moderate) 
+00233 | 250 mg every 12 hours 
+00234 | 10 
+00235 | Acute bacterial exacerbations ofchronic
+00236 | bronchitis (mild to moderate) 
+00237 | 250 mg or 500 mg every 
+00238 | 12 hours 
+00239 | 10 
+00240 | Uncomplicated skin and skin-structure
+00241 | infections 
+00242 | 250 mg or 500 mg every 
+00243 | 12 hours 
+00244 | 10 
+00245 | Uncomplicated urinary tract infections 
+00246 | 250 mg every 12 hours 
+00247 | 7 to 10 
+00248 | Uncomplicated gonorrhea 
+00249 | 1,000 mg 
+00250 | single dose 
+00251 | Early Lymedisease 
+00252 | 500 mg every 12 hours 
+00253 | 20 
+00254 | Pediatric Patients younger than 13 years (who can swallow tablets whole) 
+00255 | Acute bacterial otitis media 
+00256 | 250 mg every 12 hours 
+00257 | 10 
+00258 | Acute bacterial maxillary sinusitis 
+00259 | 250 mg every 12 hours 
+00260 | 10 
+00261 | a
+00262 | a
+00263 | b
+00264 | 
+00265 | established. 
+00266 | When crushed, the tablet has a strong, persistent bitter taste. Therefore, patients who
+00267 | cannot swallow the tablet whole should receive the oral suspension. 
+00268 |  
+00269 | 2.5 Dosage in Patients with Impaired Renal Function
+00270 | A dosage interval adjustment is required for patients whose creatinine clearance is less
+00271 | than 30 mL/min, as listed in Table 4 below, because cefuroxime is eliminated primarily by
+00272 | the kidney [see Clinical Pharmacology (12.3)].
+00273 | Table 4. Dosing in Adults with Renal Impairment
+00274 | Creatinine Clearance (mL/min) 
+00275 | Recommended Dosage 
+00276 | ≥30 
+00277 | No dosage adjustment 
+00278 | 10 to <30 
+00279 | Standard individual dose given every 24 hours 
+00280 | <10 (without hemodialysis) 
+00281 | Standard individual dose given every 48 hours 
+00282 | Hemodialysis 
+00283 | A single additional standard dose should be
+00284 | given at the end of each dialysis "
+19,18fa39077cce,céfuroxime,dailymed,Interactions,oui,455,473,"DRUG INTERACTIONS
+00456 | 7.1 Drugs that Reduce Gastric Acidity
+00457 | Drugs that reduce gastric acidity may result in a lower bioavailability of cefuroxime axetil
+00458 | compared with administration in the fasting state. Administration of drugs that reduce
+00459 | gastric acidity may negate the food effect of increased absorption of cefuroxime axetil
+00460 | when administered in the postprandial state. Administer cefuroxime axetil at least 1 hour
+00461 | before or 2 hours after administration of short-acting antacids. Histamine-2 (H )
+00462 | antagonists and proton pump inhibitors should be avoided.
+00463 | 7.2 Probenecid
+00464 | Concomitant administration of probenecid with cefuroxime axetil tablets increases
+00465 | serum concentrations of cefuroxime [see Clinical Pharmacology (12.3)].
+00466 | Coadministration of probenecid with cefuroxime axetil is not recommended.
+00467 | 7.3 Drug/Laboratory Test Interactions
+00468 | A false-positive reaction for glucose in the urine may occur with copper reduction tests
+00469 | (e.g., Benedict's or Fehling's solution), but not with enzyme-based tests for glycosuria.
+00470 | As a false-negative result may occur in the ferricyanide test, it is recommended that
+00471 | either the glucose oxidase or hexokinase method be used to determine blood/plasma
+00472 | glucose levels in patients receiving cefuroxime axetil. The presence of cefuroxime does
+00473 | not interfere with the assay of serum and urine creatinine by the alkaline picrate method."
+20,11e5a56cec27,paracétamol + codéine,dailymed,Indications,oui,197,205," INDICATIONS AND USAGE
+00198 | Acetaminophen and codeine phosphate tablets are indicated for the management of mild to moderate
+00199 | pain, where treatment with an opioid is appropriate and for which alternative treatments are inadequate.
+00200 | Limitations of Use
+00201 | Because of the risks of addiction, abuse, and misuse, with opioids, even at recommended doses [see
+00202 | WARNINGS], reserve acetaminophen and codeine phosphate tablets for use in patients for whom
+00203 | alternative treatment options [e.g., non-opioid analgesics]
+00204 | Have not provided adequate analgesia, or are not expected to provide adequate analgesia,
+00205 | Have not been tolerated, or are not expected to be tolerated."
+20,11e5a56cec27,paracétamol + codéine,dailymed,Contre-indications,oui,207,219," CONTRAINDICATIONS
+00207 | Acetaminophen and codeine phosphate tablets are contraindicated for:
+00208 | All children younger than 12 years of age [see WARNINGS].
+00209 | Post-operative management in children younger than 18 years of age following tonsillectomy and/or
+00210 | adenoidectomy [see WARNINGS].
+00211 | Acetaminophen and codeine phosphate tablets are contraindicated in patients with:
+00212 | significant respiratory depression [see WARNINGS].
+00213 | acute or severe bronchial asthma in an unmonitored setting or in the absence of resuscitative
+00214 | equipment [see WARNINGS].
+00215 | concurrent use of monoamine oxidase inhibitors (MAOIs) or use of MAOIs within the last 14 days
+00216 | [see WARNINGS].
+00217 | known or suspected gastrointestinal obstruction, including paralytic ileus [see WARNINGS].
+00218 | hypersensitivity to codeine, acetaminophen, or any of the formulation excipients (e.g., anaphylaxis)
+00219 | [see WARNINGS]."
+20,11e5a56cec27,paracétamol + codéine,dailymed,Posologie,oui,1000,1141,"DOSAGE AND ADMINISTRATION
+01001 | Important Dosage and Administration Instructions
+01002 | Use the lowest effective dosage for the shortest duration consistent with individual patient treatment
+01003 | goals [see WARNINGS].
+01004 | Initiate the dosing regimen for each patient individually, taking into account the patient's severity of pain,
+01005 | patient response, prior analgesic treatment experience, and risk factors for addiction, abuse, and misuse
+01006 | [see WARNINGS].
+01007 | Monitor patients closely for respiratory depression, especially within the first 24 to 72 hours of
+01008 | initiating therapy and following dosage increases with acetaminophen and codeine phosphate tablets and
+01009 | adjust the dosage accordingly [see WARNINGS].
+01010 | Initial Dosage
+01011 | Initiating Treatment with Acetaminophen and Codeine Phosphate Tablets
+01012 | Dosage should be adjusted according to severity of pain and response of the patient. However, it
+01013 | should be kept in mind that tolerance to codeine can develop with continued use and that the incidence of
+01014 | untoward effects is dose related. Adult doses of codeine higher than 60 mg are associated with an
+01015 | increased incidence of adverse reactions and are not associated with greater efficacy.
+01016 | The usual adult dosage is:
+01017 | Acetaminophen and Codeine Phosphate Tablets (codeine 30 mg and acetaminophen 300 mg): Take 1
+01018 | to 2 tablets every 4 hours as needed for pain.
+01019 | Acetaminophen and Codeine Phosphate Tablets (codeine 60 mg and acetaminophen 300 mg): Take
+01020 | one tablet every 4 hours as needed for pain.
+01021 | Single Doses 
+01022 | (Range)
+01023 | Maximum 
+01024 | 24-Hour Dose
+01025 | Codeine Phosphate
+01026 | 30 mg to 60 mg
+01027 | 360 mg
+01028 | Acetaminophen
+01029 | 300 mg to 1,000 mg
+01030 | 4,000 mg
+01031 | The prescriber must determine the number of tablets per dose, and the maximum number of tablets per
+01032 | 24 hours, based upon the above dosage guidance. This information should be conveyed in the
+01033 | prescription.
+01034 | Conversion from Other Opioids to Acetaminophen and Codeine Phosphate Tablets
+01035 | There is inter-patient variability in the potency of opioid drugs and opioid formulations. Therefore, a
+01036 | conservative approach is advised when determining the total daily dosage of acetaminophen and codeine
+01037 | 
+01038 | phosphate tablets. It is safer to underestimate a patient’s 24-hour acetaminophen and codeine phosphate
+01039 | tablets dosage than to overestimate the 24-hour acetaminophen and codeine phosphate tablets dosage
+01040 | and manage an adverse reaction due to overdose.
+01041 | Titration and Maintenance of Therapy
+01042 | Individually titrate acetaminophen and codeine phosphate tablets to a dose that provides adequate
+01043 | analgesia and minimizes adverse reactions. Continually reevaluate patients receiving acetaminophen and
+01044 | codeine phosphate tablets to assess the maintenance of pain control and the relative incidence of
+01045 | adverse reactions, as well as monitoring for the development of addiction, abuse, or misuse [see
+01046 | WARNINGS]. Frequent communication is important among the prescriber, other members of the
+01047 | healthcare team, the patient, and the caregiver/family during periods of changing analgesic
+01048 | requirements, including initial titration.
+01049 | If the level of pain increases after dosage stabilization, attempt to identify the source of increased pain
+01050 | before increasing the acetaminophen and codeine phosphate tablets dosage. If unacceptable opioid-
+01051 | related adverse reactions are observed, consider reducing the dosage. Adjust the dosage to obtain an
+01052 | appropriate balance between management of pain and opioid-related adverse reactions.
+01053 | Discontinuation of Acetaminophen and Codeine Phosphate Tablets
+01054 | When a patient who has been taking acetaminophen and codeine phosphate tablets regularly and may be
+01055 | physically dependent no longer requires therapy with acetaminophen and codeine phosphate tablets,
+01056 | taper the dose gradually, by 25% to 50% every 2 to 4 days, while monitoring carefully for signs and
+01057 | symptoms of withdrawal. If the patient develops these signs or symptoms, raise the dose to the previous
+01058 | level and taper more slowly, either by increasing the interval between decreases, decreasing the amount
+01059 | of change in dose, or both. Do not abruptly discontinue acetaminophen and codeine phosphate tablets in
+01060 | a physically-dependent patient [see WARNINGS, DRUG ABUSE AND DEPENDENCE].
+01061 | HOW SUPPLIED
+01062 | Acetaminophen and codeine phosphate tablets USP (white, round, unscored):
+01063 | List No. 0150, acetaminophen 300 mg and codeine phosphate 30 mg, debossed “3” on one side and
+01064 | “TV”-“150” on the other side of tablet.
+01065 | NDC 67046-903-07 blisterpacks of 7
+01066 | NDC 67046-903-14 blisterpacks of 14
+01067 | NDC 67046-903-15 blisterpacks of 15
+01068 | NDC 67046-903-20 blisterpacks of 20
+01069 | NDC 67046-903-21 blisterpacks of 21
+01070 | NDC 67046-903-28 blisterpacks of 28
+01071 | NDC 67046-903-30 blisterpacks of 30
+01072 | NDC 67046-903-60 blisterpacks of 60
+01073 | Store at 20° to 25°C (68° to 77°F) [See USP Controlled Room Temperature].
+01074 | Dispense in a tight, light-resistant container as defined in the USP, with a child-resistant closure (as
+01075 | required).
+01076 | KEEP THIS AND ALL MEDICATIONS OUT OF THE REACH OF CHILDREN.
+01077 | Distributed By:
+01078 | Teva Pharmaceuticals USA, Inc.
+01079 | North Wales, PA 19454
+01080 | 
+01081 | Rev. AN 7/2017
+01082 | Medication Guide
+01083 | Acetaminophen and Codeine Phosphate (a seet' a min' oh fen and koe' deen fos' fate) Tablets
+01084 | USP, CIII
+01085 | Acetaminophen and Codeine Phosphate Tablets are :
+01086 | A strong prescription pain medicine that contains an opioid (narcotic) that is used to manage mild to
+01087 | moderate pain, when other pain treatments such as non-opioid pain medicines do not treat your pain
+01088 | well enough or you cannot tolerate them.
+01089 | An opioid pain medicine that can put you at risk for overdose and death. Even if you take your dose
+01090 | correctly as prescribed, you are at risk for opioid addiction, abuse, and misuse that can lead to
+01091 | death.
+01092 | Important information about Acetaminophen and Codeine Phosphate Tablets:
+01093 | Get emergency help right away if you take too many acetaminophen and codeine phosphate
+01094 | tablets (overdose). When you first start taking acetaminophen and codeine tablets, when your dose
+01095 | is changed, or if you take too much (overdose), serious or life-threatening breathing problems that
+01096 | can lead to death may occur.
+01097 | Taking acetaminophen and codeine tablets with other opioid medicines, benzodiazepines, alcohol,
+01098 | or other central nervous system depressants (including street drugs) can cause severe drowsiness,
+01099 | decreased awareness, breathing problems, coma, and death.
+01100 | Never give anyone else your acetaminophen and codeine phosphate tablets. They could die from
+01101 | taking them. Store acetaminophen and codeine tablets away from children and in a safe place to
+01102 | prevent stealing or abuse. Selling or giving away acetaminophen and codeine phosphate tablets
+01103 | is against the law.
+01104 | Important Information Guiding Use in Pediatric Patients:
+01105 | Do not give acetaminophen and codeine phosphate tablets to a child younger than 12 years of age.
+01106 | Do not give acetaminophen and codeine phosphate tablets to a child younger than 18 years of age
+01107 | after surgery to remove the tonsils and/or adenoids.
+01108 | Avoid giving acetaminophen and codeine phosphate tablets to children between 12 to 18 years of
+01109 | age who have risk factors for breathing problems such as obstructive sleep apnea, obesity, or
+01110 | underlying lung problems.
+01111 | Do not take Acetaminophen and Codeine Phosphate Tablets if you have:
+01112 | severe asthma, trouble breathing, or other lung problems.
+01113 | a bowel blockage or narrowing of the stomach or intestines.
+01114 | previously had an allergic reaction to codeine or acetaminophen.
+01115 | Before taking Acetaminophen and Codeine Phosphate Tablets, tell your healthcare provider if
+01116 | you have a history of:
+01117 | head injury, seizures
+01118 | liver, kidney, thyroid problems
+01119 | problems urinating
+01120 | pancreas or gallbladder problems
+01121 | abuse of street or prescription drugs, alcohol addiction, or mental health problems.
+01122 | Have been told by your healthcare provider that you are a “rapid metabolizer” of certain medicines.
+01123 | Tell your healthcare provider if you are:
+01124 | pregnant or planning to become pregnant. Prolonged use of acetaminophen and codeine
+01125 | phosphate tablets during pregnancy can cause withdrawal symptoms in your newborn baby that could
+01126 | 
+01127 | be life-threatening if not recognized and treated.
+01128 | breastfeeding. Not recommended; may harm your baby.
+01129 | taking prescription or over-the-counter medicines, vitamins, or herbal supplements. Acetaminophen
+01130 | and codeine phosphate tablets with certain other medicines can cause serious side effects that could
+01131 | lead to death.
+01132 | When taking Acetaminophen and Codeine Phosphate Tablets:
+01133 | Do not change your dose. Take acetaminophen and codeine phosphate tablets exactly as prescribed
+01134 | by your healthcare provider. Use the lowest dose possible for the shortest time needed.
+01135 | Take your prescribed dose every 4 hours as needed. Do not take more than your prescribed dose. If
+01136 | you miss a dose, take your next dose when needed.
+01137 | Call your healthcare provider if the dose you are taking does not control your pain.
+01138 | If you have been taking acetaminophen and codeine phosphate tablets regularly, do not stop
+01139 | taking acetaminophen and codeine phosphate tablets without talking to your healthcare provider.
+01140 | After you stop taking acetaminophen and codeine phosphate tablets dispose of any unused tablets
+01141 | in accordance with local state guidelines and/or regulations."
+20,11e5a56cec27,paracétamol + codéine,dailymed,Interactions,oui,595,702,"Drug Interactions
+00596 | CYP2D6 Inhibitors
+00597 | Codeine is metabolized by CYP2D6 to form morphine. The concomitant use of acetaminophen and
+00598 | codeine phosphate tablets and CYP2D6 inhibitors (e.g., paroxetine, fluoxetine, bupropion, quinidine)
+00599 | can increase the plasma concentration of codeine, but can decrease the plasma concentration of active
+00600 | metabolite morphine, which could result in reduced analgesic efficacy or symptoms of opioid
+00601 | withdrawal, particularly when an inhibitor is added after a stable dose of acetaminophen and codeine
+00602 | phosphate tablets are achieved [see CLINICAL PHARMACOLOGY].
+00603 | After stopping a CYP2D6 inhibitor, as the effects of the inhibitor decline, the codeine plasma
+00604 | concentration will decrease but the active metabolite morphine plasma concentration will increase,
+00605 | which could increase or prolong adverse reactions and may cause potentially fatal respiratory
+00606 | depression [see CLINICAL PHARMACOLOGY].
+00607 | 
+00608 | If concomitant use with a CYP2D6 inhibitor is necessary, or if a CYP2D6 inhibitor is discontinued after
+00609 | concomitant use, consider dosage adjustment of acetaminophen and codeine phosphate tablets and
+00610 | monitor patients closely at frequent intervals.
+00611 | If concomitant use with CYP2D6 inhibitors is necessary, follow the patient for reduced efficacy or
+00612 | signs and symptoms of opioid withdrawal and consider increasing the acetaminophen and codeine
+00613 | phosphate tablets as needed.
+00614 | After stopping use of a CYP2D6 inhibitor, consider reducing the acetaminophen and codeine phosphate
+00615 | tablets and monitor the patient for signs and symptoms of respiratory depression or sedation.
+00616 | CYP3A4 Inhibitors
+00617 | The concomitant use of acetaminophen and codeine phosphate tablets and CYP3A4 inhibitors, such as
+00618 | macrolide antibiotics (e.g., erythromycin), azole-antifungal agents (e.g. ketoconazole), and protease
+00619 | inhibitors (e.g., ritonavir), may result in an increase in codeine plasma concentrations, with subsequently
+00620 | greater metabolism by cytochrome CYP2D6, resulting in greater morphine levels, which could increase
+00621 | or prolong adverse reactions and may cause potentially fatal respiratory depression, particularly when
+00622 | an inhibitor is added after a stable dose of acetaminophen and codeine phosphate tablets is achieved
+00623 | [see WARNINGS].
+00624 | After stopping a CYP3A4 inhibitor, as the effects of the inhibitor decline, it may result in lower
+00625 | codeine levels, greater norcodeine levels, and less metabolism via CYP2D6 with resultant lower
+00626 | morphine levels [see CLINICAL PHARMACOLOGY], resulting in decreased opioid efficacy or a
+00627 | withdrawal syndrome in patients who had developed physical dependence to codeine.
+00628 | If concomitant use of CYP3A4 inhibitor is necessary, consider dosage reduction of acetaminophen and
+00629 | codeine tablets until stable drug effects are achieved. Monitor patients for respiratory depression and
+00630 | sedation at frequent intervals.
+00631 | If a CYP3A4 inhibitor is discontinued, consider increasing the acetaminophen and codeine phosphate
+00632 | tablets dosage until stable drug effects are achieved. Monitor for signs of opioid withdrawal.
+00633 | CYP3A4 Inducers
+00634 | The concomitant use of acetaminophen and codeine phosphate tablets and CYP3A4 inducers (e.g.,
+00635 | rifampin, carbamazepine, phenytoin) can result in lower codeine levels, greater norcodeine levels, and
+00636 | less metabolism via 2D6 with resultant lower morphine levels [see CLINICAL PHARMACOLOGY],
+00637 | resulting in decreased efficacy or onset of a withdrawal syndrome in patients who have developed
+00638 | physical dependence [see WARNINGS].
+00639 | After stopping a CYP3A4 inducer, as the effects of the inducer decline, codeine plasma concentrations
+00640 | may increase, with subsequently greater metabolism by cytochrome CYP2D6, resulting in greater
+00641 | morphine levels [see CLINICAL PHARMACOLOGY], which could increase or prolong both the
+00642 | therapeutic effects and adverse reactions, and may cause serious respiratory depression.
+00643 | If concomitant use of a CYP3A4 inducer is necessary, follow the patient for reduced efficacy and signs
+00644 | of opioid withdrawal and consider increasing the acetaminophen and codeine phosphate tablets dosage
+00645 | as needed.
+00646 | If a CYP3A4 inducer is discontinued, consider acetaminophen and codeine phosphate tablets dosage
+00647 | reduction and monitor for signs of respiratory depression and sedation at frequent intervals.
+00648 | Benzodiazepines and Other Central Nervous System (CNS) Depressants
+00649 | Due to additive pharmacologic effect, the concomitant use of benzodiazepines or other CNS
+00650 | depressants, including alcohol, other sedatives/hypnotics, anxiolytics, tranquilizers, muscle relaxants,
+00651 | general anesthetics, antipsychotics and other opioids, can increase the risk of hypotension, respiratory
+00652 | depression, profound sedation, coma, and death.
+00653 | Reserve concomitant prescribing of these drugs for use in patients for whom alternative treatment
+00654 | 
+00655 | options are inadequate. Limit dosages and durations to the minimum required. Follow patients closely
+00656 | for signs of respiratory depression and sedation [see WARNINGS].
+00657 | Serotonergic Drugs
+00658 | The concomitant use of opioids with other drugs that affect the serotonergic neurotransmitter system
+00659 | has resulted in serotonin syndrome. Examples of these drugs include, selective serotonin reuptake
+00660 | inhibitors (SSRIs), serotonin and norepinephrine reuptake inhibitors (SNRIs), tricyclic antidepressants
+00661 | (TCAs), triptans, 5-HT3 receptor antagonists, drugs that effect the serotonin neurotransmitter system
+00662 | (e.g., mirtazapine, trazodone, tramadol), and monoamine oxidase (MAO) inhibitors (used to treat
+00663 | psychiatric disorders and also others, such as linezolid and intravenous methylene blue) [see
+00664 | PRECAUTIONS; Information for Patients/Caregivers].
+00665 | If concomitant use is warranted, carefully observe the patient, particularly during treatment initiation and
+00666 | dose adjustment. Discontinue acetaminophen and codeine phosphate tablets immediately if serotonin
+00667 | syndrome is suspected.
+00668 | Monoamine Oxidase Inhibitors (MAOIs)
+00669 | The concomitant use of opioids and MAOIs, such as phenelzine, tranylcypromine, linezolid, may
+00670 | manifest as serotonin syndrome or opioid toxicity.
+00671 | Advise patients taking acetaminophen and codeine phosphate tablets not to use MAOIs or within 14 days
+00672 | of stopping such treatment. If urgent use of an opioid is necessary, use test doses and frequent titration
+00673 | of small doses of other opioids (such as oxycodone, hydrocodone, oxymorphone, hydrocodone, or
+00674 | buprenorphine) to treat pain while closely monitoring blood pressure and signs and symptoms of CNS
+00675 | and respiratory depression.
+00676 | Mixed Agonist/Antagonist and Partial Agonist Opioid Analgesics
+00677 | The concomitant use of opioids with other opioid analgesics, such as butorphanol, nalbuphine,
+00678 | pentazocine, may reduce the analgesic effect of acetaminophen and codeine phosphate tablets and/or
+00679 | precipitate withdrawal symptoms.
+00680 | Advise patient to avoid concomitant use of these drugs.
+00681 | Muscle Relaxants
+00682 | Acetaminophen and codeine may enhance the neuromuscular blocking action of skeletal muscle
+00683 | relaxants and produce an increased degree of respiratory depression.
+00684 | If concomitant use is warranted, monitor patients for signs of respiratory depression that may be greater
+00685 | than otherwise expected and decrease the dosage of acetaminophen and codeine phosphate tablets
+00686 | and/or the muscle relaxant as necessary.
+00687 | Diuretics
+00688 | Opioids can reduce the efficacy of diuretics by inducing the release of antidiuretic hormone.
+00689 | If concomitant use is warranted, monitor patients for signs of diminished diuresis and/or effects on
+00690 | blood pressure and increase the dosage of the diuretic as needed.
+00691 | Anticholinergic Drugs
+00692 | The concomitant use of anticholinergic drugs may increase risk of urinary retention and/or severe
+00693 | constipation, which may lead to paralytic ileus.
+00694 | If concomitant use is warranted, monitor patients for signs of urinary retention or reduced gastric
+00695 | motility when acetaminophen and codeine phosphate tablets are used concomitantly with anticholinergic
+00696 | drugs.
+00697 | Drug/Laboratory Test Interactions
+00698 | Codeine may increase serum amylase levels.
+00699 | 
+00700 | y
+00701 | y
+00702 | Acetaminophen may produce false-positive test results for urinary 5-hydroxyindoleacetic acid."
