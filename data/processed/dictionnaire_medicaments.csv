@@ -95,7 +95,6 @@ CETAMYL,paracétamol,N02BE01,marque,Antalgiques et anti-inflammatoires,,retire,C
 DANIPROL,paracétamol,N02BE01,marque,Antalgiques et anti-inflammatoires,,retire,COMP.,500MG,DANIPROL
 DOLOROL,paracétamol,N02BE01,marque,Antalgiques et anti-inflammatoires,,retire,COMP.,500MG,DOLOROL
 JOPAMOL,paracétamol,N02BE01,marque,Antalgiques et anti-inflammatoires,,retire,COMP.,500MG,JOPAMOL
-PARACETAMOL,paracétamol,N02BE01,marque,Antalgiques et anti-inflammatoires,,retire,COMP.,500MG,PARACETAMOL
 PRALGIR,paracétamol,N02BE01,marque,Antalgiques et anti-inflammatoires,,retire,COMP.,500MG,PRALGIR
 POLIDOL,paracétamol,N02BE01,marque,Antalgiques et anti-inflammatoires,,retire,COMP. SEC.,500MG,POLIDOL
 DOLIGEN,paracétamol,N02BE01,marque,Antalgiques et anti-inflammatoires,,retire,COMP,500MG,DOLIGEN
@@ -207,7 +206,6 @@ FLOVENAC LP,diclofénac,M01AB05,marque,Antalgiques et anti-inflammatoires,ANTI-I
 ROFENAC LP,diclofénac,M01AB05,marque,Antalgiques et anti-inflammatoires,ANTI-INFLAMMATOIRES NON STEROIDIENS,active,COMPRIME PELLICULE A LIBERATION PROLONGEE,100MG,ROFENAC LP
 CLOFENAL ENFANT,diclofénac,M01AB05,marque,Antalgiques et anti-inflammatoires,ANTI-INFLAMMATOIRES NON STEROIDIENS,active,SUPPOSITOIRE,25MG,CLOFENAL ENFANT
 DICLOFAR,diclofénac,M01AB05,marque,Antalgiques et anti-inflammatoires,ANTI-INFLAMMATOIRES NON STEROIDIENS,active,SUPPOSITOIRE,25MG,DICLOFAR
-DICLOFENAC,diclofénac,M01AB05,marque,Antalgiques et anti-inflammatoires,ANTI-INFLAMMATOIRES NON STEROIDIENS,active,SUPPOSITOIRE,100MG,DICLOFENAC
 DICLOFENAC DBF,diclofénac,M01AB05,marque,Antalgiques et anti-inflammatoires,ANTI-INFLAMMATOIRES NON STEROIDIENS,active,SUPPOSITOIRE,100MG,DICLOFENAC DBF
 VOLTAMEX,diclofénac,M01AB05,marque,Antalgiques et anti-inflammatoires,ANTI-INFLAMMATOIRES NON STEROIDIENS,active,SUPPOSITOIRE,100MG,VOLTAMEX
 BIOFENAC LP,diclofénac,M01AB05,marque,Antalgiques et anti-inflammatoires,ANTI-INFLAMMATOIRES NON STEROIDIENS,active,COMPRIME PELLICULE A LIBERATION PROLONGEE,75MG,BIOFENAC LP
@@ -782,7 +780,6 @@ AMRIZOLE,métronidazole,J01XD01,marque,Antibiotiques,,retire,OVULES GYNECO.,500M
 METRAZIN,métronidazole,J01XD01,marque,Antibiotiques,,retire,OVULES,500MG,METRAZIN
 METRONIDAZOLE BIOSEDRA,métronidazole,J01XD01,marque,Antibiotiques,,retire,SOL. INJ. PERF.IV,"500MG/100ML ( OU 0,5%)",METRONIDAZOLE BIOSEDRA
 MERAZINE,métronidazole,J01XD01,marque,Antibiotiques,,retire,COMP,250MG,MERAZINE
-METRONIDAZOLE,métronidazole,J01XD01,marque,Antibiotiques,,retire,COMP,250MG,METRONIDAZOLE
 MITAZOL,métronidazole,J01XD01,marque,Antibiotiques,,retire,COMP,250MG,MITAZOL
 KLONT,métronidazole,J01XD01,marque,Antibiotiques,,retire,COMP,250MG,KLONT
 METROZOLE,métronidazole,J01XD01,marque,Antibiotiques,,retire,COMP.,250MG,METROZOLE
@@ -814,7 +811,6 @@ GENTATIC,gentamicine,J01GB03,marque,Antibiotiques,,non_renouvele,SOL.INJ. IM/IV,
 GENTALEK,gentamicine,J01GB03,marque,Antibiotiques,,non_renouvele,SOL.INJ.,80MG/2ML,GENTALEK
 GENTAMICINE BIOCHEMIE,gentamicine,J01GB03,marque,Antibiotiques,,non_renouvele,SOL.INJ.,80MG/2ML,GENTAMICINE BIOCHEMIE
 ULTRAGENT,gentamicine,J01GB03,marque,Antibiotiques,,non_renouvele,SOL.INJ.,80MG/2ML,ULTRAGENT
-GENTAMICINE,gentamicine,J01GB03,marque,Antibiotiques,,non_renouvele,SOL.INJ.,80MG/2ML,GENTAMICINE
 GENTAMINE,gentamicine,J01GB03,marque,Antibiotiques,,non_renouvele,SOL. INJ. IM/IV,40MG/ML (80MG/2ML),GENTAMINE
 GENTICOL,gentamicine,J01GB03,marque,Antibiotiques,,non_renouvele,COLLYRE,3MG/ML,GENTICOL
 UNIGENTA,gentamicine,J01GB03,marque,Antibiotiques,,non_renouvele,COLLYRE,3MG/ML,UNIGENTA
@@ -860,7 +856,6 @@ AMLOCARDINE,amlodipine,C08CA01,marque,Antihypertenseurs,DIHYDROPYRIDINES; MEDICA
 AMLORIDAL,amlodipine,C08CA01,marque,Antihypertenseurs,DIHYDROPYRIDINES; MEDICAMENTS ABAISSANT LA PRESSION ARTERIELLE,non_renouvele,GLES.,5MG,AMLORIDAL
 ALODIPINE,amlodipine,C08CA01,marque,Antihypertenseurs,DIHYDROPYRIDINES; MEDICAMENTS ABAISSANT LA PRESSION ARTERIELLE,non_renouvele,GLES.,5MG,ALODIPINE
 AMLOCAL,amlodipine,C08CA01,marque,Antihypertenseurs,DIHYDROPYRIDINES; MEDICAMENTS ABAISSANT LA PRESSION ARTERIELLE,retire,COMP.,5MG,AMLOCAL
-AMLODIPINE,amlodipine,C08CA01,marque,Antihypertenseurs,DIHYDROPYRIDINES; MEDICAMENTS ABAISSANT LA PRESSION ARTERIELLE,retire,COMP.,5MG,AMLODIPINE
 AMLOMEX,amlodipine,C08CA01,marque,Antihypertenseurs,DIHYDROPYRIDINES; MEDICAMENTS ABAISSANT LA PRESSION ARTERIELLE,retire,COMP.,5MG,AMLOMEX
 AMLOPRESS,amlodipine,C08CA01,marque,Antihypertenseurs,DIHYDROPYRIDINES; MEDICAMENTS ABAISSANT LA PRESSION ARTERIELLE,retire,COMP. SEC.,5MG,AMLOPRESS
 LORAX,amlodipine,C08CA01,marque,Antihypertenseurs,DIHYDROPYRIDINES; MEDICAMENTS ABAISSANT LA PRESSION ARTERIELLE,retire,COMP.SEC.,5MG,LORAX
@@ -920,7 +915,6 @@ ANGIOTEC,énalapril,C09AA02,marque,Antihypertenseurs,MEDICAMENTS ABAISSANT LA PR
 CORPRILOR,énalapril,C09AA02,marque,Antihypertenseurs,MEDICAMENTS ABAISSANT LA PRESSION ARTERIELLE,non_renouvele,COMPRIME SECABLE,5MG,CORPRILOR
 PRILENAP,énalapril,C09AA02,marque,Antihypertenseurs,MEDICAMENTS ABAISSANT LA PRESSION ARTERIELLE,non_renouvele,COMPRIME,5MG,PRILENAP
 RENITEC,énalapril,C09AA02,marque,Antihypertenseurs,MEDICAMENTS ABAISSANT LA PRESSION ARTERIELLE,non_renouvele,COMPRIME SECABLE,5MG,RENITEC
-ENALAPRIL,énalapril,C09AA02,marque,Antihypertenseurs,MEDICAMENTS ABAISSANT LA PRESSION ARTERIELLE,non_renouvele,COMPRIME SECABLE,20MG,ENALAPRIL
 ENALAPRIL WINTHROP,énalapril,C09AA02,marque,Antihypertenseurs,MEDICAMENTS ABAISSANT LA PRESSION ARTERIELLE,non_renouvele,COMPRIME SECABLE,20MG,ENALAPRIL WINTHROP
 LASYTEQ,énalapril,C09AA02,marque,Antihypertenseurs,MEDICAMENTS ABAISSANT LA PRESSION ARTERIELLE,non_renouvele,COMPRIME,20MG,LASYTEQ
 CONVERTASE,énalapril,C09AA02,marque,Antihypertenseurs,MEDICAMENTS ABAISSANT LA PRESSION ARTERIELLE,retire,COMP.,5MG**,CONVERTASE
@@ -1034,3 +1028,693 @@ DOPANORE,méthyldopa,C02AB01,marque,Antihypertenseurs,MEDICAMENTS ABAISSANT LA P
 EQUIBAR,méthyldopa,C02AB01,marque,Antihypertenseurs,MEDICAMENTS ABAISSANT LA PRESSION ARTERIELLE,retire,COMP.,250MG,EQUIBAR
 HY-PO-TONE 250,méthyldopa,C02AB01,marque,Antihypertenseurs,MEDICAMENTS ABAISSANT LA PRESSION ARTERIELLE,retire,COMP.,250MG,HY-PO-TONE 250
 DOPEGYT,méthyldopa,C02AB01,marque,Antihypertenseurs,MEDICAMENTS ABAISSANT LA PRESSION ARTERIELLE,retire,COMP.ENRO.,250MG,DOPEGYT
+PARACETAMOL TEVA,paracétamol,N02BE01,marque,Antalgiques et anti-inflammatoires,,algerie:oui,,,PARACETAMOL TEVA
+PARACETAMOL BIOGARAN,paracétamol,N02BE01,marque,Antalgiques et anti-inflammatoires,,algerie:oui,,,PARACETAMOL BIOGARAN
+DAFALGANCAPS,paracétamol,N02BE01,marque,Antalgiques et anti-inflammatoires,,algerie:oui,,,DAFALGANCAPS
+DAFALGANHOP,paracétamol,N02BE01,marque,Antalgiques et anti-inflammatoires,,algerie:oui,,,DAFALGANHOP
+PARACETAMOL BIOGARAN CONSEIL,paracétamol,N02BE01,marque,Antalgiques et anti-inflammatoires,,algerie:oui,,,PARACETAMOL BIOGARAN CONSEIL
+DOLIPRANETABS,paracétamol,N02BE01,marque,Antalgiques et anti-inflammatoires,,algerie:oui,,,DOLIPRANETABS
+PARACETAMOL ARROW LAB 500 mg poudre pour solution buvable,paracétamol,N02BE01,marque,Antalgiques et anti-inflammatoires,,algerie:oui,,500MG,PARACETAMOL ARROW LAB 500 mg poudre pour solution buvable
+PARACETAMOL ZENTIVA LAB,paracétamol,N02BE01,marque,Antalgiques et anti-inflammatoires,,algerie:oui,,,PARACETAMOL ZENTIVA LAB
+EFFERALGANSTIX,paracétamol,N02BE01,marque,Antalgiques et anti-inflammatoires,,algerie:oui,,,EFFERALGANSTIX
+PARACETAMOL ALMUS,paracétamol,N02BE01,marque,Antalgiques et anti-inflammatoires,,algerie:oui,,,PARACETAMOL ALMUS
+PARACETAMOL B. BRAUN 10 mg/ml,paracétamol,N02BE01,marque,Antalgiques et anti-inflammatoires,,algerie:oui,,10MG,PARACETAMOL B. BRAUN 10 mg/ml
+EFFERALGANEFF,paracétamol,N02BE01,marque,Antalgiques et anti-inflammatoires,,algerie:oui,,,EFFERALGANEFF
+DOLIPRANELIQUIZ,paracétamol,N02BE01,marque,Antalgiques et anti-inflammatoires,,algerie:oui,,,DOLIPRANELIQUIZ
+PARACETAMOL AHCL,paracétamol,N02BE01,marque,Antalgiques et anti-inflammatoires,,algerie:oui,,,PARACETAMOL AHCL
+PARACETAMOL VIATRIS,paracétamol,N02BE01,marque,Antalgiques et anti-inflammatoires,,algerie:oui,,,PARACETAMOL VIATRIS
+DOLIPRANECAPS,paracétamol,N02BE01,marque,Antalgiques et anti-inflammatoires,,algerie:oui,,,DOLIPRANECAPS
+PARACETAMOL EG,paracétamol,N02BE01,marque,Antalgiques et anti-inflammatoires,,algerie:oui,,,PARACETAMOL EG
+PARACETAMOL GNR,paracétamol,N02BE01,marque,Antalgiques et anti-inflammatoires,,algerie:oui,,,PARACETAMOL GNR
+EFFERALGANSTIX FRAMBOISE,paracétamol,N02BE01,marque,Antalgiques et anti-inflammatoires,,algerie:oui,,,EFFERALGANSTIX FRAMBOISE
+PARACETAMOL ZENTIVA,paracétamol,N02BE01,marque,Antalgiques et anti-inflammatoires,,algerie:oui,,,PARACETAMOL ZENTIVA
+DOLKO 60 mg/2 ml,paracétamol,N02BE01,marque,Antalgiques et anti-inflammatoires,,algerie:oui,,60MG/2ML,DOLKO 60 mg/2 ml
+PARACETAMOL PANPHARMA 10 mg/ml,paracétamol,N02BE01,marque,Antalgiques et anti-inflammatoires,,algerie:oui,,10MG,PARACETAMOL PANPHARMA 10 mg/ml
+PARACETAMOL SUN,paracétamol,N02BE01,marque,Antalgiques et anti-inflammatoires,,algerie:oui,,,PARACETAMOL SUN
+EFFERALGAN PEDIATRIQUE 30 mg/ml,paracétamol,N02BE01,marque,Antalgiques et anti-inflammatoires,,algerie:oui,,30MG,EFFERALGAN PEDIATRIQUE 30 mg/ml
+PARACETAMOL ARROW LAB,paracétamol,N02BE01,marque,Antalgiques et anti-inflammatoires,,algerie:oui,,,PARACETAMOL ARROW LAB
+PARACETAMOL ZYDUS FRANCE,paracétamol,N02BE01,marque,Antalgiques et anti-inflammatoires,,algerie:oui,,,PARACETAMOL ZYDUS FRANCE
+PARACETAMOL CRISTERS,paracétamol,N02BE01,marque,Antalgiques et anti-inflammatoires,,algerie:oui,,,PARACETAMOL CRISTERS
+PARACETAMOL KABI 10 mg/mL,paracétamol,N02BE01,marque,Antalgiques et anti-inflammatoires,,algerie:oui,,10MG,PARACETAMOL KABI 10 mg/mL
+EFFERALGANSTIX FRAISE,paracétamol,N02BE01,marque,Antalgiques et anti-inflammatoires,,algerie:oui,,,EFFERALGANSTIX FRAISE
+PARACETAMOL VJ-PHARM,paracétamol,N02BE01,marque,Antalgiques et anti-inflammatoires,,algerie:oui,,,PARACETAMOL VJ-PHARM
+PARACETAMOL ARROW,paracétamol,N02BE01,marque,Antalgiques et anti-inflammatoires,,algerie:oui,,,PARACETAMOL ARROW
+PARACETAMOL EVOLUGEN PHARMA,paracétamol,N02BE01,marque,Antalgiques et anti-inflammatoires,,algerie:oui,,,PARACETAMOL EVOLUGEN PHARMA
+PARACETAMOL VIATRIS CONSEIL,paracétamol,N02BE01,marque,Antalgiques et anti-inflammatoires,,algerie:oui,,,PARACETAMOL VIATRIS CONSEIL
+PARACETAMOL CRISTERS PHARMA,paracétamol,N02BE01,marque,Antalgiques et anti-inflammatoires,,algerie:oui,,,PARACETAMOL CRISTERS PHARMA
+PARACETAMOL ZYDUS,paracétamol,N02BE01,marque,Antalgiques et anti-inflammatoires,,algerie:oui,,,PARACETAMOL ZYDUS
+PARACETAMOL SANDOZ,paracétamol,N02BE01,marque,Antalgiques et anti-inflammatoires,,algerie:oui,,,PARACETAMOL SANDOZ
+PARACETAMOL AGUETTANT 10 mg/mL,paracétamol,N02BE01,marque,Antalgiques et anti-inflammatoires,,algerie:oui,,10MG,PARACETAMOL AGUETTANT 10 mg/mL
+PARACETAMOL EG LABO CONSEIL,paracétamol,N02BE01,marque,Antalgiques et anti-inflammatoires,,algerie:oui,,,PARACETAMOL EG LABO CONSEIL
+DAFALGANTABS,paracétamol,N02BE01,marque,Antalgiques et anti-inflammatoires,,algerie:oui,,,DAFALGANTABS
+PARACETAMOL TEVA CONSEIL,paracétamol,N02BE01,marque,Antalgiques et anti-inflammatoires,,algerie:oui,,,PARACETAMOL TEVA CONSEIL
+PARACETAMOL ACCORD,paracétamol,N02BE01,marque,Antalgiques et anti-inflammatoires,,algerie:oui,,,PARACETAMOL ACCORD
+PARACETAMOL KRKA,paracétamol,N02BE01,marque,Antalgiques et anti-inflammatoires,,algerie:oui,,,PARACETAMOL KRKA
+PARACETAMOL ARROW CONSEIL,paracétamol,N02BE01,marque,Antalgiques et anti-inflammatoires,,algerie:oui,,,PARACETAMOL ARROW CONSEIL
+CLARADOL,paracétamol,N02BE01,marque,Antalgiques et anti-inflammatoires,,algerie:oui,,,CLARADOL
+DOLIPRANE ADULTES,paracétamol,N02BE01,marque,Antalgiques et anti-inflammatoires,,algerie:oui,,,DOLIPRANE ADULTES
+PARACETAMOL EVOLUGEN,paracétamol,N02BE01,marque,Antalgiques et anti-inflammatoires,,algerie:oui,,,PARACETAMOL EVOLUGEN
+DOLIPRANEORODOZ,paracétamol,N02BE01,marque,Antalgiques et anti-inflammatoires,,algerie:oui,,,DOLIPRANEORODOZ
+PARACETAMOL BENTA,paracétamol,N02BE01,marque,Antalgiques et anti-inflammatoires,,algerie:oui,,,PARACETAMOL BENTA
+DOLKO,paracétamol,N02BE01,marque,Antalgiques et anti-inflammatoires,,algerie:oui,,,DOLKO
+PARACETAMOL ZENTIVA K.S.,paracétamol,N02BE01,marque,Antalgiques et anti-inflammatoires,,algerie:oui,,,PARACETAMOL ZENTIVA K.S.
+PARACETAMOL TEVA SANTE,paracétamol,N02BE01,marque,Antalgiques et anti-inflammatoires,,algerie:oui,,,PARACETAMOL TEVA SANTE
+DAFALGAN ADULTES,paracétamol,N02BE01,marque,Antalgiques et anti-inflammatoires,,algerie:oui,,,DAFALGAN ADULTES
+PARACETAMOL ALTER,paracétamol,N02BE01,marque,Antalgiques et anti-inflammatoires,,algerie:oui,,,PARACETAMOL ALTER
+EFFERALGANODIS,paracétamol,N02BE01,marque,Antalgiques et anti-inflammatoires,,algerie:oui,,,EFFERALGANODIS
+IBUPROFENE BIOGARAN CONSEIL,ibuprofène,M01AE01,marque,Antalgiques et anti-inflammatoires,ANTI-INFLAMMATOIRES NON STEROIDIENS,algerie:oui,,,IBUPROFENE BIOGARAN CONSEIL
+IBUFETUM,ibuprofène,M01AE01,marque,Antalgiques et anti-inflammatoires,ANTI-INFLAMMATOIRES NON STEROIDIENS,algerie:oui,,,IBUFETUM
+SPEDIFEN,ibuprofène,M01AE01,marque,Antalgiques et anti-inflammatoires,ANTI-INFLAMMATOIRES NON STEROIDIENS,algerie:oui,,,SPEDIFEN
+NUROFEN,ibuprofène,M01AE01,marque,Antalgiques et anti-inflammatoires,ANTI-INFLAMMATOIRES NON STEROIDIENS,algerie:oui,,,NUROFEN
+IBUPROFENE EG,ibuprofène,M01AE01,marque,Antalgiques et anti-inflammatoires,ANTI-INFLAMMATOIRES NON STEROIDIENS,algerie:oui,,,IBUPROFENE EG
+IBUPROFENE CHEMINEAU,ibuprofène,M01AE01,marque,Antalgiques et anti-inflammatoires,ANTI-INFLAMMATOIRES NON STEROIDIENS,algerie:oui,,,IBUPROFENE CHEMINEAU
+IBUPROFENE ZF,ibuprofène,M01AE01,marque,Antalgiques et anti-inflammatoires,ANTI-INFLAMMATOIRES NON STEROIDIENS,algerie:oui,,,IBUPROFENE ZF
+NUROFENTABS,ibuprofène,M01AE01,marque,Antalgiques et anti-inflammatoires,ANTI-INFLAMMATOIRES NON STEROIDIENS,algerie:oui,,,NUROFENTABS
+IBUPROFENE SANDOZ CONSEIL,ibuprofène,M01AE01,marque,Antalgiques et anti-inflammatoires,ANTI-INFLAMMATOIRES NON STEROIDIENS,algerie:oui,,,IBUPROFENE SANDOZ CONSEIL
+IBUPROFENE VIATRIS 20 mg/mL ENFANTS ET NOURRISSONS sans sucre,ibuprofène,M01AE01,marque,Antalgiques et anti-inflammatoires,ANTI-INFLAMMATOIRES NON STEROIDIENS,algerie:oui,,20MG,IBUPROFENE VIATRIS 20 mg/mL ENFANTS ET NOURRISSONS sans sucre
+IBUPROFENE TEVA CONSEIL,ibuprofène,M01AE01,marque,Antalgiques et anti-inflammatoires,ANTI-INFLAMMATOIRES NON STEROIDIENS,algerie:oui,,,IBUPROFENE TEVA CONSEIL
+IBUPROFENE B. BRAUN,ibuprofène,M01AE01,marque,Antalgiques et anti-inflammatoires,ANTI-INFLAMMATOIRES NON STEROIDIENS,algerie:oui,,,IBUPROFENE B. BRAUN
+IBUPROFENE ARROW CONSEIL,ibuprofène,M01AE01,marque,Antalgiques et anti-inflammatoires,ANTI-INFLAMMATOIRES NON STEROIDIENS,algerie:oui,,,IBUPROFENE ARROW CONSEIL
+IBUPROFENE ARROW,ibuprofène,M01AE01,marque,Antalgiques et anti-inflammatoires,ANTI-INFLAMMATOIRES NON STEROIDIENS,algerie:oui,,,IBUPROFENE ARROW
+IBUPROFENE B. BRAUN 400 mg/100 mL,ibuprofène,M01AE01,marque,Antalgiques et anti-inflammatoires,ANTI-INFLAMMATOIRES NON STEROIDIENS,algerie:oui,,400MG/100ML,IBUPROFENE B. BRAUN 400 mg/100 mL
+IBUPROFENE ZENTIVA K.S,ibuprofène,M01AE01,marque,Antalgiques et anti-inflammatoires,ANTI-INFLAMMATOIRES NON STEROIDIENS,algerie:oui,,,IBUPROFENE ZENTIVA K.S
+NUROFENCAPS,ibuprofène,M01AE01,marque,Antalgiques et anti-inflammatoires,ANTI-INFLAMMATOIRES NON STEROIDIENS,algerie:oui,,,NUROFENCAPS
+IBUPROFENE ALMUS,ibuprofène,M01AE01,marque,Antalgiques et anti-inflammatoires,ANTI-INFLAMMATOIRES NON STEROIDIENS,algerie:oui,,,IBUPROFENE ALMUS
+IBUPROFENE SANDOZ,ibuprofène,M01AE01,marque,Antalgiques et anti-inflammatoires,ANTI-INFLAMMATOIRES NON STEROIDIENS,algerie:oui,,,IBUPROFENE SANDOZ
+IBUPROFENE CRISTERS,ibuprofène,M01AE01,marque,Antalgiques et anti-inflammatoires,ANTI-INFLAMMATOIRES NON STEROIDIENS,algerie:oui,,,IBUPROFENE CRISTERS
+ADVILMED ENFANTS ET NOURRISSONS 20 mg/1 ml,ibuprofène,M01AE01,marque,Antalgiques et anti-inflammatoires,ANTI-INFLAMMATOIRES NON STEROIDIENS,algerie:oui,,20MG/1ML,ADVILMED ENFANTS ET NOURRISSONS 20 mg/1 ml
+ADVILCAPS,ibuprofène,M01AE01,marque,Antalgiques et anti-inflammatoires,ANTI-INFLAMMATOIRES NON STEROIDIENS,algerie:oui,,,ADVILCAPS
+IBUPROFENE ZENTIVA LAB,ibuprofène,M01AE01,marque,Antalgiques et anti-inflammatoires,ANTI-INFLAMMATOIRES NON STEROIDIENS,algerie:oui,,,IBUPROFENE ZENTIVA LAB
+IBUPROFENE ZENTIVA CONSEIL,ibuprofène,M01AE01,marque,Antalgiques et anti-inflammatoires,ANTI-INFLAMMATOIRES NON STEROIDIENS,algerie:oui,,,IBUPROFENE ZENTIVA CONSEIL
+ANTARENE 20 mg/ml NOURRISSONS ET ENFANTS,ibuprofène,M01AE01,marque,Antalgiques et anti-inflammatoires,ANTI-INFLAMMATOIRES NON STEROIDIENS,algerie:oui,,20MG,ANTARENE 20 mg/ml NOURRISSONS ET ENFANTS
+IBUPROFENE EVOLUGEN PHARMA,ibuprofène,M01AE01,marque,Antalgiques et anti-inflammatoires,ANTI-INFLAMMATOIRES NON STEROIDIENS,algerie:oui,,,IBUPROFENE EVOLUGEN PHARMA
+ADVILMED,ibuprofène,M01AE01,marque,Antalgiques et anti-inflammatoires,ANTI-INFLAMMATOIRES NON STEROIDIENS,algerie:oui,,,ADVILMED
+IBUPROFENE VIATRIS SANTE,ibuprofène,M01AE01,marque,Antalgiques et anti-inflammatoires,ANTI-INFLAMMATOIRES NON STEROIDIENS,algerie:oui,,,IBUPROFENE VIATRIS SANTE
+IBUPRADOLL,ibuprofène,M01AE01,marque,Antalgiques et anti-inflammatoires,ANTI-INFLAMMATOIRES NON STEROIDIENS,algerie:oui,,,IBUPRADOLL
+IBUPROFENE ZENTIVA,ibuprofène,M01AE01,marque,Antalgiques et anti-inflammatoires,ANTI-INFLAMMATOIRES NON STEROIDIENS,algerie:oui,,,IBUPROFENE ZENTIVA
+IBUPROFENE ZENTIVA FRANCE,ibuprofène,M01AE01,marque,Antalgiques et anti-inflammatoires,ANTI-INFLAMMATOIRES NON STEROIDIENS,algerie:oui,,,IBUPROFENE ZENTIVA FRANCE
+IBUPROFENE VIATRIS CONSEIL,ibuprofène,M01AE01,marque,Antalgiques et anti-inflammatoires,ANTI-INFLAMMATOIRES NON STEROIDIENS,algerie:oui,,,IBUPROFENE VIATRIS CONSEIL
+ANTARENE,ibuprofène,M01AE01,marque,Antalgiques et anti-inflammatoires,ANTI-INFLAMMATOIRES NON STEROIDIENS,algerie:oui,,,ANTARENE
+IBUPROFENE TEVA,ibuprofène,M01AE01,marque,Antalgiques et anti-inflammatoires,ANTI-INFLAMMATOIRES NON STEROIDIENS,algerie:oui,,,IBUPROFENE TEVA
+IBUPROFENE ZYDUS,ibuprofène,M01AE01,marque,Antalgiques et anti-inflammatoires,ANTI-INFLAMMATOIRES NON STEROIDIENS,algerie:oui,,,IBUPROFENE ZYDUS
+IBUPROFENE VIATRIS,ibuprofène,M01AE01,marque,Antalgiques et anti-inflammatoires,ANTI-INFLAMMATOIRES NON STEROIDIENS,algerie:oui,,,IBUPROFENE VIATRIS
+IBUPROFENE ZYDUS FRANCE,ibuprofène,M01AE01,marque,Antalgiques et anti-inflammatoires,ANTI-INFLAMMATOIRES NON STEROIDIENS,algerie:oui,,,IBUPROFENE ZYDUS FRANCE
+IBUPROFENE SET,ibuprofène,M01AE01,marque,Antalgiques et anti-inflammatoires,ANTI-INFLAMMATOIRES NON STEROIDIENS,algerie:oui,,,IBUPROFENE SET
+IBUPROFENE ARROW LAB,ibuprofène,M01AE01,marque,Antalgiques et anti-inflammatoires,ANTI-INFLAMMATOIRES NON STEROIDIENS,algerie:oui,,,IBUPROFENE ARROW LAB
+NUROFENPLAST,ibuprofène,M01AE01,marque,Antalgiques et anti-inflammatoires,ANTI-INFLAMMATOIRES NON STEROIDIENS,algerie:oui,,,NUROFENPLAST
+IBUPROFENE CRISTERS CONSEIL,ibuprofène,M01AE01,marque,Antalgiques et anti-inflammatoires,ANTI-INFLAMMATOIRES NON STEROIDIENS,algerie:oui,,,IBUPROFENE CRISTERS CONSEIL
+IBUPROFENE PRODILAB,ibuprofène,M01AE01,marque,Antalgiques et anti-inflammatoires,ANTI-INFLAMMATOIRES NON STEROIDIENS,algerie:oui,,,IBUPROFENE PRODILAB
+IBUPROFENE EG LABO CONSEIL,ibuprofène,M01AE01,marque,Antalgiques et anti-inflammatoires,ANTI-INFLAMMATOIRES NON STEROIDIENS,algerie:oui,,,IBUPROFENE EG LABO CONSEIL
+NUROFENPRO 20 mg/ml ENFANTS ET NOURRISSONS SANS SUCRE,ibuprofène,M01AE01,marque,Antalgiques et anti-inflammatoires,ANTI-INFLAMMATOIRES NON STEROIDIENS,algerie:oui,,20MG,NUROFENPRO 20 mg/ml ENFANTS ET NOURRISSONS SANS SUCRE
+NUROFENFEM,ibuprofène,M01AE01,marque,Antalgiques et anti-inflammatoires,ANTI-INFLAMMATOIRES NON STEROIDIENS,algerie:oui,,,NUROFENFEM
+NUREFLEX,ibuprofène,M01AE01,marque,Antalgiques et anti-inflammatoires,ANTI-INFLAMMATOIRES NON STEROIDIENS,algerie:oui,,,NUREFLEX
+IBUPROFENE EVOLUGEN,ibuprofène,M01AE01,marque,Antalgiques et anti-inflammatoires,ANTI-INFLAMMATOIRES NON STEROIDIENS,algerie:oui,,,IBUPROFENE EVOLUGEN
+NUROFENFLASH,ibuprofène,M01AE01,marque,Antalgiques et anti-inflammatoires,ANTI-INFLAMMATOIRES NON STEROIDIENS,algerie:oui,,,NUROFENFLASH
+DICLOFENAC VIATRIS,diclofénac,M01AB05,marque,Antalgiques et anti-inflammatoires,ANTI-INFLAMMATOIRES NON STEROIDIENS,algerie:oui,,,DICLOFENAC VIATRIS
+FLECTOR 1 POUR CENT,diclofénac,M01AB05,marque,Antalgiques et anti-inflammatoires,ANTI-INFLAMMATOIRES NON STEROIDIENS,algerie:oui,,,FLECTOR 1 POUR CENT
+DICLOFENAC TEVA SANTE CONSEIL,diclofénac,M01AB05,marque,Antalgiques et anti-inflammatoires,ANTI-INFLAMMATOIRES NON STEROIDIENS,algerie:oui,,,DICLOFENAC TEVA SANTE CONSEIL
+DICLOFENAC ZENTIVA,diclofénac,M01AB05,marque,Antalgiques et anti-inflammatoires,ANTI-INFLAMMATOIRES NON STEROIDIENS,algerie:oui,,,DICLOFENAC ZENTIVA
+DICLOFENAC EG LABO CONSEIL,diclofénac,M01AB05,marque,Antalgiques et anti-inflammatoires,ANTI-INFLAMMATOIRES NON STEROIDIENS,algerie:oui,,,DICLOFENAC EG LABO CONSEIL
+DICLOFENAC REF,diclofénac,M01AB05,marque,Antalgiques et anti-inflammatoires,ANTI-INFLAMMATOIRES NON STEROIDIENS,algerie:oui,,,DICLOFENAC REF
+VOLTARENACTIGO 1 POUR CENT,diclofénac,M01AB05,marque,Antalgiques et anti-inflammatoires,ANTI-INFLAMMATOIRES NON STEROIDIENS,algerie:oui,,,VOLTARENACTIGO 1 POUR CENT
+VOLTARENOPHTABAK 1 mg/ml,diclofénac,M01AB05,marque,Antalgiques et anti-inflammatoires,ANTI-INFLAMMATOIRES NON STEROIDIENS,algerie:oui,,1MG,VOLTARENOPHTABAK 1 mg/ml
+VOLTARENE L.P.,diclofénac,M01AB05,marque,Antalgiques et anti-inflammatoires,ANTI-INFLAMMATOIRES NON STEROIDIENS,algerie:oui,,,VOLTARENE L.P.
+FLECTOR,diclofénac,M01AB05,marque,Antalgiques et anti-inflammatoires,ANTI-INFLAMMATOIRES NON STEROIDIENS,algerie:oui,,,FLECTOR
+FLECTOREFFIGEL,diclofénac,M01AB05,marque,Antalgiques et anti-inflammatoires,ANTI-INFLAMMATOIRES NON STEROIDIENS,algerie:oui,,,FLECTOREFFIGEL
+VOLTARENACTIGO 2 % INTENSE,diclofénac,M01AB05,marque,Antalgiques et anti-inflammatoires,ANTI-INFLAMMATOIRES NON STEROIDIENS,algerie:oui,,,VOLTARENACTIGO 2 % INTENSE
+DICLOFENAC EG,diclofénac,M01AB05,marque,Antalgiques et anti-inflammatoires,ANTI-INFLAMMATOIRES NON STEROIDIENS,algerie:oui,,,DICLOFENAC EG
+DICLOFENAC ZYDUS,diclofénac,M01AB05,marque,Antalgiques et anti-inflammatoires,ANTI-INFLAMMATOIRES NON STEROIDIENS,algerie:oui,,,DICLOFENAC ZYDUS
+VOLTARENOPHTA,diclofénac,M01AB05,marque,Antalgiques et anti-inflammatoires,ANTI-INFLAMMATOIRES NON STEROIDIENS,algerie:oui,,,VOLTARENOPHTA
+DICLOFENAC BIOGARAN LP,diclofénac,M01AB05,marque,Antalgiques et anti-inflammatoires,ANTI-INFLAMMATOIRES NON STEROIDIENS,algerie:oui,,,DICLOFENAC BIOGARAN LP
+DICLOFENAC VIATRIS SANTE,diclofénac,M01AB05,marque,Antalgiques et anti-inflammatoires,ANTI-INFLAMMATOIRES NON STEROIDIENS,algerie:oui,,,DICLOFENAC VIATRIS SANTE
+DICLOFENAC CRISTERS,diclofénac,M01AB05,marque,Antalgiques et anti-inflammatoires,ANTI-INFLAMMATOIRES NON STEROIDIENS,algerie:oui,,,DICLOFENAC CRISTERS
+DICLOFENAC BIOGARAN,diclofénac,M01AB05,marque,Antalgiques et anti-inflammatoires,ANTI-INFLAMMATOIRES NON STEROIDIENS,algerie:oui,,,DICLOFENAC BIOGARAN
+VOLTARENPLAST,diclofénac,M01AB05,marque,Antalgiques et anti-inflammatoires,ANTI-INFLAMMATOIRES NON STEROIDIENS,algerie:oui,,,VOLTARENPLAST
+DICLOFENAC URGO,diclofénac,M01AB05,marque,Antalgiques et anti-inflammatoires,ANTI-INFLAMMATOIRES NON STEROIDIENS,algerie:oui,,,DICLOFENAC URGO
+DICLOFENAC TEVA,diclofénac,M01AB05,marque,Antalgiques et anti-inflammatoires,ANTI-INFLAMMATOIRES NON STEROIDIENS,algerie:oui,,,DICLOFENAC TEVA
+DICLOFENAC TEVA CONSEIL,diclofénac,M01AB05,marque,Antalgiques et anti-inflammatoires,ANTI-INFLAMMATOIRES NON STEROIDIENS,algerie:oui,,,DICLOFENAC TEVA CONSEIL
+DICLOFENAC ARROW,diclofénac,M01AB05,marque,Antalgiques et anti-inflammatoires,ANTI-INFLAMMATOIRES NON STEROIDIENS,algerie:oui,,,DICLOFENAC ARROW
+DICLOFENAC BGR,diclofénac,M01AB05,marque,Antalgiques et anti-inflammatoires,ANTI-INFLAMMATOIRES NON STEROIDIENS,algerie:oui,,,DICLOFENAC BGR
+DICLOFENAC DELBERT 75 mg/3 mL,diclofénac,M01AB05,marque,Antalgiques et anti-inflammatoires,ANTI-INFLAMMATOIRES NON STEROIDIENS,algerie:oui,,75MG/3ML,DICLOFENAC DELBERT 75 mg/3 mL
+DICLOFENAC SANDOZ,diclofénac,M01AB05,marque,Antalgiques et anti-inflammatoires,ANTI-INFLAMMATOIRES NON STEROIDIENS,algerie:oui,,,DICLOFENAC SANDOZ
+DICLOFENAC TEVA CLASSICS,diclofénac,M01AB05,marque,Antalgiques et anti-inflammatoires,ANTI-INFLAMMATOIRES NON STEROIDIENS,algerie:oui,,,DICLOFENAC TEVA CLASSICS
+VOLTARENSPE,diclofénac,M01AB05,marque,Antalgiques et anti-inflammatoires,ANTI-INFLAMMATOIRES NON STEROIDIENS,algerie:oui,,,VOLTARENSPE
+DICLOFENAC VIATRIS LP,diclofénac,M01AB05,marque,Antalgiques et anti-inflammatoires,ANTI-INFLAMMATOIRES NON STEROIDIENS,algerie:oui,,,DICLOFENAC VIATRIS LP
+FLECTORTISSUGELEP,diclofénac,M01AB05,marque,Antalgiques et anti-inflammatoires,ANTI-INFLAMMATOIRES NON STEROIDIENS,algerie:oui,,,FLECTORTISSUGELEP
+DICLOFENAC BGR CONSEIL,diclofénac,M01AB05,marque,Antalgiques et anti-inflammatoires,ANTI-INFLAMMATOIRES NON STEROIDIENS,algerie:oui,,,DICLOFENAC BGR CONSEIL
+DICLOFENAC SANDOZ CONSEIL,diclofénac,M01AB05,marque,Antalgiques et anti-inflammatoires,ANTI-INFLAMMATOIRES NON STEROIDIENS,algerie:oui,,,DICLOFENAC SANDOZ CONSEIL
+ANTALCALM,diclofénac,M01AB05,marque,Antalgiques et anti-inflammatoires,ANTI-INFLAMMATOIRES NON STEROIDIENS,algerie:oui,,,ANTALCALM
+VOLTARENACTIGO,diclofénac,M01AB05,marque,Antalgiques et anti-inflammatoires,ANTI-INFLAMMATOIRES NON STEROIDIENS,algerie:oui,,,VOLTARENACTIGO
+DICLOFENAC CHEMINEAU,diclofénac,M01AB05,marque,Antalgiques et anti-inflammatoires,ANTI-INFLAMMATOIRES NON STEROIDIENS,algerie:oui,,,DICLOFENAC CHEMINEAU
+ENTALGINE,diclofénac,M01AB05,marque,Antalgiques et anti-inflammatoires,ANTI-INFLAMMATOIRES NON STEROIDIENS,algerie:oui,,,ENTALGINE
+SOLARAZE,diclofénac,M01AB05,marque,Antalgiques et anti-inflammatoires,ANTI-INFLAMMATOIRES NON STEROIDIENS,algerie:oui,,,SOLARAZE
+DICLOFENAC ARROW CONSEIL,diclofénac,M01AB05,marque,Antalgiques et anti-inflammatoires,ANTI-INFLAMMATOIRES NON STEROIDIENS,algerie:oui,,,DICLOFENAC ARROW CONSEIL
+KETESSE 50 mg/2 ml,kétoprofène,M01AE03,marque,Antalgiques et anti-inflammatoires,ANTI-INFLAMMATOIRES NON STEROIDIENS,algerie:oui,,50MG/2ML,KETESSE 50 mg/2 ml
+KETOPROFENE ZENTIVA LP,kétoprofène,M01AE03,marque,Antalgiques et anti-inflammatoires,ANTI-INFLAMMATOIRES NON STEROIDIENS,algerie:oui,,,KETOPROFENE ZENTIVA LP
+KETOPROFENE CRISTERS,kétoprofène,M01AE03,marque,Antalgiques et anti-inflammatoires,ANTI-INFLAMMATOIRES NON STEROIDIENS,algerie:oui,,,KETOPROFENE CRISTERS
+KETOPROFENE VIATRIS LP,kétoprofène,M01AE03,marque,Antalgiques et anti-inflammatoires,ANTI-INFLAMMATOIRES NON STEROIDIENS,algerie:oui,,,KETOPROFENE VIATRIS LP
+BI PROFENID LP,kétoprofène,M01AE03,marque,Antalgiques et anti-inflammatoires,ANTI-INFLAMMATOIRES NON STEROIDIENS,algerie:oui,,,BI PROFENID LP
+KETOPROFENE BIOGARAN,kétoprofène,M01AE03,marque,Antalgiques et anti-inflammatoires,ANTI-INFLAMMATOIRES NON STEROIDIENS,algerie:oui,,,KETOPROFENE BIOGARAN
+KETOPROFENE EG LP,kétoprofène,M01AE03,marque,Antalgiques et anti-inflammatoires,ANTI-INFLAMMATOIRES NON STEROIDIENS,algerie:oui,,,KETOPROFENE EG LP
+KETOPROFENE CRISTERS LP,kétoprofène,M01AE03,marque,Antalgiques et anti-inflammatoires,ANTI-INFLAMMATOIRES NON STEROIDIENS,algerie:oui,,,KETOPROFENE CRISTERS LP
+KETESSE,kétoprofène,M01AE03,marque,Antalgiques et anti-inflammatoires,ANTI-INFLAMMATOIRES NON STEROIDIENS,algerie:oui,,,KETESSE
+KETOPROFENE SANDOZ LP,kétoprofène,M01AE03,marque,Antalgiques et anti-inflammatoires,ANTI-INFLAMMATOIRES NON STEROIDIENS,algerie:oui,,,KETOPROFENE SANDOZ LP
+KETOPROFENE AGUETTANT,kétoprofène,M01AE03,marque,Antalgiques et anti-inflammatoires,ANTI-INFLAMMATOIRES NON STEROIDIENS,algerie:oui,,,KETOPROFENE AGUETTANT
+KETOPROFENE TEVA LP,kétoprofène,M01AE03,marque,Antalgiques et anti-inflammatoires,ANTI-INFLAMMATOIRES NON STEROIDIENS,algerie:oui,,,KETOPROFENE TEVA LP
+KETOPROFENE BIOGARAN LP,kétoprofène,M01AE03,marque,Antalgiques et anti-inflammatoires,ANTI-INFLAMMATOIRES NON STEROIDIENS,algerie:oui,,,KETOPROFENE BIOGARAN LP
+TOPREC,kétoprofène,M01AE03,marque,Antalgiques et anti-inflammatoires,ANTI-INFLAMMATOIRES NON STEROIDIENS,algerie:oui,,,TOPREC
+KETOPROFENE PHARMY II 100 mg/2 ml,kétoprofène,M01AE03,marque,Antalgiques et anti-inflammatoires,ANTI-INFLAMMATOIRES NON STEROIDIENS,algerie:oui,,100MG/2ML,KETOPROFENE PHARMY II 100 mg/2 ml
+KETOPROFENE GNR LP,kétoprofène,M01AE03,marque,Antalgiques et anti-inflammatoires,ANTI-INFLAMMATOIRES NON STEROIDIENS,algerie:oui,,,KETOPROFENE GNR LP
+KETOPROFENE MEDISOL 100 mg/4 ml,kétoprofène,M01AE03,marque,Antalgiques et anti-inflammatoires,ANTI-INFLAMMATOIRES NON STEROIDIENS,algerie:oui,,100MG/4ML,KETOPROFENE MEDISOL 100 mg/4 ml
+KETOPROFENE ARROW LP,kétoprofène,M01AE03,marque,Antalgiques et anti-inflammatoires,ANTI-INFLAMMATOIRES NON STEROIDIENS,algerie:oui,,,KETOPROFENE ARROW LP
+PROFENID 100 mg/2 ml,kétoprofène,M01AE03,marque,Antalgiques et anti-inflammatoires,ANTI-INFLAMMATOIRES NON STEROIDIENS,algerie:oui,,100MG/2ML,PROFENID 100 mg/2 ml
+PROFENID L P,kétoprofène,M01AE03,marque,Antalgiques et anti-inflammatoires,ANTI-INFLAMMATOIRES NON STEROIDIENS,algerie:oui,,,PROFENID L P
+NAPROSYNE,naproxène,M01AE02,marque,Antalgiques et anti-inflammatoires,ANTI-INFLAMMATOIRES NON STEROIDIENS,algerie:oui,,,NAPROSYNE
+NAPROXENE SODIQUE TEVA,naproxène,M01AE02,marque,Antalgiques et anti-inflammatoires,ANTI-INFLAMMATOIRES NON STEROIDIENS,algerie:oui,,,NAPROXENE SODIQUE TEVA
+NAPROXENE SODIQUE ARROW,naproxène,M01AE02,marque,Antalgiques et anti-inflammatoires,ANTI-INFLAMMATOIRES NON STEROIDIENS,algerie:oui,,,NAPROXENE SODIQUE ARROW
+NAPROXENE SODIQUE EG,naproxène,M01AE02,marque,Antalgiques et anti-inflammatoires,ANTI-INFLAMMATOIRES NON STEROIDIENS,algerie:oui,,,NAPROXENE SODIQUE EG
+ALEVETABS,naproxène,M01AE02,marque,Antalgiques et anti-inflammatoires,ANTI-INFLAMMATOIRES NON STEROIDIENS,algerie:oui,,,ALEVETABS
+ANTALNOX,naproxène,M01AE02,marque,Antalgiques et anti-inflammatoires,ANTI-INFLAMMATOIRES NON STEROIDIENS,algerie:oui,,,ANTALNOX
+ACIDE ACETYLSALICYLIQUE BIOGARAN,acide acétylsalicylique,N02BA01,marque,Antalgiques et anti-inflammatoires,,algerie:oui,,,ACIDE ACETYLSALICYLIQUE BIOGARAN
+ASPIRINE UPSA TAMPONNEE EFFERVESCENTE,acide acétylsalicylique,N02BA01,marque,Antalgiques et anti-inflammatoires,,algerie:oui,,,ASPIRINE UPSA TAMPONNEE EFFERVESCENTE
+ASPIRINE PROTECT,acide acétylsalicylique,N02BA01,marque,Antalgiques et anti-inflammatoires,,algerie:oui,,,ASPIRINE PROTECT
+ASPIRINE ARROW,acide acétylsalicylique,N02BA01,marque,Antalgiques et anti-inflammatoires,,algerie:oui,,,ASPIRINE ARROW
+RESITUNE,acide acétylsalicylique,N02BA01,marque,Antalgiques et anti-inflammatoires,,algerie:oui,,,RESITUNE
+ASPRO,acide acétylsalicylique,N02BA01,marque,Antalgiques et anti-inflammatoires,,algerie:oui,,,ASPRO
+ALKA SELTZER,acide acétylsalicylique,N02BA01,marque,Antalgiques et anti-inflammatoires,,algerie:oui,,,ALKA SELTZER
+ACIDE ACÉTYLSALICYLIQUE EG LABO CONSEIL,acide acétylsalicylique,N02BA01,marque,Antalgiques et anti-inflammatoires,,algerie:oui,,,ACIDE ACÉTYLSALICYLIQUE EG LABO CONSEIL
+ASPIRINE DU RHONE,acide acétylsalicylique,N02BA01,marque,Antalgiques et anti-inflammatoires,,algerie:oui,,,ASPIRINE DU RHONE
+ACIDE ACETYLSALICYLIQUE VIATRIS,acide acétylsalicylique,N02BA01,marque,Antalgiques et anti-inflammatoires,,algerie:oui,,,ACIDE ACETYLSALICYLIQUE VIATRIS
+MELOXICAM BIOGARAN,méloxicam,M01AC06,marque,Antalgiques et anti-inflammatoires,ANTI-INFLAMMATOIRES NON STEROIDIENS,algerie:oui,,,MELOXICAM BIOGARAN
+MOBIC 15 mg/1,méloxicam,M01AC06,marque,Antalgiques et anti-inflammatoires,ANTI-INFLAMMATOIRES NON STEROIDIENS,algerie:oui,,15MG,MOBIC 15 mg/1
+MELOXICAM TEVA,méloxicam,M01AC06,marque,Antalgiques et anti-inflammatoires,ANTI-INFLAMMATOIRES NON STEROIDIENS,algerie:oui,,,MELOXICAM TEVA
+MELOXICAM ZENTIVA,méloxicam,M01AC06,marque,Antalgiques et anti-inflammatoires,ANTI-INFLAMMATOIRES NON STEROIDIENS,algerie:oui,,,MELOXICAM ZENTIVA
+MOBIC,méloxicam,M01AC06,marque,Antalgiques et anti-inflammatoires,ANTI-INFLAMMATOIRES NON STEROIDIENS,algerie:oui,,,MOBIC
+MELOXICAM SANDOZ,méloxicam,M01AC06,marque,Antalgiques et anti-inflammatoires,ANTI-INFLAMMATOIRES NON STEROIDIENS,algerie:oui,,,MELOXICAM SANDOZ
+MELOXICAM EG,méloxicam,M01AC06,marque,Antalgiques et anti-inflammatoires,ANTI-INFLAMMATOIRES NON STEROIDIENS,algerie:oui,,,MELOXICAM EG
+CYCLADOL,piroxicam,M01AC01,marque,Antalgiques et anti-inflammatoires,ANTI-INFLAMMATOIRES NON STEROIDIENS,algerie:oui,,,CYCLADOL
+PIROXICAM EG,piroxicam,M01AC01,marque,Antalgiques et anti-inflammatoires,ANTI-INFLAMMATOIRES NON STEROIDIENS,algerie:oui,,,PIROXICAM EG
+PIROXICAM TEVA,piroxicam,M01AC01,marque,Antalgiques et anti-inflammatoires,ANTI-INFLAMMATOIRES NON STEROIDIENS,algerie:oui,,,PIROXICAM TEVA
+FELDENE DISPERSIBLE,piroxicam,M01AC01,marque,Antalgiques et anti-inflammatoires,ANTI-INFLAMMATOIRES NON STEROIDIENS,algerie:oui,,,FELDENE DISPERSIBLE
+BREXIN,piroxicam,M01AC01,marque,Antalgiques et anti-inflammatoires,ANTI-INFLAMMATOIRES NON STEROIDIENS,algerie:oui,,,BREXIN
+ZOFORA 20 mg/1 ml,piroxicam,M01AC01,marque,Antalgiques et anti-inflammatoires,ANTI-INFLAMMATOIRES NON STEROIDIENS,algerie:oui,,20MG/1ML,ZOFORA 20 mg/1 ml
+PIROXICAM VIATRIS,piroxicam,M01AC01,marque,Antalgiques et anti-inflammatoires,ANTI-INFLAMMATOIRES NON STEROIDIENS,algerie:oui,,,PIROXICAM VIATRIS
+PIROXICAM TEVA 20 mg/1 ml,piroxicam,M01AC01,marque,Antalgiques et anti-inflammatoires,ANTI-INFLAMMATOIRES NON STEROIDIENS,algerie:oui,,20MG/1ML,PIROXICAM TEVA 20 mg/1 ml
+CELECOXIB HCS,célécoxib,M01AH01,marque,Antalgiques et anti-inflammatoires,ANTI-INFLAMMATOIRES NON STEROIDIENS,algerie:oui,,,CELECOXIB HCS
+CELECOXIB CRISTERS,célécoxib,M01AH01,marque,Antalgiques et anti-inflammatoires,ANTI-INFLAMMATOIRES NON STEROIDIENS,algerie:oui,,,CELECOXIB CRISTERS
+CELECOXIB VIATRIS GENERIQUES,célécoxib,M01AH01,marque,Antalgiques et anti-inflammatoires,ANTI-INFLAMMATOIRES NON STEROIDIENS,algerie:oui,,,CELECOXIB VIATRIS GENERIQUES
+CELECOXIB BIOGARAN,célécoxib,M01AH01,marque,Antalgiques et anti-inflammatoires,ANTI-INFLAMMATOIRES NON STEROIDIENS,algerie:oui,,,CELECOXIB BIOGARAN
+CELECOXIB ARROW LAB,célécoxib,M01AH01,marque,Antalgiques et anti-inflammatoires,ANTI-INFLAMMATOIRES NON STEROIDIENS,algerie:oui,,,CELECOXIB ARROW LAB
+CELECOXIB EG,célécoxib,M01AH01,marque,Antalgiques et anti-inflammatoires,ANTI-INFLAMMATOIRES NON STEROIDIENS,algerie:oui,,,CELECOXIB EG
+CELECOXIB TEVA,célécoxib,M01AH01,marque,Antalgiques et anti-inflammatoires,ANTI-INFLAMMATOIRES NON STEROIDIENS,algerie:oui,,,CELECOXIB TEVA
+CELECOXIB ZYDUS,célécoxib,M01AH01,marque,Antalgiques et anti-inflammatoires,ANTI-INFLAMMATOIRES NON STEROIDIENS,algerie:oui,,,CELECOXIB ZYDUS
+CELECOXIB SANDOZ,célécoxib,M01AH01,marque,Antalgiques et anti-inflammatoires,ANTI-INFLAMMATOIRES NON STEROIDIENS,algerie:oui,,,CELECOXIB SANDOZ
+CELECOXIB VIATRIS,célécoxib,M01AH01,marque,Antalgiques et anti-inflammatoires,ANTI-INFLAMMATOIRES NON STEROIDIENS,algerie:oui,,,CELECOXIB VIATRIS
+TRAMADOL EG L.P.,tramadol,N02AX02,marque,Antalgiques et anti-inflammatoires,ANALGESIQUES MORPHINIQUES AGONISTES,algerie:oui,,,TRAMADOL EG L.P.
+TRAMADOL CRISTERS LP,tramadol,N02AX02,marque,Antalgiques et anti-inflammatoires,ANALGESIQUES MORPHINIQUES AGONISTES,algerie:oui,,,TRAMADOL CRISTERS LP
+TRAMADOL ARROW L.P.,tramadol,N02AX02,marque,Antalgiques et anti-inflammatoires,ANALGESIQUES MORPHINIQUES AGONISTES,algerie:oui,,,TRAMADOL ARROW L.P.
+TRAMADOL VIATRIS LP,tramadol,N02AX02,marque,Antalgiques et anti-inflammatoires,ANALGESIQUES MORPHINIQUES AGONISTES,algerie:oui,,,TRAMADOL VIATRIS LP
+MONOCRIXO L.P.,tramadol,N02AX02,marque,Antalgiques et anti-inflammatoires,ANALGESIQUES MORPHINIQUES AGONISTES,algerie:oui,,,MONOCRIXO L.P.
+CONTRAMAL 100 mg/ml,tramadol,N02AX02,marque,Antalgiques et anti-inflammatoires,ANALGESIQUES MORPHINIQUES AGONISTES,algerie:oui,,100MG,CONTRAMAL 100 mg/ml
+TRAMADOL EVOLUGEN L.P.,tramadol,N02AX02,marque,Antalgiques et anti-inflammatoires,ANALGESIQUES MORPHINIQUES AGONISTES,algerie:oui,,,TRAMADOL EVOLUGEN L.P.
+TRAMADOL HCS,tramadol,N02AX02,marque,Antalgiques et anti-inflammatoires,ANALGESIQUES MORPHINIQUES AGONISTES,algerie:oui,,,TRAMADOL HCS
+TRAMADOL ZYDUS L.P.,tramadol,N02AX02,marque,Antalgiques et anti-inflammatoires,ANALGESIQUES MORPHINIQUES AGONISTES,algerie:oui,,,TRAMADOL ZYDUS L.P.
+MONOALGIC L.P.,tramadol,N02AX02,marque,Antalgiques et anti-inflammatoires,ANALGESIQUES MORPHINIQUES AGONISTES,algerie:oui,,,MONOALGIC L.P.
+TRAMADOL BIOGARAN,tramadol,N02AX02,marque,Antalgiques et anti-inflammatoires,ANALGESIQUES MORPHINIQUES AGONISTES,algerie:oui,,,TRAMADOL BIOGARAN
+CONTRAMAL LP,tramadol,N02AX02,marque,Antalgiques et anti-inflammatoires,ANALGESIQUES MORPHINIQUES AGONISTES,algerie:oui,,,CONTRAMAL LP
+TOPALGIC 100 mg/2 ml,tramadol,N02AX02,marque,Antalgiques et anti-inflammatoires,ANALGESIQUES MORPHINIQUES AGONISTES,algerie:oui,,100MG/2ML,TOPALGIC 100 mg/2 ml
+TRAMADOL ARROW,tramadol,N02AX02,marque,Antalgiques et anti-inflammatoires,ANALGESIQUES MORPHINIQUES AGONISTES,algerie:oui,,,TRAMADOL ARROW
+CONTRAMAL 100 mg/2 ml,tramadol,N02AX02,marque,Antalgiques et anti-inflammatoires,ANALGESIQUES MORPHINIQUES AGONISTES,algerie:oui,,100MG/2ML,CONTRAMAL 100 mg/2 ml
+TRAMADOL TEVA L.P.,tramadol,N02AX02,marque,Antalgiques et anti-inflammatoires,ANALGESIQUES MORPHINIQUES AGONISTES,algerie:oui,,,TRAMADOL TEVA L.P.
+TOPALGIC,tramadol,N02AX02,marque,Antalgiques et anti-inflammatoires,ANALGESIQUES MORPHINIQUES AGONISTES,algerie:oui,,,TOPALGIC
+TRAMADOL SANDOZ L.P.,tramadol,N02AX02,marque,Antalgiques et anti-inflammatoires,ANALGESIQUES MORPHINIQUES AGONISTES,algerie:oui,,,TRAMADOL SANDOZ L.P.
+TRAMADOL ARROW 100 mg/2 mL,tramadol,N02AX02,marque,Antalgiques et anti-inflammatoires,ANALGESIQUES MORPHINIQUES AGONISTES,algerie:oui,,100MG/2ML,TRAMADOL ARROW 100 mg/2 mL
+OROZAMUDOL,tramadol,N02AX02,marque,Antalgiques et anti-inflammatoires,ANALGESIQUES MORPHINIQUES AGONISTES,algerie:oui,,,OROZAMUDOL
+TRAMADOL TEVA SANTE,tramadol,N02AX02,marque,Antalgiques et anti-inflammatoires,ANALGESIQUES MORPHINIQUES AGONISTES,algerie:oui,,,TRAMADOL TEVA SANTE
+TRAMADOL ZYDUS,tramadol,N02AX02,marque,Antalgiques et anti-inflammatoires,ANALGESIQUES MORPHINIQUES AGONISTES,algerie:oui,,,TRAMADOL ZYDUS
+TOPALGIC LP,tramadol,N02AX02,marque,Antalgiques et anti-inflammatoires,ANALGESIQUES MORPHINIQUES AGONISTES,algerie:oui,,,TOPALGIC LP
+TRAMADOL BGR L.P.,tramadol,N02AX02,marque,Antalgiques et anti-inflammatoires,ANALGESIQUES MORPHINIQUES AGONISTES,algerie:oui,,,TRAMADOL BGR L.P.
+TRAMADOL EVOLUGEN,tramadol,N02AX02,marque,Antalgiques et anti-inflammatoires,ANALGESIQUES MORPHINIQUES AGONISTES,algerie:oui,,,TRAMADOL EVOLUGEN
+TRAMADOL KRKA LP,tramadol,N02AX02,marque,Antalgiques et anti-inflammatoires,ANALGESIQUES MORPHINIQUES AGONISTES,algerie:oui,,,TRAMADOL KRKA LP
+TRAMADOL LAVOISIER 50 mg/ml,tramadol,N02AX02,marque,Antalgiques et anti-inflammatoires,ANALGESIQUES MORPHINIQUES AGONISTES,algerie:oui,,50MG,TRAMADOL LAVOISIER 50 mg/ml
+TRAMADOL ZENTIVA LP,tramadol,N02AX02,marque,Antalgiques et anti-inflammatoires,ANALGESIQUES MORPHINIQUES AGONISTES,algerie:oui,,,TRAMADOL ZENTIVA LP
+ZUMALGIC,tramadol,N02AX02,marque,Antalgiques et anti-inflammatoires,ANALGESIQUES MORPHINIQUES AGONISTES,algerie:oui,,,ZUMALGIC
+ZAMUDOL LP,tramadol,N02AX02,marque,Antalgiques et anti-inflammatoires,ANALGESIQUES MORPHINIQUES AGONISTES,algerie:oui,,,ZAMUDOL LP
+TRAMADOL EG,tramadol,N02AX02,marque,Antalgiques et anti-inflammatoires,ANALGESIQUES MORPHINIQUES AGONISTES,algerie:oui,,,TRAMADOL EG
+TOPALGIC 100 mg/ml,tramadol,N02AX02,marque,Antalgiques et anti-inflammatoires,ANALGESIQUES MORPHINIQUES AGONISTES,algerie:oui,,100MG,TOPALGIC 100 mg/ml
+TAKADOL,tramadol,N02AX02,marque,Antalgiques et anti-inflammatoires,ANALGESIQUES MORPHINIQUES AGONISTES,algerie:oui,,,TAKADOL
+TRAMADOL ALMUS,tramadol,N02AX02,marque,Antalgiques et anti-inflammatoires,ANALGESIQUES MORPHINIQUES AGONISTES,algerie:oui,,,TRAMADOL ALMUS
+BIODALGIC,tramadol,N02AX02,marque,Antalgiques et anti-inflammatoires,ANALGESIQUES MORPHINIQUES AGONISTES,algerie:oui,,,BIODALGIC
+TRAMADOL TEVA,tramadol,N02AX02,marque,Antalgiques et anti-inflammatoires,ANALGESIQUES MORPHINIQUES AGONISTES,algerie:oui,,,TRAMADOL TEVA
+TRAMADOL ZYDUS LP,tramadol,N02AX02,marque,Antalgiques et anti-inflammatoires,ANALGESIQUES MORPHINIQUES AGONISTES,algerie:oui,,,TRAMADOL ZYDUS LP
+CONTRAMAL,tramadol,N02AX02,marque,Antalgiques et anti-inflammatoires,ANALGESIQUES MORPHINIQUES AGONISTES,algerie:oui,,,CONTRAMAL
+TRAMADOL VIATRIS,tramadol,N02AX02,marque,Antalgiques et anti-inflammatoires,ANALGESIQUES MORPHINIQUES AGONISTES,algerie:oui,,,TRAMADOL VIATRIS
+PARACETAMOL/CODEINE TEVA 500 mg/30 mg,paracétamol + codéine,N02AA59,marque,Antalgiques et anti-inflammatoires,,algerie:oui,,500MG/30MG,PARACETAMOL/CODEINE TEVA 500 mg/30 mg
+CODOLIPRANE 500 mg/30 mg,paracétamol + codéine,N02AA59,marque,Antalgiques et anti-inflammatoires,,algerie:oui,,500MG/30MG,CODOLIPRANE 500 mg/30 mg
+KLIPAL 300 mg/25 mg,paracétamol + codéine,N02AA59,marque,Antalgiques et anti-inflammatoires,,algerie:oui,,300MG/25MG,KLIPAL 300 mg/25 mg
+PARACETAMOL/CODEINE PIERRE FABRE 300 mg/25 mg,paracétamol + codéine,N02AA59,marque,Antalgiques et anti-inflammatoires,,algerie:oui,,300MG/25MG,PARACETAMOL/CODEINE PIERRE FABRE 300 mg/25 mg
+PARACETAMOL CODEINE ARROW 500 mg/30 mg,paracétamol + codéine,N02AA59,marque,Antalgiques et anti-inflammatoires,,algerie:oui,,500MG/30MG,PARACETAMOL CODEINE ARROW 500 mg/30 mg
+CLARADOL CODEINE 500 mg/20 mg,paracétamol + codéine,N02AA59,marque,Antalgiques et anti-inflammatoires,,algerie:oui,,500MG/20MG,CLARADOL CODEINE 500 mg/20 mg
+CODOLIPRANE ADULTES 400 mg/20 mg,paracétamol + codéine,N02AA59,marque,Antalgiques et anti-inflammatoires,,algerie:oui,,400MG/20MG,CODOLIPRANE ADULTES 400 mg/20 mg
+PARACETAMOL/CODEINE VIATRIS 500 mg/30 mg,paracétamol + codéine,N02AA59,marque,Antalgiques et anti-inflammatoires,,algerie:oui,,500MG/30MG,PARACETAMOL/CODEINE VIATRIS 500 mg/30 mg
+PARACETAMOL CODEINE FRILAB 500 mg/30 mg,paracétamol + codéine,N02AA59,marque,Antalgiques et anti-inflammatoires,,algerie:oui,,500MG/30MG,PARACETAMOL CODEINE FRILAB 500 mg/30 mg
+KLIPAL 600 mg/50 mg,paracétamol + codéine,N02AA59,marque,Antalgiques et anti-inflammatoires,,algerie:oui,,600MG/50MG,KLIPAL 600 mg/50 mg
+LINDILANE 400 mg/25 mg,paracétamol + codéine,N02AA59,marque,Antalgiques et anti-inflammatoires,,algerie:oui,,400MG/25MG,LINDILANE 400 mg/25 mg
+PARACETAMOL/CODEINE BIOGARAN 500 mg/30 mg,paracétamol + codéine,N02AA59,marque,Antalgiques et anti-inflammatoires,,algerie:oui,,500MG/30MG,PARACETAMOL/CODEINE BIOGARAN 500 mg/30 mg
+PARACETAMOL/CODEINE PIERRE FABRE 600 mg/50 mg,paracétamol + codéine,N02AA59,marque,Antalgiques et anti-inflammatoires,,algerie:oui,,600MG/50MG,PARACETAMOL/CODEINE PIERRE FABRE 600 mg/50 mg
+NEFOPAM MEDISOL 20 mg/2 ml,néfopam,N02BG06,marque,Antalgiques et anti-inflammatoires,,algerie:oui,,20MG/2ML,NEFOPAM MEDISOL 20 mg/2 ml
+NEFOPAM PANPHARMA,néfopam,N02BG06,marque,Antalgiques et anti-inflammatoires,,algerie:oui,,,NEFOPAM PANPHARMA
+NEFOPAM BIOGARAN 20 mg/2 mL,néfopam,N02BG06,marque,Antalgiques et anti-inflammatoires,,algerie:oui,,20MG/2ML,NEFOPAM BIOGARAN 20 mg/2 mL
+NEFOPAM VIATRIS 20 mg/2 ml,néfopam,N02BG06,marque,Antalgiques et anti-inflammatoires,,algerie:oui,,20MG/2ML,NEFOPAM VIATRIS 20 mg/2 ml
+ACUPAN 20 mg/2 mL,néfopam,N02BG06,marque,Antalgiques et anti-inflammatoires,,algerie:oui,,20MG/2ML,ACUPAN 20 mg/2 mL
+NEFOPAM PANPHARMA 20 mg/2 mL,néfopam,N02BG06,marque,Antalgiques et anti-inflammatoires,,algerie:oui,,20MG/2ML,NEFOPAM PANPHARMA 20 mg/2 mL
+NEFOPAM TEVA 20 mg/2 mL,néfopam,N02BG06,marque,Antalgiques et anti-inflammatoires,,algerie:oui,,20MG/2ML,NEFOPAM TEVA 20 mg/2 mL
+NEFOPAM ARROW 20 mg/2 ml,néfopam,N02BG06,marque,Antalgiques et anti-inflammatoires,,algerie:oui,,20MG/2ML,NEFOPAM ARROW 20 mg/2 ml
+AMOXICILLINE KRKA,amoxicilline,J01CA04,marque,Antibiotiques,,algerie:oui,,,AMOXICILLINE KRKA
+AMOXICILLINE ALMUS,amoxicilline,J01CA04,marque,Antibiotiques,,algerie:oui,,,AMOXICILLINE ALMUS
+XYLLOMAC,amoxicilline,J01CA04,marque,Antibiotiques,,algerie:oui,,,XYLLOMAC
+AMOXICILLINE BIOGARAN 125 mg/5 ml,amoxicilline,J01CA04,marque,Antibiotiques,,algerie:oui,,125MG/5ML,AMOXICILLINE BIOGARAN 125 mg/5 ml
+AMOXICILLINE BIOGARAN 250 mg/5 ml,amoxicilline,J01CA04,marque,Antibiotiques,,algerie:oui,,250MG/5ML,AMOXICILLINE BIOGARAN 250 mg/5 ml
+AMOXICILLINE VIATRIS,amoxicilline,J01CA04,marque,Antibiotiques,,algerie:oui,,,AMOXICILLINE VIATRIS
+AMOXICILLINE BIOGARAN 500 mg/5 ml,amoxicilline,J01CA04,marque,Antibiotiques,,algerie:oui,,500MG/5ML,AMOXICILLINE BIOGARAN 500 mg/5 ml
+AMOXICILLINE ZENTIVA LAB,amoxicilline,J01CA04,marque,Antibiotiques,,algerie:oui,,,AMOXICILLINE ZENTIVA LAB
+CLAMOXYL 125 mg/5 ml,amoxicilline,J01CA04,marque,Antibiotiques,,algerie:oui,,125MG/5ML,CLAMOXYL 125 mg/5 ml
+AMOXICILLINE ZYDUS 500 mg/5 ml,amoxicilline,J01CA04,marque,Antibiotiques,,algerie:oui,,500MG/5ML,AMOXICILLINE ZYDUS 500 mg/5 ml
+AMOXICILLINE ZENTIVA LAB 250 mg/5 ml,amoxicilline,J01CA04,marque,Antibiotiques,,algerie:oui,,250MG/5ML,AMOXICILLINE ZENTIVA LAB 250 mg/5 ml
+AMOXICILLINE ARROW 125 mg/5 mL,amoxicilline,J01CA04,marque,Antibiotiques,,algerie:oui,,125MG/5ML,AMOXICILLINE ARROW 125 mg/5 mL
+AMOXICILLINE TEVA SANTE 250 mg/5 ml,amoxicilline,J01CA04,marque,Antibiotiques,,algerie:oui,,250MG/5ML,AMOXICILLINE TEVA SANTE 250 mg/5 ml
+CLAMOXYL 500 mg/5 ml,amoxicilline,J01CA04,marque,Antibiotiques,,algerie:oui,,500MG/5ML,CLAMOXYL 500 mg/5 ml
+AMOXICILLINE EG LABO 500 mg/5 mL,amoxicilline,J01CA04,marque,Antibiotiques,,algerie:oui,,500MG/5ML,AMOXICILLINE EG LABO 500 mg/5 mL
+AMOXICILLINE ZYDUS 250 mg/5 ml,amoxicilline,J01CA04,marque,Antibiotiques,,algerie:oui,,250MG/5ML,AMOXICILLINE ZYDUS 250 mg/5 ml
+AMOXICILLINE CRISTERS,amoxicilline,J01CA04,marque,Antibiotiques,,algerie:oui,,,AMOXICILLINE CRISTERS
+AMOXICILLINE TEVA,amoxicilline,J01CA04,marque,Antibiotiques,,algerie:oui,,,AMOXICILLINE TEVA
+AMOXICILLINE VIATRIS PHARMA,amoxicilline,J01CA04,marque,Antibiotiques,,algerie:oui,,,AMOXICILLINE VIATRIS PHARMA
+AMOXICILLINE VIATRIS 125 mg/5 ml,amoxicilline,J01CA04,marque,Antibiotiques,,algerie:oui,,125MG/5ML,AMOXICILLINE VIATRIS 125 mg/5 ml
+AMOXICILLINE SANDOZ 250 mg/5 ml,amoxicilline,J01CA04,marque,Antibiotiques,,algerie:oui,,250MG/5ML,AMOXICILLINE SANDOZ 250 mg/5 ml
+AMOXICILLINE EG LABO,amoxicilline,J01CA04,marque,Antibiotiques,,algerie:oui,,,AMOXICILLINE EG LABO
+AMOXICILLINE SANDOZ,amoxicilline,J01CA04,marque,Antibiotiques,,algerie:oui,,,AMOXICILLINE SANDOZ
+AMOXICILLINE ZYDUS FRANCE,amoxicilline,J01CA04,marque,Antibiotiques,,algerie:oui,,,AMOXICILLINE ZYDUS FRANCE
+AMOXICILLINE ARROW,amoxicilline,J01CA04,marque,Antibiotiques,,algerie:oui,,,AMOXICILLINE ARROW
+AMOXICILLINE VIATRIS 250 mg/5 ml,amoxicilline,J01CA04,marque,Antibiotiques,,algerie:oui,,250MG/5ML,AMOXICILLINE VIATRIS 250 mg/5 ml
+AMOXICILLINE VIATRIS SANTE,amoxicilline,J01CA04,marque,Antibiotiques,,algerie:oui,,,AMOXICILLINE VIATRIS SANTE
+AMOXICILLINE TEVA SANTE 125 mg/5 ml,amoxicilline,J01CA04,marque,Antibiotiques,,algerie:oui,,125MG/5ML,AMOXICILLINE TEVA SANTE 125 mg/5 ml
+AMOXICILLINE TEVA SANTE,amoxicilline,J01CA04,marque,Antibiotiques,,algerie:oui,,,AMOXICILLINE TEVA SANTE
+AMOXICILLINE SANDOZ 125 mg/5 ml,amoxicilline,J01CA04,marque,Antibiotiques,,algerie:oui,,125MG/5ML,AMOXICILLINE SANDOZ 125 mg/5 ml
+AMOXICILLINE ZENTIVA LAB 125 mg/5 ml,amoxicilline,J01CA04,marque,Antibiotiques,,algerie:oui,,125MG/5ML,AMOXICILLINE ZENTIVA LAB 125 mg/5 ml
+AMOXICILLINE ARROW 500 mg/5 mL,amoxicilline,J01CA04,marque,Antibiotiques,,algerie:oui,,500MG/5ML,AMOXICILLINE ARROW 500 mg/5 mL
+AMOXICILLINE TEVA SANTE 500 mg/5 ml,amoxicilline,J01CA04,marque,Antibiotiques,,algerie:oui,,500MG/5ML,AMOXICILLINE TEVA SANTE 500 mg/5 ml
+AMOXICILLINE BGR 500 mg/5 mL,amoxicilline,J01CA04,marque,Antibiotiques,,algerie:oui,,500MG/5ML,AMOXICILLINE BGR 500 mg/5 mL
+AMOXICILLINE SUN,amoxicilline,J01CA04,marque,Antibiotiques,,algerie:oui,,,AMOXICILLINE SUN
+AMOXICILLINE BGR,amoxicilline,J01CA04,marque,Antibiotiques,,algerie:oui,,,AMOXICILLINE BGR
+AMOXICILLINE ZYDUS 125 mg/5 ml,amoxicilline,J01CA04,marque,Antibiotiques,,algerie:oui,,125MG/5ML,AMOXICILLINE ZYDUS 125 mg/5 ml
+AMOXICILLINE ARROW 250 mg/5 mL,amoxicilline,J01CA04,marque,Antibiotiques,,algerie:oui,,250MG/5ML,AMOXICILLINE ARROW 250 mg/5 mL
+AMOXICILLINE ARROW LAB,amoxicilline,J01CA04,marque,Antibiotiques,,algerie:oui,,,AMOXICILLINE ARROW LAB
+AMOXICILLINE VIATRIS 500 mg/5 ml,amoxicilline,J01CA04,marque,Antibiotiques,,algerie:oui,,500MG/5ML,AMOXICILLINE VIATRIS 500 mg/5 ml
+CLAMOXYL 250 mg/5 ml,amoxicilline,J01CA04,marque,Antibiotiques,,algerie:oui,,250MG/5ML,CLAMOXYL 250 mg/5 ml
+AMOXICILLINE BENTA,amoxicilline,J01CA04,marque,Antibiotiques,,algerie:oui,,,AMOXICILLINE BENTA
+AMOXICILLINE ZYDUS,amoxicilline,J01CA04,marque,Antibiotiques,,algerie:oui,,,AMOXICILLINE ZYDUS
+AMOXICILLINE EG LABO 250 mg /,amoxicilline,J01CA04,marque,Antibiotiques,,algerie:oui,,250MG,AMOXICILLINE EG LABO 250 mg /
+AMOXICILLINE EG LABO 125 mg/5 ml,amoxicilline,J01CA04,marque,Antibiotiques,,algerie:oui,,125MG/5ML,AMOXICILLINE EG LABO 125 mg/5 ml
+AMOXICILLINE VIATRIS SANTE 500 mg/5 mL,amoxicilline,J01CA04,marque,Antibiotiques,,algerie:oui,,500MG/5ML,AMOXICILLINE VIATRIS SANTE 500 mg/5 mL
+AMOXICILLINE EVOLUGEN,amoxicilline,J01CA04,marque,Antibiotiques,,algerie:oui,,,AMOXICILLINE EVOLUGEN
+AMOXICILLINE ALMUS PHARMA,amoxicilline,J01CA04,marque,Antibiotiques,,algerie:oui,,,AMOXICILLINE ALMUS PHARMA
+AMOXICILLINE ZENTIVA LAB 500 mg/5 ml,amoxicilline,J01CA04,marque,Antibiotiques,,algerie:oui,,500MG/5ML,AMOXICILLINE ZENTIVA LAB 500 mg/5 ml
+AMOXICILLINE SANDOZ 500 mg/5 ml,amoxicilline,J01CA04,marque,Antibiotiques,,algerie:oui,,500MG/5ML,AMOXICILLINE SANDOZ 500 mg/5 ml
+AMOXICILLINE PANPHARMA 1 g/5 ml,amoxicilline,J01CA04,marque,Antibiotiques,,algerie:oui,,1G/5ML,AMOXICILLINE PANPHARMA 1 g/5 ml
+AMOXICILLINE/ACIDE CLAVULANIQUE ALMUS 500 mg/62,amoxicilline + acide clavulanique,J01CR02,marque,Antibiotiques,,algerie:oui,,500MG,AMOXICILLINE/ACIDE CLAVULANIQUE ALMUS 500 mg/62
+AMOXICILLINE/ACIDE CLAVULANIQUE VIATRIS 100 mg/12,amoxicilline + acide clavulanique,J01CR02,marque,Antibiotiques,,algerie:oui,,100MG,AMOXICILLINE/ACIDE CLAVULANIQUE VIATRIS 100 mg/12
+AMOXICILLINE/ACIDE CLAVULANIQUE BIOGARAN 500 mg/62,amoxicilline + acide clavulanique,J01CR02,marque,Antibiotiques,,algerie:oui,,500MG,AMOXICILLINE/ACIDE CLAVULANIQUE BIOGARAN 500 mg/62
+AMOXICILLINE/ACIDE CLAVULANIQUE ARROW LAB 100 mg/12,amoxicilline + acide clavulanique,J01CR02,marque,Antibiotiques,,algerie:oui,,100MG,AMOXICILLINE/ACIDE CLAVULANIQUE ARROW LAB 100 mg/12
+AMOXICILLINE/ACIDE CLAVULANIQUE ZENTIVA LAB 500 mg/62,amoxicilline + acide clavulanique,J01CR02,marque,Antibiotiques,,algerie:oui,,500MG,AMOXICILLINE/ACIDE CLAVULANIQUE ZENTIVA LAB 500 mg/62
+AMOXICILLINE/ACIDE CLAVULANIQUE ZENTIVA LAB 1 g/125 mg ADULTES,amoxicilline + acide clavulanique,J01CR02,marque,Antibiotiques,,algerie:oui,,1G/125MG,AMOXICILLINE/ACIDE CLAVULANIQUE ZENTIVA LAB 1 g/125 mg ADULTES
+AMOXICILLINE/ACIDE CLAVULANIQUE ALMUS 1 g/125 mg ADULTES,amoxicilline + acide clavulanique,J01CR02,marque,Antibiotiques,,algerie:oui,,1G/125MG,AMOXICILLINE/ACIDE CLAVULANIQUE ALMUS 1 g/125 mg ADULTES
+AMOXICILLINE/ACIDE CLAVULANIQUE ZYDUS FRANCE 500 mg/62,amoxicilline + acide clavulanique,J01CR02,marque,Antibiotiques,,algerie:oui,,500MG,AMOXICILLINE/ACIDE CLAVULANIQUE ZYDUS FRANCE 500 mg/62
+AMOXICILLINE/ACIDE CLAVULANIQUE VIATRIS 1 g/125 mg ADULTES,amoxicilline + acide clavulanique,J01CR02,marque,Antibiotiques,,algerie:oui,,1G/125MG,AMOXICILLINE/ACIDE CLAVULANIQUE VIATRIS 1 g/125 mg ADULTES
+AMOXICILLINE/ACIDE CLAVULANIQUE TEVA 500 mg/62,amoxicilline + acide clavulanique,J01CR02,marque,Antibiotiques,,algerie:oui,,500MG,AMOXICILLINE/ACIDE CLAVULANIQUE TEVA 500 mg/62
+AMOXICILLINE/ACIDE CLAVULANIQUE PANPHARMA 500 mg/50 mg nourrissons et enfants,amoxicilline + acide clavulanique,J01CR02,marque,Antibiotiques,,algerie:oui,,500MG/50MG,AMOXICILLINE/ACIDE CLAVULANIQUE PANPHARMA 500 mg/50 mg nourrissons et enfants
+AMOXICILLINE/ACIDE CLAVULANIQUE ZYDUS 1 g/125 mg ADULTES,amoxicilline + acide clavulanique,J01CR02,marque,Antibiotiques,,algerie:oui,,1G/125MG,AMOXICILLINE/ACIDE CLAVULANIQUE ZYDUS 1 g/125 mg ADULTES
+AMOXICILLINE/ACIDE CLAVULANIQUE TEVA 1 g/ 125 mg ADULTES,amoxicilline + acide clavulanique,J01CR02,marque,Antibiotiques,,algerie:oui,,1G,AMOXICILLINE/ACIDE CLAVULANIQUE TEVA 1 g/ 125 mg ADULTES
+AMOXICILLINE/ACIDE CLAVULANIQUE ZYDUS FRANCE 100 mg/12,amoxicilline + acide clavulanique,J01CR02,marque,Antibiotiques,,algerie:oui,,100MG,AMOXICILLINE/ACIDE CLAVULANIQUE ZYDUS FRANCE 100 mg/12
+AMOXICILLINE ACIDE CLAVULANIQUE SANDOZ 100 mg/12,amoxicilline + acide clavulanique,J01CR02,marque,Antibiotiques,,algerie:oui,,100MG,AMOXICILLINE ACIDE CLAVULANIQUE SANDOZ 100 mg/12
+AMOXICILLINE/ACIDE CLAVULANIQUE CRISTERS 500 mg/62,amoxicilline + acide clavulanique,J01CR02,marque,Antibiotiques,,algerie:oui,,500MG,AMOXICILLINE/ACIDE CLAVULANIQUE CRISTERS 500 mg/62
+AMOXICILLINE/ACIDE CLAVULANIQUE BGR 100 mg/12,amoxicilline + acide clavulanique,J01CR02,marque,Antibiotiques,,algerie:oui,,100MG,AMOXICILLINE/ACIDE CLAVULANIQUE BGR 100 mg/12
+AMOXICILLINE/ACIDE CLAVULANIQUE BIOGARAN 100 mg/12,amoxicilline + acide clavulanique,J01CR02,marque,Antibiotiques,,algerie:oui,,100MG,AMOXICILLINE/ACIDE CLAVULANIQUE BIOGARAN 100 mg/12
+AMOXICILLINE/ACIDE CLAVULANIQUE SANDOZ 1 g/200 mg,amoxicilline + acide clavulanique,J01CR02,marque,Antibiotiques,,algerie:oui,,1G/200MG,AMOXICILLINE/ACIDE CLAVULANIQUE SANDOZ 1 g/200 mg
+AMOXICILLINE/ACIDE CLAVULANIQUE EG 500 mg/62,amoxicilline + acide clavulanique,J01CR02,marque,Antibiotiques,,algerie:oui,,500MG,AMOXICILLINE/ACIDE CLAVULANIQUE EG 500 mg/62
+AMOXICILLINE/ACIDE CLAVULANIQUE CRISTERS 1 g/125 mg ADULTES,amoxicilline + acide clavulanique,J01CR02,marque,Antibiotiques,,algerie:oui,,1G/125MG,AMOXICILLINE/ACIDE CLAVULANIQUE CRISTERS 1 g/125 mg ADULTES
+AMOXICILLINE/ACIDE CLAVULANIQUE EG LABO-LABORATOIRES EUROGENERICS 100 mg/12,amoxicilline + acide clavulanique,J01CR02,marque,Antibiotiques,,algerie:oui,,100MG,AMOXICILLINE/ACIDE CLAVULANIQUE EG LABO-LABORATOIRES EUROGENERICS 100 mg/12
+AMOXICILLINE/ACIDE CLAVULANIQUE TEVA 100 mg/12,amoxicilline + acide clavulanique,J01CR02,marque,Antibiotiques,,algerie:oui,,100MG,AMOXICILLINE/ACIDE CLAVULANIQUE TEVA 100 mg/12
+LEVMENTIN 2 g/200 mg ADULTES,amoxicilline + acide clavulanique,J01CR02,marque,Antibiotiques,,algerie:oui,,2G/200MG,LEVMENTIN 2 g/200 mg ADULTES
+AMOXICILLINE/ACIDE CLAVULANIQUE ZENTIVA LAB 100 mg/12,amoxicilline + acide clavulanique,J01CR02,marque,Antibiotiques,,algerie:oui,,100MG,AMOXICILLINE/ACIDE CLAVULANIQUE ZENTIVA LAB 100 mg/12
+AMOXICILLINE/ACIDE CLAVULANIQUE SANDOZ 2 g/200 mg,amoxicilline + acide clavulanique,J01CR02,marque,Antibiotiques,,algerie:oui,,2G/200MG,AMOXICILLINE/ACIDE CLAVULANIQUE SANDOZ 2 g/200 mg
+AMOXICILLINE/ACIDE CLAVULANIQUE CRISTERS 100 mg/12,amoxicilline + acide clavulanique,J01CR02,marque,Antibiotiques,,algerie:oui,,100MG,AMOXICILLINE/ACIDE CLAVULANIQUE CRISTERS 100 mg/12
+AMOXICILLINE/ACIDE CLAVULANIQUE SUN 1 g/125 mg ADULTES,amoxicilline + acide clavulanique,J01CR02,marque,Antibiotiques,,algerie:oui,,1G/125MG,AMOXICILLINE/ACIDE CLAVULANIQUE SUN 1 g/125 mg ADULTES
+AUGMENTIN 500 mg/62,amoxicilline + acide clavulanique,J01CR02,marque,Antibiotiques,,algerie:oui,,500MG,AUGMENTIN 500 mg/62
+AMOXICILLINE/ACIDE CLAVULANIQUE SANDOZ 500 mg/62,amoxicilline + acide clavulanique,J01CR02,marque,Antibiotiques,,algerie:oui,,500MG,AMOXICILLINE/ACIDE CLAVULANIQUE SANDOZ 500 mg/62
+AMOXICILLINE/ACIDE CLAVULANIQUE BGR 1 g/125 mg,amoxicilline + acide clavulanique,J01CR02,marque,Antibiotiques,,algerie:oui,,1G/125MG,AMOXICILLINE/ACIDE CLAVULANIQUE BGR 1 g/125 mg
+AMOXICILLINE/ACIDE CLAVULANIQUE SUN 500 mg/62,amoxicilline + acide clavulanique,J01CR02,marque,Antibiotiques,,algerie:oui,,500MG,AMOXICILLINE/ACIDE CLAVULANIQUE SUN 500 mg/62
+AMOXICILLINE/ACIDE CLAVULANIQUE PANPHARMA 2 g/200 mg ADULTES,amoxicilline + acide clavulanique,J01CR02,marque,Antibiotiques,,algerie:oui,,2G/200MG,AMOXICILLINE/ACIDE CLAVULANIQUE PANPHARMA 2 g/200 mg ADULTES
+AMOXICILLINE ACIDE CLAVULANIQUE ALMUS 100 mg/12,amoxicilline + acide clavulanique,J01CR02,marque,Antibiotiques,,algerie:oui,,100MG,AMOXICILLINE ACIDE CLAVULANIQUE ALMUS 100 mg/12
+LEVMENTIN 1 g/200 mg,amoxicilline + acide clavulanique,J01CR02,marque,Antibiotiques,,algerie:oui,,1G/200MG,LEVMENTIN 1 g/200 mg
+AMOXICILLINE/ACIDE CLAVULANIQUE ARROW 1 g/125 mg,amoxicilline + acide clavulanique,J01CR02,marque,Antibiotiques,,algerie:oui,,1G/125MG,AMOXICILLINE/ACIDE CLAVULANIQUE ARROW 1 g/125 mg
+AMOXICILLINE/ACIDE CLAVULANIQUE EG 1 g/125 mg ADULTES,amoxicilline + acide clavulanique,J01CR02,marque,Antibiotiques,,algerie:oui,,1G/125MG,AMOXICILLINE/ACIDE CLAVULANIQUE EG 1 g/125 mg ADULTES
+AMOXICILLINE/ACIDE CLAVULANIQUE EG 100 mg/12,amoxicilline + acide clavulanique,J01CR02,marque,Antibiotiques,,algerie:oui,,100MG,AMOXICILLINE/ACIDE CLAVULANIQUE EG 100 mg/12
+AMOXICILLINE/ACIDE CLAVULANIQUE BIOGARAN 1 g/125 mg,amoxicilline + acide clavulanique,J01CR02,marque,Antibiotiques,,algerie:oui,,1G/125MG,AMOXICILLINE/ACIDE CLAVULANIQUE BIOGARAN 1 g/125 mg
+AMOXICILLINE/ACIDE CLAVULANIQUE SANDOZ 500 mg/50 mg,amoxicilline + acide clavulanique,J01CR02,marque,Antibiotiques,,algerie:oui,,500MG/50MG,AMOXICILLINE/ACIDE CLAVULANIQUE SANDOZ 500 mg/50 mg
+AMOXICILLINE/ACIDE CLAVULANIQUE VIATRIS 500 mg/62,amoxicilline + acide clavulanique,J01CR02,marque,Antibiotiques,,algerie:oui,,500MG,AMOXICILLINE/ACIDE CLAVULANIQUE VIATRIS 500 mg/62
+AMOXICILLINE/ACIDE CLAVULANIQUE SANDOZ 1 g/125 mg ADULTES,amoxicilline + acide clavulanique,J01CR02,marque,Antibiotiques,,algerie:oui,,1G/125MG,AMOXICILLINE/ACIDE CLAVULANIQUE SANDOZ 1 g/125 mg ADULTES
+AUGMENTIN 1 g/125 mg,amoxicilline + acide clavulanique,J01CR02,marque,Antibiotiques,,algerie:oui,,1G/125MG,AUGMENTIN 1 g/125 mg
+AMOXICILLINE/ACIDE CLAVULANIQUE ARROW LAB 1 g/125 mg,amoxicilline + acide clavulanique,J01CR02,marque,Antibiotiques,,algerie:oui,,1G/125MG,AMOXICILLINE/ACIDE CLAVULANIQUE ARROW LAB 1 g/125 mg
+AUGMENTIN 100 mg/12,amoxicilline + acide clavulanique,J01CR02,marque,Antibiotiques,,algerie:oui,,100MG,AUGMENTIN 100 mg/12
+AMOXICILLINE/ACIDE CLAVULANIQUE BGR 500 mg/62,amoxicilline + acide clavulanique,J01CR02,marque,Antibiotiques,,algerie:oui,,500MG,AMOXICILLINE/ACIDE CLAVULANIQUE BGR 500 mg/62
+AMOXICILLINE/ACIDE CLAVULANIQUE SUN 100 mg/12,amoxicilline + acide clavulanique,J01CR02,marque,Antibiotiques,,algerie:oui,,100MG,AMOXICILLINE/ACIDE CLAVULANIQUE SUN 100 mg/12
+AMOXICILLINE ACIDE CLAVULANIQUE ARROW 100 mg/12,amoxicilline + acide clavulanique,J01CR02,marque,Antibiotiques,,algerie:oui,,100MG,AMOXICILLINE ACIDE CLAVULANIQUE ARROW 100 mg/12
+AMOXICILLINE/ACIDE CLAVULANIQUE ARROW 500 mg/62,amoxicilline + acide clavulanique,J01CR02,marque,Antibiotiques,,algerie:oui,,500MG,AMOXICILLINE/ACIDE CLAVULANIQUE ARROW 500 mg/62
+LEVMENTIN 500 mg/50 mg,amoxicilline + acide clavulanique,J01CR02,marque,Antibiotiques,,algerie:oui,,500MG/50MG,LEVMENTIN 500 mg/50 mg
+AMOXICILLINE/ACIDE CLAVULANIQUE PANPHARMA 1 g/200 mg ADULTES,amoxicilline + acide clavulanique,J01CR02,marque,Antibiotiques,,algerie:oui,,1G/200MG,AMOXICILLINE/ACIDE CLAVULANIQUE PANPHARMA 1 g/200 mg ADULTES
+OROKEN NOURRISSONS 40 mg/5 ml,céfixime,J01DD08,marque,Antibiotiques,,algerie:oui,,40MG/5ML,OROKEN NOURRISSONS 40 mg/5 ml
+CEFIXIME VIATRIS,céfixime,J01DD08,marque,Antibiotiques,,algerie:oui,,,CEFIXIME VIATRIS
+CEFIXIME BIOGARAN,céfixime,J01DD08,marque,Antibiotiques,,algerie:oui,,,CEFIXIME BIOGARAN
+CEFIXIME EG LABO,céfixime,J01DD08,marque,Antibiotiques,,algerie:oui,,,CEFIXIME EG LABO
+CEFIXIME ALMUS,céfixime,J01DD08,marque,Antibiotiques,,algerie:oui,,,CEFIXIME ALMUS
+OROKEN ENFANTS 100 mg/5 ml,céfixime,J01DD08,marque,Antibiotiques,,algerie:oui,,100MG/5ML,OROKEN ENFANTS 100 mg/5 ml
+CEFIXIME ARROW LAB,céfixime,J01DD08,marque,Antibiotiques,,algerie:oui,,,CEFIXIME ARROW LAB
+CEFIXIME ARROW ENFANTS 100 mg/5 ml,céfixime,J01DD08,marque,Antibiotiques,,algerie:oui,,100MG/5ML,CEFIXIME ARROW ENFANTS 100 mg/5 ml
+CEFIXIME CRISTERS,céfixime,J01DD08,marque,Antibiotiques,,algerie:oui,,,CEFIXIME CRISTERS
+CEFIXIME EG,céfixime,J01DD08,marque,Antibiotiques,,algerie:oui,,,CEFIXIME EG
+CEFIXIME EVOLUGEN,céfixime,J01DD08,marque,Antibiotiques,,algerie:oui,,,CEFIXIME EVOLUGEN
+APROKAM,céfuroxime,J01DC02,marque,Antibiotiques,,algerie:oui,,,APROKAM
+ZINNAT 125 mg/5 ml ENFANTS ET NOURRISSONS,céfuroxime,J01DC02,marque,Antibiotiques,,algerie:oui,,125MG/5ML,ZINNAT 125 mg/5 ml ENFANTS ET NOURRISSONS
+CEFUROXIME VIATRIS,céfuroxime,J01DC02,marque,Antibiotiques,,algerie:oui,,,CEFUROXIME VIATRIS
+CEFUROXIME CRISTERS,céfuroxime,J01DC02,marque,Antibiotiques,,algerie:oui,,,CEFUROXIME CRISTERS
+CEFUROXIME ZENTIVA,céfuroxime,J01DC02,marque,Antibiotiques,,algerie:oui,,,CEFUROXIME ZENTIVA
+CEFUROXIME SANDOZ,céfuroxime,J01DC02,marque,Antibiotiques,,algerie:oui,,,CEFUROXIME SANDOZ
+CEFUROXIME KRKA,céfuroxime,J01DC02,marque,Antibiotiques,,algerie:oui,,,CEFUROXIME KRKA
+CEFUROXIME ARROW,céfuroxime,J01DC02,marque,Antibiotiques,,algerie:oui,,,CEFUROXIME ARROW
+CEFUROXIME BIOGARAN,céfuroxime,J01DC02,marque,Antibiotiques,,algerie:oui,,,CEFUROXIME BIOGARAN
+CEFUROXIME PANPHARMA,céfuroxime,J01DC02,marque,Antibiotiques,,algerie:oui,,,CEFUROXIME PANPHARMA
+ICECA,céfuroxime,J01DC02,marque,Antibiotiques,,algerie:oui,,,ICECA
+CEFTRIAXONE VIATRIS 500 mg/5 ml,ceftriaxone,J01DD04,marque,Antibiotiques,,algerie:oui,,500MG/5ML,CEFTRIAXONE VIATRIS 500 mg/5 ml
+CEFTRIAXONE EVOLUGEN 1 g/3,ceftriaxone,J01DD04,marque,Antibiotiques,,algerie:oui,,1G,CEFTRIAXONE EVOLUGEN 1 g/3
+CEFTRIAXONE ZENTIVA 1 g/10 ml,ceftriaxone,J01DD04,marque,Antibiotiques,,algerie:oui,,1G/10ML,CEFTRIAXONE ZENTIVA 1 g/10 ml
+CEFTRIAXONE PANPHARMA,ceftriaxone,J01DD04,marque,Antibiotiques,,algerie:oui,,,CEFTRIAXONE PANPHARMA
+CEFTRIAXONE CRISTERS 1 g/3,ceftriaxone,J01DD04,marque,Antibiotiques,,algerie:oui,,1G,CEFTRIAXONE CRISTERS 1 g/3
+ROCEPHINE 1 g/3,ceftriaxone,J01DD04,marque,Antibiotiques,,algerie:oui,,1G,ROCEPHINE 1 g/3
+CEFTRIAXONE VIATRIS 1 g/10 ml,ceftriaxone,J01DD04,marque,Antibiotiques,,algerie:oui,,1G/10ML,CEFTRIAXONE VIATRIS 1 g/10 ml
+CEFTRIAXONE BIOGARAN 1 g/10 ml,ceftriaxone,J01DD04,marque,Antibiotiques,,algerie:oui,,1G/10ML,CEFTRIAXONE BIOGARAN 1 g/10 ml
+CEFTRIAXONE ARROW 1 g/10 mL,ceftriaxone,J01DD04,marque,Antibiotiques,,algerie:oui,,1G/10ML,CEFTRIAXONE ARROW 1 g/10 mL
+CEFTRIAXONE ARROW 1 g/3,ceftriaxone,J01DD04,marque,Antibiotiques,,algerie:oui,,1G,CEFTRIAXONE ARROW 1 g/3
+CEFTRIAXONE ALMUS 1 g/3,ceftriaxone,J01DD04,marque,Antibiotiques,,algerie:oui,,1G,CEFTRIAXONE ALMUS 1 g/3
+CEFTRIAXONE ZENTIVA 500 mg/2 ml,ceftriaxone,J01DD04,marque,Antibiotiques,,algerie:oui,,500MG/2ML,CEFTRIAXONE ZENTIVA 500 mg/2 ml
+CEFTRIAXONE VIATRIS,ceftriaxone,J01DD04,marque,Antibiotiques,,algerie:oui,,,CEFTRIAXONE VIATRIS
+CEFTRIAXONE EG 1 g/10 ml,ceftriaxone,J01DD04,marque,Antibiotiques,,algerie:oui,,1G/10ML,CEFTRIAXONE EG 1 g/10 ml
+CEFTRIAXONE EG 1 g/3,ceftriaxone,J01DD04,marque,Antibiotiques,,algerie:oui,,1G,CEFTRIAXONE EG 1 g/3
+CEFTRIAXONE TAMRISA,ceftriaxone,J01DD04,marque,Antibiotiques,,algerie:oui,,,CEFTRIAXONE TAMRISA
+CEFTRIAXONE VIATRIS 1 g/3,ceftriaxone,J01DD04,marque,Antibiotiques,,algerie:oui,,1G,CEFTRIAXONE VIATRIS 1 g/3
+CEFTRIAXONE ZYDUS 1 g/3,ceftriaxone,J01DD04,marque,Antibiotiques,,algerie:oui,,1G,CEFTRIAXONE ZYDUS 1 g/3
+CEFTRIAXONE PANPHARMA 1 g/3,ceftriaxone,J01DD04,marque,Antibiotiques,,algerie:oui,,1G,CEFTRIAXONE PANPHARMA 1 g/3
+CEFTRIAXONE CRISTERS 1 g/10 mL,ceftriaxone,J01DD04,marque,Antibiotiques,,algerie:oui,,1G/10ML,CEFTRIAXONE CRISTERS 1 g/10 mL
+CEFTRIAXONE SANDOZ 1 g/3,ceftriaxone,J01DD04,marque,Antibiotiques,,algerie:oui,,1G,CEFTRIAXONE SANDOZ 1 g/3
+CEFTRIAXONE TEVA SANTE 1 g/3,ceftriaxone,J01DD04,marque,Antibiotiques,,algerie:oui,,1G,CEFTRIAXONE TEVA SANTE 1 g/3
+CEFTRIAXONE ZENTIVA 1 g/3,ceftriaxone,J01DD04,marque,Antibiotiques,,algerie:oui,,1G,CEFTRIAXONE ZENTIVA 1 g/3
+CEFTRIAXONE SUN 1 g/3,ceftriaxone,J01DD04,marque,Antibiotiques,,algerie:oui,,1G,CEFTRIAXONE SUN 1 g/3
+TRIACEFAN 1 g/3,ceftriaxone,J01DD04,marque,Antibiotiques,,algerie:oui,,1G,TRIACEFAN 1 g/3
+CEFTRIAXONE VIATRIS 500 mg/2 ml,ceftriaxone,J01DD04,marque,Antibiotiques,,algerie:oui,,500MG/2ML,CEFTRIAXONE VIATRIS 500 mg/2 ml
+CEFTRIAXONE TEVA SANTE 1 g/10 mL,ceftriaxone,J01DD04,marque,Antibiotiques,,algerie:oui,,1G/10ML,CEFTRIAXONE TEVA SANTE 1 g/10 mL
+CEFTRIAXONE BIOGARAN 1 g/3,ceftriaxone,J01DD04,marque,Antibiotiques,,algerie:oui,,1G,CEFTRIAXONE BIOGARAN 1 g/3
+ROCEPHINE 1 g/10 mL,ceftriaxone,J01DD04,marque,Antibiotiques,,algerie:oui,,1G/10ML,ROCEPHINE 1 g/10 mL
+CEFTRIAXONE ZENTIVA 500 mg/5 ml,ceftriaxone,J01DD04,marque,Antibiotiques,,algerie:oui,,500MG/5ML,CEFTRIAXONE ZENTIVA 500 mg/5 ml
+CEFTRIAXONE ARROW 500 mg/2 mL,ceftriaxone,J01DD04,marque,Antibiotiques,,algerie:oui,,500MG/2ML,CEFTRIAXONE ARROW 500 mg/2 mL
+CEFTRIAXONE SANDOZ 1 g/10 ml,ceftriaxone,J01DD04,marque,Antibiotiques,,algerie:oui,,1G/10ML,CEFTRIAXONE SANDOZ 1 g/10 ml
+AZITHROMYCINE CRISTERS PHARMA,azithromycine,J01FA10,marque,Antibiotiques,,algerie:oui,,,AZITHROMYCINE CRISTERS PHARMA
+AZITHROMYCINE MONODOSE SANDOZ,azithromycine,J01FA10,marque,Antibiotiques,,algerie:oui,,,AZITHROMYCINE MONODOSE SANDOZ
+ZITHROMAX MONODOSE,azithromycine,J01FA10,marque,Antibiotiques,,algerie:oui,,,ZITHROMAX MONODOSE
+AZITHROMYCINE VIATRIS,azithromycine,J01FA10,marque,Antibiotiques,,algerie:oui,,,AZITHROMYCINE VIATRIS
+AZITHROMYCINE KRKA,azithromycine,J01FA10,marque,Antibiotiques,,algerie:oui,,,AZITHROMYCINE KRKA
+AZITHROMYCINE CRISTERS,azithromycine,J01FA10,marque,Antibiotiques,,algerie:oui,,,AZITHROMYCINE CRISTERS
+AZITHROMYCINE BGR,azithromycine,J01FA10,marque,Antibiotiques,,algerie:oui,,,AZITHROMYCINE BGR
+AZITHROMYCINE BIOGARAN,azithromycine,J01FA10,marque,Antibiotiques,,algerie:oui,,,AZITHROMYCINE BIOGARAN
+AZITHROMYCINE EG,azithromycine,J01FA10,marque,Antibiotiques,,algerie:oui,,,AZITHROMYCINE EG
+AZITHROMYCINE ZYDUS,azithromycine,J01FA10,marque,Antibiotiques,,algerie:oui,,,AZITHROMYCINE ZYDUS
+AZITHROMYCINE ARROW LAB,azithromycine,J01FA10,marque,Antibiotiques,,algerie:oui,,,AZITHROMYCINE ARROW LAB
+AZITHROMYCINE ARROW,azithromycine,J01FA10,marque,Antibiotiques,,algerie:oui,,,AZITHROMYCINE ARROW
+AZADOSE,azithromycine,J01FA10,marque,Antibiotiques,,algerie:oui,,,AZADOSE
+AZITHROMYCINE EVOLUGEN,azithromycine,J01FA10,marque,Antibiotiques,,algerie:oui,,,AZITHROMYCINE EVOLUGEN
+ZITHROMAX 40 mg/ml ENFANTS,azithromycine,J01FA10,marque,Antibiotiques,,algerie:oui,,40MG,ZITHROMAX 40 mg/ml ENFANTS
+AZITHROMYCINE PFIZER,azithromycine,J01FA10,marque,Antibiotiques,,algerie:oui,,,AZITHROMYCINE PFIZER
+AZITHROMYCINE SANDOZ,azithromycine,J01FA10,marque,Antibiotiques,,algerie:oui,,,AZITHROMYCINE SANDOZ
+AZITHROMYCINE TEVA,azithromycine,J01FA10,marque,Antibiotiques,,algerie:oui,,,AZITHROMYCINE TEVA
+AZYTER 15 mg/g,azithromycine,J01FA10,marque,Antibiotiques,,algerie:oui,,15MG,AZYTER 15 mg/g
+ORDIPHA,azithromycine,J01FA10,marque,Antibiotiques,,algerie:oui,,,ORDIPHA
+AZITHROMYCINE ZENTIVA,azithromycine,J01FA10,marque,Antibiotiques,,algerie:oui,,,AZITHROMYCINE ZENTIVA
+CLARITHROMYCINE SUN,clarithromycine,J01FA09,marque,Antibiotiques,,algerie:oui,,,CLARITHROMYCINE SUN
+CLARITHROMYCINE ARROW,clarithromycine,J01FA09,marque,Antibiotiques,,algerie:oui,,,CLARITHROMYCINE ARROW
+CLARITHROMYCINE TEVA,clarithromycine,J01FA09,marque,Antibiotiques,,algerie:oui,,,CLARITHROMYCINE TEVA
+CLARITHROMYCINE VIATRIS 50 mg/ml,clarithromycine,J01FA09,marque,Antibiotiques,,algerie:oui,,50MG,CLARITHROMYCINE VIATRIS 50 mg/ml
+CLARITHROMYCINE VIATRIS,clarithromycine,J01FA09,marque,Antibiotiques,,algerie:oui,,,CLARITHROMYCINE VIATRIS
+CLARITHROMYCINE EG,clarithromycine,J01FA09,marque,Antibiotiques,,algerie:oui,,,CLARITHROMYCINE EG
+ZECLAR 50 mg/ml,clarithromycine,J01FA09,marque,Antibiotiques,,algerie:oui,,50MG,ZECLAR 50 mg/ml
+ZECLAR 25 mg/ml,clarithromycine,J01FA09,marque,Antibiotiques,,algerie:oui,,25MG,ZECLAR 25 mg/ml
+CLARITHROMYCINE ACCORD,clarithromycine,J01FA09,marque,Antibiotiques,,algerie:oui,,,CLARITHROMYCINE ACCORD
+CLARITHROMYCINE BIOGARAN,clarithromycine,J01FA09,marque,Antibiotiques,,algerie:oui,,,CLARITHROMYCINE BIOGARAN
+CLARITHROMYCINE ALMUS,clarithromycine,J01FA09,marque,Antibiotiques,,algerie:oui,,,CLARITHROMYCINE ALMUS
+CLARITHROMYCINE ZYDUS,clarithromycine,J01FA09,marque,Antibiotiques,,algerie:oui,,,CLARITHROMYCINE ZYDUS
+CLARITHROMYCINE EVOLUGEN,clarithromycine,J01FA09,marque,Antibiotiques,,algerie:oui,,,CLARITHROMYCINE EVOLUGEN
+CLARITHROMYCINE ARROW 50 mg/mL,clarithromycine,J01FA09,marque,Antibiotiques,,algerie:oui,,50MG,CLARITHROMYCINE ARROW 50 mg/mL
+CLARITHROMYCINE SANDOZ 50 mg/ml,clarithromycine,J01FA09,marque,Antibiotiques,,algerie:oui,,50MG,CLARITHROMYCINE SANDOZ 50 mg/ml
+CLARITHROMYCINE SANDOZ,clarithromycine,J01FA09,marque,Antibiotiques,,algerie:oui,,,CLARITHROMYCINE SANDOZ
+CLARITHROMYCINE VIATRIS 25 mg/ml,clarithromycine,J01FA09,marque,Antibiotiques,,algerie:oui,,25MG,CLARITHROMYCINE VIATRIS 25 mg/ml
+CLARITHROMYCINE HCS,clarithromycine,J01FA09,marque,Antibiotiques,,algerie:oui,,,CLARITHROMYCINE HCS
+CLARITHROMYCINE ARROW 25 mg/mL,clarithromycine,J01FA09,marque,Antibiotiques,,algerie:oui,,25MG,CLARITHROMYCINE ARROW 25 mg/mL
+CIPROFLOXACINE CRISTERS PHARMA,ciprofloxacine,J01MA02,marque,Antibiotiques,,algerie:oui,,,CIPROFLOXACINE CRISTERS PHARMA
+UNIFLOX,ciprofloxacine,J01MA02,marque,Antibiotiques,,algerie:oui,,,UNIFLOX
+CIPROFLOXACINE VIATRIS 400 mg/200 ml,ciprofloxacine,J01MA02,marque,Antibiotiques,,algerie:oui,,400MG/200ML,CIPROFLOXACINE VIATRIS 400 mg/200 ml
+CIPROFLOXACINE PANPHARMA 200 mg/100 mL,ciprofloxacine,J01MA02,marque,Antibiotiques,,algerie:oui,,200MG/100ML,CIPROFLOXACINE PANPHARMA 200 mg/100 mL
+CIPROFLOXACINE KABI 200 mg/100 ml,ciprofloxacine,J01MA02,marque,Antibiotiques,,algerie:oui,,200MG/100ML,CIPROFLOXACINE KABI 200 mg/100 ml
+CIPROFLOXACINE TEVA,ciprofloxacine,J01MA02,marque,Antibiotiques,,algerie:oui,,,CIPROFLOXACINE TEVA
+CIPROFLOXACINE BENTA,ciprofloxacine,J01MA02,marque,Antibiotiques,,algerie:oui,,,CIPROFLOXACINE BENTA
+CIPROFLOXACINE EG,ciprofloxacine,J01MA02,marque,Antibiotiques,,algerie:oui,,,CIPROFLOXACINE EG
+CIPROFLOXACINE ZYDUS,ciprofloxacine,J01MA02,marque,Antibiotiques,,algerie:oui,,,CIPROFLOXACINE ZYDUS
+CIPROFLOXACINE KABI 400 mg/200 ml,ciprofloxacine,J01MA02,marque,Antibiotiques,,algerie:oui,,400MG/200ML,CIPROFLOXACINE KABI 400 mg/200 ml
+CIPROFLOXACINE VIATRIS 200 mg/100 ml,ciprofloxacine,J01MA02,marque,Antibiotiques,,algerie:oui,,200MG/100ML,CIPROFLOXACINE VIATRIS 200 mg/100 ml
+CIPROFLOXACINE SANDOZ,ciprofloxacine,J01MA02,marque,Antibiotiques,,algerie:oui,,,CIPROFLOXACINE SANDOZ
+CIPROFLOXACINE VIATRIS,ciprofloxacine,J01MA02,marque,Antibiotiques,,algerie:oui,,,CIPROFLOXACINE VIATRIS
+CIPROFLOXACINE ACCORD,ciprofloxacine,J01MA02,marque,Antibiotiques,,algerie:oui,,,CIPROFLOXACINE ACCORD
+CIFLOX 500 mg/5 ml,ciprofloxacine,J01MA02,marque,Antibiotiques,,algerie:oui,,500MG/5ML,CIFLOX 500 mg/5 ml
+CIFLOX 200 mg/100 mL,ciprofloxacine,J01MA02,marque,Antibiotiques,,algerie:oui,,200MG/100ML,CIFLOX 200 mg/100 mL
+CIFLOX,ciprofloxacine,J01MA02,marque,Antibiotiques,,algerie:oui,,,CIFLOX
+CIPROFLOXACINE ARROW,ciprofloxacine,J01MA02,marque,Antibiotiques,,algerie:oui,,,CIPROFLOXACINE ARROW
+CIPROFLOXACINE PANPHARMA 400 mg/200 mL,ciprofloxacine,J01MA02,marque,Antibiotiques,,algerie:oui,,400MG/200ML,CIPROFLOXACINE PANPHARMA 400 mg/200 mL
+CIPROFLOXACINE BIOGARAN,ciprofloxacine,J01MA02,marque,Antibiotiques,,algerie:oui,,,CIPROFLOXACINE BIOGARAN
+CILOXAN 3 mg/ml,ciprofloxacine,J01MA02,marque,Antibiotiques,,algerie:oui,,3MG,CILOXAN 3 mg/ml
+CIPROFLOXACINE EVOLUGEN,ciprofloxacine,J01MA02,marque,Antibiotiques,,algerie:oui,,,CIPROFLOXACINE EVOLUGEN
+LEVOFLOXACINE ZYDUS,lévofloxacine,J01MA12,marque,Antibiotiques,,algerie:oui,,,LEVOFLOXACINE ZYDUS
+LEVOFLOXACINE BIOGARAN,lévofloxacine,J01MA12,marque,Antibiotiques,,algerie:oui,,,LEVOFLOXACINE BIOGARAN
+LEVOFLOXACINE TEVA,lévofloxacine,J01MA12,marque,Antibiotiques,,algerie:oui,,,LEVOFLOXACINE TEVA
+LEVOFLOXACINE KABI 5 mg/ml,lévofloxacine,J01MA12,marque,Antibiotiques,,algerie:oui,,5MG,LEVOFLOXACINE KABI 5 mg/ml
+LEVOFLOXACINE VIATRIS,lévofloxacine,J01MA12,marque,Antibiotiques,,algerie:oui,,,LEVOFLOXACINE VIATRIS
+LEVOFLOXACINE ZENTIVA,lévofloxacine,J01MA12,marque,Antibiotiques,,algerie:oui,,,LEVOFLOXACINE ZENTIVA
+LEVOFLOXACINE CRISTERS,lévofloxacine,J01MA12,marque,Antibiotiques,,algerie:oui,,,LEVOFLOXACINE CRISTERS
+LEVOFLOXACINE SANDOZ,lévofloxacine,J01MA12,marque,Antibiotiques,,algerie:oui,,,LEVOFLOXACINE SANDOZ
+LEVOFLOXACINE EVOLUGEN,lévofloxacine,J01MA12,marque,Antibiotiques,,algerie:oui,,,LEVOFLOXACINE EVOLUGEN
+LEVOFLOXACINE ARROW 5 mg/mL,lévofloxacine,J01MA12,marque,Antibiotiques,,algerie:oui,,5MG,LEVOFLOXACINE ARROW 5 mg/mL
+LEVOFLOXACINE ARROW LAB,lévofloxacine,J01MA12,marque,Antibiotiques,,algerie:oui,,,LEVOFLOXACINE ARROW LAB
+LEVOFLOXACINE ALMUS,lévofloxacine,J01MA12,marque,Antibiotiques,,algerie:oui,,,LEVOFLOXACINE ALMUS
+LEVOFLOXACINE SUN,lévofloxacine,J01MA12,marque,Antibiotiques,,algerie:oui,,,LEVOFLOXACINE SUN
+LEVOFLOXACINE KRKA,lévofloxacine,J01MA12,marque,Antibiotiques,,algerie:oui,,,LEVOFLOXACINE KRKA
+TAVANIC 5 mg/ml,lévofloxacine,J01MA12,marque,Antibiotiques,,algerie:oui,,5MG,TAVANIC 5 mg/ml
+LEVOFLOXACINE EG,lévofloxacine,J01MA12,marque,Antibiotiques,,algerie:oui,,,LEVOFLOXACINE EG
+LEVOFLOXACINE ACCORD HEALTHCARE,lévofloxacine,J01MA12,marque,Antibiotiques,,algerie:oui,,,LEVOFLOXACINE ACCORD HEALTHCARE
+DOXYCYCLINE ARROW LAB,doxycycline,J01AA02,marque,Antibiotiques,,algerie:oui,,,DOXYCYCLINE ARROW LAB
+VIBRAVEINEUSE,doxycycline,J01AA02,marque,Antibiotiques,,algerie:oui,,,VIBRAVEINEUSE
+DOXYCYCLINE SANDOZ,doxycycline,J01AA02,marque,Antibiotiques,,algerie:oui,,,DOXYCYCLINE SANDOZ
+DOXYPALU,doxycycline,J01AA02,marque,Antibiotiques,,algerie:oui,,,DOXYPALU
+DOXY,doxycycline,J01AA02,marque,Antibiotiques,,algerie:oui,,,DOXY
+DOXYCYCLINE PHARMACIE CENTRALE DES ARMEES,doxycycline,J01AA02,marque,Antibiotiques,,algerie:oui,,,DOXYCYCLINE PHARMACIE CENTRALE DES ARMEES
+TOLEXINE,doxycycline,J01AA02,marque,Antibiotiques,,algerie:oui,,,TOLEXINE
+DOXYCYCLINE BIOGARAN,doxycycline,J01AA02,marque,Antibiotiques,,algerie:oui,,,DOXYCYCLINE BIOGARAN
+SPANOR,doxycycline,J01AA02,marque,Antibiotiques,,algerie:oui,,,SPANOR
+DOXYCYCLINE ARROW,doxycycline,J01AA02,marque,Antibiotiques,,algerie:oui,,,DOXYCYCLINE ARROW
+DOXYCYCLINE TEVA,doxycycline,J01AA02,marque,Antibiotiques,,algerie:oui,,,DOXYCYCLINE TEVA
+GRANUDOXY,doxycycline,J01AA02,marque,Antibiotiques,,algerie:oui,,,GRANUDOXY
+DOXYCYCLINE VIATRIS,doxycycline,J01AA02,marque,Antibiotiques,,algerie:oui,,,DOXYCYCLINE VIATRIS
+COTRIMOXAZOLE TEVA 800 mg/160 mg,cotrimoxazole (sulfaméthoxazole + triméthoprime),J01EE01,marque,Antibiotiques,,algerie:oui,,800MG/160MG,COTRIMOXAZOLE TEVA 800 mg/160 mg
+BACTRIM 40 mg/mL + 8 mg/mL,cotrimoxazole (sulfaméthoxazole + triméthoprime),J01EE01,marque,Antibiotiques,,algerie:oui,,40MG,BACTRIM 40 mg/mL + 8 mg/mL
+METRONIDAZOLE ARROW,métronidazole,J01XD01,marque,Antibiotiques,,algerie:oui,,,METRONIDAZOLE ARROW
+METRONIDAZOLE BIOGARAN,métronidazole,J01XD01,marque,Antibiotiques,,algerie:oui,,,METRONIDAZOLE BIOGARAN
+ROZACREME,métronidazole,J01XD01,marque,Antibiotiques,,algerie:oui,,,ROZACREME
+ROZAGEL,métronidazole,J01XD01,marque,Antibiotiques,,algerie:oui,,,ROZAGEL
+FLAGYL 125 mg/5 ml,métronidazole,J01XD01,marque,Antibiotiques,,algerie:oui,,125MG/5ML,FLAGYL 125 mg/5 ml
+METRONIDAZOLE BAXTER,métronidazole,J01XD01,marque,Antibiotiques,,algerie:oui,,,METRONIDAZOLE BAXTER
+METRONIDAZOLE B BRAUN,métronidazole,J01XD01,marque,Antibiotiques,,algerie:oui,,,METRONIDAZOLE B BRAUN
+METRONIDAZOLE SUBSTIPHARM,métronidazole,J01XD01,marque,Antibiotiques,,algerie:oui,,,METRONIDAZOLE SUBSTIPHARM
+METRONIDAZOLE NORIDEM 500 mg/100 mL,métronidazole,J01XD01,marque,Antibiotiques,,algerie:oui,,500MG/100ML,METRONIDAZOLE NORIDEM 500 mg/100 mL
+GRINAZOLE 100 mg/g,métronidazole,J01XD01,marque,Antibiotiques,,algerie:oui,,100MG,GRINAZOLE 100 mg/g
+GENTAMICINE PANPHARMA,gentamicine,J01GB03,marque,Antibiotiques,,algerie:oui,,,GENTAMICINE PANPHARMA
+CLINDAMYCINE SUBSTIPHARM,clindamycine,J01FF01,marque,Antibiotiques,,algerie:oui,,,CLINDAMYCINE SUBSTIPHARM
+CLINDAMYCINE KABI 600 mg/4 ml,clindamycine,J01FF01,marque,Antibiotiques,,algerie:oui,,600MG/4ML,CLINDAMYCINE KABI 600 mg/4 ml
+CLINDAMYCINE KALCEKS 600 mg/4 mL,clindamycine,J01FF01,marque,Antibiotiques,,algerie:oui,,600MG/4ML,CLINDAMYCINE KALCEKS 600 mg/4 mL
+CLINDAMYCINE VIATRIS,clindamycine,J01FF01,marque,Antibiotiques,,algerie:oui,,,CLINDAMYCINE VIATRIS
+ZINDACLINE,clindamycine,J01FF01,marque,Antibiotiques,,algerie:oui,,,ZINDACLINE
+AMLODIPINE ALMUS,amlodipine,C08CA01,marque,Antihypertenseurs,DIHYDROPYRIDINES; MEDICAMENTS ABAISSANT LA PRESSION ARTERIELLE,algerie:oui,,,AMLODIPINE ALMUS
+AMLODIPINE VIATRIS GENERIQUES,amlodipine,C08CA01,marque,Antihypertenseurs,DIHYDROPYRIDINES; MEDICAMENTS ABAISSANT LA PRESSION ARTERIELLE,algerie:oui,,,AMLODIPINE VIATRIS GENERIQUES
+AMLODIPINE ARROW,amlodipine,C08CA01,marque,Antihypertenseurs,DIHYDROPYRIDINES; MEDICAMENTS ABAISSANT LA PRESSION ARTERIELLE,algerie:oui,,,AMLODIPINE ARROW
+AMLODIPINE ZYDUS,amlodipine,C08CA01,marque,Antihypertenseurs,DIHYDROPYRIDINES; MEDICAMENTS ABAISSANT LA PRESSION ARTERIELLE,algerie:oui,,,AMLODIPINE ZYDUS
+AMLODIPINE VIATRIS,amlodipine,C08CA01,marque,Antihypertenseurs,DIHYDROPYRIDINES; MEDICAMENTS ABAISSANT LA PRESSION ARTERIELLE,algerie:oui,,,AMLODIPINE VIATRIS
+AMLODIPINE EG,amlodipine,C08CA01,marque,Antihypertenseurs,DIHYDROPYRIDINES; MEDICAMENTS ABAISSANT LA PRESSION ARTERIELLE,algerie:oui,,,AMLODIPINE EG
+AMLODIPINE CRISTERS,amlodipine,C08CA01,marque,Antihypertenseurs,DIHYDROPYRIDINES; MEDICAMENTS ABAISSANT LA PRESSION ARTERIELLE,algerie:oui,,,AMLODIPINE CRISTERS
+AMLODIPINE SUN,amlodipine,C08CA01,marque,Antihypertenseurs,DIHYDROPYRIDINES; MEDICAMENTS ABAISSANT LA PRESSION ARTERIELLE,algerie:oui,,,AMLODIPINE SUN
+AMLODIPINE SANDOZ,amlodipine,C08CA01,marque,Antihypertenseurs,DIHYDROPYRIDINES; MEDICAMENTS ABAISSANT LA PRESSION ARTERIELLE,algerie:oui,,,AMLODIPINE SANDOZ
+AMLODIPINE BIOGARAN,amlodipine,C08CA01,marque,Antihypertenseurs,DIHYDROPYRIDINES; MEDICAMENTS ABAISSANT LA PRESSION ARTERIELLE,algerie:oui,,,AMLODIPINE BIOGARAN
+AMLODIPINE ARROW GENERIQUES,amlodipine,C08CA01,marque,Antihypertenseurs,DIHYDROPYRIDINES; MEDICAMENTS ABAISSANT LA PRESSION ARTERIELLE,algerie:oui,,,AMLODIPINE ARROW GENERIQUES
+AMLODIPINE KRKA D.D,amlodipine,C08CA01,marque,Antihypertenseurs,DIHYDROPYRIDINES; MEDICAMENTS ABAISSANT LA PRESSION ARTERIELLE,algerie:oui,,,AMLODIPINE KRKA D.D
+AMLODIPINE EVOLUGEN PHARMA,amlodipine,C08CA01,marque,Antihypertenseurs,DIHYDROPYRIDINES; MEDICAMENTS ABAISSANT LA PRESSION ARTERIELLE,algerie:oui,,,AMLODIPINE EVOLUGEN PHARMA
+AMLODIPINE TEVA,amlodipine,C08CA01,marque,Antihypertenseurs,DIHYDROPYRIDINES; MEDICAMENTS ABAISSANT LA PRESSION ARTERIELLE,algerie:oui,,,AMLODIPINE TEVA
+MAPAKNA LP,nifédipine,C08CA05,marque,Antihypertenseurs,DIHYDROPYRIDINES; MEDICAMENTS ABAISSANT LA PRESSION ARTERIELLE,algerie:non,,,MAPAKNA LP
+NIFEDIPINE VIATRIS L.P.,nifédipine,C08CA05,marque,Antihypertenseurs,DIHYDROPYRIDINES; MEDICAMENTS ABAISSANT LA PRESSION ARTERIELLE,algerie:non,,,NIFEDIPINE VIATRIS L.P.
+NIFEDIPINE MYLAN LP,nifédipine,C08CA05,marque,Antihypertenseurs,DIHYDROPYRIDINES; MEDICAMENTS ABAISSANT LA PRESSION ARTERIELLE,algerie:non,,,NIFEDIPINE MYLAN LP
+NIFEDIPINE ARROW L.P.,nifédipine,C08CA05,marque,Antihypertenseurs,DIHYDROPYRIDINES; MEDICAMENTS ABAISSANT LA PRESSION ARTERIELLE,algerie:non,,,NIFEDIPINE ARROW L.P.
+PERINDOPRIL TOSILATE TEVA,périndopril,C09AA04,marque,Antihypertenseurs,MEDICAMENTS A L'ORIGINE D'UNE HYPOTENSION ORTHOSTATIQUE,algerie:oui,,,PERINDOPRIL TOSILATE TEVA
+PERINDOPRIL ARGININE ZENTIVA,périndopril,C09AA04,marque,Antihypertenseurs,MEDICAMENTS A L'ORIGINE D'UNE HYPOTENSION ORTHOSTATIQUE,algerie:oui,,,PERINDOPRIL ARGININE ZENTIVA
+PERINDOPRIL EG,périndopril,C09AA04,marque,Antihypertenseurs,MEDICAMENTS A L'ORIGINE D'UNE HYPOTENSION ORTHOSTATIQUE,algerie:oui,,,PERINDOPRIL EG
+PERINDOPRIL VIATRIS,périndopril,C09AA04,marque,Antihypertenseurs,MEDICAMENTS A L'ORIGINE D'UNE HYPOTENSION ORTHOSTATIQUE,algerie:oui,,,PERINDOPRIL VIATRIS
+PERINDOPRIL ARROW,périndopril,C09AA04,marque,Antihypertenseurs,MEDICAMENTS A L'ORIGINE D'UNE HYPOTENSION ORTHOSTATIQUE,algerie:oui,,,PERINDOPRIL ARROW
+PERINDOPRIL ARGININE SERVIER,périndopril,C09AA04,marque,Antihypertenseurs,MEDICAMENTS A L'ORIGINE D'UNE HYPOTENSION ORTHOSTATIQUE,algerie:oui,,,PERINDOPRIL ARGININE SERVIER
+PERINDOPRIL TOSILATE CRISTERS,périndopril,C09AA04,marque,Antihypertenseurs,MEDICAMENTS A L'ORIGINE D'UNE HYPOTENSION ORTHOSTATIQUE,algerie:oui,,,PERINDOPRIL TOSILATE CRISTERS
+PERINDOPRIL ARGININE HCS,périndopril,C09AA04,marque,Antihypertenseurs,MEDICAMENTS A L'ORIGINE D'UNE HYPOTENSION ORTHOSTATIQUE,algerie:oui,,,PERINDOPRIL ARGININE HCS
+PERINDOPRIL ZYDUS,périndopril,C09AA04,marque,Antihypertenseurs,MEDICAMENTS A L'ORIGINE D'UNE HYPOTENSION ORTHOSTATIQUE,algerie:oui,,,PERINDOPRIL ZYDUS
+PERINDOPRIL TEVA SANTE,périndopril,C09AA04,marque,Antihypertenseurs,MEDICAMENTS A L'ORIGINE D'UNE HYPOTENSION ORTHOSTATIQUE,algerie:oui,,,PERINDOPRIL TEVA SANTE
+PERINDOPRIL KRKA,périndopril,C09AA04,marque,Antihypertenseurs,MEDICAMENTS A L'ORIGINE D'UNE HYPOTENSION ORTHOSTATIQUE,algerie:oui,,,PERINDOPRIL KRKA
+PERINDOPRIL MYLAN,périndopril,C09AA04,marque,Antihypertenseurs,MEDICAMENTS A L'ORIGINE D'UNE HYPOTENSION ORTHOSTATIQUE,algerie:oui,,,PERINDOPRIL MYLAN
+PERINDOPRIL ARGININE VIATRIS,périndopril,C09AA04,marque,Antihypertenseurs,MEDICAMENTS A L'ORIGINE D'UNE HYPOTENSION ORTHOSTATIQUE,algerie:oui,,,PERINDOPRIL ARGININE VIATRIS
+PERINDOPRIL BIOGARAN,périndopril,C09AA04,marque,Antihypertenseurs,MEDICAMENTS A L'ORIGINE D'UNE HYPOTENSION ORTHOSTATIQUE,algerie:oui,,,PERINDOPRIL BIOGARAN
+PERINDOPRIL SANDOZ,périndopril,C09AA04,marque,Antihypertenseurs,MEDICAMENTS A L'ORIGINE D'UNE HYPOTENSION ORTHOSTATIQUE,algerie:oui,,,PERINDOPRIL SANDOZ
+PERINDOPRIL ARGININE BIOGARAN,périndopril,C09AA04,marque,Antihypertenseurs,MEDICAMENTS A L'ORIGINE D'UNE HYPOTENSION ORTHOSTATIQUE,algerie:oui,,,PERINDOPRIL ARGININE BIOGARAN
+COGYR,périndopril,C09AA04,marque,Antihypertenseurs,MEDICAMENTS A L'ORIGINE D'UNE HYPOTENSION ORTHOSTATIQUE,algerie:oui,,,COGYR
+PERINDOPRIL ARGININE EG,périndopril,C09AA04,marque,Antihypertenseurs,MEDICAMENTS A L'ORIGINE D'UNE HYPOTENSION ORTHOSTATIQUE,algerie:oui,,,PERINDOPRIL ARGININE EG
+RAMIPRIL ALMUS,ramipril,C09AA05,marque,Antihypertenseurs,MEDICAMENTS ABAISSANT LA PRESSION ARTERIELLE,algerie:oui,,,RAMIPRIL ALMUS
+RAMIPRIL KRKA,ramipril,C09AA05,marque,Antihypertenseurs,MEDICAMENTS ABAISSANT LA PRESSION ARTERIELLE,algerie:oui,,,RAMIPRIL KRKA
+RAMIPRIL SANDOZ,ramipril,C09AA05,marque,Antihypertenseurs,MEDICAMENTS ABAISSANT LA PRESSION ARTERIELLE,algerie:oui,,,RAMIPRIL SANDOZ
+RAMIPRIL VIATRIS,ramipril,C09AA05,marque,Antihypertenseurs,MEDICAMENTS ABAISSANT LA PRESSION ARTERIELLE,algerie:oui,,,RAMIPRIL VIATRIS
+RAMIPRIL TEVA SANTE,ramipril,C09AA05,marque,Antihypertenseurs,MEDICAMENTS ABAISSANT LA PRESSION ARTERIELLE,algerie:oui,,,RAMIPRIL TEVA SANTE
+RAMIPRIL EG,ramipril,C09AA05,marque,Antihypertenseurs,MEDICAMENTS ABAISSANT LA PRESSION ARTERIELLE,algerie:oui,,,RAMIPRIL EG
+RAMIPRIL EVOLUGEN,ramipril,C09AA05,marque,Antihypertenseurs,MEDICAMENTS ABAISSANT LA PRESSION ARTERIELLE,algerie:oui,,,RAMIPRIL EVOLUGEN
+RAMIPRIL BIOGARAN,ramipril,C09AA05,marque,Antihypertenseurs,MEDICAMENTS ABAISSANT LA PRESSION ARTERIELLE,algerie:oui,,,RAMIPRIL BIOGARAN
+RAMIPRIL ZENTIVA,ramipril,C09AA05,marque,Antihypertenseurs,MEDICAMENTS ABAISSANT LA PRESSION ARTERIELLE,algerie:oui,,,RAMIPRIL ZENTIVA
+RAMIPRIL CRISTERS PHARMA,ramipril,C09AA05,marque,Antihypertenseurs,MEDICAMENTS ABAISSANT LA PRESSION ARTERIELLE,algerie:oui,,,RAMIPRIL CRISTERS PHARMA
+RAMIPRIL ARROW GENERIQUES,ramipril,C09AA05,marque,Antihypertenseurs,MEDICAMENTS ABAISSANT LA PRESSION ARTERIELLE,algerie:oui,,,RAMIPRIL ARROW GENERIQUES
+RAMIPRIL ARROW LAB,ramipril,C09AA05,marque,Antihypertenseurs,MEDICAMENTS ABAISSANT LA PRESSION ARTERIELLE,algerie:oui,,,RAMIPRIL ARROW LAB
+ENALAPRIL ZENTIVA,énalapril,C09AA02,marque,Antihypertenseurs,MEDICAMENTS ABAISSANT LA PRESSION ARTERIELLE,algerie:oui,,,ENALAPRIL ZENTIVA
+ENALAPRIL EG,énalapril,C09AA02,marque,Antihypertenseurs,MEDICAMENTS ABAISSANT LA PRESSION ARTERIELLE,algerie:oui,,,ENALAPRIL EG
+ENALAPRIL SANDOZ,énalapril,C09AA02,marque,Antihypertenseurs,MEDICAMENTS ABAISSANT LA PRESSION ARTERIELLE,algerie:oui,,,ENALAPRIL SANDOZ
+ENALAPRIL BIOGARAN,énalapril,C09AA02,marque,Antihypertenseurs,MEDICAMENTS ABAISSANT LA PRESSION ARTERIELLE,algerie:oui,,,ENALAPRIL BIOGARAN
+ENALAPRIL VIATRIS,énalapril,C09AA02,marque,Antihypertenseurs,MEDICAMENTS ABAISSANT LA PRESSION ARTERIELLE,algerie:oui,,,ENALAPRIL VIATRIS
+ENALAPRIL ARROW LAB,énalapril,C09AA02,marque,Antihypertenseurs,MEDICAMENTS ABAISSANT LA PRESSION ARTERIELLE,algerie:oui,,,ENALAPRIL ARROW LAB
+ENALAPRIL EVOLUGEN,énalapril,C09AA02,marque,Antihypertenseurs,MEDICAMENTS ABAISSANT LA PRESSION ARTERIELLE,algerie:oui,,,ENALAPRIL EVOLUGEN
+ENALAPRIL TEVA SANTE,énalapril,C09AA02,marque,Antihypertenseurs,MEDICAMENTS ABAISSANT LA PRESSION ARTERIELLE,algerie:oui,,,ENALAPRIL TEVA SANTE
+ENALAPRIL ACCORD,énalapril,C09AA02,marque,Antihypertenseurs,MEDICAMENTS ABAISSANT LA PRESSION ARTERIELLE,algerie:oui,,,ENALAPRIL ACCORD
+LOSARTAN ZYDUS,losartan,C09CA01,marque,Antihypertenseurs,MEDICAMENTS ABAISSANT LA PRESSION ARTERIELLE,algerie:oui,,,LOSARTAN ZYDUS
+LOSARTAN ARROW LAB,losartan,C09CA01,marque,Antihypertenseurs,MEDICAMENTS ABAISSANT LA PRESSION ARTERIELLE,algerie:oui,,,LOSARTAN ARROW LAB
+LOSARTAN EG LABO,losartan,C09CA01,marque,Antihypertenseurs,MEDICAMENTS ABAISSANT LA PRESSION ARTERIELLE,algerie:oui,,,LOSARTAN EG LABO
+LOSARTAN KRKA,losartan,C09CA01,marque,Antihypertenseurs,MEDICAMENTS ABAISSANT LA PRESSION ARTERIELLE,algerie:oui,,,LOSARTAN KRKA
+LOSARTAN CRISTERS,losartan,C09CA01,marque,Antihypertenseurs,MEDICAMENTS ABAISSANT LA PRESSION ARTERIELLE,algerie:oui,,,LOSARTAN CRISTERS
+LOSARTAN ZENTIVA LAB,losartan,C09CA01,marque,Antihypertenseurs,MEDICAMENTS ABAISSANT LA PRESSION ARTERIELLE,algerie:oui,,,LOSARTAN ZENTIVA LAB
+LOSARTAN CRISTERS PHARMA,losartan,C09CA01,marque,Antihypertenseurs,MEDICAMENTS ABAISSANT LA PRESSION ARTERIELLE,algerie:oui,,,LOSARTAN CRISTERS PHARMA
+LOSARTAN TEVA,losartan,C09CA01,marque,Antihypertenseurs,MEDICAMENTS ABAISSANT LA PRESSION ARTERIELLE,algerie:oui,,,LOSARTAN TEVA
+LOSARTAN BIOGARAN,losartan,C09CA01,marque,Antihypertenseurs,MEDICAMENTS ABAISSANT LA PRESSION ARTERIELLE,algerie:oui,,,LOSARTAN BIOGARAN
+LOSARTAN ACCORD,losartan,C09CA01,marque,Antihypertenseurs,MEDICAMENTS ABAISSANT LA PRESSION ARTERIELLE,algerie:oui,,,LOSARTAN ACCORD
+LOSARTAN EG,losartan,C09CA01,marque,Antihypertenseurs,MEDICAMENTS ABAISSANT LA PRESSION ARTERIELLE,algerie:oui,,,LOSARTAN EG
+LOSARTAN VIATRIS,losartan,C09CA01,marque,Antihypertenseurs,MEDICAMENTS ABAISSANT LA PRESSION ARTERIELLE,algerie:oui,,,LOSARTAN VIATRIS
+COZAAR,losartan,C09CA01,marque,Antihypertenseurs,MEDICAMENTS ABAISSANT LA PRESSION ARTERIELLE,algerie:oui,,,COZAAR
+LOSARTAN SANDOZ,losartan,C09CA01,marque,Antihypertenseurs,MEDICAMENTS ABAISSANT LA PRESSION ARTERIELLE,algerie:oui,,,LOSARTAN SANDOZ
+VALSARTAN KRKA,valsartan,C09CA03,marque,Antihypertenseurs,MEDICAMENTS ABAISSANT LA PRESSION ARTERIELLE,algerie:oui,,,VALSARTAN KRKA
+VALSARTAN ZENTIVA,valsartan,C09CA03,marque,Antihypertenseurs,MEDICAMENTS ABAISSANT LA PRESSION ARTERIELLE,algerie:oui,,,VALSARTAN ZENTIVA
+VALSARTAN BIOGARAN,valsartan,C09CA03,marque,Antihypertenseurs,MEDICAMENTS ABAISSANT LA PRESSION ARTERIELLE,algerie:oui,,,VALSARTAN BIOGARAN
+VALSARTAN EVOLUGEN,valsartan,C09CA03,marque,Antihypertenseurs,MEDICAMENTS ABAISSANT LA PRESSION ARTERIELLE,algerie:oui,,,VALSARTAN EVOLUGEN
+VALSARTAN CRISTERS,valsartan,C09CA03,marque,Antihypertenseurs,MEDICAMENTS ABAISSANT LA PRESSION ARTERIELLE,algerie:oui,,,VALSARTAN CRISTERS
+VALSARTAN TEVA,valsartan,C09CA03,marque,Antihypertenseurs,MEDICAMENTS ABAISSANT LA PRESSION ARTERIELLE,algerie:oui,,,VALSARTAN TEVA
+VALSARTAN ARROW LAB,valsartan,C09CA03,marque,Antihypertenseurs,MEDICAMENTS ABAISSANT LA PRESSION ARTERIELLE,algerie:oui,,,VALSARTAN ARROW LAB
+VALSARTAN SANDOZ,valsartan,C09CA03,marque,Antihypertenseurs,MEDICAMENTS ABAISSANT LA PRESSION ARTERIELLE,algerie:oui,,,VALSARTAN SANDOZ
+TAREG 3 mg/ml,valsartan,C09CA03,marque,Antihypertenseurs,MEDICAMENTS ABAISSANT LA PRESSION ARTERIELLE,algerie:oui,,3MG,TAREG 3 mg/ml
+VALSARTAN ZYDUS,valsartan,C09CA03,marque,Antihypertenseurs,MEDICAMENTS ABAISSANT LA PRESSION ARTERIELLE,algerie:oui,,,VALSARTAN ZYDUS
+VALSARTAN EG,valsartan,C09CA03,marque,Antihypertenseurs,MEDICAMENTS ABAISSANT LA PRESSION ARTERIELLE,algerie:oui,,,VALSARTAN EG
+VALSARTAN VIATRIS,valsartan,C09CA03,marque,Antihypertenseurs,MEDICAMENTS ABAISSANT LA PRESSION ARTERIELLE,algerie:oui,,,VALSARTAN VIATRIS
+BISOPROLOL TEVA,bisoprolol,C07AB07,marque,Antihypertenseurs,BETA-BLOQUANTS DANS L'INSUFFISANCE CARDIAQUE; MEDICAMENTS ABAISSANT LA PRESSION ARTERIELLE,algerie:oui,,,BISOPROLOL TEVA
+BISOPROLOL CRISTERS,bisoprolol,C07AB07,marque,Antihypertenseurs,BETA-BLOQUANTS DANS L'INSUFFISANCE CARDIAQUE; MEDICAMENTS ABAISSANT LA PRESSION ARTERIELLE,algerie:oui,,,BISOPROLOL CRISTERS
+BISOPROLOL EG,bisoprolol,C07AB07,marque,Antihypertenseurs,BETA-BLOQUANTS DANS L'INSUFFISANCE CARDIAQUE; MEDICAMENTS ABAISSANT LA PRESSION ARTERIELLE,algerie:oui,,,BISOPROLOL EG
+BISOPROLOL SUN,bisoprolol,C07AB07,marque,Antihypertenseurs,BETA-BLOQUANTS DANS L'INSUFFISANCE CARDIAQUE; MEDICAMENTS ABAISSANT LA PRESSION ARTERIELLE,algerie:oui,,,BISOPROLOL SUN
+BISOPROLOL VIATRIS,bisoprolol,C07AB07,marque,Antihypertenseurs,BETA-BLOQUANTS DANS L'INSUFFISANCE CARDIAQUE; MEDICAMENTS ABAISSANT LA PRESSION ARTERIELLE,algerie:oui,,,BISOPROLOL VIATRIS
+BISOPROLOL BGR,bisoprolol,C07AB07,marque,Antihypertenseurs,BETA-BLOQUANTS DANS L'INSUFFISANCE CARDIAQUE; MEDICAMENTS ABAISSANT LA PRESSION ARTERIELLE,algerie:oui,,,BISOPROLOL BGR
+BISOCE,bisoprolol,C07AB07,marque,Antihypertenseurs,BETA-BLOQUANTS DANS L'INSUFFISANCE CARDIAQUE; MEDICAMENTS ABAISSANT LA PRESSION ARTERIELLE,algerie:oui,,,BISOCE
+BISOPROLOL CRISTERS PHARMA,bisoprolol,C07AB07,marque,Antihypertenseurs,BETA-BLOQUANTS DANS L'INSUFFISANCE CARDIAQUE; MEDICAMENTS ABAISSANT LA PRESSION ARTERIELLE,algerie:oui,,,BISOPROLOL CRISTERS PHARMA
+BISOPROLOL REF,bisoprolol,C07AB07,marque,Antihypertenseurs,BETA-BLOQUANTS DANS L'INSUFFISANCE CARDIAQUE; MEDICAMENTS ABAISSANT LA PRESSION ARTERIELLE,algerie:oui,,,BISOPROLOL REF
+BISOPROLOL ZYDUS,bisoprolol,C07AB07,marque,Antihypertenseurs,BETA-BLOQUANTS DANS L'INSUFFISANCE CARDIAQUE; MEDICAMENTS ABAISSANT LA PRESSION ARTERIELLE,algerie:oui,,,BISOPROLOL ZYDUS
+BISOPROLOL ZYDUS FRANCE,bisoprolol,C07AB07,marque,Antihypertenseurs,BETA-BLOQUANTS DANS L'INSUFFISANCE CARDIAQUE; MEDICAMENTS ABAISSANT LA PRESSION ARTERIELLE,algerie:oui,,,BISOPROLOL ZYDUS FRANCE
+BISOPROLOL ACCORD HEALTHCARE,bisoprolol,C07AB07,marque,Antihypertenseurs,BETA-BLOQUANTS DANS L'INSUFFISANCE CARDIAQUE; MEDICAMENTS ABAISSANT LA PRESSION ARTERIELLE,algerie:oui,,,BISOPROLOL ACCORD HEALTHCARE
+BISOPROLOL SANDOZ,bisoprolol,C07AB07,marque,Antihypertenseurs,BETA-BLOQUANTS DANS L'INSUFFISANCE CARDIAQUE; MEDICAMENTS ABAISSANT LA PRESSION ARTERIELLE,algerie:oui,,,BISOPROLOL SANDOZ
+BISOPROLOL ZENTIVA K.S,bisoprolol,C07AB07,marque,Antihypertenseurs,BETA-BLOQUANTS DANS L'INSUFFISANCE CARDIAQUE; MEDICAMENTS ABAISSANT LA PRESSION ARTERIELLE,algerie:oui,,,BISOPROLOL ZENTIVA K.S
+BISOPROLOL EVOLUGEN,bisoprolol,C07AB07,marque,Antihypertenseurs,BETA-BLOQUANTS DANS L'INSUFFISANCE CARDIAQUE; MEDICAMENTS ABAISSANT LA PRESSION ARTERIELLE,algerie:oui,,,BISOPROLOL EVOLUGEN
+BISOPROLOL QUIVER LAB,bisoprolol,C07AB07,marque,Antihypertenseurs,BETA-BLOQUANTS DANS L'INSUFFISANCE CARDIAQUE; MEDICAMENTS ABAISSANT LA PRESSION ARTERIELLE,algerie:oui,,,BISOPROLOL QUIVER LAB
+BISOPROLOL MYLAN,bisoprolol,C07AB07,marque,Antihypertenseurs,BETA-BLOQUANTS DANS L'INSUFFISANCE CARDIAQUE; MEDICAMENTS ABAISSANT LA PRESSION ARTERIELLE,algerie:oui,,,BISOPROLOL MYLAN
+BISOPROLOL QUIVER,bisoprolol,C07AB07,marque,Antihypertenseurs,BETA-BLOQUANTS DANS L'INSUFFISANCE CARDIAQUE; MEDICAMENTS ABAISSANT LA PRESSION ARTERIELLE,algerie:oui,,,BISOPROLOL QUIVER
+BISOPROLOL TEVA SANTE,bisoprolol,C07AB07,marque,Antihypertenseurs,BETA-BLOQUANTS DANS L'INSUFFISANCE CARDIAQUE; MEDICAMENTS ABAISSANT LA PRESSION ARTERIELLE,algerie:oui,,,BISOPROLOL TEVA SANTE
+BISOPROLOL BIOGARAN,bisoprolol,C07AB07,marque,Antihypertenseurs,BETA-BLOQUANTS DANS L'INSUFFISANCE CARDIAQUE; MEDICAMENTS ABAISSANT LA PRESSION ARTERIELLE,algerie:oui,,,BISOPROLOL BIOGARAN
+BISOPROLOL KRKA,bisoprolol,C07AB07,marque,Antihypertenseurs,BETA-BLOQUANTS DANS L'INSUFFISANCE CARDIAQUE; MEDICAMENTS ABAISSANT LA PRESSION ARTERIELLE,algerie:oui,,,BISOPROLOL KRKA
+BISOPROLOL VIATRIS SANTE,bisoprolol,C07AB07,marque,Antihypertenseurs,BETA-BLOQUANTS DANS L'INSUFFISANCE CARDIAQUE; MEDICAMENTS ABAISSANT LA PRESSION ARTERIELLE,algerie:oui,,,BISOPROLOL VIATRIS SANTE
+BISOPROLOL ZENTIVA LAB,bisoprolol,C07AB07,marque,Antihypertenseurs,BETA-BLOQUANTS DANS L'INSUFFISANCE CARDIAQUE; MEDICAMENTS ABAISSANT LA PRESSION ARTERIELLE,algerie:oui,,,BISOPROLOL ZENTIVA LAB
+BISOPROLOL ALMUS,bisoprolol,C07AB07,marque,Antihypertenseurs,BETA-BLOQUANTS DANS L'INSUFFISANCE CARDIAQUE; MEDICAMENTS ABAISSANT LA PRESSION ARTERIELLE,algerie:oui,,,BISOPROLOL ALMUS
+BISOPROLOL ZENTIVA,bisoprolol,C07AB07,marque,Antihypertenseurs,BETA-BLOQUANTS DANS L'INSUFFISANCE CARDIAQUE; MEDICAMENTS ABAISSANT LA PRESSION ARTERIELLE,algerie:oui,,,BISOPROLOL ZENTIVA
+BISOPROLOL ARROW LAB,bisoprolol,C07AB07,marque,Antihypertenseurs,BETA-BLOQUANTS DANS L'INSUFFISANCE CARDIAQUE; MEDICAMENTS ABAISSANT LA PRESSION ARTERIELLE,algerie:oui,,,BISOPROLOL ARROW LAB
+ATENOLOL EVOLUGEN PHARMA,aténolol,C07AB03,marque,Antihypertenseurs,MEDICAMENTS ABAISSANT LA PRESSION ARTERIELLE,algerie:oui,,,ATENOLOL EVOLUGEN PHARMA
+ATENOLOL ZYDUS,aténolol,C07AB03,marque,Antihypertenseurs,MEDICAMENTS ABAISSANT LA PRESSION ARTERIELLE,algerie:oui,,,ATENOLOL ZYDUS
+ATENOLOL CRISTERS,aténolol,C07AB03,marque,Antihypertenseurs,MEDICAMENTS ABAISSANT LA PRESSION ARTERIELLE,algerie:oui,,,ATENOLOL CRISTERS
+ATENOLOL ACCORD HEALTHCARE,aténolol,C07AB03,marque,Antihypertenseurs,MEDICAMENTS ABAISSANT LA PRESSION ARTERIELLE,algerie:oui,,,ATENOLOL ACCORD HEALTHCARE
+TENORMINE 5 mg/10 ml,aténolol,C07AB03,marque,Antihypertenseurs,MEDICAMENTS ABAISSANT LA PRESSION ARTERIELLE,algerie:oui,,5MG/10ML,TENORMINE 5 mg/10 ml
+ATENOLOL VIATRIS,aténolol,C07AB03,marque,Antihypertenseurs,MEDICAMENTS ABAISSANT LA PRESSION ARTERIELLE,algerie:oui,,,ATENOLOL VIATRIS
+ATENOLOL SUN,aténolol,C07AB03,marque,Antihypertenseurs,MEDICAMENTS ABAISSANT LA PRESSION ARTERIELLE,algerie:oui,,,ATENOLOL SUN
+ATENOLOL SANDOZ,aténolol,C07AB03,marque,Antihypertenseurs,MEDICAMENTS ABAISSANT LA PRESSION ARTERIELLE,algerie:oui,,,ATENOLOL SANDOZ
+ATENOLOL TEVA,aténolol,C07AB03,marque,Antihypertenseurs,MEDICAMENTS ABAISSANT LA PRESSION ARTERIELLE,algerie:oui,,,ATENOLOL TEVA
+ATENOLOL EG,aténolol,C07AB03,marque,Antihypertenseurs,MEDICAMENTS ABAISSANT LA PRESSION ARTERIELLE,algerie:oui,,,ATENOLOL EG
+ATENOLOL ZENTIVA,aténolol,C07AB03,marque,Antihypertenseurs,MEDICAMENTS ABAISSANT LA PRESSION ARTERIELLE,algerie:oui,,,ATENOLOL ZENTIVA
+ATENOLOL ARROW,aténolol,C07AB03,marque,Antihypertenseurs,MEDICAMENTS ABAISSANT LA PRESSION ARTERIELLE,algerie:oui,,,ATENOLOL ARROW
+ATENOLOL SFDB,aténolol,C07AB03,marque,Antihypertenseurs,MEDICAMENTS ABAISSANT LA PRESSION ARTERIELLE,algerie:oui,,,ATENOLOL SFDB
+NEBIVOLOL VIATRIS SANTE,nébivolol,C07AB12,marque,Antihypertenseurs,BETA-BLOQUANTS DANS L'INSUFFISANCE CARDIAQUE; MEDICAMENTS ABAISSANT LA PRESSION ARTERIELLE,algerie:oui,,,NEBIVOLOL VIATRIS SANTE
+NEBIVOLOL EVOLUGEN,nébivolol,C07AB12,marque,Antihypertenseurs,BETA-BLOQUANTS DANS L'INSUFFISANCE CARDIAQUE; MEDICAMENTS ABAISSANT LA PRESSION ARTERIELLE,algerie:oui,,,NEBIVOLOL EVOLUGEN
+NEBIVOLOL VIATRIS,nébivolol,C07AB12,marque,Antihypertenseurs,BETA-BLOQUANTS DANS L'INSUFFISANCE CARDIAQUE; MEDICAMENTS ABAISSANT LA PRESSION ARTERIELLE,algerie:oui,,,NEBIVOLOL VIATRIS
+NEBIVOLOL KRKA,nébivolol,C07AB12,marque,Antihypertenseurs,BETA-BLOQUANTS DANS L'INSUFFISANCE CARDIAQUE; MEDICAMENTS ABAISSANT LA PRESSION ARTERIELLE,algerie:oui,,,NEBIVOLOL KRKA
+NEBIVOLOL SANDOZ,nébivolol,C07AB12,marque,Antihypertenseurs,BETA-BLOQUANTS DANS L'INSUFFISANCE CARDIAQUE; MEDICAMENTS ABAISSANT LA PRESSION ARTERIELLE,algerie:oui,,,NEBIVOLOL SANDOZ
+NEBIVOLOL ARROW LAB,nébivolol,C07AB12,marque,Antihypertenseurs,BETA-BLOQUANTS DANS L'INSUFFISANCE CARDIAQUE; MEDICAMENTS ABAISSANT LA PRESSION ARTERIELLE,algerie:oui,,,NEBIVOLOL ARROW LAB
+NEBIVOLOL ZYDUS,nébivolol,C07AB12,marque,Antihypertenseurs,BETA-BLOQUANTS DANS L'INSUFFISANCE CARDIAQUE; MEDICAMENTS ABAISSANT LA PRESSION ARTERIELLE,algerie:oui,,,NEBIVOLOL ZYDUS
+NEBIVOLOL CRISTERS,nébivolol,C07AB12,marque,Antihypertenseurs,BETA-BLOQUANTS DANS L'INSUFFISANCE CARDIAQUE; MEDICAMENTS ABAISSANT LA PRESSION ARTERIELLE,algerie:oui,,,NEBIVOLOL CRISTERS
+NEBILOX,nébivolol,C07AB12,marque,Antihypertenseurs,BETA-BLOQUANTS DANS L'INSUFFISANCE CARDIAQUE; MEDICAMENTS ABAISSANT LA PRESSION ARTERIELLE,algerie:oui,,,NEBILOX
+NEBIVOLOL SUN,nébivolol,C07AB12,marque,Antihypertenseurs,BETA-BLOQUANTS DANS L'INSUFFISANCE CARDIAQUE; MEDICAMENTS ABAISSANT LA PRESSION ARTERIELLE,algerie:oui,,,NEBIVOLOL SUN
+NEBIVOLOL ARROW,nébivolol,C07AB12,marque,Antihypertenseurs,BETA-BLOQUANTS DANS L'INSUFFISANCE CARDIAQUE; MEDICAMENTS ABAISSANT LA PRESSION ARTERIELLE,algerie:oui,,,NEBIVOLOL ARROW
+NEBIVOLOL BIOGARAN,nébivolol,C07AB12,marque,Antihypertenseurs,BETA-BLOQUANTS DANS L'INSUFFISANCE CARDIAQUE; MEDICAMENTS ABAISSANT LA PRESSION ARTERIELLE,algerie:oui,,,NEBIVOLOL BIOGARAN
+NEBIVOLOL TEVA,nébivolol,C07AB12,marque,Antihypertenseurs,BETA-BLOQUANTS DANS L'INSUFFISANCE CARDIAQUE; MEDICAMENTS ABAISSANT LA PRESSION ARTERIELLE,algerie:oui,,,NEBIVOLOL TEVA
+NEBIVOLOL ZENTIVA,nébivolol,C07AB12,marque,Antihypertenseurs,BETA-BLOQUANTS DANS L'INSUFFISANCE CARDIAQUE; MEDICAMENTS ABAISSANT LA PRESSION ARTERIELLE,algerie:oui,,,NEBIVOLOL ZENTIVA
+NEBIVOLOL ALMUS,nébivolol,C07AB12,marque,Antihypertenseurs,BETA-BLOQUANTS DANS L'INSUFFISANCE CARDIAQUE; MEDICAMENTS ABAISSANT LA PRESSION ARTERIELLE,algerie:oui,,,NEBIVOLOL ALMUS
+NEBIVOLOL EG,nébivolol,C07AB12,marque,Antihypertenseurs,BETA-BLOQUANTS DANS L'INSUFFISANCE CARDIAQUE; MEDICAMENTS ABAISSANT LA PRESSION ARTERIELLE,algerie:oui,,,NEBIVOLOL EG
+HYDROCHLOROTHIAZIDE ARROW,hydrochlorothiazide,C03AA03,marque,Antihypertenseurs,DIURETIQUES; DIURETIQUES HYPOKALIEMIANTS; MEDICAMENTS ABAISSANT LA PRESSION ARTERIELLE,algerie:non,,,HYDROCHLOROTHIAZIDE ARROW
+HYDROCHLOROTHIAZIDE BIOGARAN,hydrochlorothiazide,C03AA03,marque,Antihypertenseurs,DIURETIQUES; DIURETIQUES HYPOKALIEMIANTS; MEDICAMENTS ABAISSANT LA PRESSION ARTERIELLE,algerie:non,,,HYDROCHLOROTHIAZIDE BIOGARAN
+ESIDREX,hydrochlorothiazide,C03AA03,marque,Antihypertenseurs,DIURETIQUES; DIURETIQUES HYPOKALIEMIANTS; MEDICAMENTS ABAISSANT LA PRESSION ARTERIELLE,algerie:non,,,ESIDREX
+INDAPAMIDE ARROW,indapamide,C03BA11,marque,Antihypertenseurs,DIURETIQUES; DIURETIQUES HYPOKALIEMIANTS; MEDICAMENTS ABAISSANT LA PRESSION ARTERIELLE,algerie:oui,,,INDAPAMIDE ARROW
+INDAPAMIDE KRKA LP,indapamide,C03BA11,marque,Antihypertenseurs,DIURETIQUES; DIURETIQUES HYPOKALIEMIANTS; MEDICAMENTS ABAISSANT LA PRESSION ARTERIELLE,algerie:oui,,,INDAPAMIDE KRKA LP
+FLUDEX,indapamide,C03BA11,marque,Antihypertenseurs,DIURETIQUES; DIURETIQUES HYPOKALIEMIANTS; MEDICAMENTS ABAISSANT LA PRESSION ARTERIELLE,algerie:oui,,,FLUDEX
+INDAPAMIDE SANDOZ LP,indapamide,C03BA11,marque,Antihypertenseurs,DIURETIQUES; DIURETIQUES HYPOKALIEMIANTS; MEDICAMENTS ABAISSANT LA PRESSION ARTERIELLE,algerie:oui,,,INDAPAMIDE SANDOZ LP
+INDAPAMIDE TEVA SANTE LP,indapamide,C03BA11,marque,Antihypertenseurs,DIURETIQUES; DIURETIQUES HYPOKALIEMIANTS; MEDICAMENTS ABAISSANT LA PRESSION ARTERIELLE,algerie:oui,,,INDAPAMIDE TEVA SANTE LP
+INDAPAMIDE BIOGARAN,indapamide,C03BA11,marque,Antihypertenseurs,DIURETIQUES; DIURETIQUES HYPOKALIEMIANTS; MEDICAMENTS ABAISSANT LA PRESSION ARTERIELLE,algerie:oui,,,INDAPAMIDE BIOGARAN
+INDAPAMIDE EG LP,indapamide,C03BA11,marque,Antihypertenseurs,DIURETIQUES; DIURETIQUES HYPOKALIEMIANTS; MEDICAMENTS ABAISSANT LA PRESSION ARTERIELLE,algerie:oui,,,INDAPAMIDE EG LP
+INDAPAMIDE ZYDUS LP,indapamide,C03BA11,marque,Antihypertenseurs,DIURETIQUES; DIURETIQUES HYPOKALIEMIANTS; MEDICAMENTS ABAISSANT LA PRESSION ARTERIELLE,algerie:oui,,,INDAPAMIDE ZYDUS LP
+INDAPAMIDE VIATRIS LP,indapamide,C03BA11,marque,Antihypertenseurs,DIURETIQUES; DIURETIQUES HYPOKALIEMIANTS; MEDICAMENTS ABAISSANT LA PRESSION ARTERIELLE,algerie:oui,,,INDAPAMIDE VIATRIS LP
+INDAPAMIDE ZENTIVA LP,indapamide,C03BA11,marque,Antihypertenseurs,DIURETIQUES; DIURETIQUES HYPOKALIEMIANTS; MEDICAMENTS ABAISSANT LA PRESSION ARTERIELLE,algerie:oui,,,INDAPAMIDE ZENTIVA LP
+INDAPAMIDE CRISTERS LP,indapamide,C03BA11,marque,Antihypertenseurs,DIURETIQUES; DIURETIQUES HYPOKALIEMIANTS; MEDICAMENTS ABAISSANT LA PRESSION ARTERIELLE,algerie:oui,,,INDAPAMIDE CRISTERS LP
+SPIRONOLACTONE VIATRIS,spironolactone,C03DA01,marque,Antihypertenseurs,DIURETIQUES; DIURETIQUES EPARGNEURS DE POTASSIUM (SEULS OU ASSOCIES); MEDICAMENTS ABAISSANT LA PRESSION ARTERIELLE,algerie:oui,,,SPIRONOLACTONE VIATRIS
+SPIRONOLACTONE ZENTIVA,spironolactone,C03DA01,marque,Antihypertenseurs,DIURETIQUES; DIURETIQUES EPARGNEURS DE POTASSIUM (SEULS OU ASSOCIES); MEDICAMENTS ABAISSANT LA PRESSION ARTERIELLE,algerie:oui,,,SPIRONOLACTONE ZENTIVA
+SPIRONOLACTONE TEVA,spironolactone,C03DA01,marque,Antihypertenseurs,DIURETIQUES; DIURETIQUES EPARGNEURS DE POTASSIUM (SEULS OU ASSOCIES); MEDICAMENTS ABAISSANT LA PRESSION ARTERIELLE,algerie:oui,,,SPIRONOLACTONE TEVA
+SPIRONOLACTONE BIOGARAN,spironolactone,C03DA01,marque,Antihypertenseurs,DIURETIQUES; DIURETIQUES EPARGNEURS DE POTASSIUM (SEULS OU ASSOCIES); MEDICAMENTS ABAISSANT LA PRESSION ARTERIELLE,algerie:oui,,,SPIRONOLACTONE BIOGARAN
+SPIRONOLACTONE SANDOZ,spironolactone,C03DA01,marque,Antihypertenseurs,DIURETIQUES; DIURETIQUES EPARGNEURS DE POTASSIUM (SEULS OU ASSOCIES); MEDICAMENTS ABAISSANT LA PRESSION ARTERIELLE,algerie:oui,,,SPIRONOLACTONE SANDOZ
+SPIRONOLACTONE PFIZER,spironolactone,C03DA01,marque,Antihypertenseurs,DIURETIQUES; DIURETIQUES EPARGNEURS DE POTASSIUM (SEULS OU ASSOCIES); MEDICAMENTS ABAISSANT LA PRESSION ARTERIELLE,algerie:oui,,,SPIRONOLACTONE PFIZER
+SPIRONOLACTONE EG,spironolactone,C03DA01,marque,Antihypertenseurs,DIURETIQUES; DIURETIQUES EPARGNEURS DE POTASSIUM (SEULS OU ASSOCIES); MEDICAMENTS ABAISSANT LA PRESSION ARTERIELLE,algerie:oui,,,SPIRONOLACTONE EG
+SPIRONOLACTONE ARROW,spironolactone,C03DA01,marque,Antihypertenseurs,DIURETIQUES; DIURETIQUES EPARGNEURS DE POTASSIUM (SEULS OU ASSOCIES); MEDICAMENTS ABAISSANT LA PRESSION ARTERIELLE,algerie:oui,,,SPIRONOLACTONE ARROW
+SPIRONOLACTONE ZYDUS,spironolactone,C03DA01,marque,Antihypertenseurs,DIURETIQUES; DIURETIQUES EPARGNEURS DE POTASSIUM (SEULS OU ASSOCIES); MEDICAMENTS ABAISSANT LA PRESSION ARTERIELLE,algerie:oui,,,SPIRONOLACTONE ZYDUS
+SPIRONOLACTONE CRISTERS,spironolactone,C03DA01,marque,Antihypertenseurs,DIURETIQUES; DIURETIQUES EPARGNEURS DE POTASSIUM (SEULS OU ASSOCIES); MEDICAMENTS ABAISSANT LA PRESSION ARTERIELLE,algerie:oui,,,SPIRONOLACTONE CRISTERS
